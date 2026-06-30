@@ -142,18 +142,41 @@ encontraste realmente en la búsqueda web, con su URL real."""
 # --- Llamada a la API --------------------------------------------------------
 
 def buscar_noticias(cliente: anthropic.Anthropic, prompt: str) -> list[dict]:
-    """Llama a Claude con web search y devuelve la lista de candidatas."""
-    respuesta = cliente.messages.create(
-        model=MODELO,
-        max_tokens=8000,
-        tools=[{"type": "web_search_20260209", "name": "web_search", "max_uses": 8}],
-        messages=[{"role": "user", "content": prompt}],
-    )
+    """Llama a Claude con web search y devuelve la lista de candidatas.
+
+    Web search corre como bucle de herramienta del lado servidor: si llega al
+    límite de iteraciones, la API devuelve stop_reason="pause_turn" y hay que
+    reenviar la conversación para que continúe hasta producir el JSON final.
+    """
+    tools = [{"type": "web_search_20260209", "name": "web_search", "max_uses": 8}]
+    mensajes = [{"role": "user", "content": prompt}]
+
+    respuesta = None
+    for intento in range(6):  # tope de continuaciones para no quedar en bucle
+        respuesta = cliente.messages.create(
+            model=MODELO,
+            max_tokens=16000,
+            tools=tools,
+            messages=mensajes,
+        )
+        if respuesta.stop_reason != "pause_turn":
+            break
+        # El servidor pausó tras varias búsquedas: reenviar para que siga.
+        mensajes.append({"role": "assistant", "content": respuesta.content})
+
+    print(f"  stop_reason del modelo: {respuesta.stop_reason}")
 
     texto = "".join(
         bloque.text for bloque in respuesta.content if bloque.type == "text"
     )
-    return extraer_json(texto)
+    candidatas = extraer_json(texto)
+
+    if not candidatas:
+        # Diagnóstico: mostrar el final del texto para entender qué devolvió.
+        cola = texto[-600:].replace("\n", " ") if texto else "(sin texto)"
+        print(f"  [diag] no se extrajo JSON. Final del texto: {cola}")
+
+    return candidatas
 
 
 def extraer_json(texto: str) -> list[dict]:
