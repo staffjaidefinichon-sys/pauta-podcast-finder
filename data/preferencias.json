@@ -1,6 +1,49 @@
 {
   "aprobados": [],
-  "descartados": [],
+  "descartados": [
+    {
+      "titular": "La 'histeria femenina': la antigua enfermedad que la medicina atribuía al útero 'errante'",
+      "categoria": "curioso",
+      "region": "chile",
+      "razon": "La idea de un 'útero viajero' que se pasea por el cuerpo es tan absurda como real históricamente; da para conversación irónica sobre la 'ciencia' de antaño."
+    },
+    {
+      "titular": "Profesora talquina dejó el aula para recorrer Asia en bici y su pololo australiano se volvió 'famoso' por ser rubio",
+      "categoria": "observacional",
+      "region": "chile",
+      "razon": "El gringo rubio convertido en atracción turística y el clásico 'cinco en una moto' dan para chistes observacionales sobre choques culturales."
+    },
+    {
+      "titular": "Cavancha celebra 100 años de su Fiesta de San Pedro con procesión marítima y botes engalanados",
+      "categoria": "curioso",
+      "region": "chile",
+      "razon": "El detalle de pasear al santo en bote por la bahía y la mezcla de fe con la 'farándula' de embarcaciones engalanadas da para un segmento costumbrista entretenido."
+    },
+    {
+      "titular": "Caleta El Membrillo 'jubila' su antiguo San Pedro: cambian la imagen del santo tras décadas de procesiones",
+      "categoria": "observacional",
+      "region": "chile",
+      "razon": "El ángulo de 'jubilar' o reemplazar al santo después de tantos años da para bromas sobre el 'San Pedro 2.0', la indemnización del santo viejo y costumbres locales."
+    },
+    {
+      "titular": "Trabajadores llegaron a operar maquinaria a regiones... y se encontraron con que no había máquinas (o estaban chocadas)",
+      "categoria": "observacional",
+      "region": "chile",
+      "razon": "El absurdo burocrático tan chileno de mandar gente a trabajar a un lugar sin las herramientas (o con máquinas chocadas) da para humor observacional sobre la 'chilenidad' del desorden."
+    },
+    {
+      "titular": "Festival pone el foco en Chiloé: la cultura del archipiélago como protagonista",
+      "categoria": "curioso",
+      "region": "chile",
+      "razon": "Excusa perfecta para meterse con los mitos chilotes, el curanto, el clima y la fama de que en Chiloé todo se decide 'al ojo'. Humor de regiones, no Santiago."
+    },
+    {
+      "titular": "Sección 'Curiosidades': el rincón de casos raros e insólitos del mundo",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "Cantera infinita de WTF internacional: el formato 'esto pasó de verdad en alguna parte del planeta' siempre genera carcajada y debate."
+    }
+  ],
   "reglas_aprendidas": [
     "EXCLUIR SIEMPRE política: figuras políticas, elecciones, gobierno, conflictos partidistas. Si una noticia tiene ángulo político, se descarta aunque sea graciosa.",
     "Bloque Chile: priorizar noticias chilenas, idealmente de nicho o de regiones (no solo Santiago).",
