@@ -1,0 +1,42 @@
+[
+  {
+    "id": "8ed9cbe2-44c7-437c-a9b8-18dae4a537ef",
+    "fecha_encontrada": "2026-06-30",
+    "titulo": "El temblor de grado 4 que para Chile es 'pucha, tembló' y para el resto del mundo es el fin de los tiempos",
+    "gancho": "Mientras un extranjero corre a la calle en pijama, el chileno mira el agua del vaso y decide si vale la pena pararse.",
+    "por_que_conversar": "Identidad nacional pura: nuestra relación normalizada con los sismos, las anécdotas de cada uno, el 'experto del Richter' del grupo y los memes que aparecen a los dos minutos.",
+    "categoria": "observacional",
+    "basado_en": "Sismo de magnitud 4 en Ollagüe del 29 de junio y la cultura sísmica chilena",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "09f073cb-f9aa-46b2-bcbd-bae3208e4fbf",
+    "fecha_encontrada": "2026-06-30",
+    "titulo": "Operación salida: ¿por qué los chilenos huimos todos juntos el mismo finde y al mismo taco?",
+    "gancho": "357 mil autos salieron a la vez de Santiago a 'descansar'… atrapados en la misma carretera.",
+    "por_que_conversar": "Fenómeno cotidiano súper reconocible: el ritual del feriado largo, el peaje a luca, la pelea por el asiento del medio y el regreso peor que la ida. Todos tienen una historia.",
+    "categoria": "observacional",
+    "basado_en": "La operación salida del fin de semana largo de San Pedro y San Pablo",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "7729fe6a-b541-444d-affd-5f173236b4fa",
+    "fecha_encontrada": "2026-06-30",
+    "titulo": "El chileno frente a la nieve: ¿somos un país andino o nos transformamos en turistas asustados con 3 copos?",
+    "gancho": "Cae nieve en la ciudad y de repente nadie sabe manejar, caminar ni vestirse, pero todos saben fotografiarla.",
+    "por_que_conversar": "Disparador buenísimo de humor observacional: el caos colectivo, los autos patinando, el 'me compré la parka para esto' y la fascinación infantil ante el frío.",
+    "categoria": "observacional",
+    "basado_en": "La nevada inusual reportada en la capital tras varios años sin nieve",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "470ddf0a-ae25-4ba5-9072-162948e862e5",
+    "fecha_encontrada": "2026-06-30",
+    "titulo": "Hacerse famoso sin querer en Chile: del posteo pidiendo ayuda a salir en la tele en 48 horas",
+    "gancho": "Solo querías ayuda para unos cachorros y de repente eres invitado estelar de la TV chilena.",
+    "por_que_conversar": "Habla de cómo funcionan las redes y la fama exprés en Chile: el personaje viral de la semana, la sobreexposición y lo rápido que pasamos del cariño al olvido.",
+    "categoria": "observacional",
+    "basado_en": "El caso de la mujer que se volvió viral pidiendo ayuda para cachorros rescatados",
+    "estado": "en_pauta"
+  }
+]
