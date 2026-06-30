@@ -171,8 +171,8 @@ async function cargarContenido() {
   const fecha = (pautaNombre || temasNombre)
     .replace(/^(pauta|temas)-/, "")
     .replace(".json", "");
-  const nChile = estado.noticias.filter((n) => n.region === "chile").length;
   const nMundo = estado.noticias.filter((n) => n.region === "mundo").length;
+  const nChile = estado.noticias.length - nMundo;
   subtitulo.textContent = `${fecha} · ${nChile} Chile · ${nMundo} mundo · ${estado.temas.length} temas`;
 
   renderizar();
@@ -184,8 +184,10 @@ function renderizar() {
   const contenedor = document.getElementById("contenedor-tarjetas");
   contenedor.innerHTML = "";
 
-  const chile = estado.noticias.filter((n) => n.region === "chile");
+  // "mundo" explícito va al bloque mundo; todo lo demás (incluye ítems viejos
+  // sin región) cae en Chile, así nada queda invisible.
   const mundo = estado.noticias.filter((n) => n.region === "mundo");
+  const chile = estado.noticias.filter((n) => n.region !== "mundo");
 
   agregarSeccion(contenedor, "🇨🇱 Noticias de Chile", chile, tarjetaNoticia);
   agregarSeccion(contenedor, "🌎 Noticias del mundo", mundo, tarjetaNoticia);

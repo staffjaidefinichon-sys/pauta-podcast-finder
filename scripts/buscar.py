@@ -367,24 +367,24 @@ def main() -> int:
     bandeja.extend(nuevas_noticias)
     bandeja_temas.extend(nuevos_temas)
 
-    # --- Pauta del día: hasta N_NOTICIAS por región ---
-    chile = [it for it in nuevas_noticias if it["region"] == "chile"][:N_NOTICIAS]
-    mundo = [it for it in nuevas_noticias if it["region"] == "mundo"][:N_NOTICIAS]
-    pauta = chile + mundo
+    # --- Pauta y temas del día: TODO lo que sigue pendiente de decisión ---
+    # No solo lo nuevo de esta corrida: se muestran también las candidatas de
+    # corridas anteriores que el conductor todavía no marcó Va/No va. Al decidir
+    # una (aprobada/descartada) sale de esta vista automáticamente.
+    PENDIENTES = {"pendiente", "en_pauta"}
 
-    # --- Temas del día: todos los nuevos ---
-    temas_dia = nuevos_temas
+    # Más recientes primero (la bandeja se acumula en orden cronológico).
+    pauta = [it for it in reversed(bandeja) if it.get("estado") in PENDIENTES]
+    temas_dia = [it for it in reversed(bandeja_temas) if it.get("estado") in PENDIENTES]
 
-    # --- Marcar estados en las bandejas ---
-    ids_pauta = {it["id"] for it in pauta}
-    for it in bandeja:
-        if it["id"] in ids_pauta:
-            it["estado"] = "en_pauta"
+    # Marcar como en_pauta todo lo que está a la vista.
+    for it in pauta:
+        it["estado"] = "en_pauta"
+    for it in temas_dia:
+        it["estado"] = "en_pauta"
 
-    ids_temas = {it["id"] for it in temas_dia}
-    for it in bandeja_temas:
-        if it["id"] in ids_temas:
-            it["estado"] = "en_pauta"
+    chile = [it for it in pauta if it.get("region") == "chile"]
+    mundo = [it for it in pauta if it.get("region") == "mundo"]
 
     # --- Escribir todo ---
     escribir_json(ARCHIVO_BANDEJA, bandeja)
