@@ -1,0 +1,51 @@
+name: Buscar noticias (pauta diaria)
+
+# Corre 2 veces al día. GitHub Actions usa UTC; Chile es UTC-3/UTC-4 según
+# horario de verano. Estos horarios apuntan a ~09:00 y ~18:00 hora de Chile.
+on:
+  schedule:
+    - cron: "0 12 * * *"   # ~09:00 Chile (08:00 en invierno)
+    - cron: "0 21 * * *"   # ~18:00 Chile (17:00 en invierno)
+  workflow_dispatch:        # permite ejecutarlo a mano desde la pestaña Actions
+
+# Necesario para que el workflow pueda hacer commit de los archivos generados.
+permissions:
+  contents: write
+
+# Evita corridas solapadas si una tarda.
+concurrency:
+  group: pauta-diaria
+  cancel-in-progress: false
+
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar el repo
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Buscar noticias y armar la pauta
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ZONA_HORARIA: America/Santiago
+        run: python scripts/buscar.py
+
+      - name: Commit de los archivos generados
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Sin cambios que commitear."
+          else
+            git commit -m "Pauta automática $(date -u +%Y-%m-%d)"
+            git push
+          fi

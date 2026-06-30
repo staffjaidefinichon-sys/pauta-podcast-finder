@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pauta del podcast</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🎙️ Pauta del día</h1>
+    <p id="subtitulo">Cargando…</p>
+  </header>
+
+  <!-- Configuración del token de GitHub -->
+  <section id="config" class="tarjeta-config">
+    <details id="config-details">
+      <summary>⚙️ Conexión con GitHub <span id="estado-token"></span></summary>
+      <p class="ayuda">
+        Para guardar tus decisiones necesitas un <strong>token personal</strong> de GitHub
+        con permiso de escritura en este repositorio. Se guarda solo en tu navegador
+        (localStorage), nunca se sube a ningún lado.
+      </p>
+      <ol class="ayuda">
+        <li>Andá a <a href="https://github.com/settings/tokens?type=beta" target="_blank" rel="noopener">GitHub → Fine-grained tokens</a>.</li>
+        <li>Creá un token con acceso a este repo y permiso <em>Contents: Read and write</em>.</li>
+        <li>Pegalo acá abajo y guardá.</li>
+      </ol>
+      <div class="fila-token">
+        <input type="password" id="input-token" placeholder="github_pat_… o ghp_…" autocomplete="off" />
+        <button id="btn-guardar-token">Guardar token</button>
+        <button id="btn-borrar-token" class="secundario">Borrar</button>
+      </div>
+      <p id="info-repo" class="ayuda"></p>
+    </details>
+  </section>
+
+  <main id="contenedor-tarjetas">
+    <!-- Las tarjetas se inyectan acá -->
+  </main>
+
+  <footer id="barra-guardar" class="oculto">
+    <span id="resumen-decisiones"></span>
+    <button id="btn-guardar-decisiones">💾 Guardar decisiones</button>
+  </footer>
+
+  <div id="toast" class="oculto"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

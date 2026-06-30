@@ -1,0 +1,253 @@
+:root {
+  --fondo: #f4f1ea;
+  --tarjeta: #ffffff;
+  --texto: #2b2b2b;
+  --tenue: #6b6b6b;
+  --acento: #c8643c;
+  --va: #2e7d4f;
+  --va-bg: #e3f3e9;
+  --nova: #b3402f;
+  --nova-bg: #f6e1dd;
+  --borde: #e2ddd2;
+  --sombra: 0 1px 3px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.04);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  background: var(--fondo);
+  color: var(--texto);
+  line-height: 1.5;
+  padding-bottom: 6rem;
+}
+
+header {
+  text-align: center;
+  padding: 2rem 1rem 1rem;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+#subtitulo {
+  color: var(--tenue);
+  margin: 0.3rem 0 0;
+}
+
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1rem;
+  display: grid;
+  gap: 1rem;
+}
+
+/* --- Tarjetas de noticias --- */
+
+.tarjeta {
+  background: var(--tarjeta);
+  border: 1px solid var(--borde);
+  border-radius: 12px;
+  padding: 1.2rem 1.4rem;
+  box-shadow: var(--sombra);
+  transition: opacity 0.2s, border-color 0.2s;
+}
+
+.tarjeta.decidida-va { border-color: var(--va); }
+.tarjeta.decidida-nova { border-color: var(--nova); opacity: 0.7; }
+
+.tarjeta .categoria {
+  display: inline-block;
+  font-family: system-ui, sans-serif;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--acento);
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+.tarjeta h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.25rem;
+}
+
+.tarjeta .resumen { margin: 0 0 0.6rem; }
+
+.tarjeta .por-que {
+  font-style: italic;
+  color: var(--tenue);
+  margin: 0 0 0.8rem;
+}
+
+.tarjeta .fuente {
+  font-family: system-ui, sans-serif;
+  font-size: 0.82rem;
+}
+
+.tarjeta .fuente a { color: var(--acento); }
+
+.acciones {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 1rem;
+}
+
+.acciones button {
+  flex: 1;
+  padding: 0.6rem;
+  border: 1px solid var(--borde);
+  border-radius: 8px;
+  background: #fff;
+  font-family: system-ui, sans-serif;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.acciones button:hover { border-color: var(--tenue); }
+
+.acciones .btn-va.activo {
+  background: var(--va-bg);
+  color: var(--va);
+  border-color: var(--va);
+  font-weight: 600;
+}
+
+.acciones .btn-nova.activo {
+  background: var(--nova-bg);
+  color: var(--nova);
+  border-color: var(--nova);
+  font-weight: 600;
+}
+
+/* --- Configuración / token --- */
+
+.tarjeta-config {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.tarjeta-config details {
+  background: var(--tarjeta);
+  border: 1px solid var(--borde);
+  border-radius: 10px;
+  padding: 0.8rem 1rem;
+}
+
+.tarjeta-config summary {
+  cursor: pointer;
+  font-family: system-ui, sans-serif;
+  font-weight: 600;
+}
+
+#estado-token { font-weight: normal; font-size: 0.85rem; }
+
+.ayuda {
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+  color: var(--tenue);
+}
+
+.fila-token {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin: 0.6rem 0;
+}
+
+.fila-token input {
+  flex: 1;
+  min-width: 200px;
+  padding: 0.5rem;
+  border: 1px solid var(--borde);
+  border-radius: 6px;
+  font-family: monospace;
+}
+
+.fila-token button {
+  padding: 0.5rem 0.9rem;
+  border: none;
+  border-radius: 6px;
+  background: var(--acento);
+  color: #fff;
+  font-family: system-ui, sans-serif;
+  cursor: pointer;
+}
+
+.fila-token button.secundario {
+  background: #fff;
+  color: var(--tenue);
+  border: 1px solid var(--borde);
+}
+
+/* --- Barra de guardar --- */
+
+#barra-guardar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: var(--tarjeta);
+  border-top: 1px solid var(--borde);
+  padding: 0.9rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.06);
+}
+
+#resumen-decisiones {
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+  color: var(--tenue);
+}
+
+#btn-guardar-decisiones {
+  padding: 0.7rem 1.4rem;
+  border: none;
+  border-radius: 8px;
+  background: var(--va);
+  color: #fff;
+  font-family: system-ui, sans-serif;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+#btn-guardar-decisiones:disabled {
+  background: var(--tenue);
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+/* --- Estados / mensajes --- */
+
+.mensaje {
+  text-align: center;
+  color: var(--tenue);
+  font-family: system-ui, sans-serif;
+  padding: 2rem;
+}
+
+.oculto { display: none !important; }
+
+#toast {
+  position: fixed;
+  bottom: 5.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--texto);
+  color: #fff;
+  padding: 0.7rem 1.2rem;
+  border-radius: 8px;
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+  box-shadow: var(--sombra);
+  z-index: 10;
+}

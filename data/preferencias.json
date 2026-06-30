@@ -1,0 +1,10 @@
+{
+  "aprobados": [],
+  "descartados": [],
+  "reglas_aprendidas": [
+    "EXCLUIR SIEMPRE política: figuras políticas, elecciones, gobierno, conflictos partidistas. Si una noticia tiene ángulo político, se descarta aunque sea graciosa.",
+    "Priorizar noticias chilenas, idealmente de nicho o locales que den para humor.",
+    "Aceptar humor absurdo/WTF para reír fuerte e irónico/observacional para segmentos de conversación.",
+    "Internacionales raras sirven solo como complemento; el foco es Chile."
+  ]
+}
