@@ -119,10 +119,17 @@ política. Si una noticia es graciosa pero tiene arista política, se DESCARTA. 
 {reglas_txt}
 
 ## Qué hacer
-1. Usa la búsqueda web para encontrar noticias chilenas virales, curiosas o absurdas
-   recientes. Haz varias búsquedas con términos distintos.
+1. Usa la búsqueda web de forma EXHAUSTIVA: haz AL MENOS 6 búsquedas con ángulos
+   distintos, por ejemplo:
+   - "noticias virales Chile" / "noticia insólita Chile"
+   - "noticia curiosa región" (Valparaíso, Biobío, Antofagasta, Magallanes, etc.)
+   - "noticia rara Chile que pasó hoy / esta semana"
+   - hechos curiosos de animales, festivales locales, costumbres, fails virales
+   - tendencias chilenas en redes sociales
 2. Filtra excluyendo política y todo lo que choque con las reglas aprendidas.
-3. Elige entre 8 y 12 candidatas buenas.
+3. Sé GENEROSO: esto es un buzón de candidatas, el conductor filtra después. Si una
+   noticia tiene aunque sea un ángulo gracioso, inclúyela. Apunta a 8-12 candidatas;
+   no devuelvas menos de 6 salvo que realmente no encuentres más.
 
 ## Formato de salida (OBLIGATORIO)
 Después de buscar, responde ÚNICAMENTE con un bloque de código JSON (```json ... ```)
@@ -148,7 +155,7 @@ def buscar_noticias(cliente: anthropic.Anthropic, prompt: str) -> list[dict]:
     límite de iteraciones, la API devuelve stop_reason="pause_turn" y hay que
     reenviar la conversación para que continúe hasta producir el JSON final.
     """
-    tools = [{"type": "web_search_20260209", "name": "web_search", "max_uses": 8}]
+    tools = [{"type": "web_search_20260209", "name": "web_search", "max_uses": 12}]
     mensajes = [{"role": "user", "content": prompt}]
 
     respuesta = None
