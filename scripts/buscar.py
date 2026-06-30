@@ -144,9 +144,9 @@ Cada tema es un ÁNGULO para charlar con humor observacional, no un hecho notici
 {reglas_temas_txt}
 
 ## Qué hacer
-1. Busca de forma EXHAUSTIVA: AL MENOS 8 búsquedas con ángulos distintos
-   (virales Chile, insólito regiones, noticias raras del mundo, animales, fails,
-   tendencias en redes/Twitter, festivales, costumbres).
+1. Haz entre 4 y 6 búsquedas con ángulos distintos (no más), por ejemplo:
+   virales/insólito Chile y regiones, noticias raras del mundo, animales o fails,
+   tendencias en redes/Twitter. Aprovechá cada búsqueda para varias candidatas.
 2. Filtra excluyendo política y lo que choque con las reglas aprendidas.
 3. Sé GENEROSO con las noticias (es un buzón; el conductor filtra después).
 
@@ -190,11 +190,11 @@ def buscar(cliente: anthropic.Anthropic, prompt: str) -> dict:
     Web search corre como bucle del lado servidor: si llega al límite, devuelve
     stop_reason="pause_turn" y hay que reenviar para que continúe.
     """
-    tools = [{"type": "web_search_20260209", "name": "web_search", "max_uses": 12}]
+    tools = [{"type": "web_search_20260209", "name": "web_search", "max_uses": 6}]
     mensajes = [{"role": "user", "content": prompt}]
 
     respuesta = None
-    for _ in range(6):
+    for _ in range(3):
         respuesta = cliente.messages.create(
             model=MODELO,
             max_tokens=16000,
