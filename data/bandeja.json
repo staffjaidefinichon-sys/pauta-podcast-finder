@@ -30,7 +30,7 @@
     "url": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/fiesta-de-san-pedro-en-valparaiso-recorridos-por-tierra-mar-y/2026-06-28/211340.html",
     "por_que_humor": "El ángulo de 'jubilar' o reemplazar al santo después de tantos años da para bromas sobre el 'San Pedro 2.0', la indemnización del santo viejo y costumbres locales.",
     "categoria": "observacional",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "4bd447d8-2e04-4e06-81f2-00a5debd2c7b",
@@ -41,7 +41,7 @@
     "url": "https://vilasradio.cl/caleta-cavancha-se-prepara-para-celebrar-la-centenaria-fiesta-de-san-pedro-con-procesion-maritima-y-bailes-religiosos/",
     "por_que_humor": "El detalle de pasear al santo en bote por la bahía y la mezcla de fe con la 'farándula' de embarcaciones engalanadas da para un segmento costumbrista entretenido.",
     "categoria": "curioso",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "1670235f-7321-45c1-97c2-82eeab4c73d5",
@@ -63,7 +63,7 @@
     "url": "https://www.diarioeldia.cl/noticias/2026/06/28/142867-fue-como-encontrar-una-nueva-identidad-chilena-viaja-por-asia-en-bicicleta",
     "por_que_humor": "El gringo rubio convertido en atracción turística y el clásico 'cinco en una moto' dan para chistes observacionales sobre choques culturales.",
     "categoria": "observacional",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "acacfb40-749e-43aa-8bce-c893d16f2bfe",
@@ -107,7 +107,7 @@
     "url": "https://www.cooperativa.cl/",
     "por_que_humor": "El absurdo burocrático tan chileno de mandar gente a trabajar a un lugar sin las herramientas (o con máquinas chocadas) da para humor observacional sobre la 'chilenidad' del desorden.",
     "categoria": "observacional",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "0da33ffe-093b-46a2-a0fc-fe603fb5161b",
@@ -118,7 +118,7 @@
     "url": "https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/06/28/histeria-femenina-la-antigua-enfermedad-que-atribuian-al-utero-y-aun-genera-debate.shtml",
     "por_que_humor": "La idea de un 'útero viajero' que se pasea por el cuerpo es tan absurda como real históricamente; da para conversación irónica sobre la 'ciencia' de antaño.",
     "categoria": "curioso",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "29eb032b-516b-41ee-9955-71de025eedbd",
@@ -154,7 +154,7 @@
     "por_que_humor": "Excusa perfecta para meterse con los mitos chilotes, el curanto, el clima y la fama de que en Chiloé todo se decide 'al ojo'. Humor de regiones, no Santiago.",
     "categoria": "curioso",
     "region": "chile",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "5b641c90-2c1b-47f8-bb4b-d1b3e4a36058",
@@ -178,6 +178,6 @@
     "por_que_humor": "Cantera infinita de WTF internacional: el formato 'esto pasó de verdad en alguna parte del planeta' siempre genera carcajada y debate.",
     "categoria": "absurdo",
     "region": "mundo",
-    "estado": "en_pauta"
+    "estado": "descartada"
   }
 ]
