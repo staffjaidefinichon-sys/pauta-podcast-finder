@@ -46,6 +46,32 @@ main {
   gap: 1rem;
 }
 
+/* --- Selector de semana --- */
+
+.barra-semana {
+  max-width: 720px;
+  margin: 1.2rem auto 0;
+  padding: 0 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+}
+
+.barra-semana label { color: var(--tenue); }
+
+.barra-semana select {
+  flex: 1;
+  padding: 0.5rem;
+  border: 1px solid var(--borde);
+  border-radius: 8px;
+  background: #fff;
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
 /* --- Pestañas --- */
 
 .tabs {

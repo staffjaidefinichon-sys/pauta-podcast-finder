@@ -29,7 +29,7 @@ import os
 import re
 import sys
 import uuid
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -257,6 +257,18 @@ def normalizar_titulo(t: str) -> str:
     return re.sub(r"\s+", " ", (t or "").strip().lower())
 
 
+def semana_de(fecha_iso: str) -> str:
+    """Miércoles de cierre (el próximo miércoles >= fecha) al que pertenece el ítem.
+
+    Cada 'semana de pauta' cierra un miércoles. Lo encontrado de jueves a martes
+    cae en el miércoles siguiente; lo del miércoles cae en ese mismo día. Así las
+    semanas no se mezclan. (En datetime, lunes=0 ... miércoles=2.)
+    """
+    d = date.fromisoformat(fecha_iso)
+    dias = (2 - d.weekday()) % 7
+    return (d + timedelta(days=dias)).isoformat()
+
+
 def normalizar_noticia(crudo: dict, fecha: str) -> dict | None:
     titular = (crudo.get("titular") or "").strip()
     url = (crudo.get("url") or "").strip()
@@ -281,6 +293,7 @@ def normalizar_noticia(crudo: dict, fecha: str) -> dict | None:
         "por_que_humor": (crudo.get("por_que_humor") or "").strip(),
         "categoria": categoria,
         "region": region,
+        "semana": semana_de(fecha),
         "estado": "pendiente",
     }
 
@@ -302,6 +315,7 @@ def normalizar_tema(crudo: dict, fecha: str) -> dict | None:
         "por_que_conversar": (crudo.get("por_que_conversar") or "").strip(),
         "categoria": categoria,
         "basado_en": (crudo.get("basado_en") or "").strip(),
+        "semana": semana_de(fecha),
         "estado": "pendiente",
     }
 

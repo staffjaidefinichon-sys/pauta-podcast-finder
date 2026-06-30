@@ -7,7 +7,8 @@
     "por_que_conversar": "Identidad nacional pura: nuestra relación normalizada con los sismos, las anécdotas de cada uno, el 'experto del Richter' del grupo y los memes que aparecen a los dos minutos.",
     "categoria": "observacional",
     "basado_en": "Sismo de magnitud 4 en Ollagüe del 29 de junio y la cultura sísmica chilena",
-    "estado": "en_pauta"
+    "estado": "en_pauta",
+    "semana": "2026-07-01"
   },
   {
     "id": "09f073cb-f9aa-46b2-bcbd-bae3208e4fbf",
@@ -17,7 +18,8 @@
     "por_que_conversar": "Fenómeno cotidiano súper reconocible: el ritual del feriado largo, el peaje a luca, la pelea por el asiento del medio y el regreso peor que la ida. Todos tienen una historia.",
     "categoria": "observacional",
     "basado_en": "La operación salida del fin de semana largo de San Pedro y San Pablo",
-    "estado": "en_pauta"
+    "estado": "en_pauta",
+    "semana": "2026-07-01"
   },
   {
     "id": "7729fe6a-b541-444d-affd-5f173236b4fa",
@@ -27,7 +29,8 @@
     "por_que_conversar": "Disparador buenísimo de humor observacional: el caos colectivo, los autos patinando, el 'me compré la parka para esto' y la fascinación infantil ante el frío.",
     "categoria": "observacional",
     "basado_en": "La nevada inusual reportada en la capital tras varios años sin nieve",
-    "estado": "en_pauta"
+    "estado": "en_pauta",
+    "semana": "2026-07-01"
   },
   {
     "id": "470ddf0a-ae25-4ba5-9072-162948e862e5",
@@ -37,6 +40,7 @@
     "por_que_conversar": "Habla de cómo funcionan las redes y la fama exprés en Chile: el personaje viral de la semana, la sobreexposición y lo rápido que pasamos del cariño al olvido.",
     "categoria": "observacional",
     "basado_en": "El caso de la mujer que se volvió viral pidiendo ayuda para cachorros rescatados",
-    "estado": "en_pauta"
+    "estado": "en_pauta",
+    "semana": "2026-07-01"
   }
 ]

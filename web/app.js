@@ -28,7 +28,41 @@ const estado = {
   itemsPorId: new Map(),  // id -> { tipo: "noticia" | "tema", item }
   decisiones: new Map(),  // id -> "va" | "nova" | "volver"
   vista: "pauta",         // pauta | aprobadas | descartadas
+  semana: null,           // "YYYY-MM-DD" del miércoles de cierre seleccionado
 };
+
+const MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
+
+// --- Semanas (cierran cada miércoles) ----------------------------------------
+
+function ymd(d) {
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, "0");
+  const day = String(d.getDate()).padStart(2, "0");
+  return `${y}-${m}-${day}`;
+}
+
+function semanaDe(fechaIso) {
+  // Próximo miércoles (>= fecha). En JS getDay(): domingo=0 ... miércoles=3.
+  const [y, m, d] = fechaIso.split("-").map(Number);
+  const fecha = new Date(y, m - 1, d);
+  const dias = (3 - fecha.getDay() + 7) % 7;
+  fecha.setDate(fecha.getDate() + dias);
+  return ymd(fecha);
+}
+
+function semanaActual() {
+  return semanaDe(ymd(new Date()));
+}
+
+function getSemana(item) {
+  return item.semana || semanaDe(item.fecha_encontrada || ymd(new Date()));
+}
+
+function etiquetaSemana(iso) {
+  const [, m, d] = iso.split("-").map(Number);
+  return `Semana al mié ${d} ${MESES[m - 1]}`;
+}
 
 // --- Detección de repo desde la URL de GitHub Pages --------------------------
 
@@ -151,10 +185,32 @@ async function cargarContenido() {
     return;
   }
 
-  const pend = contar("pendientes");
-  subtitulo.textContent = `${pend} pendientes en la pauta`;
-
+  poblarSemanas();
   renderizar();
+}
+
+function poblarSemanas() {
+  // Semanas presentes en los datos + la semana actual, ordenadas (más reciente arriba).
+  const semanas = new Set([semanaActual()]);
+  estado.noticias.forEach((x) => semanas.add(getSemana(x)));
+  estado.temas.forEach((x) => semanas.add(getSemana(x)));
+  const ordenadas = [...semanas].sort().reverse();
+
+  // Si la semana elegida ya no existe, volver a la actual (o la más reciente).
+  if (!estado.semana || !semanas.has(estado.semana)) {
+    estado.semana = semanas.has(semanaActual()) ? semanaActual() : ordenadas[0];
+  }
+
+  const sel = document.getElementById("semana");
+  sel.innerHTML = "";
+  const hoySemana = semanaActual();
+  ordenadas.forEach((s) => {
+    const op = document.createElement("option");
+    op.value = s;
+    op.textContent = etiquetaSemana(s) + (s === hoySemana ? " (esta semana)" : "");
+    if (s === estado.semana) op.selected = true;
+    sel.appendChild(op);
+  });
 }
 
 // --- Filtros por estado ------------------------------------------------------
@@ -167,16 +223,25 @@ function estaEn(item, vista) {
   return false;
 }
 
+function visible(item, vista) {
+  return getSemana(item) === estado.semana && estaEn(item, vista);
+}
+
 function contar(que) {
   const vista = que === "pendientes" ? "pauta" : que;
-  const n = estado.noticias.filter((x) => estaEn(x, vista)).length;
-  const t = estado.temas.filter((x) => estaEn(x, vista)).length;
+  const n = estado.noticias.filter((x) => visible(x, vista)).length;
+  const t = estado.temas.filter((x) => visible(x, vista)).length;
   return n + t;
 }
 
 // --- Render ------------------------------------------------------------------
 
 function renderizar() {
+  if (estado.semana) {
+    document.getElementById("subtitulo").textContent =
+      `${etiquetaSemana(estado.semana)} · ${contar("pauta")} pendientes`;
+  }
+
   // Conteos en las pestañas.
   document.getElementById("conteo-pauta").textContent = contar("pauta");
   document.getElementById("conteo-aprobadas").textContent = contar("aprobadas");
@@ -189,8 +254,8 @@ function renderizar() {
   const contenedor = document.getElementById("contenedor-tarjetas");
   contenedor.innerHTML = "";
 
-  const noticias = estado.noticias.filter((x) => estaEn(x, estado.vista));
-  const temas = estado.temas.filter((x) => estaEn(x, estado.vista));
+  const noticias = estado.noticias.filter((x) => visible(x, estado.vista));
+  const temas = estado.temas.filter((x) => visible(x, estado.vista));
 
   if (noticias.length === 0 && temas.length === 0) {
     const vacios = {
@@ -455,6 +520,11 @@ async function iniciar() {
       estado.vista = b.dataset.vista;
       renderizar();
     });
+  });
+
+  document.getElementById("semana").addEventListener("change", (e) => {
+    estado.semana = e.target.value;
+    renderizar();
   });
 
   await detectarBranch();
