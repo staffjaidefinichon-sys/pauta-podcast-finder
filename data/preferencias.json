@@ -3,8 +3,15 @@
   "descartados": [],
   "reglas_aprendidas": [
     "EXCLUIR SIEMPRE política: figuras políticas, elecciones, gobierno, conflictos partidistas. Si una noticia tiene ángulo político, se descarta aunque sea graciosa.",
-    "Priorizar noticias chilenas, idealmente de nicho o locales que den para humor.",
-    "Aceptar humor absurdo/WTF para reír fuerte e irónico/observacional para segmentos de conversación.",
-    "Internacionales raras sirven solo como complemento; el foco es Chile."
+    "Bloque Chile: priorizar noticias chilenas, idealmente de nicho o de regiones (no solo Santiago).",
+    "Bloque Mundo: noticias absurdas, extrañas o insólitas de cualquier parte del mundo.",
+    "Aceptar humor absurdo/WTF para reír fuerte e irónico/observacional para segmentos de conversación."
+  ],
+  "temas_aprobados": [],
+  "temas_descartados": [],
+  "reglas_temas": [
+    "Los temas son disparadores de conversación con humor observacional/irónico, no una noticia puntual.",
+    "Pueden inspirarse en tendencias de redes (Twitter/X) o en fenómenos cotidianos chilenos.",
+    "EXCLUIR SIEMPRE política, igual que con las noticias."
   ]
 }

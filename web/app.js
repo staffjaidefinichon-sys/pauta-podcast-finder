@@ -1,8 +1,11 @@
 /* Panel de la pauta — lee y escribe en el repo vía la API de GitHub.
  *
+ * Muestra tres secciones: Noticias Chile, Noticias Mundo, y Temas para conversar.
+ * Cada ítem tiene botones Va/No va que alimentan el aprendizaje.
+ *
  * Lectura: funciona sin token en repos públicos.
- * Escritura (guardar decisiones): requiere un token personal con permiso
- * "Contents: Read and write", guardado solo en localStorage del navegador.
+ * Escritura: requiere un token personal con "Contents: Read and write",
+ * guardado solo en localStorage del navegador.
  */
 
 "use strict";
@@ -10,24 +13,22 @@
 const API = "https://api.github.com";
 const CLAVE_TOKEN = "pauta_github_token";
 
-// Estado en memoria.
 const estado = {
   owner: null,
   repo: null,
   branch: "main",
-  pautaPath: null,      // p.ej. "data/pauta-2026-06-30.json"
-  pauta: [],            // ítems de la pauta del día
-  decisiones: new Map(),// id -> "va" | "nova"
+  noticias: [],           // ítems de pauta-FECHA.json
+  temas: [],              // ítems de temas-FECHA.json
+  itemsPorId: new Map(),  // id -> { tipo: "noticia" | "tema", item }
+  decisiones: new Map(),  // id -> "va" | "nova"
 };
 
 // --- Detección de repo desde la URL de GitHub Pages --------------------------
 
 function detectarRepo() {
-  const host = location.hostname;           // owner.github.io
+  const host = location.hostname;
   const partes = location.pathname.split("/").filter(Boolean);
   const owner = host.split(".")[0];
-  // Project page: owner.github.io/repo/...  -> repo = primer segmento.
-  // User page:    owner.github.io/          -> repo = owner.github.io
   const repo = partes.length > 0 ? partes[0] : `${owner}.github.io`;
   return { owner, repo };
 }
@@ -88,7 +89,6 @@ async function detectarBranch() {
 }
 
 async function obtenerArchivo(path) {
-  // Devuelve { contenido (string), sha } o null si no existe.
   const url = `${API}/repos/${estado.owner}/${estado.repo}/contents/${path}?ref=${estado.branch}`;
   const r = await fetch(url, { headers: cabeceras(true) });
   if (r.status === 404) return null;
@@ -122,9 +122,16 @@ async function guardarArchivo(path, objeto, sha, mensaje) {
   return r.json();
 }
 
-// --- Carga de la pauta del día -----------------------------------------------
+// --- Carga del contenido del día ---------------------------------------------
 
-async function cargarPauta() {
+function ultimoArchivo(nombres, prefijo) {
+  const filtrados = nombres
+    .filter((n) => new RegExp(`^${prefijo}-\\d{4}-\\d{2}-\\d{2}\\.json$`).test(n))
+    .sort();
+  return filtrados.length ? filtrados[filtrados.length - 1] : null;
+}
+
+async function cargarContenido() {
   const subtitulo = document.getElementById("subtitulo");
   const contenedor = document.getElementById("contenedor-tarjetas");
 
@@ -135,79 +142,126 @@ async function cargarPauta() {
     contenedor.innerHTML = `<p class="mensaje">No pude leer el repositorio.<br>${e.message}</p>`;
     return;
   }
+  const nombres = archivos.map((a) => a.name);
 
-  const pautas = archivos
-    .filter((a) => /^pauta-\d{4}-\d{2}-\d{2}\.json$/.test(a.name))
-    .map((a) => a.name)
-    .sort();
+  const pautaNombre = ultimoArchivo(nombres, "pauta");
+  const temasNombre = ultimoArchivo(nombres, "temas");
 
-  if (pautas.length === 0) {
-    subtitulo.textContent = "Todavía no hay pautas generadas.";
+  if (!pautaNombre && !temasNombre) {
+    subtitulo.textContent = "Todavía no hay contenido generado.";
     contenedor.innerHTML =
-      `<p class="mensaje">Aún no hay ninguna pauta. El sistema la genera automáticamente cada día.</p>`;
+      `<p class="mensaje">Aún no hay nada. El sistema lo genera automáticamente cada día.</p>`;
     return;
   }
 
-  const ultima = pautas[pautas.length - 1];
-  estado.pautaPath = `data/${ultima}`;
+  if (pautaNombre) {
+    const a = await obtenerArchivo(`data/${pautaNombre}`);
+    estado.noticias = JSON.parse(a.contenido);
+  }
+  if (temasNombre) {
+    const a = await obtenerArchivo(`data/${temasNombre}`);
+    estado.temas = JSON.parse(a.contenido);
+  }
 
-  const archivo = await obtenerArchivo(estado.pautaPath);
-  estado.pauta = JSON.parse(archivo.contenido);
+  // Índice id -> {tipo, item}
+  estado.itemsPorId.clear();
+  estado.noticias.forEach((it) => estado.itemsPorId.set(it.id, { tipo: "noticia", item: it }));
+  estado.temas.forEach((it) => estado.itemsPorId.set(it.id, { tipo: "tema", item: it }));
 
-  const fecha = ultima.replace("pauta-", "").replace(".json", "");
-  subtitulo.textContent = `${fecha} · ${estado.pauta.length} temas`;
+  const fecha = (pautaNombre || temasNombre)
+    .replace(/^(pauta|temas)-/, "")
+    .replace(".json", "");
+  const nChile = estado.noticias.filter((n) => n.region === "chile").length;
+  const nMundo = estado.noticias.filter((n) => n.region === "mundo").length;
+  subtitulo.textContent = `${fecha} · ${nChile} Chile · ${nMundo} mundo · ${estado.temas.length} temas`;
 
-  renderizarTarjetas();
+  renderizar();
 }
 
 // --- Render ------------------------------------------------------------------
 
-function renderizarTarjetas() {
+function renderizar() {
   const contenedor = document.getElementById("contenedor-tarjetas");
   contenedor.innerHTML = "";
 
-  if (estado.pauta.length === 0) {
-    contenedor.innerHTML = `<p class="mensaje">La pauta de hoy está vacía.</p>`;
-    return;
-  }
+  const chile = estado.noticias.filter((n) => n.region === "chile");
+  const mundo = estado.noticias.filter((n) => n.region === "mundo");
 
-  for (const item of estado.pauta) {
-    const decision = estado.decisiones.get(item.id);
-    const card = document.createElement("article");
-    card.className = "tarjeta";
-    if (decision === "va") card.classList.add("decidida-va");
-    if (decision === "nova") card.classList.add("decidida-nova");
+  agregarSeccion(contenedor, "🇨🇱 Noticias de Chile", chile, tarjetaNoticia);
+  agregarSeccion(contenedor, "🌎 Noticias del mundo", mundo, tarjetaNoticia);
+  agregarSeccion(contenedor, "💬 Temas para conversar", estado.temas, tarjetaTema);
 
-    card.innerHTML = `
-      <span class="categoria">${escapar(item.categoria || "otro")}</span>
-      <h2>${escapar(item.titular || "")}</h2>
-      <p class="resumen">${escapar(item.resumen || "")}</p>
-      <p class="por-que">😄 ${escapar(item.por_que_humor || "")}</p>
-      <p class="fuente">
-        ${escapar(item.fuente || "")}
-        ${item.url ? `· <a href="${escaparAttr(item.url)}" target="_blank" rel="noopener">ver noticia</a>` : ""}
-      </p>
-      <div class="acciones">
-        <button class="btn-va ${decision === "va" ? "activo" : ""}" data-id="${escaparAttr(item.id)}" data-d="va">✅ Va</button>
-        <button class="btn-nova ${decision === "nova" ? "activo" : ""}" data-id="${escaparAttr(item.id)}" data-d="nova">❌ No va</button>
-      </div>
-    `;
-    contenedor.appendChild(card);
+  if (!chile.length && !mundo.length && !estado.temas.length) {
+    contenedor.innerHTML = `<p class="mensaje">El contenido de hoy está vacío.</p>`;
   }
 
   contenedor.querySelectorAll(".acciones button").forEach((btn) => {
     btn.addEventListener("click", () => {
       const id = btn.dataset.id;
       const d = btn.dataset.d;
-      // Toggle: si ya estaba esa decisión, la quito.
       if (estado.decisiones.get(id) === d) estado.decisiones.delete(id);
       else estado.decisiones.set(id, d);
-      renderizarTarjetas();
-      actualizarBarra();
+      renderizar();
     });
   });
 
   actualizarBarra();
+}
+
+function agregarSeccion(contenedor, titulo, items, fabricaTarjeta) {
+  if (!items.length) return;
+  const h = document.createElement("h3");
+  h.className = "seccion-titulo";
+  h.textContent = `${titulo} (${items.length})`;
+  contenedor.appendChild(h);
+  items.forEach((item) => contenedor.appendChild(fabricaTarjeta(item)));
+}
+
+function botonesDecision(id) {
+  const d = estado.decisiones.get(id);
+  return `
+    <div class="acciones">
+      <button class="btn-va ${d === "va" ? "activo" : ""}" data-id="${escaparAttr(id)}" data-d="va">✅ Va</button>
+      <button class="btn-nova ${d === "nova" ? "activo" : ""}" data-id="${escaparAttr(id)}" data-d="nova">❌ No va</button>
+    </div>`;
+}
+
+function claseDecidida(id) {
+  const d = estado.decisiones.get(id);
+  if (d === "va") return "decidida-va";
+  if (d === "nova") return "decidida-nova";
+  return "";
+}
+
+function tarjetaNoticia(item) {
+  const card = document.createElement("article");
+  card.className = `tarjeta ${claseDecidida(item.id)}`;
+  card.innerHTML = `
+    <span class="categoria">${escapar(item.categoria || "otro")}</span>
+    <h2>${escapar(item.titular || "")}</h2>
+    <p class="resumen">${escapar(item.resumen || "")}</p>
+    <p class="por-que">😄 ${escapar(item.por_que_humor || "")}</p>
+    <p class="fuente">
+      ${escapar(item.fuente || "")}
+      ${item.url ? `· <a href="${escaparAttr(item.url)}" target="_blank" rel="noopener">ver noticia</a>` : ""}
+    </p>
+    ${botonesDecision(item.id)}
+  `;
+  return card;
+}
+
+function tarjetaTema(item) {
+  const card = document.createElement("article");
+  card.className = `tarjeta tarjeta-tema ${claseDecidida(item.id)}`;
+  card.innerHTML = `
+    <span class="categoria">${escapar(item.categoria || "observacional")}</span>
+    <h2>${escapar(item.titulo || "")}</h2>
+    ${item.gancho ? `<p class="resumen">${escapar(item.gancho)}</p>` : ""}
+    <p class="por-que">💬 ${escapar(item.por_que_conversar || "")}</p>
+    ${item.basado_en ? `<p class="fuente">Inspirado en: ${escapar(item.basado_en)}</p>` : ""}
+    ${botonesDecision(item.id)}
+  `;
+  return card;
 }
 
 function actualizarBarra() {
@@ -220,7 +274,7 @@ function actualizarBarra() {
   }
   let va = 0, nova = 0;
   estado.decisiones.forEach((d) => (d === "va" ? va++ : nova++));
-  resumen.textContent = `${va} van · ${nova} no van · ${n}/${estado.pauta.length} decididos`;
+  resumen.textContent = `${va} van · ${nova} no van · ${n} decididos`;
   barra.classList.remove("oculto");
 }
 
@@ -239,33 +293,41 @@ async function guardarDecisiones() {
   btn.textContent = "Guardando…";
 
   try {
-    // 1) Preferencias: agregar a aprobados/descartados.
+    // 1) Preferencias (noticias y temas en el mismo archivo).
     const archPref = await obtenerArchivo("data/preferencias.json");
     const pref = archPref
       ? JSON.parse(archPref.contenido)
-      : { aprobados: [], descartados: [], reglas_aprendidas: [] };
+      : {};
     pref.aprobados = pref.aprobados || [];
     pref.descartados = pref.descartados || [];
+    pref.temas_aprobados = pref.temas_aprobados || [];
+    pref.temas_descartados = pref.temas_descartados || [];
 
-    const titularesAprob = new Set(pref.aprobados.map((x) => x.titular));
-    const titularesDesc = new Set(pref.descartados.map((x) => x.titular));
-
-    const porId = new Map(estado.pauta.map((it) => [it.id, it]));
+    const tieneNoticia = (arr, t) => arr.some((x) => x.titular === t);
+    const tieneTema = (arr, t) => arr.some((x) => x.titulo === t);
 
     estado.decisiones.forEach((d, id) => {
-      const it = porId.get(id);
-      if (!it) return;
-      const registro = {
-        titular: it.titular,
-        categoria: it.categoria || "otro",
-        razon: it.por_que_humor || "",
-      };
-      if (d === "va" && !titularesAprob.has(it.titular)) {
-        pref.aprobados.push(registro);
-        titularesAprob.add(it.titular);
-      } else if (d === "nova" && !titularesDesc.has(it.titular)) {
-        pref.descartados.push(registro);
-        titularesDesc.add(it.titular);
+      const entrada = estado.itemsPorId.get(id);
+      if (!entrada) return;
+      const { tipo, item } = entrada;
+
+      if (tipo === "noticia") {
+        const reg = {
+          titular: item.titular,
+          categoria: item.categoria || "otro",
+          region: item.region || "chile",
+          razon: item.por_que_humor || "",
+        };
+        if (d === "va" && !tieneNoticia(pref.aprobados, item.titular)) pref.aprobados.push(reg);
+        if (d === "nova" && !tieneNoticia(pref.descartados, item.titular)) pref.descartados.push(reg);
+      } else {
+        const reg = {
+          titulo: item.titulo,
+          categoria: item.categoria || "observacional",
+          razon: item.por_que_conversar || "",
+        };
+        if (d === "va" && !tieneTema(pref.temas_aprobados, item.titulo)) pref.temas_aprobados.push(reg);
+        if (d === "nova" && !tieneTema(pref.temas_descartados, item.titulo)) pref.temas_descartados.push(reg);
       }
     });
 
@@ -276,36 +338,36 @@ async function guardarDecisiones() {
       "Decisiones del conductor (panel web)"
     );
 
-    // 2) Bandeja: actualizar estado de los ítems decididos.
-    const archBand = await obtenerArchivo("data/bandeja.json");
-    if (archBand) {
-      const bandeja = JSON.parse(archBand.contenido);
-      let cambios = 0;
-      for (const it of bandeja) {
-        const d = estado.decisiones.get(it.id);
-        if (d) {
-          it.estado = d === "va" ? "aprobada" : "descartada";
-          cambios++;
-        }
-      }
-      if (cambios > 0) {
-        await guardarArchivo(
-          "data/bandeja.json",
-          bandeja,
-          archBand.sha,
-          "Actualizar estados de la bandeja (panel web)"
-        );
-      }
-    }
+    // 2) Actualizar estados en las bandejas.
+    await actualizarEstadosBandeja("data/bandeja.json", "noticia");
+    await actualizarEstadosBandeja("data/bandeja_temas.json", "tema");
 
     mostrarToast("✅ Decisiones guardadas. ¡El sistema aprende!");
     estado.decisiones.clear();
-    renderizarTarjetas();
+    renderizar();
   } catch (e) {
     mostrarToast("Error al guardar: " + e.message);
   } finally {
     btn.disabled = false;
     btn.textContent = "💾 Guardar decisiones";
+  }
+}
+
+async function actualizarEstadosBandeja(path, tipo) {
+  const arch = await obtenerArchivo(path);
+  if (!arch) return;
+  const bandeja = JSON.parse(arch.contenido);
+  let cambios = 0;
+  for (const it of bandeja) {
+    const d = estado.decisiones.get(it.id);
+    const entrada = estado.itemsPorId.get(it.id);
+    if (d && entrada && entrada.tipo === tipo) {
+      it.estado = d === "va" ? "aprobada" : "descartada";
+      cambios++;
+    }
+  }
+  if (cambios > 0) {
+    await guardarArchivo(path, bandeja, arch.sha, `Actualizar estados (${tipo}) desde el panel`);
   }
 }
 
@@ -342,7 +404,6 @@ async function iniciar() {
 
   refrescarEstadoToken();
 
-  // Eventos del token.
   document.getElementById("btn-guardar-token").addEventListener("click", () => {
     const v = document.getElementById("input-token").value.trim();
     setToken(v);
@@ -358,7 +419,7 @@ async function iniciar() {
     .addEventListener("click", guardarDecisiones);
 
   await detectarBranch();
-  await cargarPauta();
+  await cargarContenido();
 }
 
 iniciar();

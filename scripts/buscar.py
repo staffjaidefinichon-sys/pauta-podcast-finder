@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 """
-Curador de noticias para podcast de humor (Chile).
+Curador de noticias para podcast de humor (Chile + mundo).
 
-Busca noticias chilenas virales/graciosas usando la API de Claude con web search,
-filtra excluyendo política, y escribe:
-  - data/bandeja.json            (acumulado histórico, con dedupe)
-  - data/pauta-YYYY-MM-DD.json   (los mejores temas del día)
+Busca con la API de Claude (web search) y escribe:
+  - data/bandeja.json            (histórico de noticias candidatas)
+  - data/pauta-YYYY-MM-DD.json   (noticias del día; cada una con region chile/mundo)
+  - data/bandeja_temas.json      (histórico de temas para conversar)
+  - data/temas-YYYY-MM-DD.json   (temas para conversar del día)
 
 El "aprendizaje" es por contexto: inyecta data/preferencias.json en el prompt
-para que el filtrado refleje las decisiones reales del conductor.
+para que el filtrado refleje las decisiones reales del conductor, tanto para
+noticias como para temas de conversación.
 
 Uso:
     python scripts/buscar.py
@@ -16,7 +18,7 @@ Uso:
 Variables de entorno:
     ANTHROPIC_API_KEY   (requerida) — clave de la API de Anthropic.
     MODELO_CLAUDE       (opcional)  — id del modelo. Default: claude-opus-4-8.
-    N_PAUTA             (opcional)  — cuántos temas en la pauta del día. Default: 6.
+    N_NOTICIAS          (opcional)  — tope de noticias por región. Default: 6.
     ZONA_HORARIA        (opcional)  — default: America/Santiago.
 """
 
@@ -38,15 +40,17 @@ import anthropic
 RAIZ = Path(__file__).resolve().parent.parent
 DIR_DATOS = RAIZ / "data"
 ARCHIVO_BANDEJA = DIR_DATOS / "bandeja.json"
+ARCHIVO_BANDEJA_TEMAS = DIR_DATOS / "bandeja_temas.json"
 ARCHIVO_PREFERENCIAS = DIR_DATOS / "preferencias.json"
 
 # --- Configuración -----------------------------------------------------------
 
 MODELO = os.environ.get("MODELO_CLAUDE", "claude-opus-4-8")
-N_PAUTA = int(os.environ.get("N_PAUTA", "6"))
+N_NOTICIAS = int(os.environ.get("N_NOTICIAS", "6"))
 ZONA = ZoneInfo(os.environ.get("ZONA_HORARIA", "America/Santiago"))
 
 CATEGORIAS_VALIDAS = {"absurdo", "observacional", "curioso", "otro"}
+REGIONES_VALIDAS = {"chile", "mundo"}
 
 
 # --- Utilidades de archivos --------------------------------------------------
@@ -61,7 +65,7 @@ def leer_json(ruta: Path, por_defecto):
 
 
 def escribir_json(ruta: Path, datos) -> None:
-    """Escribe JSON con indentación, en UTF-8 y con orden de claves estable."""
+    """Escribe JSON con indentación, en UTF-8."""
     ruta.parent.mkdir(parents=True, exist_ok=True)
     with ruta.open("w", encoding="utf-8") as f:
         json.dump(datos, f, ensure_ascii=False, indent=2, sort_keys=False)
@@ -72,94 +76,125 @@ def escribir_json(ruta: Path, datos) -> None:
 
 def construir_prompt(preferencias: dict, fecha: str) -> str:
     """Arma el prompt inyectando las preferencias aprendidas."""
-    aprobados = preferencias.get("aprobados", [])
-    descartados = preferencias.get("descartados", [])
-    reglas = preferencias.get("reglas_aprendidas", [])
 
-    def formatear_decisiones(items: list) -> str:
+    def formatear(items: list, campo_titulo: str) -> str:
         if not items:
             return "  (todavía no hay decisiones registradas)"
         lineas = []
-        for it in items[-30:]:  # solo las más recientes, para mantener el contexto compacto
-            titular = it.get("titular", "")
+        for it in items[-30:]:
+            titulo = it.get(campo_titulo) or it.get("titular") or it.get("titulo") or ""
             cat = it.get("categoria", "")
             razon = it.get("razon", "")
-            lineas.append(f"  - [{cat}] {titular} — {razon}")
+            lineas.append(f"  - [{cat}] {titulo} — {razon}")
         return "\n".join(lineas)
 
+    reglas = preferencias.get("reglas_aprendidas", [])
+    reglas_temas = preferencias.get("reglas_temas", [])
     reglas_txt = "\n".join(f"  - {r}" for r in reglas) if reglas else "  (sin reglas aún)"
+    reglas_temas_txt = (
+        "\n".join(f"  - {r}" for r in reglas_temas) if reglas_temas else "  (sin reglas aún)"
+    )
 
-    return f"""Eres el curador de noticias de un podcast chileno de humor y conversación.
+    return f"""Eres el curador de contenido de un podcast chileno de humor y conversación.
 
-Hoy es {fecha}. Tu tarea: buscar en la web noticias REALES y RECIENTES (de los últimos
-2-3 días) de Chile que den para humor en el podcast, y proponer las mejores.
+Hoy es {fecha}. Buscarás en la web y propondrás dos cosas:
+  (A) NOTICIAS reales y recientes (últimos 2-3 días) que den para humor.
+  (B) TEMAS para conversar (no noticias puntuales, sino disparadores de conversación).
 
 ## Tipo de podcast
-- Humor y conversación, Chile.
+- Humor y conversación, chileno.
 - Tono: mezcla de absurdo/WTF (para reír fuerte) e irónico/observacional (para
   segmentos de conversación más largos).
 
 ## REGLA INVIOLABLE: nada de política
-EXCLUIR SIEMPRE cualquier noticia con ángulo político: figuras políticas, elecciones,
-gobierno, ministerios, conflictos partidistas, parlamentarios, alcaldes en función
-política. Si una noticia es graciosa pero tiene arista política, se DESCARTA. Sin excepción.
+EXCLUIR SIEMPRE cualquier cosa con ángulo político: figuras políticas, elecciones,
+gobierno, ministerios, conflictos partidistas, parlamentarios. Si algo es gracioso
+pero tiene arista política, se DESCARTA. Sin excepción.
 
-## Preferencia geográfica
-- Priorizar noticias chilenas, idealmente de nicho o locales (regiones, no solo Santiago)
-  que "den para humor".
-- Internacionales raras sirven solo como complemento; el foco es Chile.
+## (A) NOTICIAS — dos bloques: Chile y Mundo
+- Bloque CHILE: noticias chilenas virales, curiosas o absurdas. Idealmente de nicho
+  o de regiones (no solo Santiago).
+- Bloque MUNDO: noticias absurdas, extrañas o insólitas de cualquier parte del mundo.
+- Cada noticia debe llevar su campo "region" con valor "chile" o "mundo".
 
-## Lo que el conductor ya APROBÓ antes (temas que funcionaron)
-{formatear_decisiones(aprobados)}
+## (B) TEMAS para conversar
+Disparadores de CONVERSACIÓN, no una noticia específica. Pueden inspirarse en lo que
+está siendo tendencia (busca "qué es tendencia / lo más comentado en redes / Twitter
+hoy en Chile") o en fenómenos cotidianos. Ejemplos del estilo buscado:
+  - "La obsesión chilena con ponerle palta a todo: ¿identidad nacional o exageración?"
+  - "Por qué todos odiamos/amamos los grupos de WhatsApp familiares"
+Cada tema es un ÁNGULO para charlar con humor observacional, no un hecho noticioso.
 
-## Lo que el conductor ya DESCARTÓ antes (temas que NO funcionaron)
-{formatear_decisiones(descartados)}
+## Lo que el conductor APROBÓ antes (noticias)
+{formatear(preferencias.get("aprobados", []), "titular")}
 
-## Reglas aprendidas (respétalas)
+## Lo que el conductor DESCARTÓ antes (noticias)
+{formatear(preferencias.get("descartados", []), "titular")}
+
+## Reglas aprendidas (noticias)
 {reglas_txt}
 
+## Temas de conversación que APROBÓ antes
+{formatear(preferencias.get("temas_aprobados", []), "titulo")}
+
+## Temas de conversación que DESCARTÓ antes
+{formatear(preferencias.get("temas_descartados", []), "titulo")}
+
+## Reglas aprendidas (temas)
+{reglas_temas_txt}
+
 ## Qué hacer
-1. Usa la búsqueda web de forma EXHAUSTIVA: haz AL MENOS 6 búsquedas con ángulos
-   distintos, por ejemplo:
-   - "noticias virales Chile" / "noticia insólita Chile"
-   - "noticia curiosa región" (Valparaíso, Biobío, Antofagasta, Magallanes, etc.)
-   - "noticia rara Chile que pasó hoy / esta semana"
-   - hechos curiosos de animales, festivales locales, costumbres, fails virales
-   - tendencias chilenas en redes sociales
-2. Filtra excluyendo política y todo lo que choque con las reglas aprendidas.
-3. Sé GENEROSO: esto es un buzón de candidatas, el conductor filtra después. Si una
-   noticia tiene aunque sea un ángulo gracioso, inclúyela. Apunta a 8-12 candidatas;
-   no devuelvas menos de 6 salvo que realmente no encuentres más.
+1. Busca de forma EXHAUSTIVA: AL MENOS 8 búsquedas con ángulos distintos
+   (virales Chile, insólito regiones, noticias raras del mundo, animales, fails,
+   tendencias en redes/Twitter, festivales, costumbres).
+2. Filtra excluyendo política y lo que choque con las reglas aprendidas.
+3. Sé GENEROSO con las noticias (es un buzón; el conductor filtra después).
 
 ## Formato de salida (OBLIGATORIO)
-Después de buscar, responde ÚNICAMENTE con un bloque de código JSON (```json ... ```)
-que contenga un ARRAY de objetos. Cada objeto con EXACTAMENTE estas claves:
+Después de buscar, responde ÚNICAMENTE con un bloque ```json ... ``` que contenga UN
+OBJETO con exactamente estas dos claves:
 
-  "titular"      : string, el titular en español neutro.
-  "resumen"      : string, 1-2 frases en español neutro.
-  "fuente"       : string, nombre del medio.
-  "url"          : string, enlace a la noticia.
-  "por_que_humor": string, razón breve de por qué da para reírse.
-  "categoria"    : uno de: "absurdo", "observacional", "curioso", "otro".
+{{
+  "noticias": [
+    {{
+      "titular": "string",
+      "resumen": "1-2 frases en español neutro",
+      "fuente": "nombre del medio",
+      "url": "enlace real a la noticia",
+      "por_que_humor": "razón breve de por qué da para reírse",
+      "categoria": "absurdo | observacional | curioso | otro",
+      "region": "chile | mundo"
+    }}
+  ],
+  "temas": [
+    {{
+      "titulo": "el tema de conversación, fraseado como disparador",
+      "gancho": "1 frase que enganche",
+      "por_que_conversar": "por qué da para una buena conversación con humor",
+      "categoria": "absurdo | observacional | curioso | otro",
+      "basado_en": "qué tendencia o fenómeno lo inspiró (breve)"
+    }}
+  ]
+}}
 
-No incluyas texto fuera del bloque JSON. No inventes noticias: solo las que
-encontraste realmente en la búsqueda web, con su URL real."""
+Apunta a entre 8 y 12 noticias en total (mezcla de chile y mundo) y entre 3 y 4 temas.
+No inventes noticias: solo las que encontraste realmente, con su URL real. No incluyas
+texto fuera del bloque JSON."""
 
 
 # --- Llamada a la API --------------------------------------------------------
 
-def buscar_noticias(cliente: anthropic.Anthropic, prompt: str) -> list[dict]:
-    """Llama a Claude con web search y devuelve la lista de candidatas.
+def buscar(cliente: anthropic.Anthropic, prompt: str) -> dict:
+    """Llama a Claude con web search y devuelve {'noticias': [...], 'temas': [...]}.
 
-    Web search corre como bucle de herramienta del lado servidor: si llega al
-    límite de iteraciones, la API devuelve stop_reason="pause_turn" y hay que
-    reenviar la conversación para que continúe hasta producir el JSON final.
+    Web search corre como bucle del lado servidor: si llega al límite, devuelve
+    stop_reason="pause_turn" y hay que reenviar para que continúe.
     """
     tools = [{"type": "web_search_20260209", "name": "web_search", "max_uses": 12}]
     mensajes = [{"role": "user", "content": prompt}]
 
     respuesta = None
-    for intento in range(6):  # tope de continuaciones para no quedar en bucle
+    for _ in range(6):
         respuesta = cliente.messages.create(
             model=MODELO,
             max_tokens=16000,
@@ -168,60 +203,61 @@ def buscar_noticias(cliente: anthropic.Anthropic, prompt: str) -> list[dict]:
         )
         if respuesta.stop_reason != "pause_turn":
             break
-        # El servidor pausó tras varias búsquedas: reenviar para que siga.
         mensajes.append({"role": "assistant", "content": respuesta.content})
 
     print(f"  stop_reason del modelo: {respuesta.stop_reason}")
 
-    texto = "".join(
-        bloque.text for bloque in respuesta.content if bloque.type == "text"
-    )
-    candidatas = extraer_json(texto)
+    texto = "".join(b.text for b in respuesta.content if b.type == "text")
+    datos = extraer_objeto_json(texto)
 
-    if not candidatas:
-        # Diagnóstico: mostrar el final del texto para entender qué devolvió.
+    if not datos:
         cola = texto[-600:].replace("\n", " ") if texto else "(sin texto)"
         print(f"  [diag] no se extrajo JSON. Final del texto: {cola}")
+        return {"noticias": [], "temas": []}
 
-    return candidatas
+    return {
+        "noticias": datos.get("noticias", []) or [],
+        "temas": datos.get("temas", []) or [],
+    }
 
 
-def extraer_json(texto: str) -> list[dict]:
-    """Extrae el array JSON del texto del modelo, tolerante a ```json ... ```."""
-    # Preferir un bloque de código json explícito.
-    m = re.search(r"```(?:json)?\s*(\[.*?\])\s*```", texto, re.DOTALL)
+def extraer_objeto_json(texto: str) -> dict | None:
+    """Extrae el objeto JSON del texto del modelo, tolerante a ```json ... ```."""
+    m = re.search(r"```(?:json)?\s*(\{.*\})\s*```", texto, re.DOTALL)
     crudo = m.group(1) if m else None
 
     if crudo is None:
-        # Como respaldo, tomar desde el primer '[' hasta el último ']'.
-        inicio = texto.find("[")
-        fin = texto.rfind("]")
+        inicio = texto.find("{")
+        fin = texto.rfind("}")
         if inicio != -1 and fin != -1 and fin > inicio:
             crudo = texto[inicio : fin + 1]
 
     if crudo is None:
-        return []
+        return None
 
     try:
         datos = json.loads(crudo)
     except json.JSONDecodeError:
-        return []
+        return None
 
-    return datos if isinstance(datos, list) else []
+    return datos if isinstance(datos, dict) else None
 
 
 # --- Normalización y dedupe --------------------------------------------------
 
 def normalizar_url(url: str) -> str:
-    """Clave de deduplicación a partir de la URL (sin query ni fragmentos)."""
     url = (url or "").strip().lower()
     url = re.sub(r"[?#].*$", "", url)
     url = re.sub(r"/+$", "", url)
     return url
 
 
-def normalizar_item(crudo: dict, fecha: str) -> dict | None:
-    """Valida y normaliza un ítem crudo del modelo al esquema de bandeja."""
+def normalizar_titulo(t: str) -> str:
+    """Clave de dedupe para temas (sin URL): título en minúsculas y compacto."""
+    return re.sub(r"\s+", " ", (t or "").strip().lower())
+
+
+def normalizar_noticia(crudo: dict, fecha: str) -> dict | None:
     titular = (crudo.get("titular") or "").strip()
     url = (crudo.get("url") or "").strip()
     if not titular or not url:
@@ -230,6 +266,10 @@ def normalizar_item(crudo: dict, fecha: str) -> dict | None:
     categoria = (crudo.get("categoria") or "otro").strip().lower()
     if categoria not in CATEGORIAS_VALIDAS:
         categoria = "otro"
+
+    region = (crudo.get("region") or "chile").strip().lower()
+    if region not in REGIONES_VALIDAS:
+        region = "chile"
 
     return {
         "id": str(uuid.uuid4()),
@@ -240,6 +280,28 @@ def normalizar_item(crudo: dict, fecha: str) -> dict | None:
         "url": url,
         "por_que_humor": (crudo.get("por_que_humor") or "").strip(),
         "categoria": categoria,
+        "region": region,
+        "estado": "pendiente",
+    }
+
+
+def normalizar_tema(crudo: dict, fecha: str) -> dict | None:
+    titulo = (crudo.get("titulo") or "").strip()
+    if not titulo:
+        return None
+
+    categoria = (crudo.get("categoria") or "observacional").strip().lower()
+    if categoria not in CATEGORIAS_VALIDAS:
+        categoria = "observacional"
+
+    return {
+        "id": str(uuid.uuid4()),
+        "fecha_encontrada": fecha,
+        "titulo": titulo,
+        "gancho": (crudo.get("gancho") or "").strip(),
+        "por_que_conversar": (crudo.get("por_que_conversar") or "").strip(),
+        "categoria": categoria,
+        "basado_en": (crudo.get("basado_en") or "").strip(),
         "estado": "pendiente",
     }
 
@@ -254,66 +316,85 @@ def main() -> int:
 
     ahora = datetime.now(ZONA)
     fecha = ahora.strftime("%Y-%m-%d")
-    print(f"[{ahora.isoformat()}] Buscando noticias para la pauta del {fecha}...")
+    print(f"[{ahora.isoformat()}] Buscando contenido para el {fecha}...")
 
     preferencias = leer_json(ARCHIVO_PREFERENCIAS, {})
     bandeja = leer_json(ARCHIVO_BANDEJA, [])
+    bandeja_temas = leer_json(ARCHIVO_BANDEJA_TEMAS, [])
 
     cliente = anthropic.Anthropic(api_key=api_key)
     prompt = construir_prompt(preferencias, fecha)
 
     try:
-        candidatas_crudas = buscar_noticias(cliente, prompt)
+        resultado = buscar(cliente, prompt)
     except anthropic.APIError as e:
         print(f"ERROR llamando a la API de Claude: {e}", file=sys.stderr)
         return 2
 
-    print(f"  El modelo devolvió {len(candidatas_crudas)} candidatas.")
+    crudas_noticias = resultado["noticias"]
+    crudas_temas = resultado["temas"]
+    print(f"  El modelo devolvió {len(crudas_noticias)} noticias y {len(crudas_temas)} temas.")
 
-    # URLs ya conocidas en la bandeja, para no duplicar.
+    # --- Noticias: dedupe por URL ---
     urls_conocidas = {normalizar_url(it.get("url", "")) for it in bandeja}
-
-    nuevas = []
-    for crudo in candidatas_crudas:
-        item = normalizar_item(crudo, fecha)
+    nuevas_noticias = []
+    for crudo in crudas_noticias:
+        item = normalizar_noticia(crudo, fecha)
         if item is None:
             continue
         clave = normalizar_url(item["url"])
         if clave in urls_conocidas:
             continue
         urls_conocidas.add(clave)
-        nuevas.append(item)
+        nuevas_noticias.append(item)
 
-    print(f"  {len(nuevas)} noticias nuevas (tras descartar duplicadas).")
+    # --- Temas: dedupe por título ---
+    titulos_conocidos = {normalizar_titulo(it.get("titulo", "")) for it in bandeja_temas}
+    nuevos_temas = []
+    for crudo in crudas_temas:
+        tema = normalizar_tema(crudo, fecha)
+        if tema is None:
+            continue
+        clave = normalizar_titulo(tema["titulo"])
+        if clave in titulos_conocidos:
+            continue
+        titulos_conocidos.add(clave)
+        nuevos_temas.append(tema)
 
-    # Acumular en la bandeja.
-    bandeja.extend(nuevas)
-    escribir_json(ARCHIVO_BANDEJA, bandeja)
-    print(f"  Bandeja actualizada: {len(bandeja)} ítems en total.")
+    print(f"  {len(nuevas_noticias)} noticias nuevas, {len(nuevos_temas)} temas nuevos.")
 
-    # Armar la pauta del día: los mejores temas nuevos (los primeros N que propuso
-    # el modelo, que vienen ordenados por relevancia). Si hubo pocas nuevas, se
-    # completa con pendientes recientes de la bandeja.
-    pauta = nuevas[:N_PAUTA]
-    if len(pauta) < N_PAUTA:
-        ya_en_pauta = {it["id"] for it in pauta}
-        pendientes = [
-            it for it in reversed(bandeja)
-            if it.get("estado") == "pendiente" and it["id"] not in ya_en_pauta
-        ]
-        pauta.extend(pendientes[: N_PAUTA - len(pauta)])
+    # --- Acumular en las bandejas ---
+    bandeja.extend(nuevas_noticias)
+    bandeja_temas.extend(nuevos_temas)
 
-    # Marcar los temas de la pauta como "en_pauta" en la bandeja.
+    # --- Pauta del día: hasta N_NOTICIAS por región ---
+    chile = [it for it in nuevas_noticias if it["region"] == "chile"][:N_NOTICIAS]
+    mundo = [it for it in nuevas_noticias if it["region"] == "mundo"][:N_NOTICIAS]
+    pauta = chile + mundo
+
+    # --- Temas del día: todos los nuevos ---
+    temas_dia = nuevos_temas
+
+    # --- Marcar estados en las bandejas ---
     ids_pauta = {it["id"] for it in pauta}
     for it in bandeja:
         if it["id"] in ids_pauta:
             it["estado"] = "en_pauta"
+
+    ids_temas = {it["id"] for it in temas_dia}
+    for it in bandeja_temas:
+        if it["id"] in ids_temas:
+            it["estado"] = "en_pauta"
+
+    # --- Escribir todo ---
     escribir_json(ARCHIVO_BANDEJA, bandeja)
+    escribir_json(ARCHIVO_BANDEJA_TEMAS, bandeja_temas)
+    escribir_json(DIR_DATOS / f"pauta-{fecha}.json", pauta)
+    escribir_json(DIR_DATOS / f"temas-{fecha}.json", temas_dia)
 
-    archivo_pauta = DIR_DATOS / f"pauta-{fecha}.json"
-    escribir_json(archivo_pauta, pauta)
-    print(f"  Pauta del día escrita: {archivo_pauta.name} ({len(pauta)} temas).")
-
+    print(f"  Bandeja: {len(bandeja)} noticias · {len(bandeja_temas)} temas (histórico).")
+    print(f"  Pauta del día: {len(pauta)} noticias ({len(chile)} Chile, {len(mundo)} mundo).")
+    print(f"  Temas del día: {len(temas_dia)}.")
     print("Listo.")
     return 0
 

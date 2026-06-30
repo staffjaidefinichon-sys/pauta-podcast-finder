@@ -46,6 +46,21 @@ main {
   gap: 1rem;
 }
 
+/* --- Títulos de sección --- */
+
+.seccion-titulo {
+  font-family: system-ui, sans-serif;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--tenue);
+  border-bottom: 1px solid var(--borde);
+  padding-bottom: 0.4rem;
+  margin: 1.5rem 0 0.2rem;
+}
+
+.seccion-titulo:first-child { margin-top: 0; }
+
 /* --- Tarjetas de noticias --- */
 
 .tarjeta {
@@ -59,6 +74,9 @@ main {
 
 .tarjeta.decidida-va { border-color: var(--va); }
 .tarjeta.decidida-nova { border-color: var(--nova); opacity: 0.7; }
+
+/* Tarjetas de temas: un toque distinto para diferenciarlas. */
+.tarjeta-tema { background: #fbf7ef; border-left: 3px solid var(--acento); }
 
 .tarjeta .categoria {
   display: inline-block;
