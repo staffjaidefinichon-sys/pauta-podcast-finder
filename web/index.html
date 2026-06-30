@@ -8,7 +8,7 @@
 </head>
 <body>
   <header>
-    <h1>🎙️ Pauta del día</h1>
+    <h1>🎙️ Pauta del podcast</h1>
     <p id="subtitulo">Cargando…</p>
   </header>
 
@@ -34,6 +34,13 @@
       <p id="info-repo" class="ayuda"></p>
     </details>
   </section>
+
+  <!-- Pestañas -->
+  <nav id="tabs" class="tabs">
+    <button class="tab activo" data-vista="pauta">📋 Pauta <span class="conteo" id="conteo-pauta"></span></button>
+    <button class="tab" data-vista="aprobadas">✅ Aprobadas <span class="conteo" id="conteo-aprobadas"></span></button>
+    <button class="tab" data-vista="descartadas">🗑️ Descartadas <span class="conteo" id="conteo-descartadas"></span></button>
+  </nav>
 
   <main id="contenedor-tarjetas">
     <!-- Las tarjetas se inyectan acá -->

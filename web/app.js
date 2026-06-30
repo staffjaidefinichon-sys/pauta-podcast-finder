@@ -1,7 +1,12 @@
 /* Panel de la pauta — lee y escribe en el repo vía la API de GitHub.
  *
- * Muestra tres secciones: Noticias Chile, Noticias Mundo, y Temas para conversar.
- * Cada ítem tiene botones Va/No va que alimentan el aprendizaje.
+ * Lee las bandejas completas (data/bandeja.json y data/bandeja_temas.json) y
+ * organiza el contenido en tres pestañas según el estado de cada ítem:
+ *   - Pauta:        pendiente / en_pauta   (lo que falta decidir)
+ *   - Aprobadas:    aprobada               (los "Va")
+ *   - Descartadas:  descartada             (los "No va")
+ *
+ * Desde Aprobadas/Descartadas se puede devolver un ítem a la pauta.
  *
  * Lectura: funciona sin token en repos públicos.
  * Escritura: requiere un token personal con "Contents: Read and write",
@@ -12,15 +17,17 @@
 
 const API = "https://api.github.com";
 const CLAVE_TOKEN = "pauta_github_token";
+const PENDIENTES = new Set(["pendiente", "en_pauta"]);
 
 const estado = {
   owner: null,
   repo: null,
   branch: "main",
-  noticias: [],           // ítems de pauta-FECHA.json
-  temas: [],              // ítems de temas-FECHA.json
+  noticias: [],           // bandeja.json completa
+  temas: [],              // bandeja_temas.json completa
   itemsPorId: new Map(),  // id -> { tipo: "noticia" | "tema", item }
-  decisiones: new Map(),  // id -> "va" | "nova"
+  decisiones: new Map(),  // id -> "va" | "nova" | "volver"
+  vista: "pauta",         // pauta | aprobadas | descartadas
 };
 
 // --- Detección de repo desde la URL de GitHub Pages --------------------------
@@ -97,13 +104,6 @@ async function obtenerArchivo(path) {
   return { contenido: deBase64(data.content), sha: data.sha };
 }
 
-async function listarData() {
-  const url = `${API}/repos/${estado.owner}/${estado.repo}/contents/data?ref=${estado.branch}`;
-  const r = await fetch(url, { headers: cabeceras(true) });
-  if (!r.ok) throw new Error(`GitHub ${r.status} al listar data/`);
-  return r.json();
-}
-
 async function guardarArchivo(path, objeto, sha, mensaje) {
   const cuerpo = {
     message: mensaje,
@@ -122,79 +122,96 @@ async function guardarArchivo(path, objeto, sha, mensaje) {
   return r.json();
 }
 
-// --- Carga del contenido del día ---------------------------------------------
-
-function ultimoArchivo(nombres, prefijo) {
-  const filtrados = nombres
-    .filter((n) => new RegExp(`^${prefijo}-\\d{4}-\\d{2}-\\d{2}\\.json$`).test(n))
-    .sort();
-  return filtrados.length ? filtrados[filtrados.length - 1] : null;
-}
+// --- Carga del contenido -----------------------------------------------------
 
 async function cargarContenido() {
   const subtitulo = document.getElementById("subtitulo");
   const contenedor = document.getElementById("contenedor-tarjetas");
 
-  let archivos;
+  let archBandeja, archTemas;
   try {
-    archivos = await listarData();
+    archBandeja = await obtenerArchivo("data/bandeja.json");
+    archTemas = await obtenerArchivo("data/bandeja_temas.json");
   } catch (e) {
     contenedor.innerHTML = `<p class="mensaje">No pude leer el repositorio.<br>${e.message}</p>`;
     return;
   }
-  const nombres = archivos.map((a) => a.name);
 
-  const pautaNombre = ultimoArchivo(nombres, "pauta");
-  const temasNombre = ultimoArchivo(nombres, "temas");
+  estado.noticias = archBandeja ? JSON.parse(archBandeja.contenido) : [];
+  estado.temas = archTemas ? JSON.parse(archTemas.contenido) : [];
 
-  if (!pautaNombre && !temasNombre) {
+  estado.itemsPorId.clear();
+  estado.noticias.forEach((it) => estado.itemsPorId.set(it.id, { tipo: "noticia", item: it }));
+  estado.temas.forEach((it) => estado.itemsPorId.set(it.id, { tipo: "tema", item: it }));
+
+  if (estado.noticias.length === 0 && estado.temas.length === 0) {
     subtitulo.textContent = "Todavía no hay contenido generado.";
     contenedor.innerHTML =
       `<p class="mensaje">Aún no hay nada. El sistema lo genera automáticamente cada día.</p>`;
     return;
   }
 
-  if (pautaNombre) {
-    const a = await obtenerArchivo(`data/${pautaNombre}`);
-    estado.noticias = JSON.parse(a.contenido);
-  }
-  if (temasNombre) {
-    const a = await obtenerArchivo(`data/${temasNombre}`);
-    estado.temas = JSON.parse(a.contenido);
-  }
-
-  // Índice id -> {tipo, item}
-  estado.itemsPorId.clear();
-  estado.noticias.forEach((it) => estado.itemsPorId.set(it.id, { tipo: "noticia", item: it }));
-  estado.temas.forEach((it) => estado.itemsPorId.set(it.id, { tipo: "tema", item: it }));
-
-  const fecha = (pautaNombre || temasNombre)
-    .replace(/^(pauta|temas)-/, "")
-    .replace(".json", "");
-  const nMundo = estado.noticias.filter((n) => n.region === "mundo").length;
-  const nChile = estado.noticias.length - nMundo;
-  subtitulo.textContent = `${fecha} · ${nChile} Chile · ${nMundo} mundo · ${estado.temas.length} temas`;
+  const pend = contar("pendientes");
+  subtitulo.textContent = `${pend} pendientes en la pauta`;
 
   renderizar();
+}
+
+// --- Filtros por estado ------------------------------------------------------
+
+function estaEn(item, vista) {
+  const e = item.estado || "pendiente";
+  if (vista === "pauta") return PENDIENTES.has(e);
+  if (vista === "aprobadas") return e === "aprobada";
+  if (vista === "descartadas") return e === "descartada";
+  return false;
+}
+
+function contar(que) {
+  const vista = que === "pendientes" ? "pauta" : que;
+  const n = estado.noticias.filter((x) => estaEn(x, vista)).length;
+  const t = estado.temas.filter((x) => estaEn(x, vista)).length;
+  return n + t;
 }
 
 // --- Render ------------------------------------------------------------------
 
 function renderizar() {
+  // Conteos en las pestañas.
+  document.getElementById("conteo-pauta").textContent = contar("pauta");
+  document.getElementById("conteo-aprobadas").textContent = contar("aprobadas");
+  document.getElementById("conteo-descartadas").textContent = contar("descartadas");
+
+  document.querySelectorAll(".tab").forEach((b) => {
+    b.classList.toggle("activo", b.dataset.vista === estado.vista);
+  });
+
   const contenedor = document.getElementById("contenedor-tarjetas");
   contenedor.innerHTML = "";
 
-  // "mundo" explícito va al bloque mundo; todo lo demás (incluye ítems viejos
-  // sin región) cae en Chile, así nada queda invisible.
-  const mundo = estado.noticias.filter((n) => n.region === "mundo");
-  const chile = estado.noticias.filter((n) => n.region !== "mundo");
+  const noticias = estado.noticias.filter((x) => estaEn(x, estado.vista));
+  const temas = estado.temas.filter((x) => estaEn(x, estado.vista));
 
-  agregarSeccion(contenedor, "🇨🇱 Noticias de Chile", chile, tarjetaNoticia);
-  agregarSeccion(contenedor, "🌎 Noticias del mundo", mundo, tarjetaNoticia);
-  agregarSeccion(contenedor, "💬 Temas para conversar", estado.temas, tarjetaTema);
+  if (noticias.length === 0 && temas.length === 0) {
+    const vacios = {
+      pauta: "No quedan temas pendientes. 🎉",
+      aprobadas: "Todavía no marcaste nada como “Va”.",
+      descartadas: "No hay nada descartado.",
+    };
+    contenedor.innerHTML = `<p class="mensaje">${vacios[estado.vista]}</p>`;
+    actualizarBarra();
+    return;
+  }
 
-  if (!chile.length && !mundo.length && !estado.temas.length) {
-    contenedor.innerHTML = `<p class="mensaje">El contenido de hoy está vacío.</p>`;
+  if (estado.vista === "pauta") {
+    const mundo = noticias.filter((n) => n.region === "mundo");
+    const chile = noticias.filter((n) => n.region !== "mundo");
+    agregarSeccion(contenedor, "🇨🇱 Noticias de Chile", chile, tarjetaNoticia);
+    agregarSeccion(contenedor, "🌎 Noticias del mundo", mundo, tarjetaNoticia);
+    agregarSeccion(contenedor, "💬 Temas para conversar", temas, tarjetaTema);
+  } else {
+    agregarSeccion(contenedor, "📰 Noticias", noticias, tarjetaNoticia);
+    agregarSeccion(contenedor, "💬 Temas para conversar", temas, tarjetaTema);
   }
 
   contenedor.querySelectorAll(".acciones button").forEach((btn) => {
@@ -221,10 +238,17 @@ function agregarSeccion(contenedor, titulo, items, fabricaTarjeta) {
 
 function botonesDecision(id) {
   const d = estado.decisiones.get(id);
+  if (estado.vista === "pauta") {
+    return `
+      <div class="acciones">
+        <button class="btn-va ${d === "va" ? "activo" : ""}" data-id="${escaparAttr(id)}" data-d="va">✅ Va</button>
+        <button class="btn-nova ${d === "nova" ? "activo" : ""}" data-id="${escaparAttr(id)}" data-d="nova">❌ No va</button>
+      </div>`;
+  }
+  // Aprobadas / Descartadas: opción de devolver a la pauta.
   return `
     <div class="acciones">
-      <button class="btn-va ${d === "va" ? "activo" : ""}" data-id="${escaparAttr(id)}" data-d="va">✅ Va</button>
-      <button class="btn-nova ${d === "nova" ? "activo" : ""}" data-id="${escaparAttr(id)}" data-d="nova">❌ No va</button>
+      <button class="btn-volver ${d === "volver" ? "activo" : ""}" data-id="${escaparAttr(id)}" data-d="volver">↩️ Volver a la pauta</button>
     </div>`;
 }
 
@@ -232,6 +256,7 @@ function claseDecidida(id) {
   const d = estado.decisiones.get(id);
   if (d === "va") return "decidida-va";
   if (d === "nova") return "decidida-nova";
+  if (d === "volver") return "decidida-volver";
   return "";
 }
 
@@ -239,7 +264,7 @@ function tarjetaNoticia(item) {
   const card = document.createElement("article");
   card.className = `tarjeta ${claseDecidida(item.id)}`;
   card.innerHTML = `
-    <span class="categoria">${escapar(item.categoria || "otro")}</span>
+    <span class="categoria">${escapar(item.categoria || "otro")}${item.region === "mundo" ? " · mundo" : ""}</span>
     <h2>${escapar(item.titular || "")}</h2>
     <p class="resumen">${escapar(item.resumen || "")}</p>
     <p class="por-que">😄 ${escapar(item.por_que_humor || "")}</p>
@@ -274,13 +299,25 @@ function actualizarBarra() {
     barra.classList.add("oculto");
     return;
   }
-  let va = 0, nova = 0;
-  estado.decisiones.forEach((d) => (d === "va" ? va++ : nova++));
-  resumen.textContent = `${va} van · ${nova} no van · ${n} decididos`;
+  let va = 0, nova = 0, volver = 0;
+  estado.decisiones.forEach((d) => {
+    if (d === "va") va++;
+    else if (d === "nova") nova++;
+    else volver++;
+  });
+  const partes = [];
+  if (va) partes.push(`${va} van`);
+  if (nova) partes.push(`${nova} no van`);
+  if (volver) partes.push(`${volver} vuelven`);
+  resumen.textContent = partes.join(" · ");
   barra.classList.remove("oculto");
 }
 
 // --- Guardar decisiones ------------------------------------------------------
+
+function quitarPor(arr, campo, valor) {
+  return arr.filter((x) => x[campo] !== valor);
+}
 
 async function guardarDecisiones() {
   if (!getToken()) {
@@ -295,81 +332,74 @@ async function guardarDecisiones() {
   btn.textContent = "Guardando…";
 
   try {
-    // 1) Preferencias (noticias y temas en el mismo archivo).
+    // Traer versiones frescas para evitar conflictos de sha.
     const archPref = await obtenerArchivo("data/preferencias.json");
-    const pref = archPref
-      ? JSON.parse(archPref.contenido)
-      : {};
+    const pref = archPref ? JSON.parse(archPref.contenido) : {};
     pref.aprobados = pref.aprobados || [];
     pref.descartados = pref.descartados || [];
     pref.temas_aprobados = pref.temas_aprobados || [];
     pref.temas_descartados = pref.temas_descartados || [];
 
-    const tieneNoticia = (arr, t) => arr.some((x) => x.titular === t);
-    const tieneTema = (arr, t) => arr.some((x) => x.titulo === t);
+    const archBand = await obtenerArchivo("data/bandeja.json");
+    const bandeja = archBand ? JSON.parse(archBand.contenido) : [];
+    const archTemas = await obtenerArchivo("data/bandeja_temas.json");
+    const bandejaTemas = archTemas ? JSON.parse(archTemas.contenido) : [];
+
+    const noticiaPorId = new Map(bandeja.map((x) => [x.id, x]));
+    const temaPorId = new Map(bandejaTemas.map((x) => [x.id, x]));
 
     estado.decisiones.forEach((d, id) => {
       const entrada = estado.itemsPorId.get(id);
       if (!entrada) return;
-      const { tipo, item } = entrada;
 
-      if (tipo === "noticia") {
-        const reg = {
-          titular: item.titular,
-          categoria: item.categoria || "otro",
-          region: item.region || "chile",
-          razon: item.por_que_humor || "",
-        };
-        if (d === "va" && !tieneNoticia(pref.aprobados, item.titular)) pref.aprobados.push(reg);
-        if (d === "nova" && !tieneNoticia(pref.descartados, item.titular)) pref.descartados.push(reg);
+      if (entrada.tipo === "noticia") {
+        const it = noticiaPorId.get(id);
+        if (!it) return;
+        const t = it.titular;
+        // Limpiar registros previos en preferencias para este ítem.
+        pref.aprobados = quitarPor(pref.aprobados, "titular", t);
+        pref.descartados = quitarPor(pref.descartados, "titular", t);
+        if (d === "va") {
+          it.estado = "aprobada";
+          pref.aprobados.push({ titular: t, categoria: it.categoria || "otro", region: it.region || "chile", razon: it.por_que_humor || "" });
+        } else if (d === "nova") {
+          it.estado = "descartada";
+          pref.descartados.push({ titular: t, categoria: it.categoria || "otro", region: it.region || "chile", razon: it.por_que_humor || "" });
+        } else {
+          it.estado = "en_pauta"; // volver
+        }
       } else {
-        const reg = {
-          titulo: item.titulo,
-          categoria: item.categoria || "observacional",
-          razon: item.por_que_conversar || "",
-        };
-        if (d === "va" && !tieneTema(pref.temas_aprobados, item.titulo)) pref.temas_aprobados.push(reg);
-        if (d === "nova" && !tieneTema(pref.temas_descartados, item.titulo)) pref.temas_descartados.push(reg);
+        const it = temaPorId.get(id);
+        if (!it) return;
+        const t = it.titulo;
+        pref.temas_aprobados = quitarPor(pref.temas_aprobados, "titulo", t);
+        pref.temas_descartados = quitarPor(pref.temas_descartados, "titulo", t);
+        if (d === "va") {
+          it.estado = "aprobada";
+          pref.temas_aprobados.push({ titulo: t, categoria: it.categoria || "observacional", razon: it.por_que_conversar || "" });
+        } else if (d === "nova") {
+          it.estado = "descartada";
+          pref.temas_descartados.push({ titulo: t, categoria: it.categoria || "observacional", razon: it.por_que_conversar || "" });
+        } else {
+          it.estado = "en_pauta"; // volver
+        }
       }
     });
 
-    await guardarArchivo(
-      "data/preferencias.json",
-      pref,
-      archPref ? archPref.sha : null,
-      "Decisiones del conductor (panel web)"
-    );
-
-    // 2) Actualizar estados en las bandejas.
-    await actualizarEstadosBandeja("data/bandeja.json", "noticia");
-    await actualizarEstadosBandeja("data/bandeja_temas.json", "tema");
+    await guardarArchivo("data/preferencias.json", pref, archPref ? archPref.sha : null, "Decisiones del conductor (panel web)");
+    await guardarArchivo("data/bandeja.json", bandeja, archBand ? archBand.sha : null, "Actualizar estados de noticias (panel)");
+    if (bandejaTemas.length) {
+      await guardarArchivo("data/bandeja_temas.json", bandejaTemas, archTemas ? archTemas.sha : null, "Actualizar estados de temas (panel)");
+    }
 
     mostrarToast("✅ Decisiones guardadas. ¡El sistema aprende!");
     estado.decisiones.clear();
-    renderizar();
+    await cargarContenido();
   } catch (e) {
     mostrarToast("Error al guardar: " + e.message);
   } finally {
     btn.disabled = false;
     btn.textContent = "💾 Guardar decisiones";
-  }
-}
-
-async function actualizarEstadosBandeja(path, tipo) {
-  const arch = await obtenerArchivo(path);
-  if (!arch) return;
-  const bandeja = JSON.parse(arch.contenido);
-  let cambios = 0;
-  for (const it of bandeja) {
-    const d = estado.decisiones.get(it.id);
-    const entrada = estado.itemsPorId.get(it.id);
-    if (d && entrada && entrada.tipo === tipo) {
-      it.estado = d === "va" ? "aprobada" : "descartada";
-      cambios++;
-    }
-  }
-  if (cambios > 0) {
-    await guardarArchivo(path, bandeja, arch.sha, `Actualizar estados (${tipo}) desde el panel`);
   }
 }
 
@@ -419,6 +449,13 @@ async function iniciar() {
   document
     .getElementById("btn-guardar-decisiones")
     .addEventListener("click", guardarDecisiones);
+
+  document.querySelectorAll(".tab").forEach((b) => {
+    b.addEventListener("click", () => {
+      estado.vista = b.dataset.vista;
+      renderizar();
+    });
+  });
 
   await detectarBranch();
   await cargarContenido();
