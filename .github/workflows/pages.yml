@@ -3,7 +3,7 @@ name: Publicar panel (GitHub Pages)
 # Publica la carpeta web/ en GitHub Pages cada vez que cambia.
 on:
   push:
-    branches: ["main"]
+    branches: ["main", "master"]
     paths:
       - "web/**"
       - ".github/workflows/pages.yml"
