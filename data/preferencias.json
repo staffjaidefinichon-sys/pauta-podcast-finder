@@ -147,7 +147,33 @@
     "Aceptar humor absurdo/WTF para reír fuerte e irónico/observacional para segmentos de conversación."
   ],
   "temas_aprobados": [],
-  "temas_descartados": [],
+  "temas_descartados": [
+    {
+      "titulo": "Operación salida: ¿por qué los chilenos huimos todos juntos el mismo finde y al mismo taco?",
+      "categoria": "observacional",
+      "razon": "Muy poco tema gracioso para comentar."
+    },
+    {
+      "titulo": "Hacerse famoso sin querer en Chile: del posteo pidiendo ayuda a salir en la tele en 48 horas",
+      "categoria": "observacional",
+      "razon": "No hay mucho tema para comentar."
+    },
+    {
+      "titulo": "Comprar de mentira para calmar la ansiedad: la terapia de llenar el carrito y nunca pagar",
+      "categoria": "observacional",
+      "razon": "Muy denso para conversar en modo de chiste."
+    },
+    {
+      "titulo": "Temblor grado 4: el país donde 'ah, ¿tembló?' es una respuesta válida y hasta orgullosa",
+      "categoria": "observacional",
+      "razon": "Muy fuerte, por los terremotos en Venezuela (muy actuales)"
+    },
+    {
+      "titulo": "El auto 'del futuro' vs. el trámite más terrenal: cuando la revisión técnica te baja a la tierra",
+      "categoria": "observacional",
+      "razon": "No da para hablar"
+    }
+  ],
   "reglas_temas": [
     "Los temas son disparadores de conversación con humor observacional/irónico, no una noticia puntual.",
     "Pueden inspirarse en tendencias de redes (Twitter/X) o en fenómenos cotidianos chilenos.",
