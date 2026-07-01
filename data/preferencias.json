@@ -54,6 +54,48 @@
       "categoria": "observacional",
       "region": "chile",
       "razon": "Tema universal chileno: el temblor de grado 4 que para el resto del mundo es apocalipsis y para nosotros es 'ah, ¿tembló? sigo durmiendo'."
+    },
+    {
+      "titular": "Hincha chileno cierra la boca a periodista argentino en pleno Mundial: 'Tenemos una Copa que dura 100 años'",
+      "categoria": "observacional",
+      "region": "chile",
+      "razon": "Lo revise y fue una pelea que no daba para reirnos demasiado"
+    },
+    {
+      "titular": "El 'caso ovni de la papa gigante voladora' que sigue sin explicación en EE.UU.",
+      "categoria": "absurdo",
+      "region": "chile",
+      "razon": "Habla sobre una desclasifiacion de OVNI de la que ya hablamos"
+    },
+    {
+      "titular": "Por qué casi todos los jugadores usan botines rosados en el Mundial 2026",
+      "categoria": "observacional",
+      "region": "chile",
+      "razon": "Muy irrelevante para conversar"
+    },
+    {
+      "titular": "Sección 'Curiosidades' de BioBioChile: casos raros de regiones",
+      "categoria": "curioso",
+      "region": "chile",
+      "razon": "No es una noticia, es una seccion de una pagina"
+    },
+    {
+      "titular": "Sección 'Virales' de Meganoticias: lo más comentado de Chile y el mundo",
+      "categoria": "absurdo",
+      "region": "chile",
+      "razon": "No es una noticia, es una seccion de una pagina"
+    },
+    {
+      "titular": "Sección 'Viral' de Chilevisión: fenómenos de redes chilenos",
+      "categoria": "observacional",
+      "region": "chile",
+      "razon": "No es una noticia, es una seccion de una pagina"
+    },
+    {
+      "titular": "Naya Fácil y el drama de su Cybertruck rosado: la fiscalizaron en Coquimbo por la revisión técnica",
+      "categoria": "absurdo",
+      "region": "chile",
+      "razon": "Muy Irrelevante"
     }
   ],
   "reglas_aprendidas": [
