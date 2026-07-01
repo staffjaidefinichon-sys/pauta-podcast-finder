@@ -42,6 +42,18 @@
       "categoria": "absurdo",
       "region": "mundo",
       "razon": "Cantera infinita de WTF internacional: el formato 'esto pasó de verdad en alguna parte del planeta' siempre genera carcajada y debate."
+    },
+    {
+      "titular": "Banda chilena irrumpe en pleno Metro de Santiago para anunciar su concierto y descoloca a los pasajeros",
+      "categoria": "absurdo",
+      "region": "chile",
+      "razon": "Imaginar a la gente santiaguina, en modo 'no me hablen antes de las 9', siendo emboscada por una banda en vivo entre el apretujón del Metro da para mil chistes."
+    },
+    {
+      "titular": "Tiembla en Chile: sismo de magnitud 4 sacude Ollagüe de madrugada",
+      "categoria": "observacional",
+      "region": "chile",
+      "razon": "Tema universal chileno: el temblor de grado 4 que para el resto del mundo es apocalipsis y para nosotros es 'ah, ¿tembló? sigo durmiendo'."
     }
   ],
   "reglas_aprendidas": [
