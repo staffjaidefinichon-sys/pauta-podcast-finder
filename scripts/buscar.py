@@ -174,8 +174,18 @@ mismo espíritu (no las repitas si ya pasaron):
 1. Haz entre 4 y 6 búsquedas con ángulos distintos (no más), por ejemplo:
    virales/insólito Chile y regiones, noticias raras del mundo, animales o fails,
    tendencias en redes/Twitter. Aprovechá cada búsqueda para varias candidatas.
-2. Filtra excluyendo política y lo que choque con las reglas aprendidas.
-3. Sé GENEROSO con las noticias (es un buzón; el conductor filtra después).
+2. Muchos resultados serán PÁGINAS DE SECCIÓN o LISTADO (ej. .../temas/virales/,
+   .../lista/categorias/curiosidades, .../noticias/viral). ESAS NO son noticias.
+   Cuando encuentres una sección así, ÁBRELA con web_fetch y extrae de adentro las
+   NOTAS ESPECÍFICAS, usando la URL directa de cada nota individual.
+3. Filtra excluyendo política y lo que choque con las reglas aprendidas.
+4. Sé GENEROSO con las noticias (es un buzón; el conductor filtra después).
+
+## REGLA DE URLs (crítica)
+El campo "url" de cada noticia DEBE apuntar a la NOTA ESPECÍFICA (la página del
+artículo individual), NUNCA a una sección, categoría, tag, portada, listado o
+búsqueda. Si solo tenés el link de una sección, entra con web_fetch y saca el link
+del artículo puntual. Si no lográs la URL directa de una nota, NO la incluyas.
 
 ## Formato de salida (OBLIGATORIO)
 Después de buscar, responde ÚNICAMENTE con un bloque ```json ... ``` que contenga UN
@@ -217,7 +227,12 @@ def buscar(cliente: anthropic.Anthropic, prompt: str) -> dict:
     Web search corre como bucle del lado servidor: si llega al límite, devuelve
     stop_reason="pause_turn" y hay que reenviar para que continúe.
     """
-    tools = [{"type": "web_search_20260209", "name": "web_search", "max_uses": 6}]
+    tools = [
+        {"type": "web_search_20260209", "name": "web_search", "max_uses": 6},
+        # web_fetch permite abrir páginas de sección/listado y sacar las notas
+        # específicas de adentro (con su URL directa).
+        {"type": "web_fetch_20260209", "name": "web_fetch", "max_uses": 5},
+    ]
     mensajes = [{"role": "user", "content": prompt}]
 
     respuesta = None
@@ -282,6 +297,28 @@ def normalizar_url(url: str) -> str:
 def normalizar_titulo(t: str) -> str:
     """Clave de dedupe para temas (sin URL): título en minúsculas y compacto."""
     return re.sub(r"\s+", " ", (t or "").strip().lower())
+
+
+# Marcadores de que una URL es una SECCIÓN/LISTADO (no una nota específica).
+_SECCION_CONTIENE = (
+    "/lista/", "/listas/", "/temas/", "/tema/", "/tag/", "/tags/",
+    "/categoria/", "/categorias/", "/etiqueta/", "/etiquetas/",
+    "/seccion/", "/secciones/", "/buscar", "/search",
+)
+_SECCION_TERMINA = (
+    "viral", "virales", "curiosidades", "tendencias",
+    "insolito", "insolitos", "insolitas", "ranking", "noticias",
+)
+
+
+def es_url_de_seccion(url: str) -> bool:
+    """True si la URL apunta a una sección/listado y no a una noticia puntual."""
+    u = normalizar_url(url)                       # sin query ni barra final
+    path = re.sub(r"^https?://[^/]+", "", u)      # solo el path
+    if any(m in path for m in _SECCION_CONTIENE):
+        return True
+    ultimo = path.rsplit("/", 1)[-1]
+    return ultimo in _SECCION_TERMINA
 
 
 def semana_de(fecha_iso: str) -> str:
@@ -383,15 +420,22 @@ def main() -> int:
     # --- Noticias: dedupe por URL ---
     urls_conocidas = {normalizar_url(it.get("url", "")) for it in bandeja}
     nuevas_noticias = []
+    descartadas_seccion = 0
     for crudo in crudas_noticias:
         item = normalizar_noticia(crudo, fecha)
         if item is None:
+            continue
+        if es_url_de_seccion(item["url"]):
+            descartadas_seccion += 1
             continue
         clave = normalizar_url(item["url"])
         if clave in urls_conocidas:
             continue
         urls_conocidas.add(clave)
         nuevas_noticias.append(item)
+
+    if descartadas_seccion:
+        print(f"  Descartadas {descartadas_seccion} por ser URL de sección/listado.")
 
     # --- Temas: dedupe por título ---
     titulos_conocidos = {normalizar_titulo(it.get("titulo", "")) for it in bandeja_temas}
