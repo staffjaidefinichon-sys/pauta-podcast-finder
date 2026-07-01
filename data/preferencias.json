@@ -56,5 +56,13 @@
     "Los temas son disparadores de conversación con humor observacional/irónico, no una noticia puntual.",
     "Pueden inspirarse en tendencias de redes (Twitter/X) o en fenómenos cotidianos chilenos.",
     "EXCLUIR SIEMPRE política, igual que con las noticias."
+  ],
+  "notas_conductor": "Mas abusurdo o de impacto WTF",
+  "ejemplos_conductor": [
+    {
+      "titular": "Joven argentino utiliza dos cepillos de dientes: uno para su boca y otro para su ano",
+      "url": "https://www.instagram.com/p/DZK2rMaOHWW/",
+      "por_que": "Absurdo y da para hablar estupideces"
+    }
   ]
 }
