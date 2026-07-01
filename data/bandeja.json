@@ -8,7 +8,7 @@
     "url": "https://www.diariofruticola.cl/noticia/noticias-fruticolas/2026/06/australia-incauta-110-kilos-de-cocaina-en-contenedor-refrigerado-con-berries-procedente-de-chile",
     "por_que_humor": "El absurdo de que el 'producto estrella' chileno cruce medio planeta con un 'bonus' adentro da para chistes sobre exportaciones premium y el 'valor agregado' nacional.",
     "categoria": "absurdo",
-    "estado": "en_pauta",
+    "estado": "aprobada",
     "semana": "2026-07-01"
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://www.portalagrochile.cl/2026/06/24/campana-invita-a-apadrinar-una-papa-nativa-chilota-para-preservar-112-variedades-ancestrales-unicas-en-el-mundo/",
     "por_que_humor": "El concepto de 'apadrinar una papa' y recibir cartas de su evolución es absurdo y tierno a la vez; da para chistes sobre ser padrino de un tubérculo llamado 'Ojitos Colorados'.",
     "categoria": "absurdo",
-    "estado": "en_pauta",
+    "estado": "aprobada",
     "semana": "2026-07-01"
   },
   {
@@ -104,7 +104,7 @@
     "url": "https://www.biobiochile.cl/especial/mundial2026/noticias/2026/06/30/dejaron-solo-a-companero-el-video-de-la-verguenza-en-alemania-previo-a-fracaso-y-epica-de-paraguay.shtml",
     "por_que_humor": "Ver a futbolistas millonarios pasándose la 'papa caliente' del penal y escondiéndose es comedia pura sobre el miedo escénico; complemento internacional.",
     "categoria": "observacional",
-    "estado": "en_pauta",
+    "estado": "aprobada",
     "semana": "2026-07-01"
   },
   {
@@ -324,7 +324,7 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-07-01",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "35978bb1-a607-458c-8521-775d10b1e768",
@@ -337,7 +337,7 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-07-01",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "75b2ec3d-eda2-48ea-b5a3-9fa0d91a4bae",
@@ -376,7 +376,7 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-07-01",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "e5a3993c-03ce-4c44-bd81-435ae9ba969e",
@@ -402,7 +402,7 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-07-01",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "5202b425-d33b-4c2a-934b-85069c275968",
@@ -415,6 +415,6 @@
     "categoria": "curioso",
     "region": "mundo",
     "semana": "2026-07-01",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   }
 ]
