@@ -18,7 +18,7 @@
     "por_que_conversar": "Fenómeno cotidiano súper reconocible: el ritual del feriado largo, el peaje a luca, la pelea por el asiento del medio y el regreso peor que la ida. Todos tienen una historia.",
     "categoria": "observacional",
     "basado_en": "La operación salida del fin de semana largo de San Pedro y San Pablo",
-    "estado": "en_pauta",
+    "estado": "descartada",
     "semana": "2026-07-01"
   },
   {
@@ -40,7 +40,7 @@
     "por_que_conversar": "Habla de cómo funcionan las redes y la fama exprés en Chile: el personaje viral de la semana, la sobreexposición y lo rápido que pasamos del cariño al olvido.",
     "categoria": "observacional",
     "basado_en": "El caso de la mujer que se volvió viral pidiendo ayuda para cachorros rescatados",
-    "estado": "en_pauta",
+    "estado": "descartada",
     "semana": "2026-07-01"
   },
   {
@@ -107,7 +107,7 @@
     "categoria": "observacional",
     "basado_en": "Tendencia surcoreana de las tiendas online falsas para simular compras",
     "semana": "2026-07-01",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "f7f87268-639d-4021-ad3b-7f148e8b19fe",
@@ -118,7 +118,7 @@
     "categoria": "observacional",
     "basado_en": "Video viral del dentista evacuando durante un terremoto en plena intervención",
     "semana": "2026-07-01",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "7489d4e7-0ad3-4ab1-a965-5087fa54447c",
@@ -129,6 +129,6 @@
     "categoria": "observacional",
     "basado_en": "Noticia de la fiscalización al Cybertruck rosado de Naya Fácil en Coquimbo",
     "semana": "2026-07-01",
-    "estado": "en_pauta"
+    "estado": "descartada"
   }
 ]
