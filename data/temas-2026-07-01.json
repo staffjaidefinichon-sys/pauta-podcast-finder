@@ -1,5 +1,49 @@
 [
   {
+    "id": "ab015b40-cf8e-4eed-97a2-06990d01daa2",
+    "fecha_encontrada": "2026-07-01",
+    "titulo": "Ponerle palta a TODO: ¿identidad nacional o exageración descontrolada?",
+    "gancho": "Completo, pan, sushi, hamburguesa... si no lleva palta, ¿es realmente comida chilena?",
+    "por_que_conversar": "Permite un debate absurdo y apasionado sobre hasta dónde llega la paltamanía y qué platos 'no deberían' llevarla.",
+    "categoria": "absurdo",
+    "basado_en": "Obsesión gastronómica chilena por la palta, tema viral recurrente en redes.",
+    "semana": "2026-07-01",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5855e6b9-53b5-44a9-950b-a2a1fb9bc2f1",
+    "fecha_encontrada": "2026-07-01",
+    "titulo": "El chileno y el 'ya' que no significa nada: manual de traducción del modismo",
+    "gancho": "'Ya po', 'al tiro', 'en una hora' y 'ya voy saliendo' son todas mentiras cronológicas certificadas.",
+    "por_que_conversar": "Da para un segmento de traducción simultánea del chileno al español real, comparando promesas de tiempo con lo que de verdad pasa.",
+    "categoria": "observacional",
+    "basado_en": "Modismos chilenos y memes constantes sobre la puntualidad y el 'al tiro'.",
+    "semana": "2026-07-01",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "50322c5d-c436-4ebb-be1f-d92f53ba25c5",
+    "fecha_encontrada": "2026-07-01",
+    "titulo": "Los grupos de WhatsApp familiares: 'buenos días' con animación y cadenas de la abuela",
+    "gancho": "Nadie te avisa nada importante, pero llegan 47 stickers de flores a las 6 de la mañana.",
+    "por_que_conversar": "Fenómeno universal-chileno con personajes fijos (el tío que reenvía fake news, la mamá que responde solo con emojis) que todos reconocen y odian con cariño.",
+    "categoria": "observacional",
+    "basado_en": "Fenómeno cotidiano digital y tendencia recurrente en redes sobre grupos familiares.",
+    "semana": "2026-07-01",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "14dde299-5a11-48c4-934d-0614d94c4f3a",
+    "fecha_encontrada": "2026-07-01",
+    "titulo": "La obsesión chilena con la 'once': ¿es desayuno, cena o un estilo de vida?",
+    "gancho": "En Chile no cenamos, 'tomamos once' a las 20:00 con pan, palta y un té que no deja dormir a nadie.",
+    "por_que_conversar": "Es un ritual identitario lleno de reglas no escritas (el que llega tarde se queda sin marraqueta) que da para pelear en broma sobre qué es 'once de verdad'.",
+    "categoria": "observacional",
+    "basado_en": "Costumbre cotidiana chilena y debates recurrentes en redes sobre once vs. cena.",
+    "semana": "2026-07-01",
+    "estado": "en_pauta"
+  },
+  {
     "id": "470ddf0a-ae25-4ba5-9072-162948e862e5",
     "fecha_encontrada": "2026-06-30",
     "titulo": "Hacerse famoso sin querer en Chile: del posteo pidiendo ayuda a salir en la tele en 48 horas",
