@@ -96,6 +96,48 @@
       "categoria": "absurdo",
       "region": "chile",
       "razon": "Muy Irrelevante"
+    },
+    {
+      "titular": "Sección 'Insólito' de Infobae: lo bizarro internacional del día",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "No es una noticia, es una seccion de una pagina"
+    },
+    {
+      "titular": "'Increíble pero cierto': cuando la realidad supera a la ficción (Sputnik/NoticiasLatam)",
+      "categoria": "curioso",
+      "region": "mundo",
+      "razon": "No es una noticia, es una seccion de una pagina"
+    },
+    {
+      "titular": "'Noticias Locas' de Periodismo.com: rarezas del mundo",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "No es una noticia, es una seccion de una pagina"
+    },
+    {
+      "titular": "'Noticias insólitas' de La Prensa (Honduras): insólito del mundo",
+      "categoria": "curioso",
+      "region": "mundo",
+      "razon": "No es una noticia, es una seccion de una pagina"
+    },
+    {
+      "titular": "Dentista sigue evacuando (literal) durante un terremoto en plena intervención y arma debate en redes",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "No es lo suficientemente gracioso el video (culpa de la pagina de noticias)"
+    },
+    {
+      "titular": "Jóvenes surcoreanos usan tiendas online falsas para 'simular compras' y así evitar endeudarse",
+      "categoria": "curioso",
+      "region": "mundo",
+      "razon": "Esta Genial, pero ya hablamos de esta noticia."
+    },
+    {
+      "titular": "Wisconsin pone un límite de velocidad de 27,8 km/h para 'alertar' a los conductores",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "No da para tanta conversacion chistosa."
     }
   ],
   "reglas_aprendidas": [
