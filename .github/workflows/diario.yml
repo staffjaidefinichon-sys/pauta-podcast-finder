@@ -1,11 +1,11 @@
 name: Buscar noticias (pauta diaria)
 
-# Corre 2 veces al día. GitHub Actions usa UTC; Chile es UTC-3/UTC-4 según
-# horario de verano. Estos horarios apuntan a ~09:00 y ~18:00 hora de Chile.
+# Corre 1 vez al día a las ~09:00 hora de Chile. GitHub Actions usa UTC fijo;
+# Chile es UTC-4 (invierno) / UTC-3 (verano), así que 13:00 UTC = 09:00 en
+# invierno y 10:00 en verano.
 on:
   schedule:
-    - cron: "0 12 * * *"   # ~09:00 Chile (08:00 en invierno)
-    - cron: "0 21 * * *"   # ~18:00 Chile (17:00 en invierno)
+    - cron: "0 13 * * *"   # ~09:00 Chile (10:00 en verano)
   workflow_dispatch:        # permite ejecutarlo a mano desde la pestaña Actions
 
 # Necesario para que el workflow pueda hacer commit de los archivos generados.
