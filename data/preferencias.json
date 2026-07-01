@@ -195,7 +195,13 @@
     "Bloque Mundo: noticias absurdas, extrañas o insólitas de cualquier parte del mundo.",
     "Aceptar humor absurdo/WTF para reír fuerte e irónico/observacional para segmentos de conversación."
   ],
-  "temas_aprobados": [],
+  "temas_aprobados": [
+    {
+      "titulo": "La obsesión chilena con la 'once': ¿es desayuno, cena o un estilo de vida?",
+      "categoria": "observacional",
+      "razon": "Es un ritual identitario lleno de reglas no escritas (el que llega tarde se queda sin marraqueta) que da para pelear en broma sobre qué es 'once de verdad'."
+    }
+  ],
   "temas_descartados": [
     {
       "titulo": "Operación salida: ¿por qué los chilenos huimos todos juntos el mismo finde y al mismo taco?",
