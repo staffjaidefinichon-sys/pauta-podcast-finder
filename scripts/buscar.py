@@ -368,6 +368,10 @@ def main() -> int:
 
     try:
         resultado = buscar(cliente, prompt)
+        # Red de seguridad: si vuelve vacía (generación floja), reintentar una vez.
+        if not resultado["noticias"] and not resultado["temas"]:
+            print("  Volvió vacía; reintentando una vez...")
+            resultado = buscar(cliente, prompt)
     except anthropic.APIError as e:
         print(f"ERROR llamando a la API de Claude: {e}", file=sys.stderr)
         return 2
