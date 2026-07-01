@@ -1,5 +1,54 @@
 {
-  "aprobados": [],
+  "aprobados": [
+    {
+      "titular": "Australia incauta 110 kilos de cocaína en un contenedor refrigerado de berries chilenos",
+      "categoria": "absurdo",
+      "region": "chile",
+      "razon": "El absurdo de que el 'producto estrella' chileno cruce medio planeta con un 'bonus' adentro da para chistes sobre exportaciones premium y el 'valor agregado' nacional."
+    },
+    {
+      "titular": "Yolanda, la guardiana de papas: campaña invita a 'apadrinar' una de 112 variedades nativas de Chiloé por $10.000 al año",
+      "categoria": "absurdo",
+      "region": "chile",
+      "razon": "El concepto de 'apadrinar una papa' y recibir cartas de su evolución es absurdo y tierno a la vez; da para chistes sobre ser padrino de un tubérculo llamado 'Ojitos Colorados'."
+    },
+    {
+      "titular": "Alemania quedó fuera del Mundial por penales y el video de quiénes se 'arrancaban' de patear se hizo viral",
+      "categoria": "observacional",
+      "region": "chile",
+      "razon": "Ver a futbolistas millonarios pasándose la 'papa caliente' del penal y escondiéndose es comedia pura sobre el miedo escénico; complemento internacional."
+    },
+    {
+      "titular": "Una tienda japonesa en Kobe combina dulces tradicionales con mayonesa",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "Postre con mayonesa es el crossover que nadie pidió; da para hablar de las mezclas asquerosas que igual tienen fans y del chileno que le echa mayo a todo."
+    },
+    {
+      "titular": "China despliega drones autónomos que vigilan el tránsito y retan a los infractores",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "Un dron retándote por cruzar con luz roja es distopía cómica pura: imaginar ese mismo dron soltando garabatos en modo chileno da para rato."
+    },
+    {
+      "titular": "Restaurante libre en España cobra un recargo a los clientes que vomiten por comer en exceso",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "Multa por sobrepasarse en el buffet es el nivel de compromiso que ningún chileno pediría; da para historias del 'tenedor libre' y la vergüenza post-atracón."
+    },
+    {
+      "titular": "Rusia deporta a un hombre uzbeko por publicar una reseña de una falda de cuero",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "Que te echen de un país por opinar de una falda es un WTF total; da para bromas sobre las reseñas de 1 estrella más caras del mundo."
+    },
+    {
+      "titular": "277 perros baten el récord mundial de la 'pool party' canina más grande",
+      "categoria": "curioso",
+      "region": "mundo",
+      "razon": "Casi 300 perros en pelotera acuática es la imagen mental más feliz y caótica posible; puro material tierno-absurdo para reírse."
+    }
+  ],
   "descartados": [
     {
       "titular": "La 'histeria femenina': la antigua enfermedad que la medicina atribuía al útero 'errante'",
