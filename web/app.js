@@ -27,6 +27,7 @@ const estado = {
   temas: [],              // bandeja_temas.json completa
   itemsPorId: new Map(),  // id -> { tipo: "noticia" | "tema", item }
   decisiones: new Map(),  // id -> "va" | "nova" | "volver"
+  motivos: new Map(),     // id -> motivo (texto) para los "No va"
   vista: "pauta",         // pauta | aprobadas | descartadas
   semana: null,           // "YYYY-MM-DD" del miércoles de cierre seleccionado
   ejemplos: [],           // noticias-ejemplo que el conductor le enseña a la IA
@@ -301,6 +302,13 @@ function renderizar() {
     });
   });
 
+  // El motivo se guarda al escribir, sin re-renderizar (para no perder el foco).
+  contenedor.querySelectorAll(".motivo-input").forEach((inp) => {
+    inp.addEventListener("input", () => {
+      estado.motivos.set(inp.dataset.id, inp.value);
+    });
+  });
+
   actualizarBarra();
 }
 
@@ -316,11 +324,17 @@ function agregarSeccion(contenedor, titulo, items, fabricaTarjeta) {
 function botonesDecision(id) {
   const d = estado.decisiones.get(id);
   if (estado.vista === "pauta") {
+    const motivo = d === "nova"
+      ? `<input class="motivo-input" data-id="${escaparAttr(id)}" type="text"
+             placeholder="¿Por qué no va? (opcional: ej. 'noticia floja', no el tema)"
+             value="${escaparAttr(estado.motivos.get(id) || "")}" />`
+      : "";
     return `
       <div class="acciones">
         <button class="btn-va ${d === "va" ? "activo" : ""}" data-id="${escaparAttr(id)}" data-d="va">✅ Va</button>
         <button class="btn-nova ${d === "nova" ? "activo" : ""}" data-id="${escaparAttr(id)}" data-d="nova">❌ No va</button>
-      </div>`;
+      </div>
+      ${motivo}`;
   }
   // Aprobadas / Descartadas: opción de devolver a la pauta.
   return `
@@ -441,7 +455,8 @@ async function guardarDecisiones() {
           pref.aprobados.push({ titular: t, categoria: it.categoria || "otro", region: it.region || "chile", razon: it.por_que_humor || "" });
         } else if (d === "nova") {
           it.estado = "descartada";
-          pref.descartados.push({ titular: t, categoria: it.categoria || "otro", region: it.region || "chile", razon: it.por_que_humor || "" });
+          const razon = (estado.motivos.get(id) || "").trim() || it.por_que_humor || "";
+          pref.descartados.push({ titular: t, categoria: it.categoria || "otro", region: it.region || "chile", razon });
         } else {
           it.estado = "en_pauta"; // volver
         }
@@ -456,7 +471,8 @@ async function guardarDecisiones() {
           pref.temas_aprobados.push({ titulo: t, categoria: it.categoria || "observacional", razon: it.por_que_conversar || "" });
         } else if (d === "nova") {
           it.estado = "descartada";
-          pref.temas_descartados.push({ titulo: t, categoria: it.categoria || "observacional", razon: it.por_que_conversar || "" });
+          const razon = (estado.motivos.get(id) || "").trim() || it.por_que_conversar || "";
+          pref.temas_descartados.push({ titulo: t, categoria: it.categoria || "observacional", razon });
         } else {
           it.estado = "en_pauta"; // volver
         }
@@ -471,6 +487,7 @@ async function guardarDecisiones() {
 
     mostrarToast("✅ Decisiones guardadas. ¡El sistema aprende!");
     estado.decisiones.clear();
+    estado.motivos.clear();
     await cargarContenido();
   } catch (e) {
     mostrarToast("Error al guardar: " + e.message);

@@ -306,6 +306,19 @@ main {
 
 .tarjeta.decidida-volver { border-color: #2b4a73; }
 
+.motivo-input {
+  width: 100%;
+  margin-top: 0.6rem;
+  padding: 0.5rem 0.6rem;
+  border: 1px solid var(--nova);
+  border-radius: 6px;
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+  background: #fffdfc;
+}
+
+.motivo-input::placeholder { color: #b58a82; }
+
 /* --- Configuración / token --- */
 
 .tarjeta-config {

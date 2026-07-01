@@ -156,6 +156,10 @@ mismo espíritu (no las repitas si ya pasaron):
 {formatear(preferencias.get("aprobados", []), "titular")}
 
 ## Lo que el conductor DESCARTÓ antes (noticias)
+IMPORTANTE: leé la razón de cada descarte. Si la razón es por CALIDAD o por un ángulo
+puntual (ej. "noticia floja", "poco para comentar", "muy vista"), NO excluyas el tema
+entero: seguí trayendo noticias de ese tema si son mejores. Solo evitá un tema completo
+si las razones apuntan claramente al tema en sí (ej. "no me gusta el fútbol").
 {formatear(preferencias.get("descartados", []), "titular")}
 
 ## Reglas aprendidas (noticias)
