@@ -56,7 +56,7 @@
     "url": "https://www.t13.cl/noticia/mundial-2026/dialogo-entre-periodista-argentino-e-hincha-chileno-mundial-se-hace-viral-16-6-2026",
     "por_que_humor": "La picardía y el ingenio chileno frente al clásico rival trasandino es oro puro para humor; chiste asegurado con la 'Copa que dura 100 años'.",
     "categoria": "observacional",
-    "estado": "en_pauta",
+    "estado": "descartada",
     "semana": "2026-07-01"
   },
   {
@@ -80,7 +80,7 @@
     "url": "https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/06/21/una-papa-gigante-voladora-el-hasta-ahora-inexplicable-caso-de-ovni-revelado-en-ee-uu.shtml",
     "por_que_humor": "Un ovni con forma de papa gigante voladora es absurdo total; complemento internacional ideal para reírse fuerte (y conecta con la papa chilota).",
     "categoria": "absurdo",
-    "estado": "en_pauta",
+    "estado": "descartada",
     "semana": "2026-07-01"
   },
   {
@@ -92,7 +92,7 @@
     "url": "https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/06/19/las-dos-razones-de-por-que-todos-usan-zapatos-rosados-en-el-mundial-2026.shtml",
     "por_que_humor": "El tema de los futbolistas 'todos combinaditos' de rosa por marketing da para chistes observacionales sobre moda y machismo en la cancha.",
     "categoria": "observacional",
-    "estado": "en_pauta",
+    "estado": "descartada",
     "semana": "2026-07-01"
   },
   {
@@ -207,7 +207,7 @@
     "categoria": "curioso",
     "region": "chile",
     "semana": "2026-07-01",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "4ff3e123-7f1e-4c8f-a419-d1882fb72b9f",
@@ -220,7 +220,7 @@
     "categoria": "absurdo",
     "region": "chile",
     "semana": "2026-07-01",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "92543164-f527-41d7-8695-fb29f1a02dc4",
@@ -233,7 +233,7 @@
     "categoria": "observacional",
     "region": "chile",
     "semana": "2026-07-01",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "b7d45dbd-25ac-4ee2-8752-e2f14d9949d3",
@@ -298,7 +298,7 @@
     "categoria": "absurdo",
     "region": "chile",
     "semana": "2026-07-01",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "7a119398-8e90-422c-8b00-c230ace48767",
