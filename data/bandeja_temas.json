@@ -86,5 +86,49 @@
     "basado_en": "Obsesión gastronómica chilena por la palta, tema viral recurrente en redes.",
     "semana": "2026-07-01",
     "estado": "en_pauta"
+  },
+  {
+    "id": "5d08f9cd-2567-4836-80c3-541637c20fd8",
+    "fecha_encontrada": "2026-07-01",
+    "titulo": "El chileno que le echa mayo (o palta) a TODO: ¿un vicio nacional o un derecho adquirido?",
+    "gancho": "Si en Kobe mezclan dulces con mayonesa y todos gritan asco… acá le ponemos mayo hasta al completo que ya venía con mayo.",
+    "por_que_conversar": "Permite bromear con las combinaciones asquerosas que igual defendemos con el alma y con la obsesión chilena por embetunar cualquier plato; humor observacional puro.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral de la tienda japonesa que combina dulces con mayonesa",
+    "semana": "2026-07-01",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c278bf1f-18d7-422a-85c2-5962f310ea86",
+    "fecha_encontrada": "2026-07-01",
+    "titulo": "Comprar de mentira para calmar la ansiedad: la terapia de llenar el carrito y nunca pagar",
+    "gancho": "Los coreanos inventaron tiendas falsas para 'comprar' sin gastar… y todos acá tenemos 14 carritos abandonados a esta hora.",
+    "por_que_conversar": "Da para hablar del ritual universal de agregar cosas al carrito online a las 2 AM, la dopamina de la compra imaginaria y por qué preferimos eso a mirar el saldo real.",
+    "categoria": "observacional",
+    "basado_en": "Tendencia surcoreana de las tiendas online falsas para simular compras",
+    "semana": "2026-07-01",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f7f87268-639d-4021-ad3b-7f148e8b19fe",
+    "fecha_encontrada": "2026-07-01",
+    "titulo": "Temblor grado 4: el país donde 'ah, ¿tembló?' es una respuesta válida y hasta orgullosa",
+    "gancho": "Mientras un dentista arranca en pleno relleno, el chileno promedio evalúa si vale la pena levantarse del sillón.",
+    "por_que_conversar": "El sismo como examen nacional de sangre fría: quién arranca, quién sigue durmiendo, quién primero salva el celular. Tema universal chileno con mil anécdotas.",
+    "categoria": "observacional",
+    "basado_en": "Video viral del dentista evacuando durante un terremoto en plena intervención",
+    "semana": "2026-07-01",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "7489d4e7-0ad3-4ab1-a965-5087fa54447c",
+    "fecha_encontrada": "2026-07-01",
+    "titulo": "El auto 'del futuro' vs. el trámite más terrenal: cuando la revisión técnica te baja a la tierra",
+    "gancho": "Tú con tu Cybertruck rosado sintiéndote de otro planeta, y Carabineros con la papeleta recordándote que igual hay que pasar por la línea de revisión.",
+    "por_que_conversar": "Excusa para reírse del apego chileno a los autos, la tortura de la revisión técnica y el gasfíter de la modernidad: da lo mismo cuán futurista seas, el trámite iguala a todos.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de la fiscalización al Cybertruck rosado de Naya Fácil en Coquimbo",
+    "semana": "2026-07-01",
+    "estado": "en_pauta"
   }
 ]
