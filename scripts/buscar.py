@@ -88,6 +88,25 @@ def construir_prompt(preferencias: dict, fecha: str) -> str:
             lineas.append(f"  - [{cat}] {titulo} — {razon}")
         return "\n".join(lineas)
 
+    def formatear_ejemplos(items: list) -> str:
+        if not items:
+            return "  (sin ejemplos aún)"
+        lineas = []
+        for it in items[-20:]:
+            t = it.get("titular", "")
+            u = it.get("url", "")
+            p = it.get("por_que", "")
+            linea = f"  - {t}"
+            if u:
+                linea += f" ({u})"
+            if p:
+                linea += f" — {p}"
+            lineas.append(linea)
+        return "\n".join(lineas)
+
+    notas = (preferencias.get("notas_conductor") or "").strip()
+    ejemplos = preferencias.get("ejemplos_conductor", [])
+
     reglas = preferencias.get("reglas_aprendidas", [])
     reglas_temas = preferencias.get("reglas_temas", [])
     reglas_txt = "\n".join(f"  - {r}" for r in reglas) if reglas else "  (sin reglas aún)"
@@ -124,6 +143,14 @@ hoy en Chile") o en fenómenos cotidianos. Ejemplos del estilo buscado:
   - "La obsesión chilena con ponerle palta a todo: ¿identidad nacional o exageración?"
   - "Por qué todos odiamos/amamos los grupos de WhatsApp familiares"
 Cada tema es un ÁNGULO para charlar con humor observacional, no un hecho noticioso.
+
+## Indicaciones directas del conductor (PRIORIDAD MÁXIMA — respétalas por sobre todo)
+{notas if notas else "  (sin indicaciones por ahora)"}
+
+## Noticias que el conductor entregó como referencia ("así las quiero")
+Usa estas como norte del estilo y tipo de noticia que busca. Encontrá noticias del
+mismo espíritu (no las repitas si ya pasaron):
+{formatear_ejemplos(ejemplos)}
 
 ## Lo que el conductor APROBÓ antes (noticias)
 {formatear(preferencias.get("aprobados", []), "titular")}

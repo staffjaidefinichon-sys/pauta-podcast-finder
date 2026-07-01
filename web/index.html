@@ -35,6 +35,33 @@
     </details>
   </section>
 
+  <!-- Enseñar a la IA -->
+  <section id="ensenar" class="tarjeta-config">
+    <details id="ensenar-details">
+      <summary>🎓 Enseñar a la IA</summary>
+      <p class="ayuda">
+        Todo lo que pongas acá la IA lo lee <strong>antes de buscar, cada día</strong>,
+        y ajusta lo que trae. Acordate de <strong>Guardar</strong> al final.
+      </p>
+
+      <label class="etiqueta-campo" for="notas">📝 Indicaciones libres</label>
+      <p class="ayuda">Escribile en tus palabras: qué querés más, qué evitar, temas, tono…</p>
+      <textarea id="notas" rows="4" placeholder="Ej: Quiero más noticias de fútbol amateur de regiones. Evita farándula. Me gustan los animales que hacen cosas raras."></textarea>
+
+      <label class="etiqueta-campo">⭐ Noticias de ejemplo ("así las quiero")</label>
+      <p class="ayuda">Pegá una noticia que te gustó para que la IA busque del mismo estilo.</p>
+      <div class="form-ejemplo">
+        <input type="text" id="ej-titular" placeholder="Titular de la noticia" />
+        <input type="text" id="ej-url" placeholder="Link (opcional)" />
+        <input type="text" id="ej-porque" placeholder="Por qué te gustó (opcional)" />
+        <button id="btn-agregar-ejemplo">➕ Agregar ejemplo</button>
+      </div>
+      <ul id="lista-ejemplos" class="lista-ejemplos"></ul>
+
+      <button id="btn-guardar-ensenar">💾 Guardar lo que le enseñé</button>
+    </details>
+  </section>
+
   <!-- Selector de semana -->
   <div id="barra-semana" class="barra-semana">
     <label for="semana">🗓️ Semana:</label>

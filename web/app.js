@@ -29,6 +29,7 @@ const estado = {
   decisiones: new Map(),  // id -> "va" | "nova" | "volver"
   vista: "pauta",         // pauta | aprobadas | descartadas
   semana: null,           // "YYYY-MM-DD" del miércoles de cierre seleccionado
+  ejemplos: [],           // noticias-ejemplo que el conductor le enseña a la IA
 };
 
 const MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
@@ -173,6 +174,17 @@ async function cargarContenido() {
 
   estado.noticias = archBandeja ? JSON.parse(archBandeja.contenido) : [];
   estado.temas = archTemas ? JSON.parse(archTemas.contenido) : [];
+
+  // Cargar lo que el conductor le enseñó a la IA (notas + ejemplos).
+  try {
+    const archPref = await obtenerArchivo("data/preferencias.json");
+    const pref = archPref ? JSON.parse(archPref.contenido) : {};
+    document.getElementById("notas").value = pref.notas_conductor || "";
+    estado.ejemplos = pref.ejemplos_conductor || [];
+    renderEjemplos();
+  } catch (_) {
+    /* si falla, la sección queda vacía */
+  }
 
   estado.itemsPorId.clear();
   estado.noticias.forEach((it) => estado.itemsPorId.set(it.id, { tipo: "noticia", item: it }));
@@ -468,6 +480,76 @@ async function guardarDecisiones() {
   }
 }
 
+// --- Enseñar a la IA ---------------------------------------------------------
+
+function renderEjemplos() {
+  const ul = document.getElementById("lista-ejemplos");
+  ul.innerHTML = "";
+  estado.ejemplos.forEach((ej, i) => {
+    const li = document.createElement("li");
+    li.innerHTML = `
+      <span class="ej-texto">
+        <strong>${escapar(ej.titular || "")}</strong>
+        ${ej.por_que ? `<br><span class="ej-porque">${escapar(ej.por_que)}</span>` : ""}
+        ${ej.url ? `<br><a href="${escaparAttr(ej.url)}" target="_blank" rel="noopener">${escapar(ej.url)}</a>` : ""}
+      </span>
+      <button class="ej-borrar" data-i="${i}" title="Quitar">✕</button>
+    `;
+    ul.appendChild(li);
+  });
+  ul.querySelectorAll(".ej-borrar").forEach((b) => {
+    b.addEventListener("click", () => {
+      estado.ejemplos.splice(Number(b.dataset.i), 1);
+      renderEjemplos();
+    });
+  });
+}
+
+function agregarEjemplo() {
+  const titular = document.getElementById("ej-titular").value.trim();
+  const url = document.getElementById("ej-url").value.trim();
+  const porque = document.getElementById("ej-porque").value.trim();
+  if (!titular) {
+    mostrarToast("Poné al menos el titular del ejemplo.");
+    return;
+  }
+  estado.ejemplos.push({ titular, url, por_que: porque });
+  document.getElementById("ej-titular").value = "";
+  document.getElementById("ej-url").value = "";
+  document.getElementById("ej-porque").value = "";
+  renderEjemplos();
+}
+
+async function guardarEnsenar() {
+  if (!getToken()) {
+    mostrarToast("Primero configurá tu token de GitHub (arriba).");
+    document.getElementById("config-details").open = true;
+    return;
+  }
+  const btn = document.getElementById("btn-guardar-ensenar");
+  btn.disabled = true;
+  btn.textContent = "Guardando…";
+  try {
+    // Traer fresco para no pisar aprobados/descartados.
+    const archPref = await obtenerArchivo("data/preferencias.json");
+    const pref = archPref ? JSON.parse(archPref.contenido) : {};
+    pref.notas_conductor = document.getElementById("notas").value.trim();
+    pref.ejemplos_conductor = estado.ejemplos;
+    await guardarArchivo(
+      "data/preferencias.json",
+      pref,
+      archPref ? archPref.sha : null,
+      "Enseñar a la IA: notas y ejemplos del conductor"
+    );
+    mostrarToast("✅ Guardado. La IA lo usará en la próxima búsqueda.");
+  } catch (e) {
+    mostrarToast("Error al guardar: " + e.message);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = "💾 Guardar lo que le enseñé";
+  }
+}
+
 // --- Utilidades de UI --------------------------------------------------------
 
 function escapar(s) {
@@ -526,6 +608,9 @@ async function iniciar() {
     estado.semana = e.target.value;
     renderizar();
   });
+
+  document.getElementById("btn-agregar-ejemplo").addEventListener("click", agregarEjemplo);
+  document.getElementById("btn-guardar-ensenar").addEventListener("click", guardarEnsenar);
 
   await detectarBranch();
   await cargarContenido();

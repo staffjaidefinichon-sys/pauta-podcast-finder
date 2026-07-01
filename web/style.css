@@ -46,6 +46,95 @@ main {
   gap: 1rem;
 }
 
+/* --- Enseñar a la IA --- */
+
+.etiqueta-campo {
+  display: block;
+  font-family: system-ui, sans-serif;
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-top: 0.8rem;
+}
+
+#notas {
+  width: 100%;
+  padding: 0.6rem;
+  border: 1px solid var(--borde);
+  border-radius: 8px;
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+  resize: vertical;
+}
+
+.form-ejemplo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  margin: 0.4rem 0;
+}
+
+.form-ejemplo input {
+  padding: 0.5rem;
+  border: 1px solid var(--borde);
+  border-radius: 6px;
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+}
+
+.form-ejemplo button,
+#btn-guardar-ensenar {
+  padding: 0.55rem 0.9rem;
+  border: none;
+  border-radius: 6px;
+  background: var(--acento);
+  color: #fff;
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+#btn-guardar-ensenar {
+  margin-top: 0.8rem;
+  width: 100%;
+  background: var(--va);
+  font-size: 1rem;
+  padding: 0.7rem;
+}
+
+.form-ejemplo button:disabled,
+#btn-guardar-ensenar:disabled { opacity: 0.6; cursor: not-allowed; }
+
+.lista-ejemplos {
+  list-style: none;
+  padding: 0;
+  margin: 0.4rem 0 0;
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+}
+
+.lista-ejemplos li {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.5rem 0.6rem;
+  border: 1px solid var(--borde);
+  border-radius: 6px;
+  margin-bottom: 0.4rem;
+  background: #fbf7ef;
+}
+
+.lista-ejemplos .ej-porque { color: var(--tenue); }
+
+.lista-ejemplos .ej-borrar {
+  border: none;
+  background: transparent;
+  color: var(--nova);
+  font-size: 1rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
 /* --- Selector de semana --- */
 
 .barra-semana {
