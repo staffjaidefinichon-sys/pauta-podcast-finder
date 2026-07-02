@@ -407,19 +407,37 @@ def main() -> int:
     cliente = anthropic.Anthropic(api_key=api_key)
     prompt = construir_prompt(preferencias, fecha)
 
+    # Buscar acumulando hasta juntar una cantidad decente. El modelo es variable
+    # (a veces trae 10, a veces 1), así que reintentamos si vino flaca, sin repetir.
+    META_NOTICIAS = 6
+    MAX_INTENTOS = 3
+    crudas_noticias: list[dict] = []
+    crudas_temas: list[dict] = []
+    vistas_url: set[str] = set()
+    vistas_tit: set[str] = set()
+
     try:
-        resultado = buscar(cliente, prompt)
-        # Red de seguridad: si vuelve vacía (generación floja), reintentar una vez.
-        if not resultado["noticias"] and not resultado["temas"]:
-            print("  Volvió vacía; reintentando una vez...")
+        for intento in range(MAX_INTENTOS):
             resultado = buscar(cliente, prompt)
+            for n in resultado["noticias"]:
+                u = normalizar_url(n.get("url", ""))
+                if u and u not in vistas_url:
+                    vistas_url.add(u)
+                    crudas_noticias.append(n)
+            for t in resultado["temas"]:
+                k = normalizar_titulo(t.get("titulo", ""))
+                if k and k not in vistas_tit:
+                    vistas_tit.add(k)
+                    crudas_temas.append(t)
+            if len(crudas_noticias) >= META_NOTICIAS:
+                break
+            if intento < MAX_INTENTOS - 1:
+                print(f"  Solo {len(crudas_noticias)} noticias hasta ahora; buscando más...")
     except anthropic.APIError as e:
         print(f"ERROR llamando a la API de Claude: {e}", file=sys.stderr)
         return 2
 
-    crudas_noticias = resultado["noticias"]
-    crudas_temas = resultado["temas"]
-    print(f"  El modelo devolvió {len(crudas_noticias)} noticias y {len(crudas_temas)} temas.")
+    print(f"  El modelo devolvió {len(crudas_noticias)} noticias y {len(crudas_temas)} temas (acumulado).")
 
     # --- Noticias: dedupe por URL ---
     urls_conocidas = {normalizar_url(it.get("url", "")) for it in bandeja}
