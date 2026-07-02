@@ -1,5 +1,49 @@
 [
   {
+    "id": "43670e2d-3b13-4403-9c81-ecfd79e172c4",
+    "fecha_encontrada": "2026-07-02",
+    "titulo": "Tu última cena: el juego de qué pedirías si fuera tu último plato en la Tierra",
+    "gancho": "Si esta fuera tu última comida, ¿te la juegas por algo gourmet o mueres feliz con un completo italiano?",
+    "por_que_conversar": "Disparador clásico de mesa que revela la personalidad de cada uno: el nostálgico de la comida de la mamá, el que pide algo absurdo, el indeciso. Mezcla lo tierno con lo absurdo y nunca falla en grupo.",
+    "categoria": "curioso",
+    "basado_en": "Nota sobre las comidas más pedidas como último deseo por condenados a muerte en EE.UU. (29 de junio 2026).",
+    "semana": "2026-07-08",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a0c00671-49c0-4538-86e0-16177c595d99",
+    "fecha_encontrada": "2026-07-02",
+    "titulo": "La estafa del envase gigante: la caja de remedios que trae dos pastillas y la bolsa de papas que es 80% aire",
+    "gancho": "Compraste un producto y en realidad compraste, sobre todo, envase y aire.",
+    "por_que_conversar": "Rabia cotidiana universal que da para hacer un ranking colectivo de los envases más mentirosos (cereales, snacks, cremas, remedios) y teorizar en broma por qué nos siguen 'estafando' con el empaque.",
+    "categoria": "observacional",
+    "basado_en": "Nota sobre por qué los medicamentos vienen en envases mucho más grandes de lo necesario (30 de junio 2026).",
+    "semana": "2026-07-08",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "03b59865-80c7-4361-b698-93cc4cf25265",
+    "fecha_encontrada": "2026-07-02",
+    "titulo": "Apps de citas fatigadas: ¿el amor se volvió 'un supermercado de personas' donde nadie compra?",
+    "gancho": "Deslizar, deslizar, deslizar... y terminar más solo y más cansado que cuando empezaste.",
+    "por_que_conversar": "Fenómeno súper actual y transversal: el burnout del match, los perfiles clonados, las conversaciones que mueren en 'hola qué tal'. Da para anécdotas desastrosas de citas y humor observacional sobre buscar pareja en 2026.",
+    "categoria": "observacional",
+    "basado_en": "Reportaje sobre el declive y la fatiga de las apps de citas ('un supermercado de personas'), tendencia en portada el 2 de julio 2026.",
+    "semana": "2026-07-08",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "8253f488-183b-4c16-9d0f-98bdbce16f49",
+    "fecha_encontrada": "2026-07-02",
+    "titulo": "El invierno chileno y la guerra fría de la casa: ¿estufa a parafina, brasero peligroso o dormir con seis frazadas?",
+    "gancho": "Cuando adentro de la casa hace más frío que afuera y la solución es ponerse la parka para ver tele.",
+    "por_que_conversar": "Es un ritual identitario con reglas no escritas (el olor a parafina, la pelea por la estufa, el 'no abras la ventana') que todos vivimos igual; puro humor costumbrista para pelear en broma sobre el mejor método anti-frío.",
+    "categoria": "observacional",
+    "basado_en": "Ola de frío y heladas récord en el sur de Chile (Chillán -4,4°C, alertas por heladas en Aysén) a inicios de julio 2026.",
+    "semana": "2026-07-08",
+    "estado": "en_pauta"
+  },
+  {
     "id": "69e44fc9-b67a-4790-9e4e-19584d500dbe",
     "fecha_encontrada": "2026-07-02",
     "titulo": "La obsesión con los autos eléctricos 'del futuro' vs. la realidad chilena de andar tironeando el cargador",
