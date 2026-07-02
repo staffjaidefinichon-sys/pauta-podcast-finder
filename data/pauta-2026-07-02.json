@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ce55efba-39fa-4f52-83b3-ceb89cbe6669",
+    "fecha_encontrada": "2026-07-02",
+    "titular": "Encuentran fragmentos de 'La Ilíada' de Homero en las vendas de una momia egipcia de 1.600 años",
+    "resumen": "Investigadores hallaron trozos de un manuscrito con versos de 'La Ilíada' reutilizados como material en las mortajas de una momia en Egipto.",
+    "fuente": "DW / BioBioChile",
+    "url": "https://www.dw.com/es/encuentran-trozos-de-la-il%C3%ADada-en-momias-de-egipto/a-70000000",
+    "por_que_humor": "El reciclaje más épico de la historia: usar un clásico de la literatura universal como relleno de vendas es el nivel de 'nada se bota' que da para chistes sobre reutilizar cosas importantes para tonteras.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-07-08",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d9ea7fbf-e62c-4c86-8904-39165ab4ea55",
+    "fecha_encontrada": "2026-07-01",
+    "titular": "Récord Guinness: resolvió dos cubos de Rubik en su primer salto en paracaídas",
+    "resumen": "Una persona logró un récord Guinness al resolver dos cubos de Rubik mientras caía en su primer salto en paracaídas.",
+    "fuente": "Periodismo.com",
+    "url": "https://www.periodismo.com/2026/06/18/record-guinness-por-resolver-dos-cubos-de-rubik-en-un-primer-salto-en-paracaidas/",
+    "por_que_humor": "Multitasking extremo y totalmente innecesario: da para bromear con quién le pidió eso a la vida y con el que ni logra el cubo sentado en el sillón.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-07-01",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5b641c90-2c1b-47f8-bb4b-d1b3e4a36058",
+    "fecha_encontrada": "2026-06-30",
+    "titular": "Los 15 animales más increíbles recién descubiertos en 2026",
+    "resumen": "Un recuento reúne las nuevas especies animales descritas por la ciencia en 2026, varias de ellas con aspectos y nombres llamativos.",
+    "fuente": "Wildlife Nomads",
+    "url": "https://www.wildlifenomads.com/blog/newly-discovered-species-of-animals/",
+    "por_que_humor": "Bicho nuevo = nombre raro y cara de 'qué hago vivo'. Da para inventarles personalidad y backstory a cada animal recién bautizado.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "estado": "en_pauta",
+    "semana": "2026-07-01"
+  }
+]

@@ -130,5 +130,38 @@
     "basado_en": "Noticia de la fiscalización al Cybertruck rosado de Naya Fácil en Coquimbo",
     "semana": "2026-07-01",
     "estado": "descartada"
+  },
+  {
+    "id": "771ce70f-f1c2-4b8f-ba9a-8e858128bf9a",
+    "fecha_encontrada": "2026-07-02",
+    "titulo": "El chileno y el 'reciclaje creativo': usar cosas valiosas para puras tonteras (como envolver una momia con un clásico literario)",
+    "gancho": "Si los egipcios envolvieron una momia con 'La Ilíada', nosotros guardamos el bolso 'bueno' para que se llene de polvo en el clóset.",
+    "por_que_conversar": "Disparador observacional sobre el instinto de 'no botar nada' y darle usos absurdos a cosas caras o importantes; toca la manía de guardar cosas 'para una ocasión especial' que nunca llega.",
+    "categoria": "observacional",
+    "basado_en": "Hallazgo viral de fragmentos de 'La Ilíada' reutilizados en vendas de momia egipcia.",
+    "semana": "2026-07-08",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "94e6fc4b-31b2-411b-ac47-7e9b87877f6b",
+    "fecha_encontrada": "2026-07-02",
+    "titulo": "¿Por qué el humor en la TV chilena ya no pega? El eterno debate de 'antes daba más risa'",
+    "gancho": "Cada generación jura que el humor de su época era el bueno y que ahora 'ya no se puede reír de nada'.",
+    "por_que_conversar": "Tema observacional/irónico sobre la nostalgia del humor, los rankings de rating y esa costumbre chilena de decir que 'todo tiempo pasado fue más chistoso'; se presta para autorreferencia de un podcast de humor.",
+    "categoria": "observacional",
+    "basado_en": "Comentarios virales de figuras de TV chilena sobre el bajo rating de los programas de humor.",
+    "semana": "2026-07-08",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "69e44fc9-b67a-4790-9e4e-19584d500dbe",
+    "fecha_encontrada": "2026-07-02",
+    "titulo": "La obsesión con los autos eléctricos 'del futuro' vs. la realidad chilena de andar tironeando el cargador",
+    "gancho": "Compras el auto más futurista del planeta y terminas igual peleando por un enchufe como si fuera el cargador del celular en un aeropuerto.",
+    "por_que_conversar": "Ángulo irónico sobre la brecha entre la tecnología 'de Tony Stark' y lo terrenal del día a día chileno (dónde lo cargo, cabe en mi estacionamiento, y el vecino que 'pide prestada' la electricidad).",
+    "categoria": "observacional",
+    "basado_en": "Auge mediático de la electromovilidad y marcas como BYD instalándose fuerte en Chile.",
+    "semana": "2026-07-08",
+    "estado": "en_pauta"
   }
 ]
