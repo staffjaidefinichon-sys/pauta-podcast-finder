@@ -28,7 +28,7 @@ const estado = {
   itemsPorId: new Map(),  // id -> { tipo: "noticia" | "tema", item }
   decisiones: new Map(),  // id -> "va" | "nova" | "volver"
   motivos: new Map(),     // id -> motivo (texto) para los "No va"
-  vista: "pauta",         // pauta | aprobadas | descartadas
+  vista: "aprobadas",     // pauta | aprobadas | descartadas (arranca en "Van")
   semana: null,           // "YYYY-MM-DD" del miércoles de cierre seleccionado
   ejemplos: [],           // noticias-ejemplo que el conductor le enseña a la IA
 };
@@ -252,7 +252,7 @@ function contar(que) {
 function renderizar() {
   if (estado.semana) {
     document.getElementById("subtitulo").textContent =
-      `${etiquetaSemana(estado.semana)} · ${contar("pauta")} pendientes`;
+      `${etiquetaSemana(estado.semana)} · ${contar("aprobadas")} van · ${contar("pauta")} por aprobar`;
   }
 
   // Conteos en las pestañas.
@@ -272,8 +272,8 @@ function renderizar() {
 
   if (noticias.length === 0 && temas.length === 0) {
     const vacios = {
-      pauta: "No quedan temas pendientes. 🎉",
-      aprobadas: "Todavía no marcaste nada como “Va”.",
+      pauta: "No quedan noticias por aprobar. 🎉",
+      aprobadas: "Todavía no marcaste ninguna como “Va”. Tocá “⏳ Por aprobar” para elegir.",
       descartadas: "No hay nada descartado.",
     };
     contenedor.innerHTML = `<p class="mensaje">${vacios[estado.vista]}</p>`;
@@ -281,7 +281,7 @@ function renderizar() {
     return;
   }
 
-  if (estado.vista === "pauta") {
+  if (estado.vista !== "descartadas") {
     const mundo = noticias.filter((n) => n.region === "mundo");
     const chile = noticias.filter((n) => n.region !== "mundo");
     agregarSeccion(contenedor, "🇨🇱 Noticias de Chile", chile, tarjetaNoticia);
