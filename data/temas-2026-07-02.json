@@ -1,5 +1,38 @@
 [
   {
+    "id": "d4da368d-2982-4968-83ac-b6bb3e1983ea",
+    "fecha_encontrada": "2026-07-02",
+    "titulo": "La obsesión chilena con la comida 'para la foto': ¿comemos o posteamos?",
+    "gancho": "Enfriar el plato entero por sacar la foto perfecta antes del primer bocado.",
+    "por_que_conversar": "Fenómeno súper reconocible: el que hace esperar a todos en la mesa, la comida que se ve increíble y sabe a nada, y el 'pollo de cristal' que nadie quiere comer. Humor cotidiano garantizado.",
+    "categoria": "observacional",
+    "basado_en": "Virales de comida rara/estética como el pollo frito 'de cristal' chino.",
+    "semana": "2026-07-08",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "af92a43a-a3c9-40fb-a206-4b028b6c33a6",
+    "fecha_encontrada": "2026-07-02",
+    "titulo": "Los chistes 'de calendario': el humor obligatorio que repetimos cada año aunque ya no dé risa",
+    "gancho": "Llega el 1 de julio y, quieras o no, alguien va a soltar el meme de Julio Iglesias.",
+    "por_que_conversar": "Da para pelear en broma sobre los chistes que se repiten por tradición (el tío del asado, el meme del año nuevo) y por qué igual nos reímos aunque los tengamos gastados.",
+    "categoria": "observacional",
+    "basado_en": "La ola anual de memes del '1 de julio (Iglesias)' en redes.",
+    "semana": "2026-07-08",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "0c773569-235a-4354-9740-61c3b2dab6e0",
+    "fecha_encontrada": "2026-07-02",
+    "titulo": "La generación 'plant parent': ¿por qué le hablamos, ponemos nombre y hacemos duelo a nuestras plantas?",
+    "gancho": "Tener 40 suculentas, ponerles nombre y entrar en crisis existencial cuando se seca un potito.",
+    "por_que_conversar": "Es un fenómeno cotidiano lleno de exageraciones tiernas: el que 'adopta' plantas como hijos, el que las mata todas y el que se ofende si tocas su monstera. Puro humor observacional.",
+    "categoria": "observacional",
+    "basado_en": "Notas virales sobre cuidado de plantas y bichos en macetas circulando esta semana.",
+    "semana": "2026-07-08",
+    "estado": "en_pauta"
+  },
+  {
     "id": "43670e2d-3b13-4403-9c81-ecfd79e172c4",
     "fecha_encontrada": "2026-07-02",
     "titulo": "Tu última cena: el juego de qué pedirías si fuera tu último plato en la Tierra",
