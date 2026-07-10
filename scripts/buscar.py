@@ -17,7 +17,7 @@ Uso:
 
 Variables de entorno:
     ANTHROPIC_API_KEY   (requerida) — clave de la API de Anthropic.
-    MODELO_CLAUDE       (opcional)  — id del modelo. Default: claude-opus-4-8.
+    MODELO_CLAUDE       (opcional)  — id del modelo. Default: claude-sonnet-4-6.
     N_NOTICIAS          (opcional)  — tope de noticias por región. Default: 6.
     ZONA_HORARIA        (opcional)  — default: America/Santiago.
 """
@@ -45,7 +45,7 @@ ARCHIVO_PREFERENCIAS = DIR_DATOS / "preferencias.json"
 
 # --- Configuración -----------------------------------------------------------
 
-MODELO = os.environ.get("MODELO_CLAUDE", "claude-opus-4-8")
+MODELO = os.environ.get("MODELO_CLAUDE", "claude-sonnet-4-6")
 N_NOTICIAS = int(os.environ.get("N_NOTICIAS", "6"))
 ZONA = ZoneInfo(os.environ.get("ZONA_HORARIA", "America/Santiago"))
 
@@ -232,10 +232,11 @@ def buscar(cliente: anthropic.Anthropic, prompt: str) -> dict:
     stop_reason="pause_turn" y hay que reenviar para que continúe.
     """
     tools = [
-        {"type": "web_search_20260209", "name": "web_search", "max_uses": 6},
+        {"type": "web_search_20260209", "name": "web_search", "max_uses": 4},
         # web_fetch permite abrir páginas de sección/listado y sacar las notas
-        # específicas de adentro (con su URL directa).
-        {"type": "web_fetch_20260209", "name": "web_fetch", "max_uses": 5},
+        # específicas de adentro (con su URL directa). Es lo que más tokens gasta,
+        # así que lo mantenemos acotado.
+        {"type": "web_fetch_20260209", "name": "web_fetch", "max_uses": 2},
     ]
     mensajes = [{"role": "user", "content": prompt}]
 
@@ -409,8 +410,8 @@ def main() -> int:
 
     # Buscar acumulando hasta juntar una cantidad decente. El modelo es variable
     # (a veces trae 10, a veces 1), así que reintentamos si vino flaca, sin repetir.
-    META_NOTICIAS = 6
-    MAX_INTENTOS = 3
+    META_NOTICIAS = 5
+    MAX_INTENTOS = 2
     crudas_noticias: list[dict] = []
     crudas_temas: list[dict] = []
     vistas_url: set[str] = set()
