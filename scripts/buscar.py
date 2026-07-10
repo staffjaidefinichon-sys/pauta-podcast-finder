@@ -179,17 +179,17 @@ si las razones apuntan claramente al tema en sí (ej. "no me gusta el fútbol").
    virales/insólito Chile y regiones, noticias raras del mundo, animales o fails,
    tendencias en redes/Twitter. Aprovechá cada búsqueda para varias candidatas.
 2. Muchos resultados serán PÁGINAS DE SECCIÓN o LISTADO (ej. .../temas/virales/,
-   .../lista/categorias/curiosidades, .../noticias/viral). ESAS NO son noticias.
-   Cuando encuentres una sección así, ÁBRELA con web_fetch y extrae de adentro las
-   NOTAS ESPECÍFICAS, usando la URL directa de cada nota individual.
+   .../lista/categorias/curiosidades, .../noticias/viral). ESAS NO son noticias:
+   NO las incluyas. Buscá siempre la URL de la NOTA ESPECÍFICA (el artículo
+   individual). Si solo aparece la sección, refiná la búsqueda para dar con la nota.
 3. Filtra excluyendo política y lo que choque con las reglas aprendidas.
 4. Sé GENEROSO con las noticias (es un buzón; el conductor filtra después).
 
 ## REGLA DE URLs (crítica)
 El campo "url" de cada noticia DEBE apuntar a la NOTA ESPECÍFICA (la página del
 artículo individual), NUNCA a una sección, categoría, tag, portada, listado o
-búsqueda. Si solo tenés el link de una sección, entra con web_fetch y saca el link
-del artículo puntual. Si no lográs la URL directa de una nota, NO la incluyas.
+búsqueda. Si solo tenés el link de una sección, refiná la búsqueda para dar con el
+artículo puntual. Si no lográs la URL directa de una nota, NO la incluyas.
 
 ## Formato de salida (OBLIGATORIO)
 Después de buscar, responde ÚNICAMENTE con un bloque ```json ... ``` que contenga UN
@@ -231,12 +231,10 @@ def buscar(cliente: anthropic.Anthropic, prompt: str) -> dict:
     Web search corre como bucle del lado servidor: si llega al límite, devuelve
     stop_reason="pause_turn" y hay que reenviar para que continúe.
     """
+    # Búsqueda web SIMPLE (sin filtrado dinámico por code execution): rápida,
+    # barata y sin los cuelgues de las versiones _20260209.
     tools = [
-        {"type": "web_search_20260209", "name": "web_search", "max_uses": 4},
-        # web_fetch permite abrir páginas de sección/listado y sacar las notas
-        # específicas de adentro (con su URL directa). Es lo que más tokens gasta,
-        # así que lo mantenemos acotado.
-        {"type": "web_fetch_20260209", "name": "web_fetch", "max_uses": 2},
+        {"type": "web_search_20250305", "name": "web_search", "max_uses": 5},
     ]
     mensajes = [{"role": "user", "content": prompt}]
 
