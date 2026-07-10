@@ -284,5 +284,49 @@
     "basado_en": "Concepción anunció multas para quienes alimenten palomas.",
     "semana": "2026-07-08",
     "estado": "en_pauta"
+  },
+  {
+    "id": "5463bf05-22ba-47a4-9832-104e4d5ff680",
+    "fecha_encontrada": "2026-07-10",
+    "titulo": "El arte moderno: ¿genialidad o estafa bien vendida? El caso del piso de mantequilla de maní por el que cobran entrada",
+    "gancho": "Un museo europeo unta 360 kilos de maní en el piso y lo llama obra de arte… y la gente hace fila para verlo.",
+    "por_que_conversar": "El arte conceptual siempre divide: hay quienes lo defienden a muerte y quienes creen que es el cuento del siglo. El caso del 'piso de mantequilla de maní' es tan concreto y ridículo que permite hablar con humor de qué es arte, cuánto pagarías tú por verlo y si en Chile alguien untaría el piso del Museo de Bellas Artes con pebre y lo llamaría arte nacional.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral del Museo Boijmans Van Beuningen de Rotterdam que cubrió su piso con 360 kg de mantequilla de maní como homenaje a un artista fallecido (julio 2026)",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "fad544a8-77bf-4c37-88a5-b2c2cd91d52e",
+    "fecha_encontrada": "2026-07-10",
+    "titulo": "La cultura del récord Guinness absurdo: ¿qué récord tonto podría tener Chile que aún nadie ha reclamado?",
+    "gancho": "Un tipo camina con un globo entre las rodillas y otro de 93 años maneja camiones: el libro Guinness está lleno de récords que nadie pidió pero todos quieren.",
+    "por_que_conversar": "Los récords Guinness ridículos son un fenómeno universal que da para reírse de la creatividad humana aplicada a lo inútil. El ángulo chileno es poderoso: ¿cuál sería el récord absurdo más chileno posible? ¿Mayor cantidad de once seguidas? ¿Más empanadas comidas antes de una procesión? ¿El taco vehicular más largo sin que nadie toque la bocina?",
+    "categoria": "absurdo",
+    "basado_en": "Noticias de UPI sobre récords Guinness insólitos (hombre con globo entre rodillas, camionero de 93 años, esquiador acuático de 94) de julio 2026",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b8be8196-82bb-43d9-b17a-186a573cc570",
+    "fecha_encontrada": "2026-07-10",
+    "titulo": "El capibara: el animal más zen del planeta y por qué todos quisiéramos vivir como uno",
+    "gancho": "Un capibara apareció paseando tranquilamente por un barrio de Malasia sin que nadie entienda cómo llegó ahí, y claramente sin estrés alguno.",
+    "por_que_conversar": "El capibara es el fenómeno de internet más tierno y absurdo de los últimos años: convive con caimanes, no le importa nada y siempre parece en modo spa. Da para hablar de por qué la gente proyecta en este animal su filosofía de vida ideal, si los chilenos somos más capibara o más nutria, y qué pasaría si hubiera uno suelto en el Metro de Santiago.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del capibara suelto en Malasia (UPI, julio 2026) más el fenómeno cultural del capibara en redes sociales",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1a5eeb48-a6ba-4d40-9a23-ed71a7bcec2d",
+    "fecha_encontrada": "2026-07-10",
+    "titulo": "Las monedas de 10 pesos: el objeto más odiado de Chile que igual nadie tira a la basura",
+    "gancho": "Alguien juntó un millón de monedas de 10 pesos para contrabandearlas a China y venderlas como chatarra, y la pregunta es: ¿cómo las juntó tan rápido si nadie las quiere?",
+    "por_que_conversar": "La moneda de 10 pesos es el objeto más despreciado del país: nadie la quiere en el bolsillo, los almaceneros la regalan, pero igual todos la guardan en un frasco. Da para hablar de la relación absurda que tiene el chileno con las monedas chicas, los frascos de monedas que hay en cada casa y el sueño de algún día 'usarlas para algo'.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del contrabando de un millón de monedas de 10 pesos desde Valparaíso hacia China (BioBioChile, 4 de julio 2026)",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
   }
 ]
