@@ -241,13 +241,24 @@ def buscar(cliente: anthropic.Anthropic, prompt: str) -> dict:
     mensajes = [{"role": "user", "content": prompt}]
 
     respuesta = None
+    container_id = None
     for _ in range(3):
-        respuesta = cliente.messages.create(
-            model=MODELO,
-            max_tokens=16000,
-            tools=tools,
-            messages=mensajes,
-        )
+        kwargs = {
+            "model": MODELO,
+            "max_tokens": 16000,
+            "tools": tools,
+            "messages": mensajes,
+        }
+        # Las tools web hacen filtrado dinámico con code execution; si se pausó
+        # a mitad, hay que reenviar el mismo contenedor para poder continuar.
+        if container_id:
+            kwargs["container"] = container_id
+        respuesta = cliente.messages.create(**kwargs)
+
+        cont = getattr(respuesta, "container", None)
+        if cont is not None and getattr(cont, "id", None):
+            container_id = cont.id
+
         if respuesta.stop_reason != "pause_turn":
             break
         mensajes.append({"role": "assistant", "content": respuesta.content})
