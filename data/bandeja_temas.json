@@ -328,5 +328,49 @@
     "basado_en": "Noticia del contrabando de un millón de monedas de 10 pesos desde Valparaíso hacia China (BioBioChile, 4 de julio 2026)",
     "semana": "2026-07-15",
     "estado": "en_pauta"
+  },
+  {
+    "id": "4a45aa9d-82c5-4745-879f-5418d23cfb57",
+    "fecha_encontrada": "2026-07-11",
+    "titulo": "El 'delivery de todo': ¿en qué momento los chilenos normalizamos pedir a domicilio hasta lo más ridículo?",
+    "gancho": "Si en Nueva York llega una ardilla viva en un paquete, ¿qué cosa más absurda ha llegado a tu casa pedida por internet?",
+    "por_que_conversar": "La cultura del delivery explotó en Chile post-pandemia y hay historias de pedidos mal hechos, llegadas insólitas y compras que dan vergüenza ajena; da para que cada panelista cuente su peor o más absurdo pedido y reflexionar sobre si ya somos incapaces de ir a una tienda.",
+    "categoria": "observacional",
+    "basado_en": "Tendencia global del delivery extremo y la noticia de la ardilla en el paquete de Meta en Tailandia",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1499d227-94a7-430a-bca4-1bd7128b6a86",
+    "fecha_encontrada": "2026-07-11",
+    "titulo": "Récords Guinness absurdos: ¿por qué los seres humanos necesitamos ser 'el mejor' haciendo cosas completamente inútiles?",
+    "gancho": "Hay un récord oficial por caminar con un globo entre las rodillas y otro por besarse 195 veces en 30 segundos: ¿cuál récord absurdo intentarías tú?",
+    "por_que_conversar": "El Guinness tiene categorías que hacen dudar de la especie humana; da para un segmento en que los conductores proponen récords igualmente inútiles con sabor chileno (el que come más sopaipillas en modo lluvia, el que resiste más tiempo en una micro apretada, etc.) y debatir qué nos lleva a querer ser 'el mejor' en algo, lo que sea.",
+    "categoria": "absurdo",
+    "basado_en": "Récord de besos en 30 segundos (Brasil) y récord de globo entre rodillas (Chicago), ambos de julio 2026",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a84167b2-6678-4676-aa02-232260e01434",
+    "fecha_encontrada": "2026-07-11",
+    "titulo": "Mascotas con traumas: los miedos más ridículos e inexplicables de los animales domésticos chilenos",
+    "gancho": "Un perro chileno con terror a las moscas tiene 700 mil vistas: ¿cuál es el miedo más ridículo que has visto en una mascota?",
+    "por_que_conversar": "Cualquier dueño de perro o gato tiene una historia de su mascota aterrada por algo absurdo (una bolsa plástica, el papel aluminio, un globo); da para que los conductores compartan las suyas, se rían del drama desproporcionado y reflexionen en modo irónico sobre si los animales también tienen ansiedad digital como sus dueños.",
+    "categoria": "observacional",
+    "basado_en": "Viral chileno del perro con fobia a las moscas (Chilevision/TikTok, julio 2026)",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "66d7d7ce-1a08-40dd-84ed-3d1535d47415",
+    "fecha_encontrada": "2026-07-11",
+    "titulo": "¿Cuándo fue que los fanáticos cruzaron el límite? De pagar basura de famosos a tatuarse logos de marcas",
+    "gancho": "Las fans de Taylor Swift agotaron el stock de basura recogida en su boda: ¿cuál es el nivel de fanatismo más extremo que has visto o del que te has enterado?",
+    "por_que_conversar": "Chile tiene su propia cultura de fanatismo (teleseries, artistas, fútbol) con momentos igual de excesivos; da para debatir cuándo el ser fan deja de ser entretenido y se vuelve una identidad que te consume, con humor y sin juzgar demasiado, porque todos hemos hecho algo ridículo por algo que amamos.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral de basura de boda Swift-Kelce agotada como merchandise (UPI, julio 2026)",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
   }
 ]
