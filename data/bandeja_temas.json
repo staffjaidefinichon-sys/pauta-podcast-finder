@@ -372,5 +372,49 @@
     "basado_en": "Noticia viral de basura de boda Swift-Kelce agotada como merchandise (UPI, julio 2026)",
     "semana": "2026-07-15",
     "estado": "en_pauta"
+  },
+  {
+    "id": "919d7989-bd2a-49f5-aa3f-ac4a0d16b299",
+    "fecha_encontrada": "2026-07-12",
+    "titulo": "¿Volvería con tu ex? El hashtag que Chile no puede parar de debatir en redes",
+    "gancho": "Chile lleva días tuiteando '#VolveriasConTuEx2' como si fuera una emergencia nacional, y todos tienen una opinión muy caliente.",
+    "por_que_conversar": "El tema del 'volvería con mi ex' es un clásico que mezcla humor negro, vergüenza ajena y memorias traumáticas que todos tienen. Da para hacer un 'reglamento oficial del ex tolerable vs. el ex que te dio diarrea emocional', hablar de los criterios absurdos con los que la gente toma esa decisión y hacer burla de las justificaciones más ridículas. Nivel de conversación: infinito.",
+    "categoria": "observacional",
+    "basado_en": "Hashtag #VolveriasConTuEx2 tendencia en Twitter/X Chile hoy, 12 julio 2026.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3d9ee3a2-7bbd-4dda-a387-ea6574460436",
+    "fecha_encontrada": "2026-07-12",
+    "titulo": "El fiebre de baile de la tele chilena: ¿por qué todos queremos ser bailarines pero ninguno puede con el ritmo?",
+    "gancho": "El hashtag #fiebredebailechv está en tendencia y Chile está dividido entre los que bailan y los que miran avergonzados.",
+    "por_que_conversar": "Chile tiene una relación complicada con el baile: todos creen que saben pero nadie tiene ritmo. Da para hablar del 'bailarín de matrimonio chileno', el clásico que mezcla cumbia con cueca con reggaeton sin filtro, de la brecha generacional entre los que bailan con los brazos y los que bailan con el alma, y del momento de vergüenza máxima en cualquier evento social nacional.",
+    "categoria": "observacional",
+    "basado_en": "Hashtag #fiebredebailechv tendencia en Twitter/X Chile hoy, 12 julio 2026, relacionado con programa de baile de Chilevisión.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1f1fc132-031f-420f-a1df-000d6bf0c729",
+    "fecha_encontrada": "2026-07-12",
+    "titulo": "El carpincho como nueva deidad del internet: ¿por qué el roedor más tranquilo del mundo conquistó al ser humano?",
+    "gancho": "El carpincho anda suelto por Malasia, con camiseta de Messi en Argentina y como meme en todo Chile: ¿cómo un roedor gigante se convirtió en el ser más querido de la red?",
+    "por_que_conversar": "El carpincho es el animal que nadie temía, nadie coleccionaba y nadie pedía, pero que de repente es el favorito de todos en internet. Da para debatir por qué los humanos del siglo XXI decidieron que el roedor más gordo y pacífico del mundo era su representante espiritual, compararlo con el chileno promedio en vacaciones y hacer una defensa filosófica del 'no hacer nada' como virtud máxima.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del carpincho suelto en Malasia (UPI, julio 2026) + tendencia global sostenida del carpincho como ícono de internet.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d7ac7dc1-d938-41e6-8f1c-da6288c2109d",
+    "fecha_encontrada": "2026-07-12",
+    "titulo": "Récords Guinness absurdos: ¿en qué momento decidimos que esto era un logro de la humanidad?",
+    "gancho": "195 besos en 30 segundos, el camionero de 93 años, la pool party de perros: el Guinness es básicamente un catálogo de cosas que nadie pidió pero que todos celebran.",
+    "por_que_conversar": "Los récords Guinness son el equivalente institucional a las apuestas de borrachos: alguien hace algo ridículo, lo miden con cronómetro y de repente es un 'hito de la humanidad'. Da para que los conductores inventen sus propios récords chilenos (el récord de más minutos esperando el metro, el récord de más veces que un chileno dijo 'ya po' en un día), debatir qué récord inútil intentarían batir ellos y hablar de la obsesión humana con ser 'el primero en algo', aunque ese algo sea completamente inútil.",
+    "categoria": "absurdo",
+    "basado_en": "Noticias reales de récords Guinness de esta semana: pareja que se besó 195 veces en 30 segundos (Brasil) y camionero de 93 años (Iowa), UPI julio 2026.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
   }
 ]
