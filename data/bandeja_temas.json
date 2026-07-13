@@ -416,5 +416,49 @@
     "basado_en": "Noticias reales de récords Guinness de esta semana: pareja que se besó 195 veces en 30 segundos (Brasil) y camionero de 93 años (Iowa), UPI julio 2026.",
     "semana": "2026-07-15",
     "estado": "en_pauta"
+  },
+  {
+    "id": "66ac5d0f-f6f0-453c-98a5-4b0e0aa91ede",
+    "fecha_encontrada": "2026-07-13",
+    "titulo": "¿Por qué en Chile cualquier obra pública tarda más que una gestación de elefante?",
+    "gancho": "7 kilómetros en 11 años: bienvenido al estándar nacional de construcción.",
+    "por_que_conversar": "El absurdo de los plazos de obras en Chile es un dolor compartido por todo el país: el puente que lleva 8 años 'casi listo', la ciclovía que terminaron cuando ya nadie andaba en bicicleta, el bypass que costó más caro que la luna. Da para historias propias, comparaciones ridículas y reflexión irónica sobre si vivimos en el país de 'ya va'.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del proyecto de 7 km en Biobío con plazo de 11 años + fenómeno nacional recurrente de obras públicas eternas",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d8c6f9b6-1b24-477a-8225-6ab7a6c96253",
+    "fecha_encontrada": "2026-07-13",
+    "titulo": "El chileno y los animales famosos: ¿por qué nos encanta que un animal sea 'celebridad'?",
+    "gancho": "Una foca con fans que piden su privacidad, un pato con camiseta del Tri y 13 perros con la albiceleste: los animales están robando protagonismo humano.",
+    "por_que_conversar": "El fenómeno de los animales que se vuelven más famosos que la gente da para conversación larga: los perros 'influencers', las focas con derecho a privacidad, el pato mascota del Mundial. ¿Cuándo fue que los animales empezaron a tener mejor prensa que los humanos? ¿Chile tiene su propio animal famoso? Humor absurdo garantizado.",
+    "categoria": "absurdo",
+    "basado_en": "Noticias virales internacionales de animales famosos (Neil la foca, Merlin el pato, los perros de Buenos Aires) + tendencia global de animales en redes",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "86293bb7-d9e9-4430-a7ec-8085bfbe17f7",
+    "fecha_encontrada": "2026-07-13",
+    "titulo": "Récords Guinness inútiles: la humanidad en su momento más absurdo",
+    "gancho": "195 besos en 30 segundos: ¿amor verdadero o simplemente cardio muy específico?",
+    "por_que_conversar": "Los récords Guinness más absurdos del mundo son un espejo perfecto de la raza humana: alguien dedicó su vida a esto. Da para debatir cuál sería el récord más chileno posible (¿más sopaipillas comidas bajo la lluvia? ¿mayor cantidad de personas en una micro?), y para reflexionar con humor sobre por qué necesitamos certificado oficial de que somos los mejores en cosas completamente inútiles.",
+    "categoria": "absurdo",
+    "basado_en": "Tendencia de récords Guinness virales + noticia de la pareja brasileña de los 195 besos",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "55c22a3a-8c37-4a15-a3d7-643681d0776b",
+    "fecha_encontrada": "2026-07-13",
+    "titulo": "Internet y las confusiones de identidad: cuando alguien te escribe creyendo que eres famoso",
+    "gancho": "Un colombiano lleva años recibiendo declaraciones de amor de señoras que creen que administra la cuenta de Julio Iglesias... y no sabe cómo decirles que no.",
+    "por_que_conversar": "El fenómeno de recibir mensajes equivocados en redes sociales o WhatsApp es universal y da para historias propias hilarantes: el que llegó a un grupo de apoderados sin querer, el que responde pedidos de una empresa con su mismo nombre, o el clásico número de teléfono que perteneció antes a alguien famoso. Humor observacional cotidiano que conecta con todos.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral de @memes.de.julio + fenómeno de confusiones de identidad en redes sociales",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
   }
 ]
