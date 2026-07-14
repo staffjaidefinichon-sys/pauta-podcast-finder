@@ -30,6 +30,8 @@ import re
 import sys
 import unicodedata
 import uuid
+from urllib.error import HTTPError
+from urllib.request import Request, urlopen
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -346,6 +348,23 @@ _SECCION_TERMINA = (
 )
 
 
+_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+
+
+def url_rota(url: str) -> bool:
+    """True solo si el link está claramente roto (404/410). Conservador: ante
+    cualquier duda (bloqueo del sitio, timeout, error de red) devuelve False."""
+    try:
+        req = Request(url, headers={"User-Agent": _UA})
+        with urlopen(req, timeout=10):
+            return False  # 2xx/3xx: existe
+    except HTTPError as e:
+        return e.code in (404, 410)
+    except Exception:
+        return False  # timeout / bloqueo / red: no la marcamos rota
+
+
 def es_url_de_seccion(url: str) -> bool:
     """True si la URL apunta a una sección/listado y no a una noticia puntual."""
     u = normalizar_url(url)                       # sin query ni barra final
@@ -500,6 +519,7 @@ def main() -> int:
     nuevas_noticias = []
     descartadas_seccion = 0
     descartadas_repetidas = 0
+    descartadas_link = 0
     for crudo in crudas_noticias:
         item = normalizar_noticia(crudo, fecha)
         if item is None:
@@ -512,6 +532,9 @@ def main() -> int:
         if clave in urls_conocidas or any(titulos_parecidos(st, s) for s in stems_conocidos):
             descartadas_repetidas += 1
             continue
+        if url_rota(item["url"]):
+            descartadas_link += 1
+            continue
         urls_conocidas.add(clave)
         stems_conocidos.append(st)
         nuevas_noticias.append(item)
@@ -520,6 +543,8 @@ def main() -> int:
         print(f"  Descartadas {descartadas_seccion} por ser URL de sección/listado.")
     if descartadas_repetidas:
         print(f"  Descartadas {descartadas_repetidas} por repetidas/parecidas a existentes.")
+    if descartadas_link:
+        print(f"  Descartadas {descartadas_link} por link roto (404).")
 
     # --- Temas: dedupe por título exacto y por parecido ---
     titulos_conocidos = {normalizar_titulo(it.get("titulo", "")) for it in bandeja_temas}
