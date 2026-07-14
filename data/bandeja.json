@@ -1222,5 +1222,19 @@
     "region": "chile",
     "semana": "2026-07-15",
     "estado": "aprobada"
+  },
+  {
+    "id": "1ed11406-808b-4d38-938d-51ff0141d11a",
+    "fecha_encontrada": "2026-07-14",
+    "titular": "Bolivianos aseguran que la marraqueta la inventaron ellos y quieren que sea Patrimonio de la Humanidad",
+    "resumen": "",
+    "fuente": "biobiochile.cl",
+    "url": "https://www.biobiochile.cl/noticias/sociedad/debate/2026/07/07/bolivianos-aseguran-que-la-marraqueta-la-inventaron-ellos-y-quieren-que-sea-patrimonio-de-la-humanidad.shtml",
+    "por_que_humor": "Debate culinario contra paises vecinos siempre da para reirse",
+    "categoria": "otro",
+    "region": "chile",
+    "semana": "2026-07-15",
+    "estado": "en_pauta",
+    "origen": "ejemplo_conductor"
   }
 ]
