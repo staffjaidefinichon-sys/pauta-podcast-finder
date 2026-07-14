@@ -460,5 +460,93 @@
     "basado_en": "Noticia viral de @memes.de.julio + fenómeno de confusiones de identidad en redes sociales",
     "semana": "2026-07-15",
     "estado": "en_pauta"
+  },
+  {
+    "id": "8ad13ea3-b90b-4592-ae8a-6de8b58ea76a",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "Pedir ayuda como la orca del Biobío: ¿los chilenos sabemos pedir favores o siempre esperamos que alguien nos lea la mente?",
+    "gancho": "Una orca lo hizo mejor que la mayoría: se acercó, fue clara, y la ayudaron al tiro.",
+    "por_que_conversar": "La noticia de la orca del Biobío es el pretexto perfecto para hablar del chileno que 'no quiere molestar', que nunca pide ayuda directamente y espera que el otro adivine; da para anécdotas propias y humor observacional sobre la cultura del 'estoy bien' cuando claramente no estás bien.",
+    "categoria": "observacional",
+    "basado_en": "Viral de la orca en el Biobío que se acercó a pescadores a pedir ayuda (julio 2026)",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "94d26afd-b71f-4d76-8c24-5b11b9006978",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "La tecnología que nos traiciona: cuando el gadget más caro del mundo no te salva de quedar en ridículo",
+    "gancho": "Gafas de 300 euros, plan perfecto, cero resultado: bienvenido a la era de la estupidez high-tech.",
+    "por_que_conversar": "El caso del turista de San Fermín es el disparador para hablar de todos los momentos en que la tecnología prometía hacernos quedar geniales y terminó hundiéndonos; desde el dron que se cae en el matrimonio hasta el auto con 'asistente de conducción' que te manda al hoyo. El chileno promedio y su relación de amor-odio con los gadgets.",
+    "categoria": "absurdo",
+    "basado_en": "Turista multado por grabar el encierro de San Fermín con Ray-Ban Meta (julio 2026)",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9712e2f6-fe1a-43e7-9e07-425c5d862c26",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "Confundir a alguien con su ídolo por internet: el fandom que vive en otro plano de la realidad",
+    "gancho": "Si eres el admin de @memes.de.julio y te llegan cartas de amor para Julio Iglesias, ¿se las guardas o las reenvías?",
+    "por_que_conversar": "El fenómeno de los fans que aman tan intensamente que pierden el hilo de la realidad (confundir una cuenta de memes con el artista real) da para una conversación larga sobre fandoms extremos en Chile y el mundo, las señoras que le escriben a los dobles de sus ídolos, y el nivel de fe inamovible de ciertos seguidores.",
+    "categoria": "observacional",
+    "basado_en": "Viral de @memes.de.julio y los mensajes de amor confundidos (julio 2026, BioBioChile)",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2362ef0e-8a5d-4109-b193-46d138373b4d",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "El invierno chileno y el arte nacional de exagerar el frío: ¿somos el pueblo que más sufre los 8 grados del mundo?",
+    "gancho": "Noruega tiene -20 y le dice 'martes'. Chile tiene 9 grados y declara catástrofe nacional.",
+    "por_que_conversar": "Con julio pleno en Chile, es temporada alta del drama invernal: el que llega al trabajo en cuatro capas como si viniera del Polo Sur, las fotos del termómetro del auto que dicen '7°C' como si fuera una emergencia, y la discusión eterna de si en Chile hace 'frío de verdad' o solo frío de meme. Humor costumbrista garantizado.",
+    "categoria": "observacional",
+    "basado_en": "Tendencia social de julio: el invierno chileno como fenómeno cultural exagerado en redes",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "87089f4b-dccb-4abd-a5a4-8b86a569ad78",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "El chileno y los animales silvestres: ¿somos héroes, curiosos irresponsables o simplemente imanes de bichos raros?",
+    "gancho": "Orcas que piden ayuda, cóndores en el patio, queltehues que atacan: ¿por qué en Chile los animales siempre nos eligen a nosotros?",
+    "por_que_conversar": "La viralización de la orca del Biobío abre un tema universal chileno: los encuentros insólitos con fauna. Da para contar historias personales de animales que aparecieron donde no debían, debatir si el chileno es especialmente 'elegido' por la naturaleza, y reírse del nivel de improvisación con que se manejan estas situaciones ('métele el remo, Joaquín').",
+    "categoria": "observacional",
+    "basado_en": "Viralización del video de la orca en el Biobío + tendencia chilena a tener encuentros insólitos con fauna silvestre en zonas urbanas y costeras.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e95ee78f-3898-47e7-898b-075a8bcd5ff9",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "Fanáticos extremos: ¿hasta dónde llegarías tú por tu ídolo? (sin que te arresten, idealmente)",
+    "gancho": "Hay gente que pagó 25 dólares por basura de la acera del matrimonio de Taylor Swift. ¿Qué tan lejos estás tú de eso?",
+    "por_que_conversar": "La noticia de los cubos de basura swiftie abre una conversación infinita sobre fanatismo en Chile: desde los que hacen fila tres días para un concierto hasta los que lloraron con la partida de algún 'galán de teleserie'. Da para un ranking honesto de las cosas más absurdas que la gente ha hecho por un ídolo, con humor observacional sobre cómo el chileno igual pagaría por la basura de Américo.",
+    "categoria": "absurdo",
+    "basado_en": "Viral internacional de los cubos de basura del matrimonio Taylor Swift + Kelce, agotados en horas.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e5d1161f-a6fd-4218-b98f-eae9286510f7",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "Los récords Guinness más inútiles: ¿quién convenció a alguien de que correr con 125 poleras encima era una buena idea?",
+    "gancho": "Existe un libro oficial que certifica que alguien corrió 42 km con 125 poleras puestas. ¿Es el logro humano más importante de la historia o el más tonto?",
+    "por_que_conversar": "Los récords Guinness absurdos son un pozo sin fondo de humor: ¿para qué sirven? ¿quién los valida? ¿qué le dice uno a su familia después? Da para inventar récords que debería tener Chile ('mayor cantidad de gente esperando el Transantiago bajo la lluvia', 'récord de marraquetas consumidas en una once') y para reírse del afán humano de ser el mejor en algo, aunque ese algo sea completamente inservible.",
+    "categoria": "absurdo",
+    "basado_en": "Récord Guinness del corredor de 125 poleras en Idaho + récord de 22.000 calvos de Pitbull en el mismo período.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6975eaaa-c9e8-49a1-9356-707074b425fd",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "El arte moderno explicado por alguien que no entiende nada de arte: ¿dónde está el límite entre genio y estafa?",
+    "gancho": "Un museo cubrió su piso con 350 kilos de mantequilla de maní como 'tributo artístico'. Alguien aprobó eso. Alguien le pagó a alguien por hacerlo.",
+    "por_que_conversar": "El museo del maní en Holanda es el ejemplo perfecto para debatir con humor cuándo el arte moderno cruza la línea hacia lo absurdo, con ejemplos reales ('el plátano pegado con cinta', 'la tela en blanco'). Da para que los conductores confiesen qué 'obra de arte' chilena les parece inexplicable, y para imaginar qué instalaría el público en un museo de Santiago si les dejaran el piso libre.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral del museo de Rotterdam con el piso de mantequilla de maní + conversación recurrente en redes sobre arte contemporáneo vs. sentido común.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
   }
 ]
