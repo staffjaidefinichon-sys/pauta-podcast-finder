@@ -510,7 +510,10 @@ function renderEjemplos() {
         ${ej.por_que ? `<br><span class="ej-porque">${escapar(ej.por_que)}</span>` : ""}
         ${ej.url ? `<br><a href="${escaparAttr(ej.url)}" target="_blank" rel="noopener">${escapar(ej.url)}</a>` : ""}
       </span>
-      <button class="ej-borrar" data-i="${i}" title="Quitar">✕</button>
+      <span class="ej-acciones">
+        <button class="ej-a-pauta" data-i="${i}" title="Pasar a la pauta de esta semana">➕ A la pauta</button>
+        <button class="ej-borrar" data-i="${i}" title="Quitar ejemplo">✕</button>
+      </span>
     `;
     ul.appendChild(li);
   });
@@ -520,6 +523,65 @@ function renderEjemplos() {
       renderEjemplos();
     });
   });
+  ul.querySelectorAll(".ej-a-pauta").forEach((b) => {
+    b.addEventListener("click", () => pasarEjemploAPauta(Number(b.dataset.i)));
+  });
+}
+
+function dominio(url) {
+  try {
+    return new URL(url).hostname.replace(/^www\./, "");
+  } catch (_) {
+    return "";
+  }
+}
+
+async function pasarEjemploAPauta(i) {
+  if (!getToken()) {
+    mostrarToast("Primero configurá tu token de GitHub (arriba).");
+    document.getElementById("config-details").open = true;
+    return;
+  }
+  const ej = estado.ejemplos[i];
+  if (!ej) return;
+
+  try {
+    const arch = await obtenerArchivo("data/bandeja.json");
+    const bandeja = arch ? JSON.parse(arch.contenido) : [];
+
+    // Evitar duplicar si ya está por URL o por título.
+    const nurl = (ej.url || "").trim().toLowerCase().replace(/[?#].*$/, "").replace(/\/+$/, "");
+    const ntit = (ej.titular || "").trim().toLowerCase();
+    const yaEsta = bandeja.some((x) => {
+      const xu = (x.url || "").trim().toLowerCase().replace(/[?#].*$/, "").replace(/\/+$/, "");
+      return (nurl && xu === nurl) || (x.titular || "").trim().toLowerCase() === ntit;
+    });
+    if (yaEsta) {
+      mostrarToast("Esa noticia ya está en la pauta.");
+      return;
+    }
+
+    bandeja.push({
+      id: crypto.randomUUID(),
+      fecha_encontrada: ymd(new Date()),
+      titular: ej.titular || "",
+      resumen: "",
+      fuente: dominio(ej.url || ""),
+      url: ej.url || "",
+      por_que_humor: ej.por_que || "",
+      categoria: "otro",
+      region: "chile",
+      semana: semanaActual(),
+      estado: "en_pauta",
+      origen: "ejemplo_conductor",
+    });
+
+    await guardarArchivo("data/bandeja.json", bandeja, arch ? arch.sha : null, "Pasar noticia-ejemplo a la pauta (panel)");
+    mostrarToast("✅ Agregada a “⏳ Por aprobar” de esta semana.");
+    await cargarContenido();
+  } catch (e) {
+    mostrarToast("Error al pasar a la pauta: " + e.message);
+  }
 }
 
 function agregarEjemplo() {

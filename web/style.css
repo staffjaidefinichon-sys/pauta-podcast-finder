@@ -126,6 +126,26 @@ main {
 
 .lista-ejemplos .ej-porque { color: var(--tenue); }
 
+.lista-ejemplos .ej-acciones {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.lista-ejemplos .ej-a-pauta {
+  border: 1px solid var(--va);
+  background: var(--va-bg);
+  color: var(--va);
+  font-family: system-ui, sans-serif;
+  font-size: 0.78rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
 .lista-ejemplos .ej-borrar {
   border: none;
   background: transparent;
