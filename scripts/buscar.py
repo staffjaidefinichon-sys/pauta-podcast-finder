@@ -28,6 +28,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 import uuid
 from datetime import date, datetime, timedelta
 from pathlib import Path
@@ -74,8 +75,20 @@ def escribir_json(ruta: Path, datos) -> None:
 
 # --- Construcción del prompt --------------------------------------------------
 
-def construir_prompt(preferencias: dict, fecha: str) -> str:
-    """Arma el prompt inyectando las preferencias aprendidas."""
+def construir_prompt(
+    preferencias: dict,
+    fecha: str,
+    titulos_noticias: list | None = None,
+    titulos_temas: list | None = None,
+) -> str:
+    """Arma el prompt inyectando las preferencias aprendidas y lo que ya existe."""
+    titulos_noticias = titulos_noticias or []
+    titulos_temas = titulos_temas or []
+
+    def lista_titulos(items: list) -> str:
+        if not items:
+            return "  (todavía nada)"
+        return "\n".join(f"  - {t}" for t in items[-120:])
 
     def formatear(items: list, campo_titulo: str) -> str:
         if not items:
@@ -173,6 +186,14 @@ si las razones apuntan claramente al tema en sí (ej. "no me gusta el fútbol").
 
 ## Reglas aprendidas (temas)
 {reglas_temas_txt}
+
+## NOTICIAS QUE YA TENÉS (no las repitas ni traigas versiones parecidas)
+Estas noticias YA están en la bandeja. NO las propongas de nuevo, ni la misma
+historia contada con otras palabras o desde otra fuente. Traé cosas DISTINTAS:
+{lista_titulos(titulos_noticias)}
+
+## TEMAS QUE YA TENÉS (no los repitas)
+{lista_titulos(titulos_temas)}
 
 ## Qué hacer
 1. Haz entre 4 y 6 búsquedas con ángulos distintos (no más), por ejemplo:
@@ -335,6 +356,28 @@ def es_url_de_seccion(url: str) -> bool:
     return ultimo in _SECCION_TERMINA
 
 
+_STOP = {
+    "de", "la", "el", "en", "un", "una", "los", "las", "y", "a", "que", "del",
+    "se", "su", "sus", "por", "con", "para", "al", "lo", "como", "mas", "the",
+    "of", "to", "and", "su", "le", "es", "son",
+}
+
+
+def _stems(titulo: str) -> set:
+    """Conjunto de raíces (5 letras) de las palabras significativas del título."""
+    t = unicodedata.normalize("NFKD", (titulo or "").lower()).encode("ascii", "ignore").decode()
+    palabras = re.findall(r"[a-z0-9]+", t)
+    return {w[:5] for w in palabras if len(w) >= 4 and w not in _STOP}
+
+
+def titulos_parecidos(stems_a: set, stems_b: set) -> bool:
+    """True si dos títulos son la misma noticia (aunque estén redactados distinto)."""
+    if not stems_a or not stems_b:
+        return False
+    inter = len(stems_a & stems_b)
+    return inter >= 3 and inter / min(len(stems_a), len(stems_b)) >= 0.6
+
+
 def semana_de(fecha_iso: str) -> str:
     """Miércoles de cierre (el próximo miércoles >= fecha) al que pertenece el ítem.
 
@@ -415,7 +458,9 @@ def main() -> int:
     bandeja_temas = leer_json(ARCHIVO_BANDEJA_TEMAS, [])
 
     cliente = anthropic.Anthropic(api_key=api_key)
-    prompt = construir_prompt(preferencias, fecha)
+    titulos_noticias = [it.get("titular", "") for it in bandeja]
+    titulos_temas = [it.get("titulo", "") for it in bandeja_temas]
+    prompt = construir_prompt(preferencias, fecha, titulos_noticias, titulos_temas)
 
     # Buscar acumulando hasta juntar una cantidad decente. El modelo es variable
     # (a veces trae 10, a veces 1), así que reintentamos si vino flaca, sin repetir.
@@ -449,10 +494,12 @@ def main() -> int:
 
     print(f"  El modelo devolvió {len(crudas_noticias)} noticias y {len(crudas_temas)} temas (acumulado).")
 
-    # --- Noticias: dedupe por URL ---
+    # --- Noticias: dedupe por URL y por parecido de título (casi-duplicados) ---
     urls_conocidas = {normalizar_url(it.get("url", "")) for it in bandeja}
+    stems_conocidos = [_stems(it.get("titular", "")) for it in bandeja]
     nuevas_noticias = []
     descartadas_seccion = 0
+    descartadas_repetidas = 0
     for crudo in crudas_noticias:
         item = normalizar_noticia(crudo, fecha)
         if item is None:
@@ -461,25 +508,33 @@ def main() -> int:
             descartadas_seccion += 1
             continue
         clave = normalizar_url(item["url"])
-        if clave in urls_conocidas:
+        st = _stems(item["titular"])
+        if clave in urls_conocidas or any(titulos_parecidos(st, s) for s in stems_conocidos):
+            descartadas_repetidas += 1
             continue
         urls_conocidas.add(clave)
+        stems_conocidos.append(st)
         nuevas_noticias.append(item)
 
     if descartadas_seccion:
         print(f"  Descartadas {descartadas_seccion} por ser URL de sección/listado.")
+    if descartadas_repetidas:
+        print(f"  Descartadas {descartadas_repetidas} por repetidas/parecidas a existentes.")
 
-    # --- Temas: dedupe por título ---
+    # --- Temas: dedupe por título exacto y por parecido ---
     titulos_conocidos = {normalizar_titulo(it.get("titulo", "")) for it in bandeja_temas}
+    stems_temas = [_stems(it.get("titulo", "")) for it in bandeja_temas]
     nuevos_temas = []
     for crudo in crudas_temas:
         tema = normalizar_tema(crudo, fecha)
         if tema is None:
             continue
         clave = normalizar_titulo(tema["titulo"])
-        if clave in titulos_conocidos:
+        st = _stems(tema["titulo"])
+        if clave in titulos_conocidos or any(titulos_parecidos(st, s) for s in stems_temas):
             continue
         titulos_conocidos.add(clave)
+        stems_temas.append(st)
         nuevos_temas.append(tema)
 
     print(f"  {len(nuevas_noticias)} noticias nuevas, {len(nuevos_temas)} temas nuevos.")

@@ -242,17 +242,6 @@
     "estado": "en_pauta"
   },
   {
-    "id": "d2ef9120-29b0-4661-8a00-a930b494858e",
-    "fecha_encontrada": "2026-07-03",
-    "titulo": "El aire de más que pagamos: la estafa emocional del envase gigante con dos pastillas adentro",
-    "gancho": "Abres la caja tamaño zapato y adentro hay un blíster minúsculo y puro aire.",
-    "por_que_conversar": "Es una rabia cotidiana universal (medicamentos, cereales, papas fritas, el snack que es 60% nitrógeno) que todos han vivido; da para competir por el 'envase más mentiroso' que cada uno ha comprado.",
-    "categoria": "observacional",
-    "basado_en": "Reportaje sobre por qué los medicamentos vienen en envases mucho más grandes de lo necesario.",
-    "semana": "2026-07-15",
-    "estado": "en_pauta"
-  },
-  {
     "id": "aafa099b-939d-48fc-b6e3-6aea5a32ea4e",
     "fecha_encontrada": "2026-07-03",
     "titulo": "El chileno friolento: por qué -4°C nos convierte en momias de frazada mientras juramos que 'aguantamos cualquier cosa'",
@@ -436,17 +425,6 @@
     "por_que_conversar": "El fenómeno de los animales que se vuelven más famosos que la gente da para conversación larga: los perros 'influencers', las focas con derecho a privacidad, el pato mascota del Mundial. ¿Cuándo fue que los animales empezaron a tener mejor prensa que los humanos? ¿Chile tiene su propio animal famoso? Humor absurdo garantizado.",
     "categoria": "absurdo",
     "basado_en": "Noticias virales internacionales de animales famosos (Neil la foca, Merlin el pato, los perros de Buenos Aires) + tendencia global de animales en redes",
-    "semana": "2026-07-15",
-    "estado": "en_pauta"
-  },
-  {
-    "id": "86293bb7-d9e9-4430-a7ec-8085bfbe17f7",
-    "fecha_encontrada": "2026-07-13",
-    "titulo": "Récords Guinness inútiles: la humanidad en su momento más absurdo",
-    "gancho": "195 besos en 30 segundos: ¿amor verdadero o simplemente cardio muy específico?",
-    "por_que_conversar": "Los récords Guinness más absurdos del mundo son un espejo perfecto de la raza humana: alguien dedicó su vida a esto. Da para debatir cuál sería el récord más chileno posible (¿más sopaipillas comidas bajo la lluvia? ¿mayor cantidad de personas en una micro?), y para reflexionar con humor sobre por qué necesitamos certificado oficial de que somos los mejores en cosas completamente inútiles.",
-    "categoria": "absurdo",
-    "basado_en": "Tendencia de récords Guinness virales + noticia de la pareja brasileña de los 195 besos",
     "semana": "2026-07-15",
     "estado": "en_pauta"
   },
