@@ -1156,7 +1156,7 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-07-15",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "99cfd721-5021-4f64-af10-e7dfbd36c1dd",
@@ -1221,6 +1221,6 @@
     "categoria": "curioso",
     "region": "chile",
     "semana": "2026-07-15",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   }
 ]
