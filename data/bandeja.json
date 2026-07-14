@@ -1144,5 +1144,44 @@
     "region": "mundo",
     "semana": "2026-07-15",
     "estado": "en_pauta"
+  },
+  {
+    "id": "6453d022-9078-498d-a744-14ad1ae26f47",
+    "fecha_encontrada": "2026-07-14",
+    "titular": "Erling Haaland vuelve a Noruega desde el Mundial con un mapache disecado bajo el brazo",
+    "resumen": "El goleador noruego se bajó del avión cargando orgullosamente un mapache taxidermizado con una botella de alcohol, con la leyenda 'me siguió a casa'. El momento se volvió viral al instante y sus fans declararon que es 'el hombre más carismático del mundo'.",
+    "fuente": "Yahoo Sports",
+    "url": "https://sports.yahoo.com/articles/norway-star-erling-haaland-returns-212341745.html",
+    "por_que_humor": "Un delantero millonario que conquista el Mundial y vuelve a su país con un mapache relleno como souvenir es el WTF más perfecto del año; da para hablar de los recuerdos de viaje más ridículos que uno trae de una gira.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "99cfd721-5021-4f64-af10-e7dfbd36c1dd",
+    "fecha_encontrada": "2026-07-14",
+    "titular": "Haaland se convirtió en el 'babygirl' del Mundial: el gigante vikingo que conquista a quienes odian el fútbol con sus memes en Snapchat",
+    "resumen": "El delantero de 2,05 metros y cara de ogro se volvió el fenómeno de internet del Mundial 2026 gracias a Snapchats donde comparte selfies con filtros de Shrek y presume de haber 'aguantado' un vuelo de siete horas sin pantallas. Sus nuevas fanáticas confiesan no saber nada de fútbol.",
+    "fuente": "Slate",
+    "url": "https://slate.com/culture/2026/07/2026-world-cup-soccer-football-norway-erling-haaland-tiktok.html",
+    "por_que_humor": "El contraste entre el guerrero nórdico que destruye defensas y el chico que pone filtros de Shrek en Snapchat es comedia pura; da para debatir por qué los más rudos siempre tienen el humor más tierno.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "df3b0bbe-3668-4d0e-af40-f5ee91981bca",
+    "fecha_encontrada": "2026-07-14",
+    "titular": "SLEP de Atacama vuelve a figurar en las noticias 'por las razones equivocadas' a comienzos de 2026",
+    "resumen": "El Servicio Local de Educación Pública de Atacama protagonizó nuevamente una situación que lo puso en el ojo público por fallas de gestión, en una historia que se repite con regularidad y que ya se ha convertido en un meme regional.",
+    "fuente": "El Dínamo",
+    "url": "https://www.eldinamo.cl/",
+    "por_que_humor": "Que una institución aparezca 'siempre por las razones equivocadas' ya es un género propio del absurdo chileno; da para el chiste de que hay entidades que funcionan mejor como contenido de podcast que como servicio público.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
   }
 ]

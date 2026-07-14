@@ -1,5 +1,49 @@
 [
   {
+    "id": "356f1155-7886-43ff-a4df-03a63b217538",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "Los Reyes Guachaca: el concurso más chileno del mundo que el resto del planeta jamás entenderá",
+    "gancho": "Chile es el único país del mundo que tiene un concurso oficial para elegir al más 'guacho' del año, y eso dice todo sobre nosotros.",
+    "por_que_conversar": "Los Reyes Guachaca son una institución incomprendida que mezcla orgullo, vergüenza ajena y humor involuntario. Da para debatir qué significa 'guacho' como identidad cultural, compararlo con ceremonias similares en otros países (ninguna existe), y proponer candidatos alternativos que Chile debería premiar: el vecino más ruidoso, el conductor más creativo en el taco, el que siempre llega tarde al asado.",
+    "categoria": "observacional",
+    "basado_en": "El regreso de los Reyes Guachaca 2026 y la convocatoria a candidatos a Gran Compipa y Perlita, noticia publicada en 24horas.cl.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a6fde4e3-3813-4f4a-8e5e-ab0b94b9e5c1",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "Animales como oráculos: ¿por qué le preguntamos el futuro a hipopótamos, pulpos y capybaras antes que a los expertos?",
+    "gancho": "Moo Deng predijo la final del Mundial y tiene más credibilidad que cualquier comentarista deportivo. ¿En qué momento decidimos que los animales saben más que nosotros?",
+    "por_que_conversar": "Desde el Pulpo Paul hasta Moo Deng, hay una tradición absurda de convertir animales en profetas. Da para repasar los mejores oráculos animales de la historia, inventar el animal chileno que debería hacer las predicciones nacionales (¿una nutria del Biobío? ¿una llama atacameña?), y hablar de por qué preferimos creerle a un hipopótamo antes que a la ciencia.",
+    "categoria": "absurdo",
+    "basado_en": "El hipopótamo tailandés 'Moo Deng' volviendo a predecir resultados del Mundial 2026 y generando más revuelo en redes que los analistas deportivos.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e3226f69-131f-4455-830d-eaee1dc5fb35",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "El 'remo vikingo' y la pregunta imposible: ¿qué haría Chile si llegamos lejos en un Mundial?",
+    "gancho": "90.000 noruegos haciendo el mismo baile sincronizados en la calle: ¿Chile tiene algo así o solo sabe hacer cacerolazos?",
+    "por_que_conversar": "La bienvenida épica de Noruega abre la pregunta sobre qué tiene Chile como ritual colectivo de celebración futbolística (o de cualquier tipo). Da para inventar el 'gesto chileno' oficial, comparar la cueca con el remo vikingo, y confesarse sobre lo que haría cada uno si Chile algún día llega a una semifinal.",
+    "categoria": "observacional",
+    "basado_en": "Los más de 90.000 noruegos que reprodujeron el 'remo vikingo' en las calles de Oslo para recibir a su selección tras salir en cuartos del Mundial 2026.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "15785c2b-43aa-41b1-9f0a-174be04731dd",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "El mapache de Haaland y los souvenirs más ridículos que los chilenos traen de viaje",
+    "gancho": "Si el mejor futbolista del mundo vuelve a casa con un mapache disecado, ¿qué excusa tienes tú para traer ese cenicero espantoso de Cancún?",
+    "por_que_conversar": "La noticia del mapache de Haaland es un trampolín perfecto para el clásico tema chileno de los souvenirs espantosos: la muñequita de flamenco, el magnético de la Torre Eiffel, el poncho boliviano que nadie pidió. Da para que cada uno cuente el peor regalo de viaje que recibió o el objeto más absurdo que compró 'de recuerdo'.",
+    "categoria": "absurdo",
+    "basado_en": "La viralidad mundial de Erling Haaland bajándose del avión con un mapache taxidermizado como souvenir del Mundial 2026.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
     "id": "6975eaaa-c9e8-49a1-9356-707074b425fd",
     "fecha_encontrada": "2026-07-14",
     "titulo": "El arte moderno explicado por alguien que no entiende nada de arte: ¿dónde está el límite entre genio y estafa?",
@@ -95,17 +139,6 @@
     "por_que_conversar": "El fenómeno de recibir mensajes equivocados en redes sociales o WhatsApp es universal y da para historias propias hilarantes: el que llegó a un grupo de apoderados sin querer, el que responde pedidos de una empresa con su mismo nombre, o el clásico número de teléfono que perteneció antes a alguien famoso. Humor observacional cotidiano que conecta con todos.",
     "categoria": "observacional",
     "basado_en": "Noticia viral de @memes.de.julio + fenómeno de confusiones de identidad en redes sociales",
-    "semana": "2026-07-15",
-    "estado": "en_pauta"
-  },
-  {
-    "id": "86293bb7-d9e9-4430-a7ec-8085bfbe17f7",
-    "fecha_encontrada": "2026-07-13",
-    "titulo": "Récords Guinness inútiles: la humanidad en su momento más absurdo",
-    "gancho": "195 besos en 30 segundos: ¿amor verdadero o simplemente cardio muy específico?",
-    "por_que_conversar": "Los récords Guinness más absurdos del mundo son un espejo perfecto de la raza humana: alguien dedicó su vida a esto. Da para debatir cuál sería el récord más chileno posible (¿más sopaipillas comidas bajo la lluvia? ¿mayor cantidad de personas en una micro?), y para reflexionar con humor sobre por qué necesitamos certificado oficial de que somos los mejores en cosas completamente inútiles.",
-    "categoria": "absurdo",
-    "basado_en": "Tendencia de récords Guinness virales + noticia de la pareja brasileña de los 195 besos",
     "semana": "2026-07-15",
     "estado": "en_pauta"
   },
@@ -293,17 +326,6 @@
     "por_que_conversar": "El frío del sur destapa rituales absurdos (el guatero, la estufa peleada en familia, dormir con gorro) y la contradicción de ser 'aguantador' para unas cosas y llorón para otras.",
     "categoria": "observacional",
     "basado_en": "Ola de frío en Chile: Chillán con su mañana más helada del año (-4,4°C).",
-    "semana": "2026-07-15",
-    "estado": "en_pauta"
-  },
-  {
-    "id": "d2ef9120-29b0-4661-8a00-a930b494858e",
-    "fecha_encontrada": "2026-07-03",
-    "titulo": "El aire de más que pagamos: la estafa emocional del envase gigante con dos pastillas adentro",
-    "gancho": "Abres la caja tamaño zapato y adentro hay un blíster minúsculo y puro aire.",
-    "por_que_conversar": "Es una rabia cotidiana universal (medicamentos, cereales, papas fritas, el snack que es 60% nitrógeno) que todos han vivido; da para competir por el 'envase más mentiroso' que cada uno ha comprado.",
-    "categoria": "observacional",
-    "basado_en": "Reportaje sobre por qué los medicamentos vienen en envases mucho más grandes de lo necesario.",
     "semana": "2026-07-15",
     "estado": "en_pauta"
   },

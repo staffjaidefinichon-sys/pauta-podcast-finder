@@ -526,5 +526,49 @@
     "basado_en": "Noticia viral del museo de Rotterdam con el piso de mantequilla de maní + conversación recurrente en redes sobre arte contemporáneo vs. sentido común.",
     "semana": "2026-07-15",
     "estado": "en_pauta"
+  },
+  {
+    "id": "15785c2b-43aa-41b1-9f0a-174be04731dd",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "El mapache de Haaland y los souvenirs más ridículos que los chilenos traen de viaje",
+    "gancho": "Si el mejor futbolista del mundo vuelve a casa con un mapache disecado, ¿qué excusa tienes tú para traer ese cenicero espantoso de Cancún?",
+    "por_que_conversar": "La noticia del mapache de Haaland es un trampolín perfecto para el clásico tema chileno de los souvenirs espantosos: la muñequita de flamenco, el magnético de la Torre Eiffel, el poncho boliviano que nadie pidió. Da para que cada uno cuente el peor regalo de viaje que recibió o el objeto más absurdo que compró 'de recuerdo'.",
+    "categoria": "absurdo",
+    "basado_en": "La viralidad mundial de Erling Haaland bajándose del avión con un mapache taxidermizado como souvenir del Mundial 2026.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e3226f69-131f-4455-830d-eaee1dc5fb35",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "El 'remo vikingo' y la pregunta imposible: ¿qué haría Chile si llegamos lejos en un Mundial?",
+    "gancho": "90.000 noruegos haciendo el mismo baile sincronizados en la calle: ¿Chile tiene algo así o solo sabe hacer cacerolazos?",
+    "por_que_conversar": "La bienvenida épica de Noruega abre la pregunta sobre qué tiene Chile como ritual colectivo de celebración futbolística (o de cualquier tipo). Da para inventar el 'gesto chileno' oficial, comparar la cueca con el remo vikingo, y confesarse sobre lo que haría cada uno si Chile algún día llega a una semifinal.",
+    "categoria": "observacional",
+    "basado_en": "Los más de 90.000 noruegos que reprodujeron el 'remo vikingo' en las calles de Oslo para recibir a su selección tras salir en cuartos del Mundial 2026.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a6fde4e3-3813-4f4a-8e5e-ab0b94b9e5c1",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "Animales como oráculos: ¿por qué le preguntamos el futuro a hipopótamos, pulpos y capybaras antes que a los expertos?",
+    "gancho": "Moo Deng predijo la final del Mundial y tiene más credibilidad que cualquier comentarista deportivo. ¿En qué momento decidimos que los animales saben más que nosotros?",
+    "por_que_conversar": "Desde el Pulpo Paul hasta Moo Deng, hay una tradición absurda de convertir animales en profetas. Da para repasar los mejores oráculos animales de la historia, inventar el animal chileno que debería hacer las predicciones nacionales (¿una nutria del Biobío? ¿una llama atacameña?), y hablar de por qué preferimos creerle a un hipopótamo antes que a la ciencia.",
+    "categoria": "absurdo",
+    "basado_en": "El hipopótamo tailandés 'Moo Deng' volviendo a predecir resultados del Mundial 2026 y generando más revuelo en redes que los analistas deportivos.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "356f1155-7886-43ff-a4df-03a63b217538",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "Los Reyes Guachaca: el concurso más chileno del mundo que el resto del planeta jamás entenderá",
+    "gancho": "Chile es el único país del mundo que tiene un concurso oficial para elegir al más 'guacho' del año, y eso dice todo sobre nosotros.",
+    "por_que_conversar": "Los Reyes Guachaca son una institución incomprendida que mezcla orgullo, vergüenza ajena y humor involuntario. Da para debatir qué significa 'guacho' como identidad cultural, compararlo con ceremonias similares en otros países (ninguna existe), y proponer candidatos alternativos que Chile debería premiar: el vecino más ruidoso, el conductor más creativo en el taco, el que siempre llega tarde al asado.",
+    "categoria": "observacional",
+    "basado_en": "El regreso de los Reyes Guachaca 2026 y la convocatoria a candidatos a Gran Compipa y Perlita, noticia publicada en 24horas.cl.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
   }
 ]
