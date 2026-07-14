@@ -1,5 +1,49 @@
 [
   {
+    "id": "a3577e0d-094c-4c9d-a831-5e5e89c33d17",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "El video de despedida laboral: ¿qué compilado de tus errores armaria tu jefe si te echaran hoy?",
+    "gancho": "Un club de fútbol brasileño despidió a su defensa publicando oficialmente sus peores errores. ¿Y si eso fuera lo normal en Chile?",
+    "por_que_conversar": "El horror cómico de ser despedido con un highlight reel de vergüenzas da para que cada conductor cuente su peor metida de pata laboral, imaginar el video del 'peor día en la pega' de distintos oficios chilenos, y debatir si en el fondo todos merecemos un compilado así de honesto.",
+    "categoria": "observacional",
+    "basado_en": "Club brasileño publicó compilación de errores de un jugador despedido como anuncio oficial de su salida, viral en julio 2026.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9882decc-f14b-4137-b1b4-2a69f741f590",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "¿Qué haría el WiFi de tu casa si pudiera hablar? La vigilancia doméstica que nadie pidió",
+    "gancho": "Científicos confirmaron que el router de tu casa puede identificarte con precisión casi perfecta. O sea: el aparato al que siempre le echas la culpa cuando se cae internet, te está mirando.",
+    "por_que_conversar": "El absurdo de que el WiFi —que uno reinicia con bronca cada semana— sea en realidad un dispositivo de vigilancia involuntario da para una espiral de humor sobre privacidad, el vecino que te roba la señal, y qué sabe el modem de tus hábitos nocturnos más vergonzosos.",
+    "categoria": "absurdo",
+    "basado_en": "Estudio alemán publicado en mayo 2026 que demuestra que el WiFi común puede identificar personas con alta precisión analizando el rebote de ondas.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "224761d9-29a5-4ceb-a8e1-0de339fbe567",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "La playa chilena: ¿orgullo nacional o el lugar donde la naturaleza nos pone en nuestro lugar?",
+    "gancho": "Una venezolana dice que nuestras playas son malas y los chilenos la defienden… siendo que el 90% del país tampoco va a la playa en julio.",
+    "por_que_conversar": "El tema activa el orgullo nacional instantáneo pero con la contradicción de que todos sabemos que el Pacífico es helado, el viento corta, y igual decimos 'no, es que hay que saber disfrutarla'. Da para hablar del turismo interno, el síndrome chileno de defender lo propio que uno mismo critica, y la escala del frío del mar según región.",
+    "categoria": "observacional",
+    "basado_en": "Video viral de venezolana criticando las playas chilenas que generó una ola de respuestas y memes en redes, julio 2026.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "23244351-a95a-4b59-8056-7a7d4e10670f",
+    "fecha_encontrada": "2026-07-14",
+    "titulo": "El concurso de comer más rápido: ¿deporte olímpico, hazaña humana o el apocalipsis disfrazado de hot dog?",
+    "gancho": "Un hombre entrena toda su vida para comerse 66 hot dogs en 10 minutos y es considerado un héroe nacional. ¿Dónde estamos como especie?",
+    "por_que_conversar": "Da para debatir qué tan lejos está esto de ser 'deporte', para hacer el paralelo con el chileno comiendo un completo de emergencia antes de abordar el Transantiago, y para imaginar qué competencia de comida representaría mejor a Chile en una versión nacional (el que más rápido pela una chocla, el maratón del completo italiano).",
+    "categoria": "absurdo",
+    "basado_en": "Joey Chestnut ganó por enésima vez el concurso de hot dogs de Nathan's Famous el 4 de julio 2026, comiendo 66 en 10 minutos.",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
     "id": "356f1155-7886-43ff-a4df-03a63b217538",
     "fecha_encontrada": "2026-07-14",
     "titulo": "Los Reyes Guachaca: el concurso más chileno del mundo que el resto del planeta jamás entenderá",

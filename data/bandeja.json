@@ -1183,5 +1183,44 @@
     "region": "chile",
     "semana": "2026-07-15",
     "estado": "en_pauta"
+  },
+  {
+    "id": "35c9accf-8624-405c-aa41-24c3b73b268f",
+    "fecha_encontrada": "2026-07-14",
+    "titular": "Los robots gigantes de acero que se disparan proyectiles explosivos el uno al otro ya tienen su primera liga de combate en Detroit",
+    "resumen": "La Interactive Combat League presentó robots de más de 2,7 metros de altura que se enfrentan en arena, visten armaduras de acero y se lanzan proyectiles reales. El espectáculo ya tiene público en vivo en Detroit.",
+    "fuente": "NPR Strange News",
+    "url": "https://www.npr.org/2026/03/13/nx-s1-5680260/robot-combat-league-detroit",
+    "por_que_humor": "El sueño de todo niño de los 90 ya es realidad y es tan ridículamente violento y espectacular que da para debatir si esto es deporte, arte o simplemente el fin de la civilización con presupuesto.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b9401a89-cd91-4151-bf2b-0a793af6622c",
+    "fecha_encontrada": "2026-07-14",
+    "titular": "Un vuelo a Mallorca tuvo que volver a Newark de emergencia porque un dispositivo Bluetooth a bordo generó una alerta de seguridad",
+    "resumen": "Un avión de United Airlines que iba a Palma de Mallorca dio media vuelta y regresó a Newark porque una señal Bluetooth encendió todas las alarmas de seguridad. El audio de la torre de control y las redes sociales hicieron el resto.",
+    "fuente": "NPR Strange News",
+    "url": "https://www.npr.org/2026/05/31/nx-s1-5785170/flight-diverted-newark-bluetooth-security",
+    "por_que_humor": "Un auricular Bluetooth canceló un vuelo a una isla paradisíaca. El pánico colectivo generado por un aparato que uno usa para escuchar podcasts en el metro es el nivel de paranoia tecnológica que merecemos como sociedad.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "912d4fd3-42a5-42b6-a231-dd81bec04c66",
+    "fecha_encontrada": "2026-07-14",
+    "titular": "Muere Sam Neill, el protagonista de Jurassic Park, y Twitter Chile se llena de memes de dinosaurios",
+    "resumen": "El fallecimiento del actor Sam Neill el 13 de julio desató una oleada de homenajes en Chile, pero también de memes con referencias a Jurassic Park, con usuarios 'despidiendo al único humano que sabía cómo tratar a los dinosaurios'.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/cine-y-series/2026/07/13/te-amare-siempre-laura-dern-emociona-y-despide-a-sam-neill-su-media-naranja-en-jurassic-park.shtml",
+    "por_que_humor": "La cultura pop chilena y los memes de dinosaurios son un combo infalible; da para hablar de cuánto marcó Jurassic Park a toda una generación y si alguien en Chile aprendió a silbar como los raptores.",
+    "categoria": "curioso",
+    "region": "chile",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
   }
 ]
