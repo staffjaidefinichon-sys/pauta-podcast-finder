@@ -1250,5 +1250,19 @@
     "semana": "2026-07-15",
     "estado": "en_pauta",
     "origen": "ejemplo_conductor"
+  },
+  {
+    "id": "3dd2a01d-c2d2-4e47-a064-ad44c15d4e97",
+    "fecha_encontrada": "2026-07-15",
+    "titular": "¿Cuál es la selección más favorecida por el VAR en este Mundial 2026?",
+    "resumen": "",
+    "fuente": "redgol.cl",
+    "url": "https://redgol.cl/mundial/las-selecciones-mas-favorecidas-por-el-var-en-este-mundial-2026",
+    "por_que_humor": "Reirse de argentina y la fifa es chistoso",
+    "categoria": "otro",
+    "region": "chile",
+    "semana": "2026-07-15",
+    "estado": "en_pauta",
+    "origen": "ejemplo_conductor"
   }
 ]
