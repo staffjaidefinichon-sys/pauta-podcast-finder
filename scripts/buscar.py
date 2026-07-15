@@ -460,6 +460,45 @@ def normalizar_tema(crudo: dict, fecha: str) -> dict | None:
     }
 
 
+def completar_bajadas(cliente: anthropic.Anthropic, bandeja: list) -> int:
+    """Rellena con IA la 'bajada' (resumen) de las noticias que estén sin ella
+    (por ejemplo, las que el conductor pasó a la pauta desde sus ejemplos)."""
+    faltan = [
+        it for it in bandeja
+        if it.get("titular") and not (it.get("resumen") or "").strip()
+    ][:20]
+    if not faltan:
+        return 0
+
+    lista = "\n".join(f"{i}. {it['titular']}" for i, it in enumerate(faltan))
+    prompt = (
+        "Para cada titular de abajo, escribí una BAJADA (resumen) de 1-2 frases en "
+        "español neutro, informativa y fiel al titular; no inventes datos que no "
+        "estén implícitos en el titular. Respondé SOLO con un objeto JSON:\n"
+        '{"resumenes": [{"i": <numero>, "resumen": "..."}]}\n\n' + lista
+    )
+    try:
+        resp = cliente.messages.create(
+            model=MODELO,
+            max_tokens=2000,
+            messages=[{"role": "user", "content": prompt}],
+        )
+    except anthropic.APIError as e:
+        print(f"  (no se pudieron generar bajadas: {e})")
+        return 0
+
+    texto = "".join(b.text for b in resp.content if b.type == "text")
+    datos = extraer_objeto_json(texto) or {}
+    n = 0
+    for r in datos.get("resumenes", []):
+        i = r.get("i")
+        res = (r.get("resumen") or "").strip()
+        if isinstance(i, int) and 0 <= i < len(faltan) and res:
+            faltan[i]["resumen"] = res
+            n += 1
+    return n
+
+
 # --- Flujo principal ---------------------------------------------------------
 
 def main() -> int:
@@ -586,6 +625,11 @@ def main() -> int:
 
     chile = [it for it in pauta if it.get("region") == "chile"]
     mundo = [it for it in pauta if it.get("region") == "mundo"]
+
+    # --- Completar bajadas faltantes con IA (ej. noticias-ejemplo del panel) ---
+    rellenadas = completar_bajadas(cliente, bandeja)
+    if rellenadas:
+        print(f"  Bajadas generadas para {rellenadas} noticias sin resumen.")
 
     # --- Escribir todo ---
     escribir_json(ARCHIVO_BANDEJA, bandeja)
