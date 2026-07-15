@@ -1278,5 +1278,31 @@
     "semana": "2026-07-15",
     "estado": "aprobada",
     "origen": "ejemplo_conductor"
+  },
+  {
+    "id": "f5cab768-928e-48e5-9c40-8edd051ee179",
+    "fecha_encontrada": "2026-07-15",
+    "titular": "El ARMY chileno de BTS marchó hasta La Moneda exigiendo el Estadio Nacional y tiñó la plaza de lila",
+    "resumen": "Fanáticas de BTS se movilizaron en Santiago, Concepción y La Serena para exigir que el concierto del grupo surcoreano se realice en el Estadio Nacional. Las protestas incluyeron pancartas, globos lilas y cánticos de 'BTS al Nacional' frente a La Moneda.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/03/fotos-y-videos-army-se-moviliza-en-chile-para-exigir-bts-al-nacional.shtml",
+    "por_que_humor": "La imagen de miles de personas marchando con globos lilas hasta La Moneda para exigir un concierto de K-pop es el cruce más inesperado y tierno del activismo chileno; da para debatir si esto es la lucha más importante de la historia o el uso más creativo de la democracia.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ee5f24b4-04a8-429c-ad6a-4448da4c80d5",
+    "fecha_encontrada": "2026-07-15",
+    "titular": "Paleontólogos chilenos descubren fósiles de tortugas marinas de más de 30 millones de años en Algarrobo",
+    "resumen": "Un equipo de paleontólogos encontró en la costa de Algarrobo restos de tortugas marinas de más de 30 millones de años de antigüedad, convirtiendo a ese balneario playero en escenario de un hallazgo prehistórico de primer orden.",
+    "fuente": "Google Noticias Chile",
+    "url": "https://news.google.com/home?hl=es-419&gl=CL&ceid=CL%3Aes-419",
+    "por_que_humor": "Que en el mismo balneario donde los santiaguinos van a hacer asado en verano hayan vivido tortugas gigantes hace 30 millones de años da para toda clase de chistes sobre quién lleva más tiempo reclamando ese pedazo de playa.",
+    "categoria": "curioso",
+    "region": "chile",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
   }
 ]

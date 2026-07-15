@@ -614,5 +614,38 @@
     "basado_en": "Club brasileño publicó compilación de errores de un jugador despedido como anuncio oficial de su salida, viral en julio 2026.",
     "semana": "2026-07-15",
     "estado": "en_pauta"
+  },
+  {
+    "id": "d36d93e5-0c27-4b1c-887d-94e554ff6205",
+    "fecha_encontrada": "2026-07-15",
+    "titulo": "El fandom extremo chileno: ¿hasta dónde llega la lealtad cuando marchas a La Moneda por un concierto de K-pop?",
+    "gancho": "Las ARMY de BTS tomaron La Moneda con globos lilas. ¿Es esto activismo, fanatismo o simplemente el país más entretenido del mundo?",
+    "por_que_conversar": "La movilización masiva por un concierto de K-pop mezcla humor absurdo con una pregunta genuina sobre identidad: ¿qué nos importa de verdad? Da para comparar con fanáticos de fútbol, hablar de los límites del fandom y preguntarse qué otro concierto o causa haría salir a la gente a la calle en Chile.",
+    "categoria": "observacional",
+    "basado_en": "La marcha del ARMY de BTS hasta La Moneda exigiendo el Estadio Nacional para el concierto del grupo surcoreano, julio 2026",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e4546f3b-a960-49bc-a517-541c7d244ba0",
+    "fecha_encontrada": "2026-07-15",
+    "titulo": "El WiFi que te espía: ¿ya aceptamos que todos los aparatos de la casa nos conocen mejor que nosotros mismos?",
+    "gancho": "Tu router puede identificarte sin cámara ni micrófono. ¿En qué momento la tecnología pasó de ser una herramienta a ser un testigo incómodo?",
+    "por_que_conversar": "El avance del WiFi como herramienta de identificación es tan distópico como cotidiano. Da para hablar con humor del dueño del router que 'ya sabe todo', comparar con el smart TV que te escucha, y preguntarse si el chileno promedio le importaría o si igual seguiría usando la misma contraseña de WiFi desde 2015.",
+    "categoria": "observacional",
+    "basado_en": "Estudio alemán demuestra que el WiFi ordinario puede identificar personas con precisión casi perfecta analizando el rebote de las ondas de radio, publicado en mayo 2026",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "33255e31-be96-4760-9c28-b4d20d538466",
+    "fecha_encontrada": "2026-07-15",
+    "titulo": "Los animales que se unen solos a trabajos humanos: ¿quién tiene más vocación, la cabra bombera o nosotros?",
+    "gancho": "Una cabra llamada Goldie apareció en un campamento de bomberos en Colorado y nadie la echó. ¿Cuántos humanos en su trabajo tienen menos motivación que ella?",
+    "por_que_conversar": "La cabra voluntaria sin contrato ni AFP es el símbolo perfecto del trabajador con más iniciativa que nadie. Da para hablar de animales que 'eligen' unirse a equipos humanos (la orca del Biobío, la cabra bombera, los perros guardianes), y para la pregunta filosófica más chilena: ¿tú en tu trabajo tienes más o menos ganas que una cabra?",
+    "categoria": "absurdo",
+    "basado_en": "Noticia de la cabra Goldie acompañando a bomberos en Colorado, julio 2026, y tendencia de animales virales que 'se integran' a labores humanas",
+    "semana": "2026-07-15",
+    "estado": "en_pauta"
   }
 ]
