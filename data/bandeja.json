@@ -1236,5 +1236,19 @@
     "semana": "2026-07-15",
     "estado": "aprobada",
     "origen": "ejemplo_conductor"
+  },
+  {
+    "id": "8f454f62-49b0-4c3d-b1d9-4e0f7a70e5e2",
+    "fecha_encontrada": "2026-07-15",
+    "titular": "Logró millonario trato: Destapan la jugada de Naya Fácil para comprar su lujoso penthouse en El Golf",
+    "resumen": "",
+    "fuente": "lacuarta.com",
+    "url": "https://www.lacuarta.com/espectaculos/noticia/logro-millonario-trato-destapan-la-jugada-de-naya-facil-para-comprar-su-lujoso-penthouse-en-el-golf/",
+    "por_que_humor": "Da para reirse de la naya facil",
+    "categoria": "otro",
+    "region": "chile",
+    "semana": "2026-07-15",
+    "estado": "en_pauta",
+    "origen": "ejemplo_conductor"
   }
 ]
