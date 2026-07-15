@@ -309,6 +309,10 @@ function renderizar() {
     });
   });
 
+  contenedor.querySelectorAll(".btn-mover").forEach((b) => {
+    b.addEventListener("click", () => moverASemanaActual(b.dataset.id));
+  });
+
   actualizarBarra();
 }
 
@@ -343,6 +347,12 @@ function botonesDecision(id) {
     </div>`;
 }
 
+function botonMover(id) {
+  // Solo cuando estás viendo una semana que NO es la actual.
+  if (estado.semana === semanaActual()) return "";
+  return `<button class="btn-mover" data-id="${escaparAttr(id)}">🗓️ Pasar a la semana actual</button>`;
+}
+
 function claseDecidida(id) {
   const d = estado.decisiones.get(id);
   if (d === "va") return "decidida-va";
@@ -364,6 +374,7 @@ function tarjetaNoticia(item) {
       ${item.url ? `· <a href="${escaparAttr(item.url)}" target="_blank" rel="noopener">ver noticia</a>` : ""}
     </p>
     ${botonesDecision(item.id)}
+    ${botonMover(item.id)}
   `;
   return card;
 }
@@ -378,6 +389,7 @@ function tarjetaTema(item) {
     <p class="por-que">💬 ${escapar(item.por_que_conversar || "")}</p>
     ${item.basado_en ? `<p class="fuente">Inspirado en: ${escapar(item.basado_en)}</p>` : ""}
     ${botonesDecision(item.id)}
+    ${botonMover(item.id)}
   `;
   return card;
 }
@@ -626,6 +638,33 @@ async function guardarEnsenar() {
   } finally {
     btn.disabled = false;
     btn.textContent = "💾 Guardar lo que le enseñé";
+  }
+}
+
+async function moverASemanaActual(id) {
+  if (!getToken()) {
+    mostrarToast("Primero configurá tu token de GitHub (arriba).");
+    document.getElementById("config-details").open = true;
+    return;
+  }
+  const entrada = estado.itemsPorId.get(id);
+  if (!entrada) return;
+  const path = entrada.tipo === "noticia" ? "data/bandeja.json" : "data/bandeja_temas.json";
+  try {
+    const arch = await obtenerArchivo(path);
+    const arr = arch ? JSON.parse(arch.contenido) : [];
+    const it = arr.find((x) => x.id === id);
+    if (!it) {
+      mostrarToast("No la encontré en el repositorio.");
+      return;
+    }
+    it.semana = semanaActual();
+    await guardarArchivo(path, arr, arch.sha, "Pasar noticia a la semana actual (panel)");
+    mostrarToast("✅ Movida a la semana actual.");
+    estado.semana = semanaActual(); // saltar a la semana actual para verla
+    await cargarContenido();
+  } catch (e) {
+    mostrarToast("Error al mover: " + e.message);
   }
 }
 

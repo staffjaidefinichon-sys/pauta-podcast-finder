@@ -326,6 +326,21 @@ main {
 
 .tarjeta.decidida-volver { border-color: #2b4a73; }
 
+.btn-mover {
+  margin-top: 0.6rem;
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px dashed var(--acento);
+  border-radius: 8px;
+  background: #fbf3ee;
+  color: var(--acento);
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.btn-mover:hover { background: #f7e9df; }
+
 .motivo-input {
   width: 100%;
   margin-top: 0.6rem;
