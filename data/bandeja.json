@@ -1248,7 +1248,7 @@
     "categoria": "otro",
     "region": "chile",
     "semana": "2026-07-15",
-    "estado": "en_pauta",
+    "estado": "aprobada",
     "origen": "ejemplo_conductor"
   },
   {
@@ -1262,7 +1262,7 @@
     "categoria": "otro",
     "region": "chile",
     "semana": "2026-07-15",
-    "estado": "en_pauta",
+    "estado": "aprobada",
     "origen": "ejemplo_conductor"
   },
   {
@@ -1276,7 +1276,7 @@
     "categoria": "otro",
     "region": "chile",
     "semana": "2026-07-15",
-    "estado": "en_pauta",
+    "estado": "aprobada",
     "origen": "ejemplo_conductor"
   }
 ]

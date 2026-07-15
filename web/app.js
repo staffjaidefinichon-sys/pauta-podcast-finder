@@ -572,12 +572,12 @@ async function pasarEjemploAPauta(i) {
       categoria: "otro",
       region: "chile",
       semana: semanaActual(),
-      estado: "en_pauta",
+      estado: "aprobada",
       origen: "ejemplo_conductor",
     });
 
     await guardarArchivo("data/bandeja.json", bandeja, arch ? arch.sha : null, "Pasar noticia-ejemplo a la pauta (panel)");
-    mostrarToast("✅ Agregada a “⏳ Por aprobar” de esta semana.");
+    mostrarToast("✅ Agregada a “✅ Van” de esta semana.");
     await cargarContenido();
   } catch (e) {
     mostrarToast("Error al pasar a la pauta: " + e.message);
