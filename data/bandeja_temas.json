@@ -647,5 +647,49 @@
     "basado_en": "Noticia de la cabra Goldie acompañando a bomberos en Colorado, julio 2026, y tendencia de animales virales que 'se integran' a labores humanas",
     "semana": "2026-07-15",
     "estado": "en_pauta"
+  },
+  {
+    "id": "7b32f3ad-e914-4960-86ba-a33ce6219a8f",
+    "fecha_encontrada": "2026-07-16",
+    "titulo": "La burocracia que se trollea sola: cuando el Estado te manda una patente cochina, te cobra por una obra que tarda 11 años o te contrata para operar máquinas que no existen",
+    "gancho": "El Estado chileno (y el de Florida) son los mejores comediantes que no saben que hacen comedia.",
+    "por_que_conversar": "El absurdo burocrático es universal pero el chileno lo siente en la médula: la patente 'SQZ A55' mandada por el gobierno a una abuela, las obras que tardan más que una gestación de elefante, los trabajadores enviados sin herramientas. El tema permite un coro de historias personales sobre trámites kafkianos que todos tienen guardadas.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de la patente florida + acumulación de absurdos burocráticos chilenos y mundiales recientes",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "740eafe1-119c-4ba7-8fee-610ea6d9af75",
+    "fecha_encontrada": "2026-07-16",
+    "titulo": "Récords Guinness de nicho: ¿quién decide que la rayuela, los trombones o el Pomerania saltarín merecen un título mundial?",
+    "gancho": "Existe un récord oficial de rayuela. Un niño de 9 años ostenta el cinturón mundial. La humanidad ha elegido bien sus prioridades.",
+    "por_que_conversar": "Los récords Guinness absurdos son un espejo de la condición humana: necesitamos ser los mejores en algo, aunque sea en tocar 600 trombones o en hacer saltar a un perro de bolsillo. Da para inventar en vivo el récord más ridículo que Chile podría reclamar (¿mayor cantidad de personas comiendo completo simultáneamente? ¿más longanizas en un solo asado?).",
+    "categoria": "absurdo",
+    "basado_en": "Noticias de récords Guinness de rayuela, trombones y Pomerania de julio 2026",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f0f7fc0c-ff0b-41df-afec-bc2e81693cc9",
+    "fecha_encontrada": "2026-07-16",
+    "titulo": "¿Los animales trabajan mejor que nosotros? La cabra bombera, la orca que pidió ayuda y el perro atleta nos están dejando en ridículo",
+    "gancho": "Una cabra sin contrato, sin sueldo y sin AFP le enseñó el camino al incendio a un equipo de bomberos humanos.",
+    "por_que_conversar": "Goldie la cabra bombera, la orca del Biobío que fue a pedir ayuda a los pescadores y el Pomerania récord mundial dan para un segmento de humor donde los animales tienen más vocación, iniciativa y PR que la mayoría de los empleados humanos. Ideal para historias de 'mi jefe es menos útil que una cabra'.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia de Goldie la cabra bombera en Colorado (julio 2026) + patrón recurrente de animales 'con trabajo'",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "47169d0d-a1b7-4217-8512-28d5c1e97466",
+    "fecha_encontrada": "2026-07-16",
+    "titulo": "El invierno chileno y el arte nacional de sobrevivir al temporal: ¿somos héroes del frío o simplemente nos gusta sufrir en público?",
+    "gancho": "Se fue la luz, se inundó la calle y alguien igual intentó hacer un asado: eso es Chile en julio.",
+    "por_que_conversar": "Cada temporal es un ritual nacional: el que saca el brasero prohibido, el que postea el medidor de agua en el patio, el que igual lleva a los cabros al colegio con el río desbordado. Da para historias personales, para debatir si estamos bien preparados o simplemente bien acostumbrados al caos, y para el clásico 'nos cortaron la luz y aprovechamos para hablar'.",
+    "categoria": "observacional",
+    "basado_en": "Temporal del 16 de julio 2026 que afectó Valparaíso y el sur de Chile + fenómeno cultural invernal recurrente",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
   }
 ]
