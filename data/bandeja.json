@@ -1369,5 +1369,44 @@
     "region": "chile",
     "semana": "2026-07-22",
     "estado": "en_pauta"
+  },
+  {
+    "id": "df67959c-91b9-494a-80fe-3dec796b38cf",
+    "fecha_encontrada": "2026-07-17",
+    "titular": "Gerente de banco surcoreano robó el dinero de la bóveda y lo reemplazó con billetes de juguete con dibujitos de animales",
+    "resumen": "Un gerente de banco en Corea del Sur vació la bóveda de su sucursal y rellenó el hueco con billetes de juguete impresos con dibujos de animales de caricatura. Como era el único que depositaba en la bóveda, el plan funcionó… hasta que un empleado lo notó.",
+    "fuente": "Shepherd Express / Oddity Central",
+    "url": "https://shepherdexpress.com/puzzles/news-of-the-weird/news-of-the-weird-week-of-july-16-2026/",
+    "por_que_humor": "La imagen de un gerente de banco reemplazando billetes reales con plata de mentira de juguete es el WTF más perfecto: da para hablar del ladrón más creativo y más infantil de la historia, y para imaginarse la cara del auditor.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "8f67ed11-52f1-4224-9bc1-0c99519e15d4",
+    "fecha_encontrada": "2026-07-17",
+    "titular": "El temporal más fuerte de Chile en dos décadas dejó a 590 mil hogares sin luz y los chilenos lo vivieron en modo estoico en redes",
+    "resumen": "Un sistema frontal histórico azotó 10 de las 16 regiones de Chile el 16 y 17 de julio, dejando a casi 600.000 hogares sin electricidad, con vientos sobre 100 km/h. La reacción en redes fue una mezcla de terror, memes y el clásico 'esto es normal'.",
+    "fuente": "Excélsior / AFP",
+    "url": "https://www.excelsior.com.mx/internacional/chile-enfrenta-peores-temporales-decadas-reportan-muertos",
+    "por_que_humor": "El contraste entre el temporal 'más intenso en 20 años' y los chilenos twitteando memes desde la oscuridad con el celular al 3% de batería es humor observacional puro; da para hablar del estoicismo nacional ante las catástrofes naturales.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "23c37748-f5fc-4100-8654-a6aa22fcba77",
+    "fecha_encontrada": "2026-07-17",
+    "titular": "Jóvenes chinos crean novios de IA con los datos de sus ex para 'seguir la relación' sin el drama real",
+    "resumen": "Una tendencia en China consiste en alimentar un módulo de inteligencia artificial llamado 'ex.skill' con conversaciones y datos del ex para recrearlo digitalmente y poder chatear con él como si la relación continuara.",
+    "fuente": "UExpress / Oddity Central",
+    "url": "https://www.uexpress.com/oddities/news-of-the-weird",
+    "por_que_humor": "Romper con alguien pero conservar su versión digital para no soltar el trauma es el WTF romántico del año; da para hablar de si esto es terapia, obsesión o simplemente el siguiente paso lógico del stalkeo en Instagram.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
   }
 ]

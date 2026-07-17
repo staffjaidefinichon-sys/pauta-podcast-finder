@@ -691,5 +691,38 @@
     "basado_en": "Temporal del 16 de julio 2026 que afectó Valparaíso y el sur de Chile + fenómeno cultural invernal recurrente",
     "semana": "2026-07-22",
     "estado": "en_pauta"
+  },
+  {
+    "id": "1fa6a0df-9358-4427-8716-fe4ab2fe9852",
+    "fecha_encontrada": "2026-07-17",
+    "titulo": "El chileno frente al corte de luz: ¿somos los seres más creativos del planeta o simplemente los más acostumbrados a sobrevivir sin electricidad?",
+    "gancho": "590 mil hogares sin luz y los chilenos sacando el brasero, jugando cartas y subiendo memes con el 2% de batería.",
+    "por_que_conversar": "El temporal histórico de esta semana pone sobre la mesa un fenómeno muy chileno: la mezcla de estoicismo, ingenio de emergencia y humor negro ante los cortes de luz. Da para contar anécdotas de alumbrado con velas, cocinar en la oscuridad y descubrir que el vecino tenía generador propio desde el 2010.",
+    "categoria": "observacional",
+    "basado_en": "Temporal histórico de julio 2026 que dejó a casi 600.000 hogares sin electricidad en Chile, trending en redes durante 16-17 julio.",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b1838599-447e-4a66-89b2-59290fa1d441",
+    "fecha_encontrada": "2026-07-17",
+    "titulo": "Inteligencia artificial para no soltar a tu ex: ¿romanticismo del siglo XXI o el colmo del autoengaño?",
+    "gancho": "Jóvenes chinos recrean digitalmente a sus ex para seguir chateando con ellos; en Chile igual lo haríamos pero con el ex que 'solo era amigo'.",
+    "por_que_conversar": "La tendencia del 'ex de IA' abre un debate que cualquier chileno puede llevar a su propio patio: ¿cuánto tiempo es demasiado para superar una relación? ¿Chatear con un bot es infidelidad? ¿Y si el bot es mejor pareja que el original? Da para humor observacional sobre el drama romántico nacional y los grupos de WhatsApp de apoyo post-ruptura.",
+    "categoria": "absurdo",
+    "basado_en": "Tendencia viral en China de módulos de IA entrenados con datos de exparejas para simular conversaciones, reportada en julio 2026.",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "898b1164-085e-4c98-b430-93c2d7d7fed9",
+    "fecha_encontrada": "2026-07-17",
+    "titulo": "El récord Guinness más inútil que podrías tener: ¿qué habilidad absurda tuya merece un título mundial?",
+    "gancho": "Si un niño de 9 años tiene récord Guinness de rayuela y otro tipo corrió una maratón con 125 poleras, ¿qué te falta a ti para ser campeón mundial de algo?",
+    "por_que_conversar": "La semana estuvo llena de récords Guinness ridículos (rayuela, trombones, Pomerania saltarín) y eso da para un segmento donde el conductor y el panel proponen los récords más absurdos que Chile podría reclamar: el que come más pan con palta en un minuto, el que dice 'ya, po' más veces seguidas, el que tarda más en responder el grupo de WhatsApp familiar.",
+    "categoria": "absurdo",
+    "basado_en": "Oleada de récords Guinness absurdos en julio 2026: rayuela, trombones, Pomerania, maratón con 125 poleras.",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
   }
 ]
