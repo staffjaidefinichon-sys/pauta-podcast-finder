@@ -724,5 +724,49 @@
     "basado_en": "Oleada de récords Guinness absurdos en julio 2026: rayuela, trombones, Pomerania, maratón con 125 poleras.",
     "semana": "2026-07-22",
     "estado": "en_pauta"
+  },
+  {
+    "id": "f15a874e-e409-4aaf-81cf-f482b0bcc3e5",
+    "fecha_encontrada": "2026-07-18",
+    "titulo": "El robotaxi que te delata: ¿estarías cómodo viajando en un auto que te vigila, escucha y puede llamar a Carabineros?",
+    "gancho": "El Waymo que llamó a la policía por dos cabros con una pistola de Orbeez abrió la pregunta más inquietante del año: ¿qué pasaría si el Uber chileno también reportara todo lo que pasa adentro?",
+    "por_que_conversar": "Da para hablar de privacidad, de las cosas vergonzosas que uno dice o hace en un taxi creyendo que no lo escuchan, y del absurdo de vivir en un mundo donde el auto tiene más autoridad que tú mismo. El ángulo chileno es infinito: imaginar ese sistema en un colectivo de Puente Alto.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del robotaxi Waymo que delató a adolescentes en San Mateo y tendencia global de vehículos autónomos con vigilancia interna",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c467788f-0dad-49cc-be95-83ccd0fa66c3",
+    "fecha_encontrada": "2026-07-18",
+    "titulo": "El gender reveal se fue al carajo: ¿por qué la humanidad no puede anunciar un embarazo sin causar un desastre?",
+    "gancho": "De las palomas pintadas de azul que quedaron como 'faros para depredadores' a los incendios forestales causados por pirotecnia: el género reveal es la fiesta que más daño colateral genera en la historia moderna.",
+    "por_que_conversar": "Da para repasar los gender reveals más catastróficos de la historia (incendios, explosiones, animales en riesgo) y preguntarse si en Chile existe esa tradición o si simplemente mandamos un WhatsApp al grupo familiar. Humor observacional garantizado sobre los extremos a los que llega la gente para anunciar el sexo de un bebé.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia de la pareja de Arizona que tiñó palomas de azul para un gender reveal y el fenómeno viral de los gender reveals catastróficos",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "74ad5048-190c-49d1-9921-bcd82b2f3d99",
+    "fecha_encontrada": "2026-07-18",
+    "titulo": "Las supersticiones para ganar el Kino: ¿rito chamánico, visión divina o pura desesperación?",
+    "gancho": "Si un tipo en Carolina del Sur ganó 500 mil dólares siguiendo 'una visión', ¿qué excusa tiene el chileno que lleva 20 años jugando los mismos números sin resultado?",
+    "por_que_conversar": "Da para que cada uno cuente su ritual más ridículo para la suerte, hablar de las supersticiones chilenas (la herradura, el ojo turco, pasarle la mano al perro antes de jugar), y rematar con el absurdo de que el insomnio también da premios. Conversación abierta, participativa y sin ningún trasfondo político.",
+    "categoria": "observacional",
+    "basado_en": "Noticias de ganadores de lotería por 'visión mística' e 'insomnio' en EE.UU. y fenómeno cotidiano chileno del Kino y La Polla",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6629c22b-be33-47c7-8c2e-4eb409eef8c6",
+    "fecha_encontrada": "2026-07-18",
+    "titulo": "Pedir matrimonio en situaciones imposibles: ¿romanticismo extremo o la nueva forma de llamar la atención?",
+    "gancho": "Si ya tenemos propuestas en la cima ilegal del Empire State con la policía abajo esperando, ¿cuál es el próximo nivel? ¿Bajo el agua? ¿Esposados en Carabineros?",
+    "por_que_conversar": "Da para repasar las propuestas de matrimonio más delirantes de la historia reciente, debatir si el 'sí' bajo presión policial cuenta, y preguntar qué haría cada uno en Chile: ¿en la cancha del equipo, en el mall o en el metro atestado? Humor absurdo con mucha participación de la audiencia.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia de la pareja rusa que escaló ilegalmente el Empire State y propuso matrimonio antes de ser detenida",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
   }
 ]

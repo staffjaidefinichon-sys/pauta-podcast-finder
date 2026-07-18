@@ -1408,5 +1408,44 @@
     "region": "mundo",
     "semana": "2026-07-22",
     "estado": "en_pauta"
+  },
+  {
+    "id": "af1104bb-1eb7-4c1f-8d74-7191c1a1adc9",
+    "fecha_encontrada": "2026-07-18",
+    "titular": "Ladrón rompe el vidrio de un auto en Buenos Aires para robarse un oso de peluche gigante del asiento trasero",
+    "resumen": "Un delincuente en el barrio porteño de Saavedra destrozó la ventanilla de un auto estacionado para llevarse un oso de peluche gigante. La maniobra completa duró menos de un minuto y quedó registrada en cámaras de seguridad.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/sociedad/policiales/2026/07/09/insolito-robo-en-saavedra-le-rompieron-el-vidrio-del-auto-para-llevarse-un-oso-de-peluche-gigante/",
+    "por_que_humor": "Arriesgar la libertad para robar un peluche gigante es el crimen más absurdo del año; da para debatir qué lleva a alguien a tomar esa decisión de vida y si el oso 'valía la pena'.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "35fc8715-df5a-4cb8-877e-0e767e31edb8",
+    "fecha_encontrada": "2026-07-18",
+    "titular": "Pareja de Arizona tiñó palomas de azul para el 'gender reveal' y las aves quedaron como 'faros para depredadores'",
+    "resumen": "Una pareja en Queen Creek, Arizona, contrató un servicio de suelta de palomas y pidió que las tiñeran de azul para revelar el sexo del bebé. Las aves pintadas de azul brillante fueron liberadas y llamaron tanto la atención que un refugio de vida silvestre tuvo que rescatarlas porque 'no se mimetizan bien con el entorno natural'.",
+    "fuente": "Shepherd Express",
+    "url": "https://shepherdexpress.com/puzzles/news-of-the-weird/news-of-the-weird-week-of-july-2-2026/",
+    "por_que_humor": "Convertir palomas en globos azules vivientes para un género reveal es el nivel de creatividad que pone en riesgo la biodiversidad; da para hablar de los gender reveals más ridículos que han existido.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1d0c4940-7a42-4c95-b8f9-020199346fa1",
+    "fecha_encontrada": "2026-07-18",
+    "titular": "Hipopótamo pigmeo Moo Deng del zoo tailandés 'predice' la final del Mundial: elige a Francia y Argentina",
+    "resumen": "El hipopótamo pigmeo Moo Deng, famoso en redes sociales, fue convertido en oráculo mundialista por su zoológico en Tailandia: eligió a Francia sobre España y a Argentina sobre Inglaterra en un ritual de predicción que se viralizó globalmente.",
+    "fuente": "Euronews",
+    "url": "https://www.euronews.com/news/international",
+    "por_que_humor": "Un hipopótamo bebé que predice el Mundial tiene más credibilidad que muchos comentaristas deportivos; da para debatir si vale más la predicción de Moo Deng que la de algún 'experto' en la tele.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
   }
 ]
