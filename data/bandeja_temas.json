@@ -779,5 +779,49 @@
     "basado_en": "Reyes Guachaca 2026 con candidatos activos anunciados en 24horas.cl, votación abierta al público",
     "semana": "2026-07-22",
     "estado": "en_pauta"
+  },
+  {
+    "id": "05974982-b36e-4858-b08e-03669bdc2e83",
+    "fecha_encontrada": "2026-07-20",
+    "titulo": "Robots con piel de verdad que te hacen compañía emocional: ¿el fin de la soledad o el inicio de algo mucho más raro?",
+    "gancho": "China ya vende un humanoide con cara expresiva y 'apoyo psicológico' incluido. ¿Alguien lo pide para el Día del Padre?",
+    "por_que_conversar": "Da para debatir desde el absurdo total (¿qué le dirías a tu robot de compañía?) hasta el observacional (¿sería más empático que tu jefe o tu ex?). Perfecta para el humor chileno sobre la soledad, la tecnología que no pedimos y hasta qué punto la IA nos reemplaza en las relaciones.",
+    "categoria": "absurdo",
+    "basado_en": "El lanzamiento de robots humanoides con piel sintética de UBTECH en China, con 10.000 pedidos y entrega en septiembre 2026.",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ca442ed7-844f-4398-9a26-9000930f4676",
+    "fecha_encontrada": "2026-07-20",
+    "titulo": "El velorio chileno: ¿somos el único pueblo del mundo que le saca el humor a la muerte o simplemente es que estamos acostumbrados?",
+    "gancho": "El chileno que llega al funeral con el chascarrito listo: ¿valor, desfachatez o mecanismo de supervivencia?",
+    "por_que_conversar": "Da para un segmento largo y emotivo-cómico sobre la cultura del velorio en Chile: el que cuenta chistes del muerto, el que lleva torta, el que se duerme en la silla. Humor observacional con mucha identidad nacional y sin tocar política.",
+    "categoria": "observacional",
+    "basado_en": "Video viral de chilenos despidiendo a un amigo con humor que circuló en redes esta semana.",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "7c9f2f8e-3a01-40c0-9471-fd002e59af84",
+    "fecha_encontrada": "2026-07-20",
+    "titulo": "Ser guachaca: ¿insulto, orgullo o el rasgo más honesto de la identidad chilena?",
+    "gancho": "Existe un concurso oficial con corona y todo para elegir al más guachaca del país. Y hay candidatos.",
+    "por_que_conversar": "Los Reyes Guachaca 2026 abren la pregunta de qué significa ser guachaca en 2026: ¿es el tipo del furgón con cumbia a todo volumen o el que le pone pisco al jugo de naranja del desayuno? Da para armarse en dos bandos y reírse de uno mismo.",
+    "categoria": "observacional",
+    "basado_en": "Reapertura de la votación para los Reyes Guachaca 2026, concurso anual chileno de amplia cobertura en redes.",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "7e7b7183-7fda-4c79-af71-98acf744fa78",
+    "fecha_encontrada": "2026-07-20",
+    "titulo": "El robotaxi que te espía, te delata y apaga el motor si te porta mal: ¿bienvenido el auto niñero o esto ya va muy lejos?",
+    "gancho": "Dos cabros andaban disparando y tomando en un Waymo... y el auto los cachó, llamó a la policía y los encerró adentro hasta que llegaron.",
+    "por_que_conversar": "Da para imaginar ese mismo sistema en Santiago: el auto que te frena si vas comiendo, te denuncia si vas con el cinturón suelto o te graba cantando reguetón a las 2 AM. Humor absurdo con observacional sobre tecnología, privacidad y la pregunta de si preferimos que la máquina nos cuide o que nos deje tranquilos.",
+    "categoria": "absurdo",
+    "basado_en": "Caso del Waymo en San Mateo que detectó a adolescentes indisciplinados en su interior y llamó a la policía (julio 2026).",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
   }
 ]
