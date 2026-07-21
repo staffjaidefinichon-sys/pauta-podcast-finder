@@ -1460,5 +1460,18 @@
     "region": "mundo",
     "semana": "2026-07-22",
     "estado": "en_pauta"
+  },
+  {
+    "id": "2368cb01-f701-45a8-9e8c-08aecad8d177",
+    "fecha_encontrada": "2026-07-21",
+    "titular": "Rosalía llega a Chile a días de la final del Mundial: cuatro fechas en Santiago con la euforia española a full",
+    "resumen": "La cantante española Rosalía, que celebró el título mundial de España en redes sociales envuelta en la bandera, llega a Santiago el 24 de julio para cuatro shows en el Movistar Arena con su gira 'Lux Tour 2026'.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/07/20/a-dias-de-su-show-en-chile-los-festejos-de-rosalia-por-el-triunfo-de-espana-en-el-mundial.shtml",
+    "por_que_humor": "Rosalía llega a Chile a cantar justo después de que España le ganó la final a Argentina: el ambiente para los chilenos que son fans de Argentina va a ser 'complicado'. Da para bromas sobre si la van a recibir con cariño o con resignación mundialista.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
   }
 ]

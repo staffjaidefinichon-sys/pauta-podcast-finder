@@ -823,5 +823,27 @@
     "basado_en": "Caso del Waymo en San Mateo que detectó a adolescentes indisciplinados en su interior y llamó a la policía (julio 2026).",
     "semana": "2026-07-22",
     "estado": "en_pauta"
+  },
+  {
+    "id": "47b9093b-9922-4841-bfcd-0db401c1dd9b",
+    "fecha_encontrada": "2026-07-21",
+    "titulo": "El insomnio como estrategia financiera: ¿y si en vez de ver TikTok a las 3 AM jugáramos el Kino?",
+    "gancho": "Una mujer en Carolina del Norte ganó $150.000 a las 3 de la madrugada por no poder dormir y ponerse a jugar en su teléfono. En Chile llevamos años desperdiciando el insomnio en videos de gatitos.",
+    "por_que_conversar": "Da para hablar de todos los usos absurdos que los chilenos le dan al insomnio nocturno (TikTok, stalkear a ex, pedir delivery), comparar supersticiones para ganar el Kino y preguntarse cuánto ha ganado alguien de madrugada en Chile. Es un tema ligero, universal y con ángulo WTF.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral reciente de UPI sobre una mujer que ganó la lotería por insomnio, más el fenómeno chileno del 'uso nocturno del teléfono'.",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5101193e-d0ea-403b-ac27-2efd31ca2b58",
+    "fecha_encontrada": "2026-07-21",
+    "titulo": "Animales diseñados 'borrachos': el ornitorrinco, el equidna y todos los bichos que parecen un error de la naturaleza",
+    "gancho": "Si Dios diseñó al ornitorrinco en un viernes por la tarde, el equidna lo hizo en lunes antes del café. ¿Cuáles son los animales más 'mal hechos' de la naturaleza y cuál sería el equivalente chileno?",
+    "por_que_conversar": "El nacimiento de equidnas 'gemelos' en San Diego abre la puerta a conversar sobre animales que no tienen ningún sentido biológico, preguntarse por qué existen, y desde ahí llegar a los animales chilenos más raros (el huemul que nadie ha visto, la tagua, el quique). Humor absurdo con potencial de trivia.",
+    "categoria": "absurdo",
+    "basado_en": "Nacimiento de equidnas en el Zoo de San Diego y el reciente estudio del ratón andino que vive a 6.700 metros de altura, más el interés general por animales raros en redes.",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
   }
 ]
