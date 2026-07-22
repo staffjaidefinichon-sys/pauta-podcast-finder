@@ -1501,5 +1501,19 @@
     "semana": "2026-07-22",
     "estado": "aprobada",
     "origen": "ejemplo_conductor"
+  },
+  {
+    "id": "d42082a5-268b-49a1-a1cd-3707562f4843",
+    "fecha_encontrada": "2026-07-21",
+    "titular": "La Orina de una Diabetico tiene tanta azucar que podria purificarse y convertirse en Whisky de Malta de Alta Gama",
+    "resumen": "",
+    "fuente": "instagram.com",
+    "url": "https://www.instagram.com/p/Dakxa6egMrV/?igsh=MTl4b2swb3FjeWoxbA%3D%3D",
+    "por_que_humor": "En una diabetes no controlada, el torrente sanguíneo puede contener tanta glucosa que los riñones dejan de reabsorberla completamente, provocando que el azúcar se filtre directamente hacia la orina. Esta condición, llamada glucosuria, fue históricamente una de las señales más claras de diabetes. En casos extremos, la orina puede contener concentraciones de glucosa sorprendentemente altas, revelando hasta qué punto el sistema de regulación del azúcar en sangre del cuerpo se ha visto desbordado.  Fuente MLA: Rosenfeld, Louis. “Diagnosis and Treatment of Diabetes Mellitus Before Insulin.” American Journal of Clinical Pathology, vol. 126, suppl. 1, 2006, pp. S41–S47. Oxford Academic, doi:10.1309/W5XH-XA2F-N221-GNFW.",
+    "categoria": "otro",
+    "region": "chile",
+    "semana": "2026-07-22",
+    "estado": "aprobada",
+    "origen": "ejemplo_conductor"
   }
 ]
