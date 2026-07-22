@@ -125,6 +125,24 @@
       "categoria": "otro",
       "region": "chile",
       "razon": "Debate culinario contra paises vecinos siempre da para reirse"
+    },
+    {
+      "titular": "Más de 600 trombonistas se juntan en una ciudad australiana para batir el récord Guinness del ensamble de trombones más grande del mundo",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "El récord más específico y más ruidoso del universo: 600 personas tocando el instrumento más burlesco de la orquesta al mismo tiempo. Da para imaginar a los vecinos de Ipswich ese día y para debatir qué récord absurdo podría intentar Chile (¿el mayor ensamble de quenas? ¿de kazoos?)."
+    },
+    {
+      "titular": "Jóvenes chinos crean novios de IA con los datos de sus ex para 'seguir la relación' sin el drama real",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "Romper con alguien pero conservar su versión digital para no soltar el trauma es el WTF romántico del año; da para hablar de si esto es terapia, obsesión o simplemente el siguiente paso lógico del stalkeo en Instagram."
+    },
+    {
+      "titular": "Temporal invernal azota el sur de Chile y deja sin luz a más de 230 hogares mientras inunda Quintay en Valparaíso",
+      "categoria": "observacional",
+      "region": "chile",
+      "razon": "El invierno chileno llega puntual como siempre a destrozar planes: el clásico 'llueve y se va la luz' que ninguna tecnología del siglo XXI ha podido resolver todavía."
     }
   ],
   "descartados": [
@@ -278,6 +296,11 @@
       "titulo": "La obsesión chilena con la 'once': ¿es desayuno, cena o un estilo de vida?",
       "categoria": "observacional",
       "razon": "Es un ritual identitario lleno de reglas no escritas (el que llega tarde se queda sin marraqueta) que da para pelear en broma sobre qué es 'once de verdad'."
+    },
+    {
+      "titulo": "El chileno frente al corte de luz: ¿somos los seres más creativos del planeta o simplemente los más acostumbrados a sobrevivir sin electricidad?",
+      "categoria": "observacional",
+      "razon": "El temporal histórico de esta semana pone sobre la mesa un fenómeno muy chileno: la mezcla de estoicismo, ingenio de emergencia y humor negro ante los cortes de luz. Da para contar anécdotas de alumbrado con velas, cocinar en la oscuridad y descubrir que el vecino tenía generador propio desde el 2010."
     }
   ],
   "temas_descartados": [
