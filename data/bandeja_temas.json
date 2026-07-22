@@ -845,5 +845,38 @@
     "basado_en": "Nacimiento de equidnas en el Zoo de San Diego y el reciente estudio del ratón andino que vive a 6.700 metros de altura, más el interés general por animales raros en redes.",
     "semana": "2026-07-22",
     "estado": "en_pauta"
+  },
+  {
+    "id": "e42ad309-5a66-4e3f-9683-89073df2e34f",
+    "fecha_encontrada": "2026-07-22",
+    "titulo": "El perro y el túnel: por qué los animales toman decisiones que ningún ser humano racional tomaría... y de alguna forma igual los rescatamos",
+    "gancho": "Un perro salchicha que se mete solo a un laberinto subterráneo, un mono que nada 5 km en mar abierto, un wallaby que cruza una autopista: ¿quién tiene menos juicio, ellos o nosotros que los seguimos?",
+    "por_que_conversar": "El comportamiento animal absurdo combinado con el humano que corre a rescatarlos es un tema infinito: da para contar historias de mascotas chilenas con decisiones cuestionables, hablar de si los perros merecen el esfuerzo de un rescate de montaña, y debatir si los animales son más valientes o simplemente más irresponsables que nosotros.",
+    "categoria": "absurdo",
+    "basado_en": "Múltiples noticias recientes de animales en situaciones imposibles: el dachshund en el laberinto de Kentucky, el mono nadando en Tailandia, el wallaby suelto en Holanda, el perro colocado en Escocia.",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2013e28f-b3ab-446f-b8b3-0647cfc05f8c",
+    "fecha_encontrada": "2026-07-22",
+    "titulo": "Chile y los OVNIS: ¿somos el país más visitado del universo o simplemente el que más graba con el celular?",
+    "gancho": "Cada cierto tiempo un chileno viraliza un video de luces inexplicables en el cielo, y el país entero para para opinar. ¿Qué tiene Chile que tanto atrae a los alienígenas... o a la paranoia colectiva?",
+    "por_que_conversar": "Es un tema que cruza humor, identidad nacional y el absurdo de que Chile tenga más avistamientos virales que cualquier otro país hispanohablante. Da para teorías ridículas, para reírse de los comentarios de YouTube ('es un drone', 'es Dios', 'es el Gobierno') y para preguntar si un alienígena que aterrizara en Chile sobreviviría al taco de la Costanera.",
+    "categoria": "absurdo",
+    "basado_en": "Video viral de avistamiento de OVNI en Chile que circula en redes esta semana (julio 2026).",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1cd4ec97-1496-4c34-af96-20ba050633cd",
+    "fecha_encontrada": "2026-07-22",
+    "titulo": "El Mundial terminó y Chile no jugó: el ritual nacional de ver el fútbol ajeno como si fuera propio y llorar la final de un país que ni conocemos",
+    "gancho": "España campeón, Argentina finalista, Chile en el sillón: ¿cómo un país que no clasificó igual termina agotado, ronco y con camisetas de otros después de un mes de Mundial?",
+    "por_que_conversar": "El chileno que vive el Mundial ajeno con una intensidad que no tiene explicación lógica es humor observacional de alto vuelo. Da para hablar de la 'ley del cuñado que sabe de fútbol', los grupos de WhatsApp que renacen solo para el Mundial, las apuestas perdidas y el luto colectivo que igual se vive aunque Chile no haya clasificado.",
+    "categoria": "observacional",
+    "basado_en": "Final del Mundial 2026 entre España y Argentina (España campeón), con Chile como espectador y las redes sociales chilenas en modo 'igual sufrimos como si jugáramos'.",
+    "semana": "2026-07-22",
+    "estado": "en_pauta"
   }
 ]
