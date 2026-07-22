@@ -1515,5 +1515,19 @@
     "semana": "2026-07-22",
     "estado": "aprobada",
     "origen": "ejemplo_conductor"
+  },
+  {
+    "id": "3ad95a05-1a69-42df-876d-7593b9a04eec",
+    "fecha_encontrada": "2026-07-21",
+    "titular": "La Primera frase de Marlene tras 4 dias bajo los escombros en Venezuela: \"Quiero una Coca-Cola\"",
+    "resumen": "",
+    "fuente": "instagram.com",
+    "url": "https://www.instagram.com/p/DaPOuJTpe46/?igsh=MTk3NGVhYjZ1cTEzYw%3D%3D",
+    "por_que_humor": "“Quiero Coca-Cola”: la primera frase de Marlene tras 4 días bajo escombros a sus 69 años  Nueva cuenta @ajayquectg👈🏼  Casi cuatro días. Marlene Angulo, de 69 años, pasó casi cuatro días atrapada bajo los escombros tras el terremoto en La Guaira, Venezuela. El sismo la sepultó, pero no su espíritu.  El equipo de rescate de El Salvador, que ha trabajado sin descanso, logró llegar hasta ella y ponerla a salvo. Fue un rescate que devolvió la esperanza a todos los que siguen la tragedia.  Cuando la liberaron, su primera petición no fue auxilio. Pidió una Coca-Cola. Y al beber su primer sorbo de agua, dijo: “Fue el agua más rica del mundo”. Sus palabras, cargadas de humanidad, se han vuelto virales.  La historia de Marlene nos recuerda que incluso en el horror hay espacio para la esperanza y el humor. Que la vida, aunque herida, sigue latiendo.   Marlene Angulo es más que una víctima del terremoto. Es símbolo de resiliencia, un recordatorio de que la vida es frágil pero también indomable. Su antojo de Coca-Cola y su gratitud por el agua nos enseñan que lo simple es lo que más vale. En medio de la tragedia, un sorbo de agua puede ser el milagro más grande.",
+    "categoria": "otro",
+    "region": "chile",
+    "semana": "2026-07-22",
+    "estado": "aprobada",
+    "origen": "ejemplo_conductor"
   }
 ]
