@@ -1473,5 +1473,19 @@
     "region": "chile",
     "semana": "2026-07-22",
     "estado": "en_pauta"
+  },
+  {
+    "id": "a41ab725-519a-40d2-aeaf-ede4d85467fb",
+    "fecha_encontrada": "2026-07-21",
+    "titular": "Akihiko Kondo Pierde a su Esposa Holograma Despues de 10 Años Juntos, Todo termino cuando apagaron los servidores.",
+    "resumen": "",
+    "fuente": "instagram.com",
+    "url": "https://www.instagram.com/p/DaYlKYUE8Ak/?igsh=MTB3N2dmbG1kNnZmcA%3D%3D",
+    "por_que_humor": "🚨En 2018, el japonés Akihiko Kondo celebró una boda simbólica con Hatsune Miku, una popular cantante virtual representada por un holograma interactivo. La ceremonia costó alrededor de 2 millones de yenes (unos 17 mil dólares) y reunió a decenas de invitados.  Durante años convivió con ella gracias a un dispositivo llamado Gatebox, que le permitía interactuar con su holograma. Sin embargo, en 2020 el servicio fue descontinuado y la comunicación dejó de funcionar. Importante: El matrimonio nunca fue reconocido legalmente por las autoridades japonesas; se trató de una ceremonia simbólica.",
+    "categoria": "otro",
+    "region": "chile",
+    "semana": "2026-07-22",
+    "estado": "aprobada",
+    "origen": "ejemplo_conductor"
   }
 ]
