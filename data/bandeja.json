@@ -1633,5 +1633,31 @@
     "region": "mundo",
     "semana": "2026-07-22",
     "estado": "en_pauta"
+  },
+  {
+    "id": "161e5eb4-d4be-4283-92a2-921fbc4ca0ea",
+    "fecha_encontrada": "2026-07-23",
+    "titular": "Un gato naranja de Sídney se convirtió en atracción turística de Google Maps con 4,5 estrellas y cientos de reseñas",
+    "resumen": "Un gato callejero naranja del barrio de Sídney acumuló tal cantidad de visitas, fotos y reseñas en Google Maps que quedó catalogado como punto de interés con calificación de 4,5 estrellas, superando a varios restaurantes y monumentos del sector.",
+    "fuente": "Puppies & Positivity vía Twitter / Yahoo",
+    "url": "https://www.yahoo.com/lifestyle/articles/29-animal-tweets-sooooooo-funny-123102208.html",
+    "por_que_humor": "Un gato con más estrellas en Google que la mayoría de los negocios del vecindario es el resumen perfecto de cómo funciona internet; da para hablar de los animales que 'triunfan' más que cualquier empresa.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3180b9cc-02f1-4083-81c9-78e1b3223760",
+    "fecha_encontrada": "2026-07-23",
+    "titular": "El Biobío tuvo su noticiario nocturno del 21 de julio con 'cobertura especial' por el sistema frontal que cortó la luz a cientos de hogares",
+    "resumen": "La Red Biobío emitió su noticiero central del 21 de julio con foco total en el temporal invernal que afectó la región, en la semana donde el sur de Chile volvió a quedar en modo 'invierno de película de catástrofe'.",
+    "fuente": "24horas.cl / Red Biobío",
+    "url": "https://www.24horas.cl/regiones/zona-centro/biobio/24-horas-central-red-biobio-21-de-julio-2026",
+    "por_que_humor": "El Biobío viviendo otro temporal extremo días después del 'temporal más fuerte en dos décadas' es la broma que el clima le hace a Chile: da para el chiste de que el sur del país tiene tantas alertas rojas que ya nadie mira el semáforo.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
   }
 ]

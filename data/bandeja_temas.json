@@ -878,5 +878,49 @@
     "basado_en": "Final del Mundial 2026 entre España y Argentina (España campeón), con Chile como espectador y las redes sociales chilenas en modo 'igual sufrimos como si jugáramos'.",
     "semana": "2026-07-22",
     "estado": "en_pauta"
+  },
+  {
+    "id": "e0f072ed-53dc-446b-b6a9-c6ed49023983",
+    "fecha_encontrada": "2026-07-23",
+    "titulo": "El auto que te delata: si tu taxi supiera todo lo que haces adentro, ¿qué haría con esa información?",
+    "gancho": "Un Waymo llamó a la policía porque sus pasajeros se portaron mal; ¿y si los taxis chilenos hicieran lo mismo con todo lo que uno dice de vuelta de un carrete?",
+    "por_que_conversar": "El caso del robotaxi soplón dispara una conversación hilarante sobre privacidad, los secretos que uno confiesa en un taxi creyendo que nadie escucha, y qué pasaría si el auto chileno promedio grabara cada conversación post-carrete o post-once. Da para confesar anécdotas propias y imaginar el titular: 'Taxista robótico reporta a pasajero por cantar reguetón a las 3 AM'.",
+    "categoria": "absurdo",
+    "basado_en": "Caso viral del robotaxi Waymo que denunció a sus propios pasajeros ante la policía (San Mateo, julio 2026)",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a382c116-2dd4-463d-948c-eb98387fc1fc",
+    "fecha_encontrada": "2026-07-23",
+    "titulo": "La tele chilena y la lluvia: ¿por qué convertimos que caiga agua del cielo en un evento de cobertura especial de cuatro horas?",
+    "gancho": "El corresponsal parado bajo la lluvia confirmando que llueve, mientras el animador le pregunta con voz dramática '¿y cómo está el panorama ahí?'",
+    "por_que_conversar": "Es un fenómeno hipnótico y puramente chileno: la lluvia activa un modo de emergencia televisiva que el resto del mundo no entiende. Da para hablar del corresponsal que siempre está 'en el lugar de los hechos' sin paraguas, el mapa meteorológico que ocupa media pantalla, y por qué nosotros, un país que tiene invierno todos los años, igual reaccionamos como si nunca hubiéramos visto agua caer del cielo.",
+    "categoria": "observacional",
+    "basado_en": "Cobertura especial de canales chilenos por sistema frontal julio 2026 y el ritual anual del 'llueve y lo transmitimos en vivo'",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b4106bdb-808d-4f6f-924a-7d2f47e9486c",
+    "fecha_encontrada": "2026-07-23",
+    "titulo": "¿Los animales tienen mejor criterio que nosotros? El gato que da cara de asco, el abejorro que inventa soluciones y el ratón que escala más alto que cualquier alpinista",
+    "gancho": "Un abejorro resuelve solo un problema que nadie le enseñó, un ratón vive a 7.000 metros sin quejarse y un gato juzga con la mirada: ¿en qué momento los animales nos dejaron atrás?",
+    "por_que_conversar": "La semana trajo tres noticias de animales que hacen cosas que ningún humano haría con tanta eficiencia. Da para un segmento de humor observacional donde se compara la vida animal con la nuestra: el abejorro tiene más iniciativa que la mayoría en el trabajo, el ratón andino aguanta más frío que cualquier chileno quejándose de 8 grados, y el gato es el único ser vivo con un sistema judicial propio.",
+    "categoria": "curioso",
+    "basado_en": "Noticias de la semana: abejorros innovadores (ScienceDaily), ratón andino a 6.700 metros (Smithsonian), gato que impone justicia (Twitter viral)",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "dec230e8-8d75-4db9-8ae5-dbfa605d97c4",
+    "fecha_encontrada": "2026-07-23",
+    "titulo": "Google Maps para animales: si tu mascota, tu vecino raro o el animal más insólito de tu barrio tuvieran reseña en Google, ¿cuántas estrellas sacarían?",
+    "gancho": "Un gato callejero de Sídney tiene 4,5 estrellas en Google Maps y cientos de reseñas; ¿qué animales, personajes o lugares de Chile merecerían ese honor?",
+    "por_que_conversar": "El gato australiano con más estrellas que un restaurante dispara el juego de imaginar qué animales, vecinos o lugares absurdos de Chile serían puntos de interés si Google Maps los incluyera. Da para que los conductores y la audiencia propongan candidatos: el perro del almacenero de siempre, la paloma más agresiva de la plaza, el semáforo que nadie respeta. Humor observacional participativo con cero política.",
+    "categoria": "absurdo",
+    "basado_en": "Gato naranja de Sídney convertido en atracción turística de Google Maps con 4,5 estrellas (viral Twitter julio 2026)",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
   }
 ]
