@@ -922,5 +922,49 @@
     "basado_en": "Gato naranja de Sídney convertido en atracción turística de Google Maps con 4,5 estrellas (viral Twitter julio 2026)",
     "semana": "2026-07-29",
     "estado": "en_pauta"
+  },
+  {
+    "id": "e488c401-071e-404d-906e-99958c7654a7",
+    "fecha_encontrada": "2026-07-24",
+    "titulo": "Robar con creatividad: el arte del ladrón chileno que lo hace más absurdo que peligroso",
+    "gancho": "En Chile no roban cualquier cosa: roban cuerpos de mascotas, monedas de 10 pesos y osos de peluche. ¿Tenemos los ladrones más poéticos del mundo?",
+    "por_que_conversar": "El patrón de robos absurdos chilenos (crematorio de mascotas, monedas de chatarra, peluches) da para una conversación interminable sobre si la delincuencia criolla tiene su propio estilo artístico. Se puede mezclar con anécdotas del público y comparaciones con el gerente surcoreano que dejó billetes de juguete en la bóveda.",
+    "categoria": "absurdo",
+    "basado_en": "Los robos absurdos chilenos recientes (crematorio de Lampa, monedas de 10 pesos hacia China) más el gerente surcoreano con billetes de juguete.",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f66f3ab3-6d2e-48ee-86a2-049c17914cf4",
+    "fecha_encontrada": "2026-07-24",
+    "titulo": "La propuesta de matrimonio extrema: ¿hasta dónde llegarías para que el sí sea memorable?",
+    "gancho": "Dos rusos subieron ilegalmente al tope del Empire State para pedirse matrimonio y terminaron detenidos. ¿Cuánto romanticismo es demasiado romanticismo?",
+    "por_que_conversar": "La escala de la propuesta de matrimonio como fenómeno social es un filón infinito: desde el que propone en el Mc Donalds hasta el que sube a una aguja de 443 metros con la policía esperándolo abajo. Da para contar las propuestas más ridículas que conocen, debatir si el riesgo de cárcel suma o resta romanticismo, y terminar con el clásico '¿qué haría un chileno promedio?'",
+    "categoria": "absurdo",
+    "basado_en": "La propuesta de matrimonio ilegal en el tope del Empire State de los escaladores rusos (julio 2026) más el patrón de propuestas virales extremas.",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b992d858-b71f-447f-9ad3-d17effef2eaf",
+    "fecha_encontrada": "2026-07-24",
+    "titulo": "Chile y el folklore propio: ¿somos el pueblo que menos conoce sus propias leyendas?",
+    "gancho": "Llega al cine una leyenda oral clásica chilena y la mitad del país pregunta '¿de qué trata eso?'. ¿Sabemos quiénes somos o solo lo que nos llega por TikTok?",
+    "por_que_conversar": "El contraste entre la identidad chilena que decimos tener ('somos muy chilenos') y el desconocimiento real de nuestro propio folklore, comida de regiones o tradiciones locales da para un segmento observacional con mucha risa de reconocimiento. Se puede incluir quiz en vivo: '¿qué es el trauco?', '¿qué es el caleuche?', '¿de dónde viene el mote con huesillo?'",
+    "categoria": "observacional",
+    "basado_en": "La película de leyenda oral chilena anunciada esta semana que dividió a las redes entre quienes la conocen y quienes nunca habían escuchado de ella.",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "fafdeef7-af49-42f6-a5e5-ab738d3b4676",
+    "fecha_encontrada": "2026-07-24",
+    "titulo": "El animal más estoico del mundo es chileno: el ratón que vive a 6.700 metros y le dice 'no es pa' tanto' al frío",
+    "gancho": "Existe un ratón andino que vive donde ningún alpinista sobrevive. Es básicamente el chileno promedio ante cualquier adversidad climática.",
+    "por_que_conversar": "La imagen del ratón andino que aguanta donde ningún mamífero más puede es la metáfora perfecta del chileno que dice 'estoy bien' en pleno temporal, con el techo cayendo. Da para hablar del estoicismo nacional, compararlo con cómo reaccionamos al frío, los cortes de luz, los temblores, y terminar con la pregunta: ¿somos resilientes o simplemente nos gusta sufrir callados?",
+    "categoria": "observacional",
+    "basado_en": "El estudio publicado en Smithsonian Magazine (julio 2026) sobre el ratón de hoja andino que vive a 6.700 metros, el mamífero más alto del mundo.",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
   }
 ]
