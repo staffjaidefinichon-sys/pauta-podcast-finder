@@ -966,5 +966,82 @@
     "basado_en": "El estudio publicado en Smithsonian Magazine (julio 2026) sobre el ratón de hoja andino que vive a 6.700 metros, el mamífero más alto del mundo.",
     "semana": "2026-07-29",
     "estado": "en_pauta"
+  },
+  {
+    "id": "9ad976c1-6333-4668-ba3b-62511614c1f6",
+    "fecha_encontrada": "2026-07-25",
+    "titulo": "El oso como vecino: ¿los animales salvajes nos están ganando terreno o simplemente saben que nuestras casas tienen mejor comida?",
+    "gancho": "Esta semana un oso tocó la bocina de un auto en Colorado, otro robó palos de golf en Canadá y uno más entró a un mall en Alaska a comer duraznos: ¿quién está invadiendo a quién?",
+    "por_que_conversar": "La acumulación de osos metiéndose en autos, casas, malls y campos de golf en todo el mundo da para una conversación hilarante sobre si los animales ya perdieron el miedo a los humanos, si los humanos somos los intrusos, y qué haría el chileno promedio si un oso le tocara el timbre a las 3 de la madrugada.",
+    "categoria": "absurdo",
+    "basado_en": "Tendencia acumulada de noticias virales de osos invadiendo espacios humanos en Norteamérica, julio 2026",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e5d5a626-d412-4153-bfcc-31086ea79446",
+    "fecha_encontrada": "2026-07-25",
+    "titulo": "El monumento absurdo que Chile necesita pero nadie ha pedido: ¿qué cosa ridícula merece un récord Guinness nacional?",
+    "gancho": "Minnesota tiene un cascanueces de 20 metros; Australia juntó 600 trombonistas; ¿y Chile qué tiene para competir en la categoría de 'logro más inútil del mundo'?",
+    "por_que_conversar": "El boom de récords Guinness absurdos y monumentos ridículos alrededor del mundo es el trampolín perfecto para que los conductores imaginen qué récord chileno —el mayor ensamble de cuecas simultáneas, el completo más largo del hemisferio sur, la fila de Falabella más larga del universo— podría poner al país en el mapa por las razones más tontas posibles.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del cascanueces gigante de Minnesota buscando Guinness y tendencia de récords absurdos internacionales",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e5ab9315-f439-46c8-b8e5-0b985edea25c",
+    "fecha_encontrada": "2026-07-25",
+    "titulo": "La playa chilena: ¿orgullo helado o trauma nacional con olas?",
+    "gancho": "Una venezolana criticó las playas de Chile y desató la guerra cultural más fría del año: ¿defendemos playas de 12°C o finalmente admitimos que son una prueba de resistencia?",
+    "por_que_conversar": "El chileno tiene una relación amor-odio con sus costas: las defiende a capa y espada frente a cualquier extranjero, pero internamente sabe que meterse al agua es una hazaña polar. Da para hablar de las playas del norte vs. el sur, del traje de baño vs. el polar, y de por qué insistimos en llamarle 'verano' a algo que en otros países sería invierno.",
+    "categoria": "observacional",
+    "basado_en": "Viral en redes de crítica a playas chilenas y reacción masiva de usuarios nacionales, julio 2026",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "0511f557-78fc-4317-93ad-b75603bbf4fe",
+    "fecha_encontrada": "2026-07-25",
+    "titulo": "La conspiración de que Chile no existe: ¿somos un país o el elenco más dedicado de la historia?",
+    "gancho": "Según los terraplanistas, Chile es un invento geográfico y todos sus habitantes son actores contratados: la respuesta del país entero fue hacer memes.",
+    "por_que_conversar": "Esta teoría recurrente es un espejo perfecto de cómo el chileno procesa el absurdo: en vez de enojarse, se ríe y produce contenido. Da para debatir qué tan extraño es Chile en el mapa —ese país en forma de fideo pegado al borde del mundo— y si hay algo que sí justifique la sospecha de que 'algo raro pasa aquí'.",
+    "categoria": "absurdo",
+    "basado_en": "Reaparición viral de la teoría conspirativa 'Chile no existe' en redes sociales y cobertura de T13",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a0edbd3a-9930-4285-a54e-ea35651bf45e",
+    "fecha_encontrada": "2026-07-25",
+    "titulo": "El oso que toca bocina, el leopardo que 'se fuga' pero igual se queda: ¿los animales están más hartos del sistema que nosotros?",
+    "gancho": "Esta semana un oso tocó bocina toda la noche en un SUV y un leopardo se escapó... pero solo hasta la reja del zoológico. Bienvenidos al club.",
+    "por_que_conversar": "Los animales siguen protagonizando situaciones que parecen protestas sindicales: el oso atrapado que claxona como vecino enojado, el leopardo que 'se arranca' pero tampoco le convence el mundo exterior. Da para hablar de qué haríamos nosotros si pudiéramos escapar del trabajo pero tampoco tuviéramos a dónde ir.",
+    "categoria": "absurdo",
+    "basado_en": "Noticias virales de julio 2026: oso en SUV en Colorado y leopardo en zoo de Carolina del Sur",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5fcf7377-f8e0-49f7-aa64-19ac7b5a9b3c",
+    "fecha_encontrada": "2026-07-25",
+    "titulo": "El homenaje que te mereces: ¿qué te daría tu pueblo si ganaras el Mundial?",
+    "gancho": "España le regaló a sus campeones su propio peso en tomates. ¿Y Chile qué haría?",
+    "por_que_conversar": "El homenaje en tomates de Los Palacios y Villafranca es tan específico y tan raro que abre la pregunta perfecta: ¿qué homenaje absurdo inventaría un pueblo chileno para un héroe local? Da para repasar los homenajes más insólitos que existen en Chile y para debatir si uno preferiría que le pagaran en palta, en mote con huesillo o en sopaipillas.",
+    "categoria": "absurdo",
+    "basado_en": "Homenaje viral en España a campeones mundiales con tomates (julio 2026)",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "22ded6d2-427e-462e-a4d2-d56f0f0e9978",
+    "fecha_encontrada": "2026-07-25",
+    "titulo": "El turismo de nicho: ¿pagarías por un tour de gatos del barrio, y qué equivalente ridículo existiría en Chile?",
+    "gancho": "En Portland cobran por mostrarte los gatos del vecindario y ganaron un premio. En Chile, ¿qué tour absurdo podría armar tu barrio?",
+    "por_que_conversar": "El tour felino de Portland ganó el segundo lugar en los premios locales, lo que prueba que el turismo de nicho más improbable puede ser un éxito. Da para inventar en vivo los tours más absurdos que podría ofrecer cada ciudad chilena: el tour de las fuentes de soda de Valparaíso, el tour de los perros sueltos de La Pintana, el tour de los baches históricos de Santiago.",
+    "categoria": "observacional",
+    "basado_en": "Tour de gatos de Portland viral en redes, julio 2026",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
   }
 ]
