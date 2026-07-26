@@ -1043,5 +1043,38 @@
     "basado_en": "Tour de gatos de Portland viral en redes, julio 2026",
     "semana": "2026-07-29",
     "estado": "en_pauta"
+  },
+  {
+    "id": "5124fc82-08a7-4d69-843e-3a6c83e2cdd8",
+    "fecha_encontrada": "2026-07-26",
+    "titulo": "El homenaje absurdo que te mereces: si ganáramos algo grande, ¿qué nos tirarían encima los chilenos en vez de tomates?",
+    "gancho": "Un pueblo español enterró a sus campeones mundiales en tomates. Chile, siendo honestos, ¿qué usaría: sopaipillas, paltas o monedas de 10 pesos?",
+    "por_que_conversar": "El contraste entre el homenaje 'húmedo' español y lo que sería la versión chilena del festejo nacional abre una conversación absurda e identitaria: qué comida o elemento tan nuestro convertiríamos en proyectil de celebración, y qué dice eso de quiénes somos.",
+    "categoria": "absurdo",
+    "basado_en": "La noticia del pueblo español que festejó a Fabián Ruiz y Gavi con su peso en tomates, más el Mundial 2026 que tiene a Chile en modo 'festejamos el de otros'.",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "850b4427-6862-4829-9241-d550a3de9604",
+    "fecha_encontrada": "2026-07-26",
+    "titulo": "El ladrón creativo chileno: ¿por qué los robos más bizarros del mundo siempre tienen algo de genio y algo de tragedia?",
+    "gancho": "Un gerente de banco surcoreano cambió billetes reales por dinero de juguete con ositos. Chile tiene su propia galería de honor: monedas de 10 pesos como chatarra, cuerpos de mascotas, un oso de peluche. ¿Quién gana?",
+    "por_que_conversar": "El robo absurdo como subgénero del humor negro es un filón inagotable: da para que cada uno cuente el caso más ridículo que recuerda, debatir si hay algo de admiración involuntaria por la creatividad del delincuente desesperado, y reflexionar sobre por qué Chile parece exportar este tipo de casos.",
+    "categoria": "absurdo",
+    "basado_en": "El gerente surcoreano del banco con billetes de juguete, más el historial chileno de robos insólitos (monedas de 10, crematorio de mascotas, oso de peluche en Buenos Aires).",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "dd0cc951-7b3f-41a0-9b12-36219120d5c0",
+    "fecha_encontrada": "2026-07-26",
+    "titulo": "El récord Guinness más inútil que Chile podría reclamar hoy mismo: ¿cuál sería y quién lo intentaría?",
+    "gancho": "Minnesota tiene un cascanueces de 20 metros con nombre y apellido. Australia juntó 600 trombonistas. ¿Qué récord absurdo y específicamente chileno nadie ha reclamado todavía?",
+    "por_que_conversar": "La cultura del récord Guinness ridículo alcanzó un nuevo pico con el cascanueces gigante de Minnesota y la galería de récords absurdos recientes; da para un segmento completamente desbocado donde cada uno propone el récord más chileno, específico e inútil posible: el mayor ensamble de quenas, la fila de colaciones más larga, el almuerzo de menú con postre más rápido del mundo.",
+    "categoria": "absurdo",
+    "basado_en": "El cascanueces Guinness de Minnesota, el récord de trombones australiano ya mencionado, y la tendencia global de récords Guinness cada vez más de nicho y absurdos.",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
   }
 ]
