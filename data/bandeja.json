@@ -1763,5 +1763,70 @@
     "region": "mundo",
     "semana": "2026-07-29",
     "estado": "en_pauta"
+  },
+  {
+    "id": "ef8975c2-dd7f-480b-b652-cf901299edbd",
+    "fecha_encontrada": "2026-07-28",
+    "titular": "Un zoológico reemplazó a un erizo de su colección con un objeto inanimado y nadie se dio cuenta por semanas",
+    "resumen": "Un zoológico reemplazó temporalmente a un erizo real con un objeto de utilería o sustituto inanimado mientras el animal estaba en tratamiento, y los visitantes interactuaron con él normalmente sin notar la diferencia durante varios días.",
+    "fuente": "Diario de Cuyo",
+    "url": "https://www.diariodecuyo.com.ar/viral-a1791/87",
+    "por_que_humor": "La imagen de turistas haciéndole cariño a un objeto de zoológico creyendo que es un erizo vivo es puro WTF; da para hablar de qué tan seguido nos engañan con cosas que creemos que son reales.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "cbe01055-6961-4183-8db7-876fcefcc7d6",
+    "fecha_encontrada": "2026-07-28",
+    "titular": "Los 'Backrooms' de internet: cómo una sola foto de una habitación vacía y amarilla se convirtió en un universo de terror con miles de seguidores",
+    "resumen": "Lo que empezó como una imagen anónima de un cuarto vacío con alfombra amarilla se transformó en una mitología entera de internet con mapas, videos de supervivencia y juegos. En la última semana volvió a ser tendencia global.",
+    "fuente": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/news/strange_offbeat/weird_world/",
+    "por_que_humor": "El hecho de que millones de personas le tengan miedo existencial a una foto de una sala de oficina vacía es el absurdo más moderno posible; da para debatir qué cosa mundana más ridícula nos da miedo en Chile.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a690bd7a-e2a8-4765-a8cd-63ea99075e81",
+    "fecha_encontrada": "2026-07-28",
+    "titular": "Chile es tendencia en redes con el hashtag '#VolveriasConTuEx2': el debate que nunca termina volvió con fuerza",
+    "resumen": "El hashtag #VolveriasConTuEx2 se posicionó entre los trending topics de X (Twitter) Chile, desatando una nueva ola de confesiones, justificaciones y polémicas sobre volver con expareja.",
+    "fuente": "getdaytrends.com",
+    "url": "https://getdaytrends.com/chile/",
+    "por_que_humor": "Chile lleva al menos dos ediciones de este debate en redes y la respuesta sigue siendo igual de caótica: da para observación sobre por qué los chilenos necesitamos encuestas de internet para tomar decisiones emocionales.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "42b4be9f-a969-464e-bcf1-6a69e9a32e54",
+    "fecha_encontrada": "2026-07-28",
+    "titular": "#HouseOfTheDragon es tendencia en Chile: los dragones le ganan al invierno chileno en el prime time",
+    "resumen": "La serie de HBO volvió a dominar las conversaciones en X Chile esta semana, con los chilenos debatiendo escenas, personajes y teorías en pleno julio con la misma intensidad con que discuten el pronóstico del tiempo.",
+    "fuente": "trends24.in",
+    "url": "https://trends24.in/chile/",
+    "por_que_humor": "El chileno que paga calefacción pero prefiere ver dragones en pantalla a poner la estufa; además da para comparar el invierno de Westeros con el de Osorno.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "339d1743-1015-4dc1-b498-3afb88469ca8",
+    "fecha_encontrada": "2026-07-28",
+    "titular": "Reaparecen dos especies de marsupiales que se creían extintas hace 6.000 años en las selvas remotas de Nueva Guinea",
+    "resumen": "Científicos confirmaron la presencia viva de dos especies de marsupiales que no se veían desde hace al menos seis milenios en la península de Vogelkop, Indonesia, gracias a trampas fotográficas instaladas en zonas prácticamente inexploradas.",
+    "fuente": "National Geographic España",
+    "url": "https://www.nationalgeographic.com.es/ciencia/buenas-noticias-semana-segun-national-geographic-reaparicion-dos-especies-que-se-creian-extintas-stream-aves-mas-raras-planeta_27766",
+    "por_que_humor": "Dos bichos que llevan 6.000 años 'muertos' aparecen de la nada como si nada: la naturaleza haciendo el equivalente de aparecer en el trabajo después de seis milenios de licencia médica y diciendo 'aquí estoy'.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
   }
 ]

@@ -1109,5 +1109,49 @@
     "basado_en": "Descubrimiento de fósil antártico olvidado en cajón de museo, noticia viral de la semana; fenómeno cotidiano universal del 'cajón del olvido'.",
     "semana": "2026-07-29",
     "estado": "en_pauta"
+  },
+  {
+    "id": "f2059cfd-f980-4105-91b6-0b1bc82387e4",
+    "fecha_encontrada": "2026-07-28",
+    "titulo": "¿Volverías con tu ex? El hashtag que Chile no puede cerrar y lo que dice de nosotros como pueblo",
+    "gancho": "Chile lleva dos temporadas debatiendo esto en redes y la respuesta sigue siendo igual de caótica que la primera vez.",
+    "por_que_conversar": "El hecho de que necesitemos hacerlo encuesta pública en Twitter para decidir algo tan personal es humor observacional puro; da para que cada uno del panel cuente su versión, juzgue al resto y termine contradiciéndose.",
+    "categoria": "observacional",
+    "basado_en": "Hashtag #VolveriasConTuEx2 en tendencias de X Chile esta semana",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "687ae299-00a5-46a4-a9a9-3a98442d9661",
+    "fecha_encontrada": "2026-07-28",
+    "titulo": "El chileno y los realities de baile: ¿por qué el país más friolento del mundo tiene tanta opinión sobre coreografías?",
+    "gancho": "No bailamos, no nos movemos, pero lo juzgamos todo con la precisión de un jurado del Bolshoi.",
+    "por_que_conversar": "La paradoja del chileno sedentario que critica con conocimiento técnico a los bailarines de la tele es un filón inagotable de humor observacional; además permite hablar de la cultura de los realities y por qué siempre terminamos viendo lo que decimos odiar.",
+    "categoria": "observacional",
+    "basado_en": "Tendencia #fiebredebailechv en X Chile y la larga historia de realities de baile en la televisión chilena",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c2524a8d-2639-4f74-809e-862f512ab28d",
+    "fecha_encontrada": "2026-07-28",
+    "titulo": "Tu casa ya te espía: el WiFi, el smart TV y el altavoz que saben todo de ti, ¿y ahora qué hacemos?",
+    "gancho": "El router que te regalaron en el cyber day conoce tu rutina mejor que tu mamá y cobra menos.",
+    "por_que_conversar": "La noticia del WiFi que identifica personas sin cámaras es el detonador perfecto para una conversación absurda sobre privacidad doméstica: qué sabe cada aparato, si ya es tarde para preocuparse y si el chileno promedio cambiaría algo aunque pudiera.",
+    "categoria": "absurdo",
+    "basado_en": "Estudio alemán que demuestra que el WiFi ordinario puede identificar personas con precisión casi perfecta, publicado esta semana",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2082f4df-6f96-421f-a314-d41839fa0f63",
+    "fecha_encontrada": "2026-07-28",
+    "titulo": "La burocracia interplanetaria: si construimos una aduana en la Luna, ¿a quién le toca hacer la fila?",
+    "gancho": "La humanidad quiere poner una PDI en la Luna para revisar si los marcianos traen los papeles en regla.",
+    "por_que_conversar": "La propuesta científica de construir una cuarentena lunar para material extraterrestre es tan absurda que da para imaginar cómo sería ese trámite, qué pasaría si un chileno tuviera que gestionarlo y cuánto tardaría la construcción (probablemente once años).",
+    "categoria": "absurdo",
+    "basado_en": "Propuesta científica publicada esta semana de crear una estación de cuarentena lunar para muestras de Marte",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
   }
 ]
