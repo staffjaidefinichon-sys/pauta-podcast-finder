@@ -1153,5 +1153,49 @@
     "basado_en": "Propuesta científica publicada esta semana de crear una estación de cuarentena lunar para muestras de Marte",
     "semana": "2026-07-29",
     "estado": "en_pauta"
+  },
+  {
+    "id": "d82fb608-bf59-4b63-83c4-00b21a941ef6",
+    "fecha_encontrada": "2026-07-29",
+    "titulo": "El Día Nacional de la Cazuela: ¿necesitábamos realmente un feriado para algo que ya comemos todo el invierno?",
+    "gancho": "Chile acaba de decretar el 30 de julio como Día Nacional de la Cazuela… como si necesitáramos excusa para comerla.",
+    "por_que_conversar": "Da para debatir si la cazuela es patrimonio sagrado o solo un caldo glorificado, quién tiene la receta 'correcta' (el tema más peligroso de Chile), por qué le ponemos choclo en invierno si no es época, y qué otro plato chileno merece su propio día oficial (¿el completo? ¿el mote con huesillo? ¿el sopaipilla pasada?).",
+    "categoria": "observacional",
+    "basado_en": "Chile decretó el 30 de julio como Día Nacional de la Cazuela, con actividades en el Centro Histórico de Santiago",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "53055082-9bbf-41c9-8a3d-1d49827d3c78",
+    "fecha_encontrada": "2026-07-29",
+    "titulo": "El mayor pozo del Kino en la historia: ¿cuál es el ritual más ridículo que harías para ganarte la plata?",
+    "gancho": "El Kino acumula el pozo más grande de su historia y Chile entero está en modo bruja comprando números con la fecha de nacimiento de su perro.",
+    "por_que_conversar": "Da para confesar los rituales más absurdos que la gente hace para 'atraer' la suerte: los que le rezan a santos específicos, los que usan numerología, los que compran el mismo número hace 20 años convencidos de que 'ya le toca'. También da para el chiste oscuro de cuántos chilenos tienen el plan de vida completo diseñado sobre un premio que todavía no se han ganado.",
+    "categoria": "absurdo",
+    "basado_en": "El Kino chileno alcanza el mayor pozo acumulado de su historia, sorteo esta semana",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f3849d77-7645-4b5c-b5e5-5297f4bed114",
+    "fecha_encontrada": "2026-07-29",
+    "titulo": "¿Hasta dónde llegarías por tu snack favorito? El hombre del baño portátil nos puso el listón muy alto",
+    "gancho": "Un tipo pasó 8 horas dentro de un baño portátil cerrado intentando recuperar un Mountain Dew. ¿Tú hasta dónde has llegado por un antojo?",
+    "por_que_conversar": "Disparador absurdo perfecto para que cada conductor y panelista confiese la cosa más ridícula, peligrosa o vergonzosa que ha hecho por comida: el que cruzó la ciudad por un completo específico, el que esperó 2 horas por un nugget de feria, el que discutió con su pareja por la última sopaipilla. Da para un segmento de confesiones competitivas con final abierto.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral del 29 de julio: hombre cae en letrina portátil buscando un Mountain Dew y queda atrapado 8 horas",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "aa510b01-34f6-4df0-82ab-a29eb92d9089",
+    "fecha_encontrada": "2026-07-29",
+    "titulo": "El tornado en el Ñuble y el invierno chileno que ya no avisa: ¿somos un país preparado para el clima o vivimos en eterno modo sorpresa?",
+    "gancho": "Un tornado destruyó casas en Chillán Viejo y la señora de la casa estaba esperando que le devolvieran los animales 'de a poco'. Así vive Chile el invierno.",
+    "por_que_conversar": "La imagen de una familia filmando en tiempo real cómo el tornado se lleva todo mientras gritan '¡Ay, Dios mío!' y luego los vecinos devuelven las gallinas como si fuera una feria de animales es puro humor chileno de sobrevivencia. Da para debatir si realmente aprendemos algo cada invierno o si cada año nos agarra en modo improvisación total.",
+    "categoria": "observacional",
+    "basado_en": "Tornado en Chillán Viejo, Ñuble, el 27 de julio de 2026, con video viral de la familia afectada",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
   }
 ]

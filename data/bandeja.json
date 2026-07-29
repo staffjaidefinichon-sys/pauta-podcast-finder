@@ -1833,7 +1833,7 @@
     "id": "71c7038a-ce49-4ecb-aa27-db9dc8847acb",
     "fecha_encontrada": "2026-07-29",
     "titular": "IGLESIA JAPONESA CREA BIBLIA ASMR",
-    "resumen": "",
+    "resumen": "Una iglesia de Japón desarrolló una versión de la Biblia en formato ASMR, buscando acercar los textos sagrados a través de una experiencia de audio relajante y susurrada.",
     "fuente": "x.com",
     "url": "https://x.com/animetrends/status/2080351119440576862?lang=es",
     "por_que_humor": "Un proyecto japonés que se describe a sí mismo como una \"iglesia virtual\" se volvió viral por su insólita estrategia para predicar el cristianismo: recitar la Biblia con relajantes voces ASMR de chicas de anime. El canal presenta los textos sagrados con actrices susurrando, acompañadas de ilustraciones otaku — e incluso promociona sus videos asegurando que las escrituras son \"más estimulantes que buscar pareja en Tinder\".",
@@ -1847,7 +1847,7 @@
     "id": "d0296b94-72fb-4726-b2cd-2f29082f36b6",
     "fecha_encontrada": "2026-07-29",
     "titular": "SE ESCOGIO AL \"CHORO MAS GRANDE Y GORDO\" EN MELINKA",
-    "resumen": "",
+    "resumen": "En la localidad chilena de Melinka se realizó un concurso o selección para elegir al choro —mejillón— de mayor tamaño y peso, en lo que parece ser una celebración vinculada a la producción local de ese marisco.",
     "fuente": "instagram.com",
     "url": "https://www.instagram.com/p/DadrGAuPxNe/?igsh=MXh2NGNib2U5bGVhNA==",
     "por_que_humor": "🙌🏻 Hace algunos días ya se celebró una nueva edición del Choro al Alicate, realizada en el gimnasio municipal de Melinka. La actividad reunió a vecinos y visitantes con una programación que incluyó degustaciones, música en vivo, concursos y muestras de la cultura ligada al mar, convirtiéndose en uno de los panoramas más destacados del fin de semana en la comuna.",
@@ -1856,5 +1856,31 @@
     "semana": "2026-07-29",
     "estado": "aprobada",
     "origen": "ejemplo_conductor"
+  },
+  {
+    "id": "70776ebd-c7d2-4ac1-8162-bb16770bc5d1",
+    "fecha_encontrada": "2026-07-29",
+    "titular": "Tornado azota Chillán Viejo y la familia alcanzó a grabar el momento exacto: 'Ay, Dios mío'",
+    "resumen": "Una familia de Chillán Viejo registró en video el instante en que un tornado golpeó su vivienda el 27 de julio. El sistema frontal dejó viviendas y campos agrícolas destruidos en la región del Ñuble, y la dueña de casa relató que los vecinos le fueron devolviendo sus animales 'de a poco'.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/07/27/ay-dios-mio-familia-registro-momento-exacto-en-que-tornado-afecta-a-su-vivienda-en-chillan-viejo.shtml",
+    "por_que_humor": "El 'Ay, Dios mío' grabado en tiempo real mientras el tornado se lleva todo es el grito más chileno del invierno; encima los vecinos iban devolviendo los animales de a uno como si fuera un delivery de gallinas.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "082390b3-bbc3-4b29-9f94-e9e5619b3059",
+    "fecha_encontrada": "2026-07-29",
+    "titular": "Un hombre en Kansas City cayó dentro del estanque de un baño portátil buscando una botella de Mountain Dew y quedó atrapado 8 horas con la tapa cerrada",
+    "resumen": "Un hombre de Missouri cayó al interior del depósito de un baño portátil mientras intentaba recuperar su bebida y quedó atascado ahí durante ocho horas hasta que un conductor de empresa de sanitarios lo encontró. Al abrir la puerta, el rescatista dijo que la cabeza del hombre emergió 'como en el juego del topo'.",
+    "fuente": "City Weekly",
+    "url": "https://www.cityweekly.net/news/news-of-the-weirdjuly-29-2026-6f70dd2e",
+    "por_que_humor": "El nivel de compromiso por recuperar una bebida gaseosa que te lleva a pasar 8 horas dentro de un baño portátil cerrado es el WTF más absoluto del año; da para debatir qué cosa en el mundo valdría ese sacrificio.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-07-29",
+    "estado": "en_pauta"
   }
 ]
