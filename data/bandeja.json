@@ -1684,7 +1684,7 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-07-29",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "c92a23b8-ecf9-48a4-8f86-9b370bccf4d8",
@@ -1723,7 +1723,7 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-07-29",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "5988f326-7a7a-4260-9b5c-b3a49f9eb0ef",
@@ -1736,7 +1736,7 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-07-29",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "8c824a5f-f28c-48ff-9912-7fa0998676d9",
@@ -1762,7 +1762,7 @@
     "categoria": "curioso",
     "region": "mundo",
     "semana": "2026-07-29",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "ef8975c2-dd7f-480b-b652-cf901299edbd",
@@ -1801,7 +1801,7 @@
     "categoria": "observacional",
     "region": "chile",
     "semana": "2026-07-29",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "42b4be9f-a969-464e-bcf1-6a69e9a32e54",
@@ -1814,7 +1814,7 @@
     "categoria": "observacional",
     "region": "chile",
     "semana": "2026-07-29",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "339d1743-1015-4dc1-b498-3afb88469ca8",
@@ -1827,6 +1827,6 @@
     "categoria": "curioso",
     "region": "mundo",
     "semana": "2026-07-29",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   }
 ]
