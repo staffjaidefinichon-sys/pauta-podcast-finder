@@ -1828,5 +1828,19 @@
     "region": "mundo",
     "semana": "2026-07-29",
     "estado": "aprobada"
+  },
+  {
+    "id": "71c7038a-ce49-4ecb-aa27-db9dc8847acb",
+    "fecha_encontrada": "2026-07-29",
+    "titular": "IGLESIA JAPONESA CREA BIBLIA ASMR",
+    "resumen": "",
+    "fuente": "x.com",
+    "url": "https://x.com/animetrends/status/2080351119440576862?lang=es",
+    "por_que_humor": "Un proyecto japonés que se describe a sí mismo como una \"iglesia virtual\" se volvió viral por su insólita estrategia para predicar el cristianismo: recitar la Biblia con relajantes voces ASMR de chicas de anime. El canal presenta los textos sagrados con actrices susurrando, acompañadas de ilustraciones otaku — e incluso promociona sus videos asegurando que las escrituras son \"más estimulantes que buscar pareja en Tinder\".",
+    "categoria": "otro",
+    "region": "chile",
+    "semana": "2026-07-29",
+    "estado": "aprobada",
+    "origen": "ejemplo_conductor"
   }
 ]
