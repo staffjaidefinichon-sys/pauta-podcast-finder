@@ -143,6 +143,36 @@
       "categoria": "observacional",
       "region": "chile",
       "razon": "El invierno chileno llega puntual como siempre a destrozar planes: el clásico 'llueve y se va la luz' que ninguna tecnología del siglo XXI ha podido resolver todavía."
+    },
+    {
+      "titular": "Un trabajador quedó atrapado durante horas dentro de un letrero de bencina de 40 metros en Illinois",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "El concepto de quedarse atrapado DENTRO de un letrero gigante —no arriba, sino adentro— es tan absurdo que da para imaginar qué hace uno ahí adentro esperando el rescate durante horas: ¿hay señal de wifi? ¿pide delivery?"
+    },
+    {
+      "titular": "Una mujer bate el récord Guinness con 106 tatuajes de tiburones en el cuerpo",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "106 tiburones tatuados es la colección de stickers más comprometida de la historia humana. Da para debatir cuándo exactamente decidiste que uno no era suficiente y qué zona del cuerpo guarda al tiburón número 106."
+    },
+    {
+      "titular": "Un oso quedó atrapado dentro de un SUV en Colorado y estuvo tocando la bocina toda la noche",
+      "categoria": "absurdo",
+      "region": "mundo",
+      "razon": "Un oso que de madrugada toca bocina como vecino impaciente es la imagen más cómica y más tierna del año. Da para preguntar si el oso estaba apurado a algún lado o simplemente trolleaba al barrio."
+    },
+    {
+      "titular": "Un vecindario de Portland armó un tour guiado para conocer a los gatos del barrio y se viralizó mundialmente",
+      "categoria": "curioso",
+      "region": "mundo",
+      "razon": "Turismo felino organizado, con reglas para no molestar a los animales y premiado por la prensa local. Da para imaginar el equivalente chileno: un tour por los gatos del Barrio Italia o del Cerro Alegre con guía bilingüe."
+    },
+    {
+      "titular": "Reaparecen dos especies de marsupiales que se creían extintas hace 6.000 años en las selvas remotas de Nueva Guinea",
+      "categoria": "curioso",
+      "region": "mundo",
+      "razon": "Dos bichos que llevan 6.000 años 'muertos' aparecen de la nada como si nada: la naturaleza haciendo el equivalente de aparecer en el trabajo después de seis milenios de licencia médica y diciendo 'aquí estoy'."
     }
   ],
   "descartados": [
@@ -283,6 +313,18 @@
       "categoria": "absurdo",
       "region": "mundo",
       "razon": "No da para tanta conversacion chistosa."
+    },
+    {
+      "titular": "#HouseOfTheDragon es tendencia en Chile: los dragones le ganan al invierno chileno en el prime time",
+      "categoria": "observacional",
+      "region": "chile",
+      "razon": "Parece promocion pagada."
+    },
+    {
+      "titular": "Chile es tendencia en redes con el hashtag '#VolveriasConTuEx2': el debate que nunca termina volvió con fuerza",
+      "categoria": "observacional",
+      "region": "chile",
+      "razon": "Parece promocion pagada"
     }
   ],
   "reglas_aprendidas": [
