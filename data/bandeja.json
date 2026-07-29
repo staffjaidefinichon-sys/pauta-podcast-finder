@@ -1842,5 +1842,19 @@
     "semana": "2026-07-29",
     "estado": "aprobada",
     "origen": "ejemplo_conductor"
+  },
+  {
+    "id": "d0296b94-72fb-4726-b2cd-2f29082f36b6",
+    "fecha_encontrada": "2026-07-29",
+    "titular": "SE ESCOGIO AL \"CHORO MAS GRANDE Y GORDO\" EN MELINKA",
+    "resumen": "",
+    "fuente": "instagram.com",
+    "url": "https://www.instagram.com/p/DadrGAuPxNe/?igsh=MXh2NGNib2U5bGVhNA==",
+    "por_que_humor": "🙌🏻 Hace algunos días ya se celebró una nueva edición del Choro al Alicate, realizada en el gimnasio municipal de Melinka. La actividad reunió a vecinos y visitantes con una programación que incluyó degustaciones, música en vivo, concursos y muestras de la cultura ligada al mar, convirtiéndose en uno de los panoramas más destacados del fin de semana en la comuna.",
+    "categoria": "otro",
+    "region": "chile",
+    "semana": "2026-07-29",
+    "estado": "aprobada",
+    "origen": "ejemplo_conductor"
   }
 ]
