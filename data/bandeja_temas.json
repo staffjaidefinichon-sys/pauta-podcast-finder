@@ -1197,5 +1197,82 @@
     "basado_en": "Tornado en Chillán Viejo, Ñuble, el 27 de julio de 2026, con video viral de la familia afectada",
     "semana": "2026-07-29",
     "estado": "en_pauta"
+  },
+  {
+    "id": "6dc08be7-3bf3-4ae7-82d3-6fb891216fe5",
+    "fecha_encontrada": "2026-07-30",
+    "titulo": "El Día Nacional de la Cazuela: ¿Chile es el único país del mundo que le da feriado a una sopa?",
+    "gancho": "Tenemos un día oficial para la cazuela, pero no para el completo ni para el mote con huesillo. ¿Quién tomó esa decisión y por qué no se puede apelar?",
+    "por_que_conversar": "La existencia de un decreto oficial para celebrar una comida de invierno abre el debate sobre qué otros platos merecen su propio día, quién los elegiría y si la cazuela 'de verdad' tiene una receta oficial o cada familia cree que la suya es la única correcta. Humor observacional sobre identidad culinaria chilena garantizado.",
+    "categoria": "observacional",
+    "basado_en": "Día Nacional de la Cazuela celebrado el 30 de julio de 2026 con actividades en Santiago",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "8a66f74b-2b2d-4821-9520-1a1bf0146d02",
+    "fecha_encontrada": "2026-07-30",
+    "titulo": "Operar con un robot o esperar al cirujano con sueño: ¿cuánto le confiamos nuestro cuerpo a una máquina?",
+    "gancho": "Un robot ya opera vesículas solo, sin que ningún humano guíe el bisturí. La pregunta es: ¿te subes a la camilla?",
+    "por_que_conversar": "Los robots cirujanos autónomos que ya operaron animales grandes y se preparan para humanos dan pie a una conversación absurda y existencial: ¿preferirías al robot que nunca duerme mal ni tiene resaca, o al médico humano que al menos te puede mirar a los ojos antes de abrirte? Da para comparar con otras máquinas en las que ya confiamos sin pensarlo (el cajero, el piloto automático del avión) y para imaginar al robot diciendo 'paciente, respira hondo'.",
+    "categoria": "absurdo",
+    "basado_en": "Robots humanoides que completaron cirugías autónomas de vesícula en animales grandes, noticia de la semana del 28-30 de julio 2026",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "330515e7-5fa3-40c9-99aa-8d742fe0372e",
+    "fecha_encontrada": "2026-07-30",
+    "titulo": "El chileno y el desastre climático: ¿por qué grabamos el tornado antes de correr?",
+    "gancho": "Tornados en el Ñuble, temporales históricos, cortes de luz masivos... y lo primero que hacemos es abrir la cámara del celular.",
+    "por_que_conversar": "El invierno 2026 chileno ha sido de película catástrofe, pero la reacción popular es grabar, postear y hacer memes. Da para hablar del instinto nacional de documentar el caos antes de sobrevivirlo, de los grupos de WhatsApp del condominio que explotan con videos del viento, y de por qué el chileno promedio tiene más videos de tornados que de sus propios cumpleaños.",
+    "categoria": "observacional",
+    "basado_en": "Tornados en el Ñuble y temporal histórico que afectó gran parte del país en julio 2026, con videos virales de vecinos grabando los eventos",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c490ecd1-5972-451d-87bf-4356f21da925",
+    "fecha_encontrada": "2026-07-30",
+    "titulo": "Llegar a un Airbnb y verte decorando la pared: la paranoia máxima del turismo moderno",
+    "gancho": "Imagínate llegar a un arriendo, ver una foto enmarcada en la pared... y reconocerte a ti mismo en ella.",
+    "por_que_conversar": "La historia de las hermanas que encontraron su propia foto en un Airbnb dispara una conversación sobre la pérdida de privacidad en la era digital: ¿cuántas fotos tuyas existen en lugares que no sabes? ¿Cuántos drones, cámaras de seguridad o fotógrafos de stock te han captado sin que lo sepas? Da para chistes sobre aparecer de fondo en la foto de otro y terminar en un póster en Zara.",
+    "categoria": "absurdo",
+    "basado_en": "Historia viral de julio 2026 de dos hermanas de Utah que encontraron una foto familiar en la decoración de un Airbnb en California",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d10626ca-2165-47cd-b65e-6a365e425ffb",
+    "fecha_encontrada": "2026-07-30",
+    "titulo": "El Día Nacional de la Cazuela y la gran pregunta: ¿qué otro plato chileno merece su propio feriado irrenunciable?",
+    "gancho": "Si la cazuela tiene su día, el completo con mayo y la sopaipilla pasada merecen al menos una tarde libre.",
+    "por_que_conversar": "Chile tiene un calendario lleno de días nacionales para cosas improbables. El Día de la Cazuela abre la puerta a un debate gloriosamente inútil: ¿qué comida chilena merece su propio feriado y qué actividades oficiales deberían incluirse? Da para chistes sobre el chileno que se toma el día libre solo para comer, y para proponer el 'Día Nacional del Completo' con procesión de vienesas incluida.",
+    "categoria": "observacional",
+    "basado_en": "Hoy 30 de julio es el Día Nacional de la Cazuela en Chile, con actos oficiales en Santiago",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "be9ca501-f419-461f-9b44-de0b11bb92ec",
+    "fecha_encontrada": "2026-07-30",
+    "titulo": "El Kino más grande de la historia: ¿qué plan ridículo ya tienes para esa plata que todavía no has ganado ni vas a ganar?",
+    "gancho": "El pozo más alto del Kino en la historia activa el sueño nacional de gastar plata imaginaria con lujo de detalles.",
+    "por_que_conversar": "El récord histórico del Kino chileno desata el ritual más querido del país: planificar en detalle qué harías con una fortuna que estadísticamente jamás vas a tener. Da para hablar de los planes más ridículos que la gente ya tiene listos ('me compro un departamento en Providencia y pago las deudas del tío'), de las supersticiones para elegir los números y de si existe algún chileno que realmente no haya soñado con ganarse el Kino alguna vez.",
+    "categoria": "observacional",
+    "basado_en": "El Kino chileno realizará el sorteo con el mayor pozo acumulado de su historia esta semana",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "0aca2fc9-ba80-4522-aa45-e723b928c990",
+    "fecha_encontrada": "2026-07-30",
+    "titulo": "La foto en el Airbnb que eras tú: ¿qué tan raro es que tu vida aparezca de fondo en la vida de otro sin que te avisen?",
+    "gancho": "Llegas a un Airbnb en vacaciones y en la pared hay un cuadro con tu familia de hace diez años. Bienvenido al universo.",
+    "por_que_conversar": "La historia de las hermanas de Utah que se encontraron en la decoración de un arrendado es el WTF existencial perfecto para un segmento de conversación. Da para hablar de cuántas veces los chilenos hemos aparecido de fondo en la foto de un desconocido, en un meme que se viralizó o en el Instagram de alguien que ni conocemos, y qué haría uno al descubrir que su cara decora el baño de una casa en el norte.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral de Utah sisters que encontraron su propia foto familiar enmarcada en un Airbnb de California (julio 2026)",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
   }
 ]

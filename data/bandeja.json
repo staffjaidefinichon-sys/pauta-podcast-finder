@@ -1882,5 +1882,70 @@
     "region": "mundo",
     "semana": "2026-07-29",
     "estado": "en_pauta"
+  },
+  {
+    "id": "39eb1dca-68bc-40f3-a02b-c98dfd467f2c",
+    "fecha_encontrada": "2026-07-30",
+    "titular": "Robots cirujanos operan exitosamente vesículas biliares de animales grandes y se preparan para operar humanos",
+    "resumen": "Robots humanoides completaron con éxito dos extirpaciones de vesícula en animales grandes, abriendo el camino para cirugías autónomas en humanos. El detalle es que lo hicieron solos, sin mano humana guiando el bisturí.",
+    "fuente": "Shepherd Express",
+    "url": "https://shepherdexpress.com/puzzles/news-of-the-weird/news-of-the-weird-week-of-july-30-2026/",
+    "por_que_humor": "La imagen de un robot decidiendo solo dónde cortar adentro de un ser vivo es distopía cómica de primer nivel. Da para hablar de si uno se operaría con un robot y cuánta confianza le tenemos a una máquina con bisturí.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b647272d-34eb-4c43-9803-298d2c48dbcc",
+    "fecha_encontrada": "2026-07-30",
+    "titular": "Tornados afectan cuatro comunas del Ñuble y la gente los graba desde adentro de sus casas como si fuera reality show",
+    "resumen": "Al menos dos tornados azotaron comunas de la región de Ñuble el 27 de julio, dejando viviendas e instalaciones agrícolas dañadas en San Ignacio y Bulnes. Los videos de vecinos grabando el momento exacto del paso del tornado se viralizaron en redes.",
+    "fuente": "Chilevision / Emol",
+    "url": "https://www.chilevision.cl/noticias/noticieros-completos/noticias-tarde/chv-noticias-tarde-miercoles-29-julio-2026/amp/",
+    "por_que_humor": "El chileno que en vez de correr a refugiarse saca el celular a grabar el tornado es el retrato más honesto de la identidad nacional. Da para hablar del instinto de documentar el desastre antes de sobrevivir a él.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "99bfdb99-ddff-4355-810d-def919d5acb9",
+    "fecha_encontrada": "2026-07-30",
+    "titular": "Influencer chilena obligaba a su perro a comer colillas de cigarro para que no la descubrieran fumando",
+    "resumen": "Una influencer confesó en un podcast que cuando era adolescente le daba las colillas de cigarro a su perro para 'esconder la evidencia' de que fumaba. El video se viralizó y Falabella terminó su alianza comercial con ella.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/sociedad/viral/2026/07/28/influencer-obligaba-a-su-perro-a-comer-colillas-de-cigarros-para-que-no-la-descubrieran-fumando.shtml",
+    "por_que_humor": "El nivel de desesperación de usar al perro como papelero orgánico para pasar 'piola' es tan absurdo que da para debatir qué excusas peores ha inventado la gente para esconder que fuma, y si el perro entendía el pacto de silencio.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2173e642-da9e-48d8-8a27-bef365c281d9",
+    "fecha_encontrada": "2026-07-30",
+    "titular": "Al menos dos tornados azotan la región de Ñuble y dejan viviendas y galpones agrícolas destruidos en Diguillín y San Ignacio",
+    "resumen": "La tarde del lunes 28 de julio, dos tornados afectaron la zona sur de Ñuble, dañando viviendas e instalaciones agrícolas en las comunas de San Ignacio y El Carmen. Un adulto mayor quedó herido por escombros.",
+    "fuente": "24 Horas Red Biobío",
+    "url": "https://www.24horas.cl/regiones/zona-centro/biobio/24-horas-central-red-biobio-28-de-julio-2026",
+    "por_que_humor": "Tornados en Ñuble es el crossover climático que ningún chileno pidió: el invierno ya no es solo lluvia y frío, ahora viene con efectos especiales incluidos. Da para hablar del nivel de sobre-exigencia que le está poniendo la naturaleza a las regiones.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "0936c8f9-d969-485d-83b4-2e1a57e9693b",
+    "fecha_encontrada": "2026-07-30",
+    "titular": "Presentan en Ñuble el primer cuaderno que reúne las voces indígenas de la región",
+    "resumen": "En un acto cultural en la región de Ñuble se presentó el primer cuaderno que compila expresiones, relatos y voces de los pueblos indígenas de la zona, en un esfuerzo de rescate de patrimonio oral local.",
+    "fuente": "El Conquistador Concepción",
+    "url": "https://www.elconquistadorconcepcion.cl/2026/07/29/mesa-de-noticias-29-de-julio-2026/",
+    "por_que_humor": "Ñuble tiene tornados el lunes y el martes lanza un cuaderno de voces ancestrales: la región más cinematográfica de Chile. Da para hablar de cómo Ñuble en 2026 está siendo más protagonista de noticias que toda la Región Metropolitana junta.",
+    "categoria": "curioso",
+    "region": "chile",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
   }
 ]
