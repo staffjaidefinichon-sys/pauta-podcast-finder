@@ -1274,5 +1274,38 @@
     "basado_en": "Noticia viral de Utah sisters que encontraron su propia foto familiar enmarcada en un Airbnb de California (julio 2026)",
     "semana": "2026-08-05",
     "estado": "en_pauta"
+  },
+  {
+    "id": "113da226-add6-4d93-ac49-b5d5f2e315c8",
+    "fecha_encontrada": "2026-07-31",
+    "titulo": "Jimothy y la fama sin mérito: ¿por qué internet decide que un animal raro merece más reconocimiento que la mayoría de los humanos?",
+    "gancho": "Un mapache esférico de Seattle tiene noche dedicada en la MLB antes de que tú hayas logrado cualquier cosa en tu vida.",
+    "por_que_conversar": "El caso de Jimothy abre la pregunta perfecta: ¿qué es lo que hace que internet elija a sus ídolos? Un animal deforme pasa de callejero a celebridad con tarjeta coleccionable en dos semanas. Da para compararlo con los famosos chilenos 'accidentales', debatir si los animales virales reemplazaron a los influencers y preguntarse qué animal chileno merece su propia noche en el Estadio Nacional.",
+    "categoria": "absurdo",
+    "basado_en": "Jimothy, el mapache viral de Seattle con deformidad congénita que obtuvo su propia noche en los Seattle Mariners (julio 2026)",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b874fe8d-2eed-4c3c-ab80-ad66a24634ef",
+    "fecha_encontrada": "2026-07-31",
+    "titulo": "Vivir en un convento para pagar renta barata: ¿hasta dónde llegarías para no endeudarte?",
+    "gancho": "En París ya hay jóvenes viviendo con monjas para no pagar arriendo. ¿Cuál es tu límite?",
+    "por_que_conversar": "La crisis de vivienda está generando soluciones cada vez más creativas (o desesperadas) en el mundo. El convento parisino abre el juego a un debate chileno muy real: ¿qué estarías dispuesto a sacrificar —privacidad, libertad, misa de mañana— a cambio de un arriendo barato? Da para contar las situaciones más absurdas en las que chilenos han vivido para ahorrar y para imaginar el convento versión chilena, con cueca los domingos.",
+    "categoria": "observacional",
+    "basado_en": "Tendencia europea de jóvenes ocupando conventos como vivienda económica, reportada en julio 2026",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3d173bff-213e-457b-8931-5bd3b5975940",
+    "fecha_encontrada": "2026-07-31",
+    "titulo": "El oso que usa tu piscina, tu cocina y tu auto: ¿los animales salvajes saben que ya ganaron el pulso?",
+    "gancho": "El oso de Colorado no atacó nada: simplemente usó la piscina del perro ajeno. Y la dueña dijo que se alegró por él.",
+    "por_que_conversar": "2026 está siendo el año récord de avistamientos de osos en Colorado, y los animales cada vez más entran a malls, casas y ahora piscinas con una calma total. El fenómeno da para hablar de si los animales salvajes están perdiendo el miedo a los humanos o si simplemente descubrieron que vivir cerca de nosotros tiene mejores comodidades. En clave chilena: ¿qué animal salvaje chileno ya entró a tu casa sin pedir permiso y qué hiciste?",
+    "categoria": "observacional",
+    "basado_en": "Récord de avistamientos de osos en Colorado 2026 y el oso que usó la piscina para perros de una vecina de Steamboat Springs",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
   }
 ]
