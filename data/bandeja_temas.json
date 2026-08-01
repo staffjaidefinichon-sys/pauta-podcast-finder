@@ -1307,5 +1307,49 @@
     "basado_en": "Récord de avistamientos de osos en Colorado 2026 y el oso que usó la piscina para perros de una vecina de Steamboat Springs",
     "semana": "2026-08-05",
     "estado": "en_pauta"
+  },
+  {
+    "id": "ff87636e-f74c-463c-83e5-19290167adfa",
+    "fecha_encontrada": "2026-08-01",
+    "titulo": "El chileno y la tromba marina: ¿somos el único pueblo que ve salir un tornado de agua de un lago y lo primero que hace es sacar el celular?",
+    "gancho": "En países normales eso es una evacuación; en Chile es contenido para TikTok.",
+    "por_que_conversar": "La tromba en el Lago Llanquihue y los avisos de más trombas para el 1 de agosto en cinco regiones abren el debate perfecto sobre el estoicismo climatológico chileno: el fenómeno apocalíptico que se convierte en oportunidad para la foto. Da para hablar de en qué momento decidimos que grabar era más urgente que correr, y de si el sur de Chile tiene normalizado vivir en una película de desastres.",
+    "categoria": "observacional",
+    "basado_en": "Tromba lacustre viral en Lago Llanquihue y alerta Directemar de trombas en 5 regiones para el 1-2 de agosto de 2026.",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2915af15-f5c6-43bc-9058-92dcc3141c57",
+    "fecha_encontrada": "2026-08-01",
+    "titulo": "La superstición del Kino: ¿tenemos todos un número mágico o somos los más irracionales del planeta cada vez que hay pozo?",
+    "gancho": "Un número de la suerte, un sueño con la abuela muerta y dos palitos de incienso: la estrategia financiera más seria de Chile.",
+    "por_que_conversar": "El hombre de Carolina del Norte que ganó un millón gracias a su amor irracional por el número 7 conecta directo con la tradición chilena de los rituales pre-Kino: números de sueños, fechas de cumpleaños, combinaciones 'que se sienten bien'. Da para confesar los rituales más ridículos de cada uno y debatir si la fe en el número de la suerte es psicología o simplemente desesperación con lentejuelas.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del ganador de lotería de Carolina del Norte y su número 7; conecta con el récord histórico del Kino chileno de 2026.",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c6b94d08-5f71-41f7-85cf-34b98803ea42",
+    "fecha_encontrada": "2026-08-01",
+    "titulo": "La procrastinación institucional: ¿somos el país que más tarda en hacer lo que ya era urgente hace 20 años?",
+    "gancho": "Si Canadá guardó salsa de pescado podrida en una planta abandonada durante 25 años, ¿qué tenemos nosotros esperando turno?",
+    "por_que_conversar": "La planta canadiense con miles de litros de salsa podrida abandonada desde el año 2000 es el espejo perfecto para hablar de la procrastinación a escala institucional: las obras públicas que tardan once años, los trámites que nunca terminan, los pendientes nacionales que se heredan de generación en generación. Da para que cada panelista confiese su 'cajón de salsa podrida' personal y para debatir si esto es un defecto humano universal o un arte que Chile ha perfeccionado.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de la planta de Newfoundland con salsa de pescado abandonada 25 años; conexión con fenómeno chileno de obras eternas y trámites que 'se están resolviendo'.",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "bbb96e96-f5ea-4f94-8974-a1c8e446ef3f",
+    "fecha_encontrada": "2026-08-01",
+    "titulo": "Devolver lo que pediste prestado: el acto más heroico e improbable de la humanidad",
+    "gancho": "Si alguien emparedó un libro en una chimenea para no devolverlo a la biblioteca, ¿qué tienen los chilenos guardado que nunca van a retornar?",
+    "por_que_conversar": "El libro emparedado en una chimenea por 150 años abre la conversación más universal y chilena del mundo: las cosas que pedimos prestadas y nunca devolvimos, los tuppers de la vecina, los DVDs del amigo, la plata del tío. Da para confesar los objetos más ridículos que cada uno tiene retenidos y para debatir si en Chile devolver algo prestado es un acto de amor o simplemente una rareza estadística.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del libro devuelto tras 150 años emparedado en una chimenea (UPI, 1 de agosto 2026).",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
   }
 ]

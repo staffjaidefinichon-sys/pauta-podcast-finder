@@ -2038,5 +2038,31 @@
     "region": "mundo",
     "semana": "2026-08-05",
     "estado": "en_pauta"
+  },
+  {
+    "id": "98efbe53-bcf0-4829-8239-5a213e55f34a",
+    "fecha_encontrada": "2026-08-01",
+    "titular": "Directemar emite alerta por trombas marinas en 5 regiones de Chile justo para el 1 de agosto",
+    "resumen": "La autoridad marítima emitió un aviso oficial advirtiendo condiciones propicias para formación de trombas marinas desde Ñuble hasta Los Ríos, en plena costa, vigente desde el mediodía del sábado 1 de agosto. Mientras el mundo descansa el fin de semana, Chile oficialmente alerta: 'puede caer un tornillo de agua del cielo frente a tu orilla'.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/07/31/directemar-emite-aviso-por-probables-nubes-convectivas-asociadas-a-trombas-marinas-para-5-regiones.shtml",
+    "por_que_humor": "Chile emite una alerta oficial diciendo que básicamente puede aparecer un tornado de agua frente a tu cara en cualquier playa entre Ñuble y Los Ríos, como si eso fuera una condición climática normal de agosto. El estoicismo chileno frente a la naturaleza en modo WTF.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "8a2f2cd3-2de6-4e8e-bb1c-851541dda502",
+    "fecha_encontrada": "2026-08-01",
+    "titular": "Tromba lacustre sorprendió a vecinos de distintas comunas en el Lago Llanquihue",
+    "resumen": "El 26 de julio una tromba de agua emergió en pleno Lago Llanquihue y fue vista simultáneamente desde comunas tan distintas como Puerto Varas y Puerto Octay, dejando a los lugareños grabando con el celular desde la orilla. El fenómeno fue registrado por testigos desde Playa Centinela y se viralizó en redes.",
+    "fuente": "SoyChile / Patagonia Radio",
+    "url": "https://www.soychile.cl",
+    "por_que_humor": "Vecinos de Los Lagos mirando un tornado de agua salir del lago como si fuera martes normal en el sur de Chile: el chileno que graba el fenómeno apocalíptico antes de preguntarse si afecta al asado del domingo.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
   }
 ]
