@@ -2064,5 +2064,44 @@
     "region": "chile",
     "semana": "2026-08-05",
     "estado": "en_pauta"
+  },
+  {
+    "id": "e0a7e60d-14cc-400a-9eb4-0984d6abe1df",
+    "fecha_encontrada": "2026-08-02",
+    "titular": "Trabajadores de hospital en el Biobío son filmados cubiertos por una densa nube de vapor en la cocina del recinto",
+    "resumen": "Un video viralizado en redes muestra a los trabajadores de la central de alimentación de un hospital del Biobío completamente envueltos en vapor, mientras preparan la comida. El registro fue difundido por los propios funcionarios y generó dudas sobre las condiciones del lugar.",
+    "fuente": "24horas.cl",
+    "url": "https://www.24horas.cl/regiones/zona-centro/biobio/24-horas-central-red-biobio-29-de-julio-2026",
+    "por_que_humor": "La imagen de cocineros que literalmente desaparecen dentro de una nube mientras hacen el almuerzo del hospital es tan absurda que parece un sketch. Da para preguntar qué están cocinando exactamente y si el menú incluye niebla.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "19fc3547-0feb-4668-ae83-f7660c4c2cdd",
+    "fecha_encontrada": "2026-08-02",
+    "titular": "Chile elegido Mejor Destino Internacional en los primeros Forbes Travel Awards 2026",
+    "resumen": "En la primera edición de los Forbes Travel Awards 2026, Chile fue reconocido como el mejor destino internacional del mundo. El país que no clasifica al Mundial resulta ser el más buscado del planeta para ir de vacaciones.",
+    "fuente": "Bio Bio Noticias",
+    "url": "https://noticiasbiobio.cl/",
+    "por_que_humor": "El país que lleva décadas sin ir al Mundial resulta ser el mejor destino turístico del mundo según Forbes: da para chistes sobre que preferimos que nos visiten a nosotros en vez de ir a buscar la Copa.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c9c043f2-d83e-4bc8-923c-6cac1574defd",
+    "fecha_encontrada": "2026-08-02",
+    "titular": "Valdivia rompió su propio récord histórico de lluvias: en un solo mes de julio cayó más agua que en todo un trimestre",
+    "resumen": "La estación meteorológica de Valdivia registró 849,8 mm de lluvia en julio de 2026, superando el récord anterior de 591 mm de julio de 1978. En un mes cayó lo que normalmente cae en tres meses completos.",
+    "fuente": "Wikipedia / Temporal de Chile de 2026",
+    "url": "https://es.wikipedia.org/wiki/Temporal_de_Chile_de_2026",
+    "por_que_humor": "Valdivia, la ciudad que ya es la más lluviosa de Chile, decidió que no le bastaba con ser campeona y en un mes metió tres meses de lluvia; da para chistes sobre el valdiviano que ya tiene el kayak en el living como mueble permanente.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
   }
 ]

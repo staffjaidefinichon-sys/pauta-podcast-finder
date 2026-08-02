@@ -1351,5 +1351,93 @@
     "basado_en": "Noticia del libro devuelto tras 150 años emparedado en una chimenea (UPI, 1 de agosto 2026).",
     "semana": "2026-08-05",
     "estado": "en_pauta"
+  },
+  {
+    "id": "a29996c7-0e8f-49b8-8dc5-d23e82f0daa5",
+    "fecha_encontrada": "2026-08-02",
+    "titulo": "Vivir en Disney World como plan de vida: ¿hasta dónde llegarías tú para no pagar arriendo normal en Chile?",
+    "gancho": "Una familia decidió que el hogar perfecto era Mickey Mouse a las 7 AM todos los días. ¿Cuál sería el equivalente chileno más absurdo?",
+    "por_que_conversar": "La noticia de la familia que vive en Disney abre la pregunta de qué solución habitacional ridícula pero funcional estarías dispuesto a adoptar. Da para comparar con el mercado de arriendo chileno actual y descubrir que quizás un parque de entretenciones no suena tan mal.",
+    "categoria": "absurdo",
+    "basado_en": "Familia de Florida que vive permanentemente dentro de Disney World, viralizado esta semana.",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "981db1ff-c4af-4293-9e1f-6c2257caaaf7",
+    "fecha_encontrada": "2026-08-02",
+    "titulo": "El chileno y la confusión profesional: ¿cuántas veces te han llamado para algo completamente distinto a lo que eres?",
+    "gancho": "Un urólogo fue convocado a hablar de ovnis en televisión en vivo. ¿Cuántas veces te han confundido con alguien que no eres?",
+    "por_que_conversar": "La confusión entre urólogo y ufólogo en un programa chileno es la excusa perfecta para hablar de las veces que te han llamado al trabajo equivocado, te han pedido que hagas algo que no va contigo o directamente te han confundido con otra persona. Humor observacional muy cotidiano.",
+    "categoria": "observacional",
+    "basado_en": "Error en vivo de programa chileno que llamó a un urólogo creyendo que era ufólogo, viralizado esta semana en T13.",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "cf41f2f2-b9b2-456a-96ca-413d8e8e5861",
+    "fecha_encontrada": "2026-08-02",
+    "titulo": "El ahorro extremo chileno: ¿somos todos un poco tacaños o simplemente creativos con la plata?",
+    "gancho": "Una chilena se hizo viral por sus métodos de ahorro tan extremos que inspiraron cientos de confesiones. ¿Cuál es el tuyo más vergonzoso?",
+    "por_que_conversar": "El video viral de la chilena 'tacaña extrema' abrió la caja de Pandora de los trucos de ahorro nacionales: guardar el papel de aluminio, reutilizar la bolsa del pan, pedir el menú más barato y luego pedir 'la mitad de lo del vecino'. Da para confesar los métodos más ridículos sin culpa.",
+    "categoria": "observacional",
+    "basado_en": "Video viral de chilena que aplica métodos de ahorro extremo, tendencia en redes esta semana.",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b3bc197c-cf25-4feb-8855-14a5aca13e9b",
+    "fecha_encontrada": "2026-08-02",
+    "titulo": "Las condiciones insólitas que los chilenos ponen en sus eventos: cuando la invitación trae asterisco",
+    "gancho": "Si te invitan a una boda pero con una condición rara adjunta, ¿vas o no vas? ¿Qué condición sería el límite absoluto?",
+    "por_que_conversar": "La noticia del joven invitado a una boda 'con condición' dispara la conversación sobre la cultura chilena de los eventos con reglas no escritas (y escritas): asados donde hay que llevar algo, cumpleaños donde no puedes llegar antes de cierta hora, matrimonios con dress code imposible. ¿En qué momento la invitación se convirtió en contrato?",
+    "categoria": "observacional",
+    "basado_en": "Video viral chileno sobre joven invitado a boda con condición insólita, tendencia esta semana en T13.",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9355a1be-c9e8-46aa-b01b-985d79f8f7fe",
+    "fecha_encontrada": "2026-08-02",
+    "titulo": "La puerta entreabierta para el gato que entró el oso: ¿por qué los chilenos también dejamos entrar lo que no debemos?",
+    "gancho": "Dejas la puerta para el minino y entra el oso: la metáfora perfecta de las malas decisiones cotidianas.",
+    "por_que_conversar": "El caso del oso en Colorado es un disparador perfecto para hablar de todas las situaciones chilenas donde 'dejamos una puerta entreabierta' pensando en algo chico y entró algo enorme: el delivery que llegó con regalo sorpresa, el familiar que se quedó 'un ratito' tres semanas, o el gato que igual no volvió.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral del oso que entró a la casa en Colorado por la puerta del gato (UPI, julio 2026)",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1345284b-55e5-4299-976c-4c3f2342a713",
+    "fecha_encontrada": "2026-08-02",
+    "titulo": "El récord Guinness de comer palitos de pescado y el chileno que necesita su propio récord absurdo: ¿cuál sería?",
+    "gancho": "Si un británico puede ser campeón mundial comiendo palitos de pescado de sus hijos, ¿qué podría reclamar Chile?",
+    "por_que_conversar": "La semana estuvo llena de récords Guinness de nicho (palitos de pescado, drag show, lotería doble) y eso abre la pregunta perfecta: ¿qué récord absolutamente inútil podría ser 'chileno' por naturaleza? ¿Mayor cantidad de sopaipillas comidas bajo la lluvia? ¿El 'ya' más largo de la historia? ¿La fila más larga para cobrar en el banco? Da para que cada uno proponga el suyo.",
+    "categoria": "absurdo",
+    "basado_en": "Ola de récords Guinness absurdos de la semana del 28 al 30 de julio 2026 (UPI)",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "798db0d5-e4f9-4496-95d7-fa7c0a990b41",
+    "fecha_encontrada": "2026-08-02",
+    "titulo": "¿Somos turistas en nuestro propio país? Chile, el mejor destino del mundo que sus propios habitantes no conocen",
+    "gancho": "Forbes dice que Chile es el mejor destino internacional del mundo y el 80% de los chilenos nunca ha cruzado el Maule.",
+    "por_que_conversar": "El premio de Forbes Travel Awards 2026 que nadie esperaba da para hablar con humor observacional sobre la paradoja chilena: extranjeros vienen de todo el mundo a ver la Patagonia, el desierto y la Isla de Pascua, mientras el chileno promedio conoce el mall más cercano y la playa más apretada de la región. Da para preguntar qué parte de Chile no has visitado que debería darte vergüenza.",
+    "categoria": "observacional",
+    "basado_en": "Chile elegido Mejor Destino Internacional Forbes Travel Awards 2026 (Bio Bio Noticias, agosto 2026)",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "abf8e9ef-1fc8-4937-aedf-be4bef672000",
+    "fecha_encontrada": "2026-08-02",
+    "titulo": "Fotos tuyas colgadas en casas ajenas sin que lo sepas: el mundo es más raro de lo que crees",
+    "gancho": "Dos hermanas se alojan en un Airbnb y descubren que la foto de decoración es de ellas mismas hace 10 años.",
+    "por_que_conversar": "El caso de las hermanas de Utah abre una conversación deliciosamente incómoda y cómica: ¿cuántas fotos tuyas pueden estar circulando en fondos de pantalla, decoraciones de cafeterías o álbumes de desconocidos sin tu permiso? La era de las redes sociales y las cámaras en todo lado hace que esto sea más probable de lo que parece. Da para contar anécdotas propias y para hablar del límite entre privacidad y vida pública en la era digital, en clave de humor.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral de las hermanas que encontraron su foto en el Airbnb donde se hospedaron (City Weekly / News of the Weird, julio 2026)",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
   }
 ]
