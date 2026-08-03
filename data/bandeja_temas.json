@@ -1439,5 +1439,38 @@
     "basado_en": "Noticia viral de las hermanas que encontraron su foto en el Airbnb donde se hospedaron (City Weekly / News of the Weird, julio 2026)",
     "semana": "2026-08-05",
     "estado": "en_pauta"
+  },
+  {
+    "id": "34b89310-bffd-4ace-a2e3-0305039f3170",
+    "fecha_encontrada": "2026-08-03",
+    "titulo": "El delivery de animales por correo: ¿es normal mandar a tu mascota por courier o hay un límite que el ser humano no debería cruzar?",
+    "gancho": "Una iguana llamada Titan salió de su caja en FedEx lista para pelear, y eso abre la pregunta: ¿hasta qué punto normalizamos mandar bichos vivos por correo como si fueran zapatillas?",
+    "por_que_conversar": "Da para hablar de las cosas más ridículas que los chilenos mandan por Starken o Chilexpress, de los animales que 'viajan' en buses interregionales y de la línea invisible entre 'mascota viajera' y 'bicho suelto en la autopista'. El ángulo absurdo-cotidiano es perfecto.",
+    "categoria": "absurdo",
+    "basado_en": "La iguana Titan en FedEx Tennessee y el fenómeno viral de animales en situaciones de logística humana",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9fede175-dda3-473c-802c-f3756e4108cc",
+    "fecha_encontrada": "2026-08-03",
+    "titulo": "Los científicos piden plata en OnlyFans para sus marmotas: ¿llegamos al límite de la creatividad para financiar la ciencia o esto ya es el fin de la civilización?",
+    "gancho": "Si los investigadores serios tienen que crear una suscripción de pago para que la gente vea marmotas, ¿qué le pasaría al CONICYT si le cortaran el presupuesto?",
+    "por_que_conversar": "Es el gancho perfecto para hablar de la crisis de financiamiento científico con humor absurdo: qué haría el CONICYT con OnlyFans, qué animal chileno merecería una cuenta propia y hasta dónde está dispuesto a llegar un investigador para pagar el gas del laboratorio.",
+    "categoria": "absurdo",
+    "basado_en": "Investigadores de Colorado que abrieron OnlyFans para sus marmotas tras perder financiamiento federal",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d7750c20-31f4-4683-a8c3-bafc90bb1b74",
+    "fecha_encontrada": "2026-08-03",
+    "titulo": "El chileno y la deuda impagable: ¿heredamos las culpas, los libros atrasados y las cuentas de nuestros abuelos o hay un punto en que prescribe la vergüenza familiar?",
+    "gancho": "Un nieto en Gales devolvió libros que su abuelo sacó hace 116 años. En Chile, ¿tú pagarías la deuda del almacén de tu abuela o la manda 'al muere' nomás?",
+    "por_que_conversar": "El concepto de la deuda generacional es profundamente chileno: el cargo de conciencia heredado, el familiar que 'quedó debiendo' y la presión social de saldar cuentas que uno no contrajo. Con humor observacional da para un segmento largo sobre la memoria histórica del debe.",
+    "categoria": "observacional",
+    "basado_en": "El hombre de Wales que devolvió libros de su abuelo con 116 años de retraso y el fenómeno de las deudas no resueltas de la familia",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
   }
 ]
