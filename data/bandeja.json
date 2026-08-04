@@ -2155,5 +2155,57 @@
     "region": "chile",
     "semana": "2026-08-05",
     "estado": "en_pauta"
+  },
+  {
+    "id": "b80238b7-4961-4629-b915-ce393af9e861",
+    "fecha_encontrada": "2026-08-04",
+    "titular": "Un caimán suelto en Oklahoma obliga a la policía a advertir a vecinos que 'cuiden a sus mascotas'",
+    "resumen": "Autoridades del condado de Cleveland, Oklahoma, alertaron a residentes de un parque de casas móviles sobre un caimán escapado que deambulaba por el sector. La policía pidió llamar al 911 si alguien lo avistaba, como si fuera un vecino con mal genio.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/08/03/loose-caiman-Cleveland-County-Sheriffs-Office-Oklahoma/2241785779618/",
+    "por_que_humor": "El comunicado oficial de 'cuide a sus mascotas' ante un caimán suelto entre casas rodantes es el WTF más tranquilo del año; da para imaginar al vecino sacando a pasear al perro y encontrándoselo.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a13c87b8-ff67-404c-9621-0a54fd6040d2",
+    "fecha_encontrada": "2026-08-04",
+    "titular": "Un cocodrilo escapado en Indiana resultó ser un reincidente con historial previo de fugas",
+    "resumen": "Policías de Indiana respondieron a un llamado de madrugada por un cocodrilo suelto y al llegar descubrieron que el animal ya tenía antecedentes: era un escapista reincidente con historial previo de fugas registrado.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/08/03/alligator-Jeffersonville-Indiana/6141785767738/",
+    "por_que_humor": "Un caimán con 'prontuario' de fugas es el delincuente más honesto del barrio; da para chistes sobre reincidencia y el sistema penitenciario de reptiles.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ef7318e7-7f07-4eaa-ac02-77ed9a9dfdd7",
+    "fecha_encontrada": "2026-08-04",
+    "titular": "Un hombre de Idaho acumula 200 récords Guinness simultáneos tras ganar el de Hungry Hungry Hippos en familia",
+    "resumen": "David Rush, rompe-récords serial de Idaho, se convirtió en solo la tercera persona en la historia en sostener 200 récords Guinness al mismo tiempo, el último de ellos jugando Hungry Hungry Hippos junto a su familia con un tiempo de 3,75 segundos.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/08/03/Guinness-World-Records-David-Rush-Hungry-Hungry-Hippos/2001785770970/",
+    "por_que_humor": "Alguien dedicó su vida a acumular 200 títulos mundiales, y el número 200 fue un juego de mesa infantil de hipopótamos plásticos; da para reflexionar sobre las prioridades de vida más absurdas del universo.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "86474f3d-48ee-40b7-8888-1d59b132b803",
+    "fecha_encontrada": "2026-08-04",
+    "titular": "Gato de Michigan nació con 28 dedos y Guinness lo coronó campeón mundial de los más polidáctilos",
+    "resumen": "Toby, un gatito de 10 meses de Michigan, fue certificado por Guinness World Records como poseedor del récord de más dedos en un gato, empatando el récord anterior de 28 dedos. Los gatos normalmente tienen 18.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/06/29/Guinness-World-Records-cat-kitten-Toby-28-toes/4471782753448/",
+    "por_que_humor": "Un gato con 28 dedos que empata con otro gato de 28 dedos como 'récord mundial' levanta la pregunta de si hay más dedos escondidos por el mundo y nadie los ha contado todavía; da para hablar de los gatos raros de Chile.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
   }
 ]

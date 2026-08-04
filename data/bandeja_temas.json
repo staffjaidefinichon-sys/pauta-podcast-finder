@@ -1472,5 +1472,38 @@
     "basado_en": "El hombre de Wales que devolvió libros de su abuelo con 116 años de retraso y el fenómeno de las deudas no resueltas de la familia",
     "semana": "2026-08-05",
     "estado": "en_pauta"
+  },
+  {
+    "id": "a9d4938e-1422-4450-a5fb-46fc08e3030a",
+    "fecha_encontrada": "2026-08-04",
+    "titulo": "El libro que nadie devuelve: ¿qué objeto ajeno tenés guardado en casa hace años y ya no vas a devolver?",
+    "gancho": "Una biblioteca australiana esperó 150 años para recuperar un libro; en Chile hay gente que 'guarda' las cosas prestadas desde el colegio.",
+    "por_que_conversar": "Todos tienen un DVD, una olla, un paraguas o un libro ajeno que ya 'prescribió por uso prolongado'. El debate sobre cuándo exactamente una cosa prestada se vuelve tuya es universal, vergonzoso y muy chileno; da para confesar en vivo los objetos más ridículos que nadie ha reclamado.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del libro emparedado en chimenea por 150 años devuelto a biblioteca en Australia (UPI, 31 julio 2026)",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "4f25174f-2616-4f23-9eab-ff75d3f52dcf",
+    "fecha_encontrada": "2026-08-04",
+    "titulo": "El récord Guinness de tu vida: ¿en qué cosa absurda serías campeón mundial sin haberlo intentado?",
+    "gancho": "Un tipo acumula 200 récords Guinness jugando Hungry Hungry Hippos; tú llevas 200 carretes de hilo que nunca vas a usar.",
+    "por_que_conversar": "La semana estuvo llena de récords mundiales ridículos (caimanes, drag queens, hipopótamos de plástico). El ángulo chileno es preguntarse qué habilidad cotidiana e inútil de cada uno merecería un título: el más rápido comiendo sopaipillas, el que más tiempo aguanta sin responder un WhatsApp del trabajo, el que más frazadas apila en invierno.",
+    "categoria": "absurdo",
+    "basado_en": "Ola de récords Guinness absurdos de la semana: 200 títulos simultáneos en Idaho, drag en Alberta, perros surfeando (UPI, 3 agosto 2026)",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6fc641b3-b456-46eb-9281-145752465852",
+    "fecha_encontrada": "2026-08-04",
+    "titulo": "Animales con prontuario: cuando el delincuente más reincidente del barrio tiene cuatro patas",
+    "gancho": "Un caimán en Indiana tiene historial policial de fugas previas; en Chile la fauna tampoco respeta el reglamento.",
+    "por_que_conversar": "La semana trajo un caimán reincidente en Indiana, 15 cerdos 'creando peligro' en New Jersey y un cocodrilo en Oklahoma que ni el vecindario pudo controlar. El ángulo: ¿qué pasa cuando el animal es más pillo que el sistema? Da para hablar de animales chilenos que tampoco acatan normas (los perros del barrio, el caballo que para el tráfico en regiones, la gaviota que roba en la feria) y para preguntar si hay un Registro de Animales con Antecedentes.",
+    "categoria": "absurdo",
+    "basado_en": "Caimán reincidente en Indiana + caimán suelto en Oklahoma (UPI, 3 agosto 2026)",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
   }
 ]
