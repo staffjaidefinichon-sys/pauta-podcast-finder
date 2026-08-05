@@ -1505,5 +1505,93 @@
     "basado_en": "Caimán reincidente en Indiana + caimán suelto en Oklahoma (UPI, 3 agosto 2026)",
     "semana": "2026-08-05",
     "estado": "en_pauta"
+  },
+  {
+    "id": "e28e623d-14ed-4588-bb3f-d4fade7c9ad3",
+    "fecha_encontrada": "2026-08-05",
+    "titulo": "La medicina que te arregla una cosa y te rompe tres: ¿por qué le seguimos creyendo a los procedimientos que 'no duelen' y 'son menores'?",
+    "gancho": "Una mujer fue a acomodar levemente su mandíbula y salió con la quijada 13 mm más afuera; otra fue a acupuntura y volvió con 10 agujas rotas en el pie.",
+    "por_que_conversar": "El terror universal a los procedimientos médicos 'pequeños' que se complican da para contar anécdotas de dentistas, cirugías menores y tratamientos alternativos que en Chile se practican con una confianza inexplicable. Mezcla perfecta de humor negro y observacional.",
+    "categoria": "observacional",
+    "basado_en": "Casos virales de cirugía de mandíbula fallida y agujas de acupuntura rotas en el pie circulando esta semana en redes.",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "139efe1a-5d11-4bde-b740-5f24e6a6200c",
+    "fecha_encontrada": "2026-08-05",
+    "titulo": "Disfrazarte de otra persona para vivir una vida paralela: ¿hasta dónde llegarías para reinventarte sin que nadie lo sepa?",
+    "gancho": "Un hombre chino fingió su propia muerte con ayuda de su familia para escapar de una multa de tránsito. Una mujer adulta se infiltró en el colegio. ¿Cuál es tu límite?",
+    "por_que_conversar": "El fenómeno de asumir identidades falsas —desde lo absurdo hasta lo cinematográfico— da para debatir qué tan lejos llegaría cada uno para zafarse de un problema, volver a empezar o simplemente trollear al sistema. Ideal para que cada panelista cuente su peor 'me hice el leso' de la vida.",
+    "categoria": "absurdo",
+    "basado_en": "Casos recientes de personas que fingen muertes, infiltraciones en colegios y dobles identidades viralizados en redes internacionales.",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b0ff85cc-86c9-4ea4-a15f-cde5c9782071",
+    "fecha_encontrada": "2026-08-05",
+    "titulo": "El libro que nunca devolviste: la deuda más ridícula y más universal de la humanidad",
+    "gancho": "Una biblioteca australiana recibió la devolución de un libro prestado hace 150 años. Estaba tapiado en una chimenea. ¿Y el tuyo dónde está?",
+    "por_que_conversar": "Todos tienen un libro prestado que nunca volvió, un DVD que 'se perdió', una tupperware que jamás regresó. El chileno y la cultura del 'te lo devuelvo la próxima' da para un segmento donde cada uno confiesa su deuda más vergonzosa y calcula la multa acumulada.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral de biblioteca australiana que recibe libro con 150 años de mora, encontrado emparedado en una casa.",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1dd40bf7-55a1-40b6-8197-793f2c7aa95e",
+    "fecha_encontrada": "2026-08-05",
+    "titulo": "La fiesta religiosa más extrema de Chile: La Tirana, donde la fe se mezcla con plumas, diablos y 40 grados de calor en el desierto",
+    "gancho": "200.000 personas viajan al desierto más árido del mundo, se disfrazan de diablos y bailan días enteros para honrar a la Virgen. Y funciona.",
+    "por_que_conversar": "La Tirana es el evento más WTF y más hermoso de Chile que el resto del país apenas conoce. Da para hablar de la identidad nortina, de las tradiciones que parecen imposibles desde afuera, y de por qué los santiaguinos no saben nada de lo que pasa al norte de Copiapó.",
+    "categoria": "curioso",
+    "basado_en": "Inicio oficial de la Fiesta de La Tirana el 4 de agosto en Huara, con casi 200.000 asistentes esperados.",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1721d4b1-a634-41b9-a105-ce01ef629480",
+    "fecha_encontrada": "2026-08-05",
+    "titulo": "La cirugía estética que te deja peor: ¿por qué seguimos yendo igual?",
+    "gancho": "Entraste a arreglarte una cosita y saliste con una quijada nueva que nadie te pidió.",
+    "por_que_conversar": "El caso de la mujer china con la mandíbula empujada 13 mm abre el debate universal sobre la obsesión estética, el miedo a envejecer y el chileno que va 'a retocarse un poquito' y termina con otra cara. Da para hablar de resultados inesperados, de la presión social y de si alguno en la mesa conoce a alguien con una historia así.",
+    "categoria": "absurdo",
+    "basado_en": "Tendencia de cirugías estéticas con resultados bizarros que se viralizan en redes asiáticas y latinoamericanas; caso de cirugía de mandíbula fallida en China (agosto 2026).",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "28826433-882d-499a-a099-831d11cc7ebc",
+    "fecha_encontrada": "2026-08-05",
+    "titulo": "La suerte del vecino: ¿por qué hay gente que gana la lotería dos veces y tú no ganas ni el raspín del almacén?",
+    "gancho": "Este tipo ganó 100 mil dólares en lotería en siete meses, tú llevas 15 años jugando el mismo número de tu ex y nada.",
+    "por_que_conversar": "El hombre de Maryland que se sacó la lotería dos veces en un año es el detonante perfecto para hablar de la mitología chilena del Kino: los rituales absurdos, los números 'mágicos', el amigo que nunca gana pero igual juega, y la pregunta filosófica de si la suerte existe o simplemente hay gente que la acapara toda.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de hombre de Maryland con dos premios de 50k en 2026 (UPI, julio 2026) y la tradición chilena del Kino/pozo acumulado.",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "98809b5b-c354-46c0-aeef-7f448474859c",
+    "fecha_encontrada": "2026-08-05",
+    "titulo": "El ritual más extremo de Chile: ¿qué dice de nosotros que 200.000 personas vayan VOLUNTARIAMENTE al desierto a bailar con 40 grados?",
+    "gancho": "Mientras el santiaguino se queja de 8 grados, 200.000 nortinos se juntan en el desierto más árido del mundo a bailar con trajes de 20 kilos.",
+    "por_que_conversar": "La Tirana es el evento más extremo, colorido y desconocido del calendario chileno para los que viven al sur de Copiapó. Da para comparar la cultura del norte con la del centro-sur, para reírse del chileno que 'no aguanta el calor' y para debatir cuál es el ritual más absurdamente heroico del país según la región de cada uno.",
+    "categoria": "observacional",
+    "basado_en": "Inicio de la Fiesta de La Tirana 2026 el 4 de agosto en Huara, Tarapacá, con expectativa de 200.000 asistentes (24horas.cl).",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "45af4fa2-0013-4e46-95aa-11df365a01af",
+    "fecha_encontrada": "2026-08-05",
+    "titulo": "Basura espacial: mandamos chatarra a chocar contra la Luna y lo llamamos 'espectáculo'. ¿Somos el universo o somos el vecino del departamento de arriba?",
+    "gancho": "El cohete que choca contra la Luna hoy no es un accidente: es que nadie fue a buscarlo en un año y medio.",
+    "por_que_conversar": "El impacto del cohete Falcon 9 contra la Luna el 5 de agosto da para una conversación absurda sobre la basura espacial, la irresponsabilidad cósmica de la humanidad y cómo Chile —que no tira ni una cápsula al espacio— igual va a sufrir las consecuencias. Da para compararlo con el que bota el cartón al lado del contenedor y dice que 'casi llegó'.",
+    "categoria": "absurdo",
+    "basado_en": "Impacto del cohete desechado SpaceX Falcon 9 contra la Luna el 5 de agosto de 2026 (Disclosure News).",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
   }
 ]

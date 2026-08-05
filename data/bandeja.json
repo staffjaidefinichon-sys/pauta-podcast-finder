@@ -2207,5 +2207,31 @@
     "region": "mundo",
     "semana": "2026-08-05",
     "estado": "en_pauta"
+  },
+  {
+    "id": "d572fae9-5d81-4bab-80d3-6743078a3cd6",
+    "fecha_encontrada": "2026-08-05",
+    "titular": "Un hombre chino atrapado manejando en estado de ebriedad convenció a su familia para fingir su propia muerte y escapar de la justicia",
+    "resumen": "Un conductor chino detenido por manejar ebrio orquestó un plan con su familia para simular su fallecimiento y evitar las consecuencias legales. El plan, por supuesto, fue descubierto.",
+    "fuente": "Oddity Central",
+    "url": "https://www.odditycentral.com/category/news",
+    "por_que_humor": "El nivel de compromiso para evitar una multa de tránsito —fingir la muerte propia con ayuda familiar— es el WTF más elaborado del año; da para debatir cuánto harías tú para zafarte de una infracción.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b432f597-9511-4b8f-81c0-e5c06d7393c2",
+    "fecha_encontrada": "2026-08-05",
+    "titular": "Cohete desechado del SpaceX Falcon 9 se estrella contra la Luna este 5 de agosto y se podrá ver desde la Tierra",
+    "resumen": "Una etapa superior del cohete Falcon 9 de SpaceX, en órbita desde enero de 2025, colisionará con la Luna el 5 de agosto de 2026. El impacto será visible para observadores en la Tierra.",
+    "fuente": "Disclosure News",
+    "url": "https://www.disclosurenews.it/news-burst-5-august-2026-get-the-news/",
+    "por_que_humor": "La humanidad manda basura espacial a chocar contra la Luna y la noticia es 'qué espectáculo'; da para bromear sobre que Chile tampoco recoge la basura del barrio pero al menos no la manda a otro astro.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-05",
+    "estado": "en_pauta"
   }
 ]
