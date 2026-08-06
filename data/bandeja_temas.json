@@ -1593,5 +1593,49 @@
     "basado_en": "Impacto del cohete desechado SpaceX Falcon 9 contra la Luna el 5 de agosto de 2026 (Disclosure News).",
     "semana": "2026-08-05",
     "estado": "en_pauta"
+  },
+  {
+    "id": "ccf525f3-2ab7-474e-a01d-0ec8fbaf4b0a",
+    "fecha_encontrada": "2026-08-06",
+    "titulo": "Chile tiene dos Miss Chile al mismo tiempo: ¿somos tan buenos que necesitamos mandar a dos reinas o simplemente nos perdemos solos en los trámites?",
+    "gancho": "Imagina llegar al aeropuerto de otro país con banda y corona... y que ya estés ahí.",
+    "por_que_conversar": "El hecho de que existan dos organizaciones que entregan el mismo título en Chile da para hablar del caos burocrático nacional con humor, de quién decide quién es 'el oficial' en todo en este país, y de si los chilenos somos capaces de ponernos de acuerdo en algo tan simple como quién nos representa.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral de BioBioChile del 4 de agosto 2026 sobre Dominga López e Ignacia Fernández compitiendo como Miss Chile en certámenes distintos.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3b251196-c996-40f1-ac58-f48a225552bf",
+    "fecha_encontrada": "2026-08-06",
+    "titulo": "Las orcas europeas llevan 6 años hundiendo barcos y nadie sabe por qué: si los animales se rebelan, ¿los chilenos de qué lado estamos?",
+    "gancho": "Las orcas ya hunden barcos, revientan peces a cabezazos y piden favores a pescadores del Biobío: algo está pasando bajo el agua.",
+    "por_que_conversar": "La acumulación de noticias de animales con comportamientos cada vez más coordinados y 'humanos' (orcas agresivas en España, la orca que pidió ayuda en el Biobío, abejorros que inventan soluciones) da para una conversación absurda y filosófica sobre si los animales están organizándose, si tienen razones válidas para estar hartos y en qué bando estaría el chileno promedio si se declara la guerra.",
+    "categoria": "absurdo",
+    "basado_en": "Reportes de Live Science de julio-agosto 2026 sobre orcas hundiendo barcos y golpeando peces luna frente a España, más tendencia acumulada de animales virales.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "bd9381fa-a7d1-468b-9802-5e9fa928d26e",
+    "fecha_encontrada": "2026-08-06",
+    "titulo": "Evacuar un cine por un pedo: el momento exacto en que la vergüenza colectiva chilena entraría en colapso total",
+    "gancho": "En algún lugar del mundo alguien obligó a evacuar una sala de Spider-Man con sus gases. En Chile eso hubiera sido silenciado para siempre.",
+    "por_que_conversar": "La noticia del cine evacuado por flatulencias abre la conversación sobre la cultura del silencio y la vergüenza en espacios públicos en Chile: el nivel de negación colectiva que existe aquí, los sonidos que fingimos no escuchar en el Metro, y qué haría el chileno promedio si fuera el responsable (¿se entrega, se escapa, o mira al lado como si nada?).",
+    "categoria": "absurdo",
+    "basado_en": "Noticia de UPI Odd News del 4 de agosto 2026 sobre evacuación de cine por flatulencias durante función de Spider-Man.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a5e71df0-57bc-417d-9bbb-03ed618e4da4",
+    "fecha_encontrada": "2026-08-06",
+    "titulo": "¿Qué tan joven es demasiado joven para tener más logros que toda tu familia junta? La generación que nos dejó obsoletos antes de los 20",
+    "gancho": "Una mina de 18 años ya da clases en la universidad. Tú a los 18 todavía no sabías poner la lavadora.",
+    "por_que_conversar": "El fenómeno de los 'prodigios' cada vez más jóvenes da para una conversación irónica y generacional sobre qué estábamos haciendo nosotros a esa edad, el peso que carga alguien que logra todo muy temprano, y si en Chile existe algún caso equivalente o si el sistema está diseñado para hacerte tardar lo más posible en todo.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de UPI del 4 de agosto 2026 sobre adolescente de Florida convertida en la profesora universitaria más joven del mundo, más tendencia de 'prodigios gen Z' en redes.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
   }
 ]

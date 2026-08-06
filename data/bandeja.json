@@ -2233,5 +2233,31 @@
     "region": "mundo",
     "semana": "2026-08-05",
     "estado": "en_pauta"
+  },
+  {
+    "id": "74bfb5cf-8d33-4028-be1f-d0966f376197",
+    "fecha_encontrada": "2026-08-06",
+    "titular": "Chile tiene dos misses al mismo tiempo: Dominga López e Ignacia Fernández pelean por la misma corona",
+    "resumen": "Dos mujeres compiten simultáneamente representando a Chile en certámenes internacionales de belleza distintos, generando confusión sobre quién es 'la' Miss Chile oficial. La situación viene de dos organizaciones que otorgan el título por separado.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/08/04/por-que-chile-tiene-dos-misses-dominga-lopez-e-ignacia-fernandez-compiten-por-una-corona-de-belleza.shtml",
+    "por_que_humor": "El país mandando dos reinas al mundo como si fuera un bug del sistema es pura comedia: imaginar a dos Miss Chile llegando al mismo aeropuerto con la misma banda y ninguna cede el paso.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "176a07df-125f-4bee-8111-c62c28b25c0d",
+    "fecha_encontrada": "2026-08-06",
+    "titular": "Reintroducción de osos hormigueros en Brasil: el primer programa del mundo de su tipo parece estar funcionando",
+    "resumen": "El primer programa de reintroducción de osos hormigueros al estado salvaje en Brasil estaría dando resultados positivos según reportes recientes, marcando un hito en conservación de la especie.",
+    "fuente": "Wild World of Politics / AP",
+    "url": "https://www.wildworldofpolitics.com/post/today-s-news-august-4-5-2026",
+    "por_que_humor": "El oso hormiguero reintroducido al mundo como si fuera un empleado reincorporado a su trabajo después de una larga licencia: da para imaginar su cara al volver y encontrar que todo cambió pero las hormigas siguen igual.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
   }
 ]
