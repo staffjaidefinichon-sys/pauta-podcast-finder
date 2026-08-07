@@ -1637,5 +1637,49 @@
     "basado_en": "Noticia de UPI del 4 de agosto 2026 sobre adolescente de Florida convertida en la profesora universitaria más joven del mundo, más tendencia de 'prodigios gen Z' en redes.",
     "semana": "2026-08-12",
     "estado": "en_pauta"
+  },
+  {
+    "id": "5f8c84ef-242d-43b1-95bd-68c3e291831c",
+    "fecha_encontrada": "2026-08-07",
+    "titulo": "El estoicismo extremo: ¿por qué hay gente que se clava un palo, se opera sola o camina horas herida y dice 'no es para tanto'?",
+    "gancho": "El enfermero que caminó 10 millas con un bastón atravesado en el costado nos obliga a preguntarnos: ¿cuándo exactamente se cruza la línea entre valiente y completamente desquiciado?",
+    "por_que_conversar": "Da para un segmento largo comparando distintos tipos de estoicismo: el chileno que va al trabajo con 39 de fiebre, el abuelo que 'aguanta' el dolor de muela hace tres años, y la abuela de 97 que se sube al ala de un avión para batir su propio récord. ¿Somos todos un poco así o hay una escala de locura que ninguno quiere reconocer?",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral del enfermero que caminó impaldao en Montana y la abuela de 97 que hizo wing-walking tras un derrame cerebral, ambas de la semana del 5-7 agosto 2026.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "4ebaefbc-6c4a-4c6a-8d5f-42fb5bf08799",
+    "fecha_encontrada": "2026-08-07",
+    "titulo": "La vergüenza colectiva chilena: ¿cuál es el escenario donde el chileno promedio desaparecería de la faz de la tierra?",
+    "gancho": "Si una sala de cine en Colombia fue evacuada por un pedo, ¿qué haría un chileno en ese momento: irse corriendo, fingir que fue el de al lado o simplemente morir?",
+    "por_que_conversar": "El chileno tiene una relación muy particular con la vergüenza ajena y la propia: hay situaciones donde el 'ya po' nacional no aplica. Da para coleccionar los momentos más vergonzosos imaginables —el cine, el ascensor, el velorio— y debatir cuál sería el punto de no retorno para cada uno.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del cine evacuado por flatulencia en Colombia (UPI, 4 ago 2026) y el fenómeno cultural chileno de la vergüenza social extrema.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "931dac6b-50de-405e-a82c-10d911c15f16",
+    "fecha_encontrada": "2026-08-07",
+    "titulo": "Luis Miguel vendiendo Coca-Cola: ¿los ídolos latinos pueden anunciar cualquier cosa y nosotros igual lo amamos?",
+    "gancho": "El Sol de México reapareció después de años de silencio... vendiendo gaseosa. Y Chile igual entró en éxtasis colectivo.",
+    "por_que_conversar": "Da para hablar del nivel de devoción fan latinoamericano que hace que cualquier aparición de un ídolo —aunque sea en un comercial de dos segundos vendiendo refresco— se convierta en acontecimiento nacional. ¿Qué tendría que anunciar Luis Miguel para que los chilenos lo dejaran de amar? ¿Existe ese límite?",
+    "categoria": "observacional",
+    "basado_en": "Comercial viral de Luis Miguel para Coca-Cola que fue tendencia en Chile en la semana del 7 agosto 2026, según Cooperativa.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "81ece30a-78fb-47e8-9596-0cc8e9c13b43",
+    "fecha_encontrada": "2026-08-07",
+    "titulo": "La suerte del vecino: si alguien en tu barrio gana la lotería dos veces en el mismo año, ¿eso te da esperanza o rabia?",
+    "gancho": "Un tipo en Maryland se sacó dos premios de 50.000 dólares en el mismo año. Mientras, el chileno promedio lleva 15 años comprando el Kino cada semana sin un mísero raspín.",
+    "por_que_conversar": "La relación del chileno con la suerte ajena es un universo: desde el que celebra genuinamente hasta el que dice 'claro, con todo lo que habrá hecho'. Da para hablar de los rituales más ridículos para atraer la suerte, quién en el grupo compra el número 'de la familia' y por qué nadie nunca gana nada excepto ese amigo.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del hombre de Maryland que ganó la lotería dos veces en 2026 (UPI, 31 julio 2026) y el fenómeno cultural chileno del Kino y los pozos millonarios.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
   }
 ]
