@@ -1681,5 +1681,49 @@
     "basado_en": "Noticia del hombre de Maryland que ganó la lotería dos veces en 2026 (UPI, 31 julio 2026) y el fenómeno cultural chileno del Kino y los pozos millonarios.",
     "semana": "2026-08-12",
     "estado": "en_pauta"
+  },
+  {
+    "id": "44a66463-dd2d-4542-b043-b2a7b782b65b",
+    "fecha_encontrada": "2026-08-08",
+    "titulo": "Morir antes de que tu mensaje en botella llegue: ¿tiene sentido hacer algo que no verás?",
+    "gancho": "Una niña de 9 años lanzó una botella al mar en 1973 con toda la fe del mundo… y apareció siete años después de que ella muriera.",
+    "por_que_conversar": "El caso real de la botella encontrada 53 años después dispara una conversación enorme: ¿plantamos árboles que no veremos, mandamos mensajes que nadie leerá, ahorramos para algo que nunca llega? El chileno tiene una relación particular con 'lo dejo pa' después' y este caso lleva eso al extremo existencial más absurdo. Da para reírse y llorar al mismo tiempo.",
+    "categoria": "curioso",
+    "basado_en": "Historia viral de mensaje en botella de 53 años encontrado esta semana en New Jersey cuya autora falleció en 2019.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a262a180-ea73-4976-a096-46e200ff447f",
+    "fecha_encontrada": "2026-08-08",
+    "titulo": "Cenar sin ropa: ¿hasta dónde llega la 'experiencia gastronómica' antes de que alguien diga basta?",
+    "gancho": "En Florida ya existe el restaurante nudista con lista de espera. ¿Qué falta para que llegue a Chile y en qué local sería más o menos catastrófico?",
+    "por_que_conversar": "El restaurante nudista de Florida abre el debate sobre los límites del turismo gastronómico 'experiencial': ya tuvimos el restaurante a oscuras, el que cobra por vomitar, el que sirve en platos de inodoro. ¿Cuál es el siguiente nivel? Y sobre todo: ¿cómo sería esto en Chile, en qué ciudad, y quién sería el primer cliente confeso? Material de conversación infinito con humor absurdo e irónico.",
+    "categoria": "absurdo",
+    "basado_en": "Restaurante de Florida que ofrece 'Nude Dining Experience' mensual y ya tiene lista de espera, noticia de UPI del 4 de agosto 2026.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "916e7a55-21e8-4579-91a7-5219376c761d",
+    "fecha_encontrada": "2026-08-08",
+    "titulo": "La Miss que admite que estuvo floja: ¿qué pasaría si todos fuéramos así de honestos en el trabajo?",
+    "gancho": "Catalina Vallejos dijo en voz alta lo que nadie dice nunca: 'Estuve floja'. El mundo de los certámenes de belleza nunca había escuchado eso.",
+    "por_que_conversar": "En un mundo donde todos 'dan el 200%', 'están muy comprometidos' y 'dieron todo', la confesión de la miss es un acto casi revolucionario de honestidad laboral. Da para conversación observacional sobre qué pasaría si en Chile todos admitiéramos cuándo estuvimos flojos: en la pega, en el colegio, en la relación, en el gimnasio que pagamos tres meses y fuimos dos veces.",
+    "categoria": "observacional",
+    "basado_en": "Declaración viral de Catalina Vallejos, representante chilena en Miss Universo, reconociendo falta de preparación en la etapa de preguntas, publicada en BioBioChile agosto 2026.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "0a8f4473-f0a5-4eeb-9e0c-fa1921472c5f",
+    "fecha_encontrada": "2026-08-08",
+    "titulo": "Nacer en el aire: ¿qué eres, de dónde eres y quién paga la cuenta del hospital?",
+    "gancho": "Una mujer subió al avión embarazada y bajó siendo mamá. Su hija nació oficialmente 'sobre el Atlántico'. ¿Qué nacionalidad tiene ese bebé?",
+    "por_que_conversar": "El bebé nacido en pleno vuelo de Delta abre un agujero legal, burocrático y filosófico enorme: ¿cuál es su nacionalidad? ¿puede volar gratis de por vida? ¿qué dice su partida de nacimiento en 'lugar'? Y la pregunta más chilena de todas: ¿quién paga el parto si es en aguas internacionales? Da para improvisar durante rato con humor absurdo sobre burocracia, identidad y los límites del seguro médico.",
+    "categoria": "absurdo",
+    "basado_en": "",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
   }
 ]

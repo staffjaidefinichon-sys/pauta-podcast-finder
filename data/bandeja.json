@@ -2272,5 +2272,18 @@
     "region": "mundo",
     "semana": "2026-08-12",
     "estado": "en_pauta"
+  },
+  {
+    "id": "6688cccb-33cf-4dcc-9b19-33915329cffd",
+    "fecha_encontrada": "2026-08-08",
+    "titular": "Catalina Vallejos, Miss Chile en Miss Universo, admite que estuvo 'floja' en la etapa de preguntas",
+    "resumen": "La representante chilena en Miss Universo reconoció públicamente que su preparación en la ronda de preguntas no fue la ideal, generando debate en redes sobre la honestidad inusual de la declaración en el mundo de los certámenes de belleza.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/entretenimiento/farándula-y-tv/2026/08/catalina-vallejos-miss-universo-floja-preguntas.shtml",
+    "por_que_humor": "En el mundo donde todos dicen que 'dieron el 100%', que una miss admita que estuvo floja es el nivel de honestidad que nadie esperaba. Da para imaginar a qué se dedicó en vez de preparar las preguntas y qué hubiera respondido si le preguntaban por la paz mundial.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
   }
 ]
