@@ -1725,5 +1725,38 @@
     "basado_en": "",
     "semana": "2026-08-12",
     "estado": "en_pauta"
+  },
+  {
+    "id": "7843d0ea-8d53-4281-b243-0e8c6fa90ae8",
+    "fecha_encontrada": "2026-08-09",
+    "titulo": "Ponerle nombre a lo que no tiene nombre: el fenómeno chileno de bautizar animales rescatados con nombres de comida",
+    "gancho": "De la mapache 'Mayonesa' al oso 'Piñón': ¿por qué en Latinoamérica el animal rescatado siempre termina con nombre de alimento?",
+    "por_que_conversar": "La mapache Mayonesa de Dallas y la larga tradición latinoamericana de nombrar animales callejeros o rescatados con nombres de comida o situaciones cotidianas da para una conversación larguísima: qué nombre le pondría Chile a su próximo animal viral, por qué la mayo aparece siempre en la ecuación y cuál es el animal rescatado más emblemático de la historia del país.",
+    "categoria": "observacional",
+    "basado_en": "El rescate viral de la mapache 'Mayonesa' en Dallas y la tradición chilena/latina de bautizar animales con nombres absurdos.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "7f4fbe8c-d6e9-4c37-874d-72c5b45a8be1",
+    "fecha_encontrada": "2026-08-09",
+    "titulo": "El arte de tirar algo a la basura sin querer: la historia universal del chileno que bota lo que no debe",
+    "gancho": "Un italiano tiró un ticket de lotería de 1,15 millones de dólares a la basura. ¿Quién en Chile no ha botado algo que no debía y lo descubrió demasiado tarde?",
+    "por_que_conversar": "El error más caro de la historia cotidiana abre una conversación infinita sobre el chileno que bota las cosas 'de más': los boletos del Kino que nunca revisa, el documento que tiró sin leer, el contrato que firmó sin entender. Da para anécdotas personales y para debatir si la empresa de basura italiana merece una estatua.",
+    "categoria": "observacional",
+    "basado_en": "La noticia del boleto de lotería de 1,15 millones tirado a la basura en Italia y rescatado por la empresa recolectora, publicada el 6 de agosto de 2026.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "db9a2e31-162d-4514-82de-1499e33dd27a",
+    "fecha_encontrada": "2026-08-09",
+    "titulo": "Cenar sin ropa: la 'experiencia gastronómica' que nadie pidió pero que igual tiene lista de espera, y cómo sería en Chile",
+    "gancho": "Un restaurante en Florida llena mesas el primer lunes de cada mes con comensales en pelotas. ¿Hay algo que el chileno promedio no haría en público por un buen trozo de carne?",
+    "por_que_conversar": "La 'Nude Dining Experience' con lista de espera es el disparador perfecto para hablar de hasta dónde llega la obsesión por la 'experiencia' gastronómica, del pudor chileno y de qué pasa con la sopa caliente cuando no hay ropa de por medio. Da para debatir qué restaurante chileno intentaría esto primero y en qué región sería un éxito o un escándalo.",
+    "categoria": "absurdo",
+    "basado_en": "La noticia del restaurante de Florida con 'Nude Dining Experience' mensual publicada el 4 de agosto de 2026 en UPI.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
   }
 ]
