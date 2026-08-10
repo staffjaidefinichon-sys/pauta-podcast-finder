@@ -1758,5 +1758,49 @@
     "basado_en": "La noticia del restaurante de Florida con 'Nude Dining Experience' mensual publicada el 4 de agosto de 2026 en UPI.",
     "semana": "2026-08-12",
     "estado": "en_pauta"
+  },
+  {
+    "id": "7c5d41e3-8083-4470-813a-33add6c4abed",
+    "fecha_encontrada": "2026-08-10",
+    "titulo": "El bus interurbano chileno: ¿transporte, experiencia de supervivencia o ritual de humillación compartida?",
+    "gancho": "Doce horas en un asiento que no recuesta, con el baño clausurado y el olor del sándwich del vecino: eso se llama un viaje en bus chileno.",
+    "por_que_conversar": "Todos los chilenos tienen al menos una historia épica de viaje en bus interurbano con frío, peleas por el reclinador, niños llorando y el inevitable señor que pone la cumbia a todo volumen. Es un tema 100% compartido, lleno de anécdotas y da para competir quién vivió la peor experiencia.",
+    "categoria": "observacional",
+    "basado_en": "Relato viral de pasajero chileno que denuncia maltratos en bus de 12 horas, agosto 2026",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a2bd9a3f-b55e-4d3b-acfe-0d6aa79f3d50",
+    "fecha_encontrada": "2026-08-10",
+    "titulo": "Devolver lo que robaste después de 40 años: ¿acto de redención, de cobardía tardía o simplemente porque ya prescribió?",
+    "gancho": "Una librería recibió un libro robado hace cuatro décadas con una nota de disculpas y cien dólares: la culpa que le tomó media vida madurar.",
+    "por_que_conversar": "El libro de la biblioteca del colegio que nadie devolvió, el disco del amigo que 'se quedó de visita', el suéter que sigue en tu clóset: todos tenemos algo ajeno guardado. ¿Cuánto tiempo tiene que pasar para que la devolución deje de ser graciosa y pase a ser patética? Da para una espiral de confesiones y debate sobre si la culpa tiene fecha de vencimiento.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de librería californiana que recibió libro robado hace 40 años con nota y dinero, agosto 2026",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "63365176-7a32-433a-a0bb-747f068dd5d9",
+    "fecha_encontrada": "2026-08-10",
+    "titulo": "Cenar desnudo en restaurante: ¿experiencia gastronómica del futuro o el límite donde el chileno promedio simplemente pide para llevar?",
+    "gancho": "Ya existe un restaurante en Florida con 'Noche de Cena al Desnudo' con reservas y todo: la pregunta es qué plato pedirías sin el escudo de la ropa.",
+    "por_que_conversar": "Da para debatir hasta dónde llega la 'experiencia gastronómica' antes de que alguien diga basta, qué etiqueta existiría en ese restaurante (¿se toalla el asiento?), cómo sería el equivalente chileno (¿asado al desnudo?) y cuál es el límite real del chileno, que aguanta todo pero se pone colorado ante ciertas cosas.",
+    "categoria": "absurdo",
+    "basado_en": "Restaurante de Florida que ofrece 'Nude Dining Experience' mensual, agosto 2026",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "06fdc7aa-a577-48be-94eb-ece87717cdf4",
+    "fecha_encontrada": "2026-08-10",
+    "titulo": "Trabajar horas extra en el lugar más inapropiado posible: el arte chileno de confundir el 'compromiso laboral' con el 'hasta cuándo'",
+    "gancho": "Dos jefaturas del MOP Biobío grabadas en un momento íntimo en la oficina… y resulta que ambas cobraban horas extraordinarias de forma habitual.",
+    "por_que_conversar": "El remate de las horas extra lo convierte en comedia pura. Da para debatir qué cosa más insólita alguien ha hecho 'en horario de trabajo', cuál es el nivel de confianza máximo que uno puede tener con su lugar de empleo y si en Chile el 'compromiso laboral' no tiene un límite muy claro.",
+    "categoria": "absurdo",
+    "basado_en": "Escándalo del video sexual de funcionarios del MOP Biobío que cobraban horas extraordinarias, julio-agosto 2026",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
   }
 ]
