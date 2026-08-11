@@ -1802,5 +1802,49 @@
     "basado_en": "Escándalo del video sexual de funcionarios del MOP Biobío que cobraban horas extraordinarias, julio-agosto 2026",
     "semana": "2026-08-12",
     "estado": "en_pauta"
+  },
+  {
+    "id": "66aceac1-9935-4f0e-b647-7ece8d2b1e21",
+    "fecha_encontrada": "2026-08-11",
+    "titulo": "El carpincho como político: si los animales tomaran decisiones en el Congreso, ¿irían mejor o peor las cosas?",
+    "gancho": "Un carpincho entró a la Asamblea Legislativa de Brasil y lo hizo mejor que varios diputados: no habló, no peleó y no cobró viáticos.",
+    "por_que_conversar": "La imagen del carpincho zen paseándose por un recinto legislativo dispara la pregunta absurda e irresistible: ¿un animal haría mejor trabajo que un humano en un cargo de decisión? Da para nombrar qué animal iría mejor en qué cargo, inventar sus propuestas de ley y concluir que el carpincho ya tiene más credibilidad que cualquier figura pública. Humor observacional con ángulo filosófico-animal.",
+    "categoria": "absurdo",
+    "basado_en": "Capybaras entrando a la Asamblea Legislativa de Mato Grosso, Brasil (UPI, 6-ago-2026) + tendencia viral global del carpincho como animal más zen de internet",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1a3d7369-b21e-4184-9613-9969aa815b87",
+    "fecha_encontrada": "2026-08-11",
+    "titulo": "El chileno y los trabajos de ensueño que nadie pidió: ¿qué harías si tu ídolo de la TV quiere venir a trabajar aquí?",
+    "gancho": "Un actor de k-drama sueña con hablar español y trabajar en Chile. ¿Qué le diríamos? ¿Lo dejamos entrar o lo mandamos a la revisión técnica primero?",
+    "por_que_conversar": "La noticia del actor surcoreano que quiere venir a Chile dispara una conversación sobre qué imagen tiene el mundo de nosotros, qué le habrán contado, y sobre todo: ¿en qué producción chilena podría aparecer? ¿Doble de alguien en Mega? ¿Personaje de teleserie de tarde? Da para hacer un casting absurdo de famosos internacionales en roles chilenos muy específicos.",
+    "categoria": "observacional",
+    "basado_en": "Actor surcoreano Son Byeong Hoon declara su sueño de trabajar en Chile (24horas.cl, 4-ago-2026) + fenómeno global del k-drama en Chile",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b75aeeb5-5a62-4f38-abe6-ed557d802734",
+    "fecha_encontrada": "2026-08-11",
+    "titulo": "Lo que mandamos al universo sin saber si alguien lo va a leer: cartas, botellas, cápsulas del tiempo y la esperanza más irresponsable de la humanidad",
+    "gancho": "Una niña tiró una botella al mar. Llegó 53 años después. Ella ya no estaba. La abrieron igual. ¿Para qué sirve mandar algo que quizás nunca llegue a tiempo?",
+    "por_que_conversar": "La historia de la botella con 53 años de retraso abre una conversación sobre todas las cosas que los humanos mandamos 'al futuro' con fe ciega: cartas, cápsulas del tiempo, mensajes de WhatsApp que nunca respondieron, publicaciones de redes que nadie vio. ¿Tiene sentido? ¿Qué metería un chileno en una cápsula del tiempo hoy? ¿Y qué vergüenza ajena abriría si encontrara la suya de hace 15 años?",
+    "categoria": "curioso",
+    "basado_en": "Mensaje en botella de 53 años hallado en New Jersey (The Guardian / Shepherd Express, ago-2026) + fenómeno universal de las cápsulas del tiempo y las redes sociales",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "73332a13-cd42-46a2-9872-ed098915a6e8",
+    "fecha_encontrada": "2026-08-11",
+    "titulo": "El upgrade de mascotas: ¿hasta qué punto el dueño chileno es capaz de gastar en tecnología para su animal y olvidarse de sí mismo?",
+    "gancho": "Un gato pasó de silla de ruedas de reglas y Hot Wheels a prótesis impresa en 3D. Mientras tanto, tú sigues con el mismo colchón de 2015.",
+    "por_que_conversar": "La escalada tecnológica en el bienestar de las mascotas es real y cada vez más chilena. Da para contar los gastos más absurdos que alguien ha hecho por su animal, debatir si hay un límite moral cuando el perro come mejor que tú, e imaginar qué upgrade absurdo vendría después: ¿Apple Watch para gatos? ¿Psicólogo por Zoom? ¿Cuenta en Spotify para que no esté solo?",
+    "categoria": "observacional",
+    "basado_en": "Kitten de Ohio con silla de ruedas artesanal que recibió upgrade de impresora 3D (UPI, 5-ago-2026) + tendencia chilena de humanización extrema de mascotas",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
   }
 ]
