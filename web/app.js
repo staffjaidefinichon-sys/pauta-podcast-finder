@@ -703,6 +703,79 @@ async function moverASemanaActual(id) {
   }
 }
 
+// --- Agregar noticia a mano ----------------------------------------------------
+
+async function agregarNoticiaManual() {
+  if (!getToken()) {
+    mostrarToast("Primero configurá tu token de GitHub (arriba).");
+    document.getElementById("config-details").open = true;
+    return;
+  }
+  const titular = document.getElementById("man-titular").value.trim();
+  const url = document.getElementById("man-url").value.trim();
+  const resumen = document.getElementById("man-resumen").value.trim();
+  const porque = document.getElementById("man-porque").value.trim();
+  const region = document.getElementById("man-region").value;
+  const categoria = document.getElementById("man-categoria").value;
+
+  if (!titular) {
+    mostrarToast("Poné al menos el titular.");
+    return;
+  }
+
+  const btn = document.getElementById("btn-agregar-mano");
+  btn.disabled = true;
+  btn.textContent = "Agregando…";
+
+  try {
+    const arch = await obtenerArchivo("data/bandeja.json");
+    const bandeja = arch ? JSON.parse(arch.contenido) : [];
+
+    // Evitar duplicados por URL o por título.
+    const nurl = url.toLowerCase().replace(/[?#].*$/, "").replace(/\/+$/, "");
+    const ntit = titular.toLowerCase();
+    const yaEsta = bandeja.some((x) => {
+      const xu = (x.url || "").trim().toLowerCase().replace(/[?#].*$/, "").replace(/\/+$/, "");
+      return (nurl && xu === nurl) || (x.titular || "").trim().toLowerCase() === ntit;
+    });
+    if (yaEsta) {
+      mostrarToast("Esa noticia ya está en la bandeja (quizás en otra semana).");
+      return;
+    }
+
+    bandeja.push({
+      id: crypto.randomUUID(),
+      fecha_encontrada: ymd(new Date()),
+      titular,
+      resumen,
+      fuente: dominio(url),
+      url,
+      por_que_humor: porque,
+      categoria,
+      region,
+      semana: semanaActual(),
+      estado: "aprobada",
+      origen: "manual",
+    });
+
+    await guardarArchivo("data/bandeja.json", bandeja, arch ? arch.sha : null, "Agregar noticia a mano (panel)");
+
+    // Limpiar el formulario.
+    ["man-titular", "man-url", "man-resumen", "man-porque"].forEach((i) => {
+      document.getElementById(i).value = "";
+    });
+
+    mostrarToast("✅ Agregada a “✅ Van” de esta semana.");
+    estado.semana = semanaActual();
+    await cargarContenido();
+  } catch (e) {
+    mostrarToast("Error al agregar: " + e.message);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = "➕ Agregar a la pauta de esta semana";
+  }
+}
+
 // --- Utilidades de UI --------------------------------------------------------
 
 function escapar(s) {
@@ -764,6 +837,7 @@ async function iniciar() {
 
   document.getElementById("btn-agregar-ejemplo").addEventListener("click", agregarEjemplo);
   document.getElementById("btn-guardar-ensenar").addEventListener("click", guardarEnsenar);
+  document.getElementById("btn-agregar-mano").addEventListener("click", agregarNoticiaManual);
 
   await detectarBranch();
   await cargarContenido();

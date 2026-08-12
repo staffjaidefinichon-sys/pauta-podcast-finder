@@ -35,6 +35,35 @@
     </details>
   </section>
 
+  <!-- Agregar noticia a mano -->
+  <section id="agregar-mano" class="tarjeta-config">
+    <details id="agregar-details">
+      <summary>➕ Agregar noticia a mano</summary>
+      <p class="ayuda">
+        Cargá una noticia propia y entra directo a la <strong>✅ pauta de esta semana</strong>.
+      </p>
+      <div class="form-ejemplo">
+        <input type="text" id="man-titular" placeholder="Titular (obligatorio)" />
+        <input type="text" id="man-url" placeholder="Link (opcional)" />
+        <input type="text" id="man-resumen" placeholder="Bajada / descripción (opcional)" />
+        <input type="text" id="man-porque" placeholder="Por qué da para humor (opcional)" />
+        <div class="fila-selects">
+          <select id="man-region">
+            <option value="chile">🇨🇱 Chile</option>
+            <option value="mundo">🌎 Mundo</option>
+          </select>
+          <select id="man-categoria">
+            <option value="absurdo">Absurdo</option>
+            <option value="observacional">Observacional</option>
+            <option value="curioso">Curioso</option>
+            <option value="otro" selected>Otro</option>
+          </select>
+        </div>
+        <button id="btn-agregar-mano">➕ Agregar a la pauta de esta semana</button>
+      </div>
+    </details>
+  </section>
+
   <!-- Enseñar a la IA -->
   <section id="ensenar" class="tarjeta-config">
     <details id="ensenar-details">
