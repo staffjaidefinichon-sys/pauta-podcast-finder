@@ -173,6 +173,12 @@
       "categoria": "curioso",
       "region": "mundo",
       "razon": "Dos bichos que llevan 6.000 años 'muertos' aparecen de la nada como si nada: la naturaleza haciendo el equivalente de aparecer en el trabajo después de seis milenios de licencia médica y diciendo 'aquí estoy'."
+    },
+    {
+      "titular": "Funcionarios del MOP Biobío grabados en un video sexual dentro de la oficina… y además cobraban horas extraordinarias de forma habitual",
+      "categoria": "absurdo",
+      "region": "chile",
+      "razon": "El remate de 'horas extraordinarias' en la boleta de sueldo es el chiste que se escribe solo. Da para hablar de la audacia laboral y si eso califica como trabajo desde casa o productividad extra."
     }
   ],
   "descartados": [
@@ -325,6 +331,18 @@
       "categoria": "observacional",
       "region": "chile",
       "razon": "Parece promocion pagada"
+    },
+    {
+      "titular": "Catalina Vallejos, Miss Chile en Miss Universo, admite que estuvo 'floja' en la etapa de preguntas",
+      "categoria": "observacional",
+      "region": "chile",
+      "razon": "En el mundo donde todos dicen que 'dieron el 100%', que una miss admita que estuvo floja es el nivel de honestidad que nadie esperaba. Da para imaginar a qué se dedicó en vez de preparar las preguntas y qué hubiera respondido si le preguntaban por la paz mundial."
+    },
+    {
+      "titular": "Chile tiene dos misses al mismo tiempo: Dominga López e Ignacia Fernández pelean por la misma corona",
+      "categoria": "absurdo",
+      "region": "chile",
+      "razon": "El país mandando dos reinas al mundo como si fuera un bug del sistema es pura comedia: imaginar a dos Miss Chile llegando al mismo aeropuerto con la misma banda y ninguna cede el paso."
     }
   ],
   "reglas_aprendidas": [
