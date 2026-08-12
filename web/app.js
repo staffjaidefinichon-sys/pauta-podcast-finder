@@ -457,6 +457,11 @@ async function guardarDecisiones() {
   btn.disabled = true;
   btn.textContent = "Guardando…";
 
+  // Si el repo cambia entre leer y guardar (409: corrida automática, otro
+  // guardado), reintentamos con datos frescos. La aplicación de decisiones es
+  // idempotente, así que re-ejecutar todo es seguro.
+  const MAX_INTENTOS = 3;
+  for (let intento = 1; intento <= MAX_INTENTOS; intento++) {
   try {
     // Traer versiones frescas para evitar conflictos de sha.
     const archPref = await obtenerArchivo("data/preferencias.json");
@@ -524,12 +529,19 @@ async function guardarDecisiones() {
     estado.decisiones.clear();
     estado.motivos.clear();
     await cargarContenido();
+    break; // guardado OK
   } catch (e) {
+    const esConflicto = String(e.message).includes("409");
+    if (esConflicto && intento < MAX_INTENTOS) {
+      btn.textContent = `El repo cambió; reintentando (${intento + 1}/${MAX_INTENTOS})…`;
+      continue; // reintentar con datos frescos
+    }
     mostrarToast("Error al guardar: " + e.message);
-  } finally {
-    btn.disabled = false;
-    btn.textContent = "💾 Guardar decisiones";
+    break;
   }
+  }
+  btn.disabled = false;
+  btn.textContent = "💾 Guardar decisiones";
 }
 
 // --- Enseñar a la IA ---------------------------------------------------------
