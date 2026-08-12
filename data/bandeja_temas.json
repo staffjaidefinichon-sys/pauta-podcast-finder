@@ -1846,5 +1846,49 @@
     "basado_en": "Kitten de Ohio con silla de ruedas artesanal que recibió upgrade de impresora 3D (UPI, 5-ago-2026) + tendencia chilena de humanización extrema de mascotas",
     "semana": "2026-08-12",
     "estado": "en_pauta"
+  },
+  {
+    "id": "3eddd3c9-62c6-49ab-9b7c-696cf10fe547",
+    "fecha_encontrada": "2026-08-11",
+    "titulo": "La piscina de tu casa y el vecino que no la tiene: ¿hay algún privilegio más injusto en el verano chileno?",
+    "gancho": "Si un oso californiano puede aparecer sin aviso y meterse a la piscina ajena, ¿qué te hace pensar que tu cuñado no va a hacer lo mismo?",
+    "por_que_conversar": "Los osos usando piscinas ajenas en EE.UU. son el espejo perfecto del fenómeno chileno del 'amigo con piscina': ese privilegio social que convierte tu verano en el más popular del vecindario por razones que no tienen nada que ver contigo. Da para hablar de los visitantes no invitados, las reglas tácitas del uso de piscinas ajenas y si hay algún sistema justo para distribuir ese recurso escaso.",
+    "categoria": "observacional",
+    "basado_en": "Ola de noticias de osos usando piscinas privadas en California y Colorado; fenómeno del verano chileno con el 'amigo con piscina'.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "cf4cd709-8da1-475f-85f0-d0804680cfc8",
+    "fecha_encontrada": "2026-08-11",
+    "titulo": "El récord Guinness más inútil que existe: ¿por qué hay un campeón mundial de hula hoops boca abajo pero no de las cosas que realmente importan?",
+    "gancho": "En China hay un tipo que giró 33 hula hoops colgado de cabeza. En Chile hay gente que lleva 15 años sin perder un carrete de plástico de diámetro exacto que encontró una vez en la calle.",
+    "por_que_conversar": "El récord del hula hoop invertido es la excusa perfecta para debatir qué habilidades absurdas tiene cada uno que nunca documentó, qué récord chileno podría existir si alguien se pusiera las pilas, y hasta qué punto los Guinness son el sistema de meritocracia más democrático y más ridículo del planeta al mismo tiempo.",
+    "categoria": "absurdo",
+    "basado_en": "Guinness de hula hoops boca abajo batido hoy en China; también el récord del papá corriendo la milla con el coche de su hija sin saber que iba por el récord.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a2f980df-05fe-42cf-9a5f-99a3be3cb91c",
+    "fecha_encontrada": "2026-08-11",
+    "titulo": "Cenar desnudo: la experiencia gastronómica que Florida ya tiene y que en Chile nunca podría funcionar... ¿o sí?",
+    "gancho": "Un restaurante en Florida te cobra $250 por entrar sin ropa. En Chile ya hay gente que se queja si le cobran el cubierto.",
+    "por_que_conversar": "La 'Nude Dining Experience' de Hollywood, Florida es el laboratorio perfecto para imaginar cómo reaccionaría el chileno promedio ante esa propuesta. Da para hablar de la pudorosa cultura nacional frente al cuerpo, de si alguien conoce a alguien que iría, de quién sería el valiente que llevaría a su grupo de amigos como plan y qué excusa daría para no volver.",
+    "categoria": "absurdo",
+    "basado_en": "Restaurante de Florida lanza experiencia mensual de cena nudista esta semana; precio diferenciado por género da para otro ángulo de conversación.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f172f535-761a-4102-96c6-f34ae585ac20",
+    "fecha_encontrada": "2026-08-11",
+    "titulo": "El cartucho de Nintendo que estuvo 6 años en una caja sin que nadie lo mirara: ¿cuántas cosas valiosas tenemos guardadas sin saberlo?",
+    "gancho": "Una tienda en Wisconsin acaba de descubrir que tenía 97 cartuchos de Mario Bros. rarísimos que nadie había revisado en seis años. En Chile, el equivalente es el cajón de la cocina.",
+    "por_que_conversar": "El hallazgo de los cartuchos de Nintendo es el disparador perfecto para hablar del fenómeno chileno del 'cajón del tesoro': esa gaveta, bodega o bolsa olvidada donde puede haber desde monedas antiguas hasta el control del televisor que se perdió en 2018. Da para que cada conductor y oyente confiese qué tiene guardado sin revisar hace años y cuánto podría valer.",
+    "categoria": "curioso",
+    "basado_en": "Descubrimiento en Wisconsin de 97 cartuchos de Nintendo con variante desconocida de Super Mario Bros., noticia de hoy 11 de agosto.",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
   }
 ]
