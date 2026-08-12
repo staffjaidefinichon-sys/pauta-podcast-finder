@@ -263,6 +263,11 @@ function visible(item, vista) {
   return getSemana(item) === estado.semana && estaEn(item, vista);
 }
 
+// Orden manual: los ítems con campo "orden" van primero, según ese número.
+function ordenar(items) {
+  return items.slice().sort((a, b) => (a.orden ?? 1e9) - (b.orden ?? 1e9));
+}
+
 function contar(que) {
   const vista = que === "pendientes" ? "pauta" : que;
   const n = estado.noticias.filter((x) => visible(x, vista)).length;
@@ -290,8 +295,8 @@ function renderizar() {
   const contenedor = document.getElementById("contenedor-tarjetas");
   contenedor.innerHTML = "";
 
-  const noticias = estado.noticias.filter((x) => visible(x, estado.vista));
-  const temas = estado.temas.filter((x) => visible(x, estado.vista));
+  const noticias = ordenar(estado.noticias.filter((x) => visible(x, estado.vista)));
+  const temas = ordenar(estado.temas.filter((x) => visible(x, estado.vista)));
 
   if (noticias.length === 0 && temas.length === 0) {
     const vacios = {
@@ -336,6 +341,10 @@ function renderizar() {
     b.addEventListener("click", () => moverASemanaActual(b.dataset.id));
   });
 
+  contenedor.querySelectorAll(".btn-orden").forEach((b) => {
+    b.addEventListener("click", () => moverOrden(b.dataset.id, b.dataset.dir));
+  });
+
   actualizarBarra();
 }
 
@@ -370,6 +379,97 @@ function botonesDecision(id) {
     </div>`;
 }
 
+function botonesOrden(id) {
+  // Reordenar solo tiene sentido en la pauta final (✅ Van).
+  if (estado.vista !== "aprobadas") return "";
+  return `
+    <div class="orden-botones">
+      <button class="btn-orden" data-id="${escaparAttr(id)}" data-dir="up" title="Subir">▲</button>
+      <button class="btn-orden" data-id="${escaparAttr(id)}" data-dir="down" title="Bajar">▼</button>
+    </div>`;
+}
+
+function moverOrden(id, dir) {
+  const entrada = estado.itemsPorId.get(id);
+  if (!entrada) return;
+
+  // Lista visible de la MISMA sección (Chile / Mundo / Temas), ya ordenada.
+  let seccion;
+  if (entrada.tipo === "noticia") {
+    const esMundo = entrada.item.region === "mundo";
+    seccion = ordenar(estado.noticias.filter(
+      (x) => visible(x, "aprobadas") && (x.region === "mundo") === esMundo
+    ));
+  } else {
+    seccion = ordenar(estado.temas.filter((x) => visible(x, "aprobadas")));
+  }
+
+  const i = seccion.findIndex((x) => x.id === id);
+  const j = dir === "up" ? i - 1 : i + 1;
+  if (i < 0 || j < 0 || j >= seccion.length) return;
+
+  [seccion[i], seccion[j]] = [seccion[j], seccion[i]];
+  seccion.forEach((x, k) => { x.orden = k + 1; });
+
+  estado.ordenCambiado = true;
+  document.getElementById("barra-orden").classList.remove("oculto");
+  renderizar();
+}
+
+async function guardarOrden() {
+  if (!getToken()) {
+    mostrarToast("Primero configurá tu token de GitHub (arriba).");
+    document.getElementById("config-details").open = true;
+    return;
+  }
+  const btn = document.getElementById("btn-guardar-orden");
+  btn.disabled = true;
+  btn.textContent = "Guardando…";
+
+  // Mapa id -> orden desde el estado en memoria.
+  const ordenes = new Map();
+  [...estado.noticias, ...estado.temas].forEach((x) => {
+    if (x.orden != null) ordenes.set(x.id, x.orden);
+  });
+
+  const archivos = [
+    ["data/bandeja.json", "Orden de noticias (panel)"],
+    ["data/bandeja_temas.json", "Orden de temas (panel)"],
+  ];
+
+  try {
+    for (let intento = 1; intento <= 3; intento++) {
+      try {
+        for (const [path, msg] of archivos) {
+          const arch = await obtenerArchivo(path);
+          if (!arch) continue;
+          const arr = JSON.parse(arch.contenido);
+          let cambios = 0;
+          for (const x of arr) {
+            if (ordenes.has(x.id) && x.orden !== ordenes.get(x.id)) {
+              x.orden = ordenes.get(x.id);
+              cambios++;
+            }
+          }
+          if (cambios > 0) await guardarArchivo(path, arr, arch.sha, msg);
+        }
+        break;
+      } catch (e) {
+        if (String(e.message).includes("409") && intento < 3) continue;
+        throw e;
+      }
+    }
+    estado.ordenCambiado = false;
+    document.getElementById("barra-orden").classList.add("oculto");
+    mostrarToast("✅ Orden guardado.");
+  } catch (e) {
+    mostrarToast("Error al guardar el orden: " + e.message);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = "💾 Guardar orden";
+  }
+}
+
 function botonMover(id) {
   // Solo cuando estás viendo una semana que NO es la actual.
   if (estado.semana === semanaActual()) return "";
@@ -388,6 +488,7 @@ function tarjetaNoticia(item) {
   const card = document.createElement("article");
   card.className = `tarjeta ${claseDecidida(item.id)}`;
   card.innerHTML = `
+    ${botonesOrden(item.id)}
     <span class="categoria">${escapar(item.categoria || "otro")}${item.region === "mundo" ? " · mundo" : ""}</span>
     <h2>${escapar(item.titular || "")}</h2>
     <p class="resumen">${escapar(item.resumen || "")}</p>
@@ -406,6 +507,7 @@ function tarjetaTema(item) {
   const card = document.createElement("article");
   card.className = `tarjeta tarjeta-tema ${claseDecidida(item.id)}`;
   card.innerHTML = `
+    ${botonesOrden(item.id)}
     <span class="categoria">${escapar(item.categoria || "observacional")}</span>
     <h2>${escapar(item.titulo || "")}</h2>
     ${item.gancho ? `<p class="resumen">${escapar(item.gancho)}</p>` : ""}
@@ -838,6 +940,7 @@ async function iniciar() {
   document.getElementById("btn-agregar-ejemplo").addEventListener("click", agregarEjemplo);
   document.getElementById("btn-guardar-ensenar").addEventListener("click", guardarEnsenar);
   document.getElementById("btn-agregar-mano").addEventListener("click", agregarNoticiaManual);
+  document.getElementById("btn-guardar-orden").addEventListener("click", guardarOrden);
 
   await detectarBranch();
   await cargarContenido();
