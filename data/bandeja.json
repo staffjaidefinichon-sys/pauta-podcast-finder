@@ -2310,7 +2310,7 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-08-12",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "f81f4b35-227c-4930-9289-fdcd6283f39d",
@@ -2453,6 +2453,6 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-08-12",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   }
 ]
