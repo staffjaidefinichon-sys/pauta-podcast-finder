@@ -2245,7 +2245,7 @@
     "categoria": "absurdo",
     "region": "chile",
     "semana": "2026-08-12",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "176a07df-125f-4bee-8111-c62c28b25c0d",
@@ -2284,7 +2284,7 @@
     "categoria": "observacional",
     "region": "chile",
     "semana": "2026-08-12",
-    "estado": "en_pauta"
+    "estado": "descartada"
   },
   {
     "id": "e2e434b2-6b03-46da-9c29-869526dea7cf",
@@ -2362,7 +2362,7 @@
     "categoria": "absurdo",
     "region": "chile",
     "semana": "2026-08-12",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "45a8b186-7c08-4e7d-9874-4c387180e040",
