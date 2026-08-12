@@ -119,9 +119,15 @@ function cabeceras(conToken) {
 
 async function detectarBranch() {
   try {
-    const r = await fetch(`${API}/repos/${estado.owner}/${estado.repo}`, {
+    let r = await fetch(`${API}/repos/${estado.owner}/${estado.repo}`, {
       headers: cabeceras(true),
     });
+    if (r.status === 401 && getToken()) {
+      avisarTokenVencido();
+      r = await fetch(`${API}/repos/${estado.owner}/${estado.repo}`, {
+        headers: cabeceras(false),
+      });
+    }
     if (r.ok) {
       const data = await r.json();
       if (data.default_branch) estado.branch = data.default_branch;
@@ -133,11 +139,28 @@ async function detectarBranch() {
 
 async function obtenerArchivo(path) {
   const url = `${API}/repos/${estado.owner}/${estado.repo}/contents/${path}?ref=${estado.branch}`;
-  const r = await fetch(url, { headers: cabeceras(true) });
+  let r = await fetch(url, { headers: cabeceras(true) });
+  // 401: el token guardado expiró o fue revocado. Para LEER un repo público no
+  // hace falta token: reintentar sin él y avisar al usuario.
+  if (r.status === 401 && getToken()) {
+    avisarTokenVencido();
+    r = await fetch(url, { headers: cabeceras(false) });
+  }
   if (r.status === 404) return null;
   if (!r.ok) throw new Error(`GitHub ${r.status} al leer ${path}`);
   const data = await r.json();
   return { contenido: deBase64(data.content), sha: data.sha };
+}
+
+let tokenVencidoAvisado = false;
+function avisarTokenVencido() {
+  if (tokenVencidoAvisado) return;
+  tokenVencidoAvisado = true;
+  const span = document.getElementById("estado-token");
+  if (span) span.textContent = "⛔ token vencido — generá uno nuevo";
+  mostrarToast("Tu token de GitHub expiró. Generá uno nuevo para poder guardar decisiones.");
+  const det = document.getElementById("config-details");
+  if (det) det.open = true;
 }
 
 async function guardarArchivo(path, objeto, sha, mensaje) {
