@@ -2463,7 +2463,7 @@
     "id": "7c612827-90dd-434d-935b-3aecd4962279",
     "fecha_encontrada": "2026-08-12",
     "titular": "Jugador despejo una pelota y provoco un accidente de transito",
-    "resumen": "",
+    "resumen": "Un jugador despejó una pelota durante un partido y el impacto provocó un accidente de tránsito en las inmediaciones del lugar. El incidente llamó la atención por la inusual conexión entre una acción deportiva y un siniestro vial.",
     "fuente": "instagram.com",
     "url": "https://www.instagram.com/reels/Db2G0N8jdAe/",
     "por_que_humor": "Segunda División de Uruguay, el estadio de Uruguay Montevideo situado a pocos metros de la Ruta 1. Transcurrían 24 minutos de la primera etapa cuando un futbolista rechazó la pelota con fuerza, enviándola por encima de la estructura del estadio provocando un choque.",
@@ -2518,5 +2518,31 @@
     "estado": "aprobada",
     "origen": "manual",
     "orden": 3
+  },
+  {
+    "id": "3b6c956c-292f-4b7b-9752-3352df08bdb1",
+    "fecha_encontrada": "2026-08-12",
+    "titular": "La nostalgia de 2016 vuelve en 2026: TikTok resucita el Bottle Flip, el Mannequin Challenge y el Pokémon Go como si nada hubiera pasado",
+    "resumen": "Una tendencia viral masiva llamada '2026 is the new 2016' inundó TikTok con millones de videos recreando los memes, challenges y canciones de hace diez años, incluyendo el resurgimiento en las listas mundiales de 'Lush Life' de Zara Larsson.",
+    "fuente": "Wikipedia / BBC",
+    "url": "https://en.wikipedia.org/wiki/2026_is_the_new_2016",
+    "por_que_humor": "La humanidad decidió colectivamente que 2026 es demasiado raro y prefiere volver a 2016. Da para debatir qué era mejor de 2016 y si el chileno que hacía el Bottle Flip en la oficina se arrepiente o lo volvería a hacer.",
+    "categoria": "observacional",
+    "region": "mundo",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c7d92cb2-0c0d-4202-8dc1-73f5db54889c",
+    "fecha_encontrada": "2026-08-12",
+    "titular": "Hombre del tiempo en Los Lagos advierte a la población sobre precipitaciones, vientos, nevadas y bajas temperaturas en pleno agosto y nadie en la región lo encontró sorprendente",
+    "resumen": "La Dirección Meteorológica de Chile emitió alertas por lluvia intensa, viento, nevadas y frío extremo para la Región de Los Lagos en la primera semana de agosto de 2026, lo cual fue cubierto por medios locales con el mismo tono neutro de siempre.",
+    "fuente": "Paislobo Prensa",
+    "url": "https://www.paislobo.cl/2026/08/",
+    "por_que_humor": "El sur de Chile recibe alertas de frío en agosto con el mismo nivel de sorpresa que el resto del mundo recibiría una alerta de que el sol saldrá mañana. Da para el clásico bit sobre la resiliencia insolente del sureño frente al invierno.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-08-12",
+    "estado": "en_pauta"
   }
 ]
