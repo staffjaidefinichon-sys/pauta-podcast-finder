@@ -2454,5 +2454,19 @@
     "region": "mundo",
     "semana": "2026-08-12",
     "estado": "aprobada"
+  },
+  {
+    "id": "7c612827-90dd-434d-935b-3aecd4962279",
+    "fecha_encontrada": "2026-08-12",
+    "titular": "Jugador despejo una pelota y provoco un accidente de transito",
+    "resumen": "",
+    "fuente": "instagram.com",
+    "url": "https://www.instagram.com/reels/Db2G0N8jdAe/",
+    "por_que_humor": "Segunda División de Uruguay, el estadio de Uruguay Montevideo situado a pocos metros de la Ruta 1. Transcurrían 24 minutos de la primera etapa cuando un futbolista rechazó la pelota con fuerza, enviándola por encima de la estructura del estadio provocando un choque.",
+    "categoria": "otro",
+    "region": "chile",
+    "semana": "2026-08-12",
+    "estado": "aprobada",
+    "origen": "ejemplo_conductor"
   }
 ]
