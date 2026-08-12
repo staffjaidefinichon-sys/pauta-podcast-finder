@@ -1841,7 +1841,8 @@
     "region": "chile",
     "semana": "2026-08-12",
     "estado": "aprobada",
-    "origen": "ejemplo_conductor"
+    "origen": "ejemplo_conductor",
+    "orden": 3
   },
   {
     "id": "d0296b94-72fb-4726-b2cd-2f29082f36b6",
@@ -2310,7 +2311,8 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-08-12",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 4
   },
   {
     "id": "f81f4b35-227c-4930-9289-fdcd6283f39d",
@@ -2362,7 +2364,8 @@
     "categoria": "absurdo",
     "region": "chile",
     "semana": "2026-08-12",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 1
   },
   {
     "id": "45a8b186-7c08-4e7d-9874-4c387180e040",
@@ -2453,7 +2456,8 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-08-12",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 2
   },
   {
     "id": "7c612827-90dd-434d-935b-3aecd4962279",
@@ -2467,7 +2471,8 @@
     "region": "chile",
     "semana": "2026-08-12",
     "estado": "aprobada",
-    "origen": "ejemplo_conductor"
+    "origen": "ejemplo_conductor",
+    "orden": 4
   },
   {
     "id": "81198faf-cac5-45ca-b026-e465fc810187",
@@ -2481,7 +2486,8 @@
     "region": "mundo",
     "semana": "2026-08-12",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 1
   },
   {
     "id": "0810a611-5703-4233-be3a-4b5be2650f9a",
@@ -2495,7 +2501,8 @@
     "region": "chile",
     "semana": "2026-08-12",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 2
   },
   {
     "id": "cbf4143e-06f5-499e-89c0-669f9390b904",
@@ -2509,6 +2516,7 @@
     "region": "mundo",
     "semana": "2026-08-12",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 3
   }
 ]
