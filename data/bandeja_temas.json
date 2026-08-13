@@ -1934,5 +1934,49 @@
     "basado_en": "Mensaje en botella de 53 años encontrado en Nueva Jersey cuya autora ya había fallecido (The Guardian / Shepherd Express, agosto 2026)",
     "semana": "2026-08-12",
     "estado": "en_pauta"
+  },
+  {
+    "id": "a6525f84-a660-45ee-8561-5e8baa70f398",
+    "fecha_encontrada": "2026-08-13",
+    "titulo": "El pedo que evacuó el cine: ¿cuál es el olor más poderoso que has producido o sufrido en un espacio público?",
+    "gancho": "Un pedo anónimo en Colombia le ganó al villano de Spider-Man: vació la sala antes que cualquier bomba de película.",
+    "por_que_conversar": "La historia del cine de Cartagena abre la puerta al tema universal y prohibido: los olores corporales en espacios públicos. El chileno tiene una relación complicada con la vergüenza ajena y propia. ¿Alguna vez fuiste tú el culpable? ¿Cómo se maneja ese momento? Da para confesiones, teorías sobre el metro en hora peak y el arte de mirarle la cara a otro para culparlo.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral de agosto 2026: evacuación de cine en Cartagena por flatulencia masiva",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e8a884bc-e08c-43be-8a0b-02ffac1567dd",
+    "fecha_encontrada": "2026-08-13",
+    "titulo": "La serpiente en el casco, el zorro en la leche y el gato en el parachoque: ¿los animales nos están saboteando a propósito?",
+    "gancho": "Esta semana hubo una serpiente en un casco de fútbol, un zorro que robaba leche haciéndose pasar por vegano y un gato que se instaló en el motor de un auto: esto ya no es casualidad.",
+    "por_que_conversar": "Hay una ola global de animales que aparecen exactamente donde menos los esperas. Da para preguntar si hay un plan coordinado, para que cada uno cuente su anécdota con animales en lugares imposibles, y para debatir cuál es el animal más saboteador de Chile (el answer obvio: el perro de la esquina que se mete al micro).",
+    "categoria": "absurdo",
+    "basado_en": "Noticias de la semana: serpiente en casco Arkansas, zorro ladrón de leche Glasgow, gato en parachoque Iowa",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "195399d0-18e9-43c0-884f-bb71128e2c08",
+    "fecha_encontrada": "2026-08-13",
+    "titulo": "El vecino que pone clavos en el jardín vs. el chileno que escribe en el grupo de WhatsApp: ¿cuál es la forma más ridícula de pelear con tu vecino?",
+    "gancho": "Un tipo en Minnesota instaló púas medievales para que los niños no pisaran su pasto. En Chile preferimos el mensaje pasivo-agresivo en el chat del edificio a las 11 PM.",
+    "por_que_conversar": "El conflicto vecinal es universal pero en Chile tiene su propio manual no escrito: la nota bajo la puerta, el mensaje críptico en el grupo de WhatsApp del edificio, el volumen del televisor como represalia. ¿Hasta dónde has llegado tú? ¿Cuál es el método más creativo que has visto? Da para una competencia de horror y ternura a la vez.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de la semana: vecino de Minnesota con trampa casera de clavos; fenómeno universal de conflictos vecinales",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "715e783e-1e74-46d3-996a-1e9b878bd6ab",
+    "fecha_encontrada": "2026-08-13",
+    "titulo": "Si tu banda favorita tuviera una especie nombrada en su honor, ¿qué bicho le correspondería y por qué?",
+    "gancho": "Pink Floyd ya tiene su araña: pequeña, vive en paredes y ataca cosas el doble de su tamaño. La ciencia está haciendo los homenajes que nadie pidió.",
+    "por_que_conversar": "La araña 'floydmuraria' abre el juego más entretenido de la semana: ¿qué animal le correspondería a Los Tres? ¿A Lucybell? ¿Al Indio Solari? Las opciones dan para una discusión interminable con criterios imposibles (el animal tiene que tener la vibra del artista, vivir en el hábitat correcto, tener el nombre adecuado). Humor nerd-musical con mucho potencial de debate.",
+    "categoria": "curioso",
+    "basado_en": "Descubrimiento científico: araña Pikelinia floydmuraria nombrada en honor a Pink Floyd, mayo 2026",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
   }
 ]
