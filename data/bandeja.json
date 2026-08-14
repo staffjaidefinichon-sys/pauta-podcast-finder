@@ -2557,5 +2557,44 @@
     "region": "mundo",
     "semana": "2026-08-19",
     "estado": "en_pauta"
+  },
+  {
+    "id": "6accc623-d119-4cdf-9525-8e286a619b9f",
+    "fecha_encontrada": "2026-08-14",
+    "titular": "Los hilarantes GC de Chilevisión Noticias se viralizaron: 'Use casco: el peinado se arregla, la cabeza no'",
+    "resumen": "Usuarios de redes sociales recopilaron una serie de llamativos gráficos de caracteres (GC) que aparecieron en el noticiero de Chilevisión, llenos de doble sentido y humor involuntario. Los televidentes llevan meses notando que los textos que acompañan las noticias esconden un segundo nivel de comedia.",
+    "fuente": "Fotech.cl",
+    "url": "https://www.fotech.cl/los-hilarantes-gc-de-chilevision-noticias-que-se-viralizaron/2026/08/13/",
+    "por_que_humor": "El noticiario más serio del canal resultó ser la fuente de humor más involuntaria del día. Que los GC de una nota de tránsito sean más graciosos que un sketch de comedia es el nivel de ironía que solo puede nacer en Chile.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "044ad61c-feb6-45cb-be69-3e316db80f6c",
+    "fecha_encontrada": "2026-08-14",
+    "titular": "Un zorro en Glasgow robaba la leche de la puerta de una casa todas las mañanas y el dueño creía que era un 'militante vegano'",
+    "resumen": "Un hombre escocés instaló cámaras para atrapar al ladrón de su leche matutina, convencido de que era un vecino activista. Las imágenes revelaron que el culpable era un zorro que subía los escalones, tomaba la botella con la boca y se la llevaba corriendo.",
+    "fuente": "City Weekly / News of the Weird",
+    "url": "https://www.cityweekly.net/news/news-of-the-weirdaugust-12-2026-8d276fb6",
+    "por_que_humor": "Sospechar de un 'militante vegano' y que el culpable sea un zorro hambriento es el giro argumental que ningún thriller de Netflix podría permitirse. Da para imaginar al vecino vegano indignado por la acusación.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "748dcf24-97bb-4d29-bfef-fec26b65523d",
+    "fecha_encontrada": "2026-08-14",
+    "titular": "Policía de Francia advierte a conductores: los ciervos están borrachos de fruta fermentada y cruzando la ruta de forma errática",
+    "resumen": "La policía de la región de Saône-et-Loire publicó en redes un aviso oficial alertando sobre ciervos que habían consumido fruta fermentada del bosque y deambulaban por las carreteras de manera impredecible. El comunicado indicaba que 'no todos los usuarios de la vía están sobrios'.",
+    "fuente": "Funny Times / News of the Weird July-August 2026",
+    "url": "https://funnytimes.com/news-of-the-weird-july-august-2026/",
+    "por_que_humor": "Una alerta oficial de tránsito por animales en estado de ebriedad es el comunicado gubernamental más inesperadamente gracioso del año. Da para imaginar cómo sería una multa de tránsito para un ciervo borracho.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
   }
 ]

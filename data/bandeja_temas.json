@@ -1978,5 +1978,49 @@
     "basado_en": "Descubrimiento científico: araña Pikelinia floydmuraria nombrada en honor a Pink Floyd, mayo 2026",
     "semana": "2026-08-19",
     "estado": "en_pauta"
+  },
+  {
+    "id": "f49c3b75-efb1-46db-92a4-09fe862326ed",
+    "fecha_encontrada": "2026-08-14",
+    "titulo": "El noticiero chileno como comedia involuntaria: ¿los GC de la tele son el mejor chiste del día sin querer serlo?",
+    "gancho": "Esta semana Chilevisión se viralizó no por sus noticias, sino por los subtítulos de esas noticias.",
+    "por_que_conversar": "Los textos de pantalla de los noticiarios chilenos llevan meses siendo más graciosos que cualquier programa de humor del prime time, y nadie sabe si es intencional o un accidente de redacción. Da para hablar de los GC más épicos que recuerda cada uno, de si el editor merece un premio o un despido, y de por qué en Chile la realidad siempre termina superando a la ficción.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral del 13 de agosto sobre los GC de Chilevisión Noticias que se hicieron tendencia en redes sociales",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "45f4d6fc-220c-4d51-9f49-b9a377bc5472",
+    "fecha_encontrada": "2026-08-14",
+    "titulo": "El animal borracho en la carretera: si la policía de Francia ya advierte por ciervos curados, ¿qué animales ebrios tendríamos que esquivar en Chile?",
+    "gancho": "La policía francesa emitió una alerta oficial por ciervos borrachos de fruta fermentada cruzando la ruta de forma errática.",
+    "por_que_conversar": "El concepto de que los animales también se embriagan solos es tan absurdo como verificable, y abre la puerta a una conversación delirante: ¿qué animales chilenos serían los más peligrosos en estado etílico? ¿el guanaco curado en altura, el pudú con chicha? Da para mezclar humor animal con humor regional y el clásico 'esto en Chile sería diferente'.",
+    "categoria": "absurdo",
+    "basado_en": "Alerta policial francesa por ciervos borrachos de fruta fermentada en carreteras, publicada en mayo 2026 y compilada en News of the Weird julio-agosto 2026",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5e7f594c-f4a7-4203-bfe2-3fe9628fef63",
+    "fecha_encontrada": "2026-08-14",
+    "titulo": "¿Cómo llegarías a la fiesta más importante de tu vida si pudieras elegir el transporte más ridículo posible?",
+    "gancho": "Un adolescente en Kansas llegó a su baile de graduación en el auto-salchicha de Oscar Mayer y todos lo amaron.",
+    "por_que_conversar": "El Weinermobile como vehículo de gala abre un debate universal y completamente absurdo: ¿cuál sería el transporte más ridículo e icónico en el que un chileno querría llegar a una boda, a la PAES o a su propio funeral? Da para chistes sobre la micro llena, el caballo en la comunal y la obsesión chilena con el 'qué dirán' versus el 'qué weón más bacán'.",
+    "categoria": "absurdo",
+    "basado_en": "Historia viral del estudiante de Kansas que llegó al prom en el Weinermobile de Oscar Mayer, compilada en News of the Weird julio-agosto 2026",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "81aa9966-982c-4e97-b83e-df4c8888abe0",
+    "fecha_encontrada": "2026-08-14",
+    "titulo": "El chileno y los objetos enterrados: ¿qué está guardado debajo del jardín de tu abuela que no sabe que vale una fortuna?",
+    "gancho": "Un tipo cavó el jardín un sábado y encontró una estatua de 70 kilos que podría ser arte millonario.",
+    "por_que_conversar": "El hallazgo del jardín de San Francisco dispara una conversación típicamente chilena: la generación de las abuelas que enterraba plata, joyas o cosas 'importantes' en el patio, la cajita de galletas con documentos secretos, el tarro de Nescafé con monedas. Da para hablar de qué tesoro absurdo podría estar bajo el suelo de cualquier casa del barrio y del terror chileno a contratar a alguien para hacer remodelaciones porque 'vai a encontrar cosas'.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del 12 de agosto de 2026 sobre hombre de San Francisco que desenterró estatua de arte en su jardín durante trabajos de paisajismo",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
   }
 ]
