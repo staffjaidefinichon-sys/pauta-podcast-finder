@@ -2596,5 +2596,18 @@
     "region": "mundo",
     "semana": "2026-08-19",
     "estado": "en_pauta"
+  },
+  {
+    "id": "52a753a3-fe47-48aa-9622-26adb802aee9",
+    "fecha_encontrada": "2026-08-15",
+    "titular": "Actor surcoreano Son Byeong Hoon confiesa que sueña con trabajar en Chile y la prensa chilena lo convierte en tendencia",
+    "resumen": "El actor coreano Son Byeong Hoon declaró que su sueño es aprender español y trabajar algún día en Chile. La declaración se volvió tendencia en redes sociales chilenas, generando una ola de reacciones.",
+    "fuente": "24horas.cl",
+    "url": "https://www.24horas.cl/tendencias/redes-sociales",
+    "por_que_humor": "Chile se convierte en el destino soñado de un actor de K-drama y los chilenos no saben si sentirse halagados o confundidos. Da para imaginar qué le mostrarían al coreano cuando llegue: ¿la once, el transantiago o los baches de Providencia?",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
   }
 ]

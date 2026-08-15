@@ -2022,5 +2022,49 @@
     "basado_en": "Noticia del 12 de agosto de 2026 sobre hombre de San Francisco que desenterró estatua de arte en su jardín durante trabajos de paisajismo",
     "semana": "2026-08-19",
     "estado": "en_pauta"
+  },
+  {
+    "id": "005184d3-3d2b-4cd1-8d7f-d52c71aebc63",
+    "fecha_encontrada": "2026-08-15",
+    "titulo": "El jardín de tu abuela como yacimiento arqueológico: ¿qué está enterrado en Chile que nadie ha desenterrado todavía?",
+    "gancho": "Un tipo en San Francisco saca una escultura de museo de su patio y en Chile seguimos convencidos de que bajo el jardín solo hay papas.",
+    "por_que_conversar": "La fantasía del tesoro enterrado es universal, pero en Chile tiene su propia versión: las monedas guardadas en frascos, las joyas escondidas 'para el terremoto', los objetos que la abuela 'puso en un lugar seguro' y nadie recuerda dónde. Da para historias personales, teorías ridículas y la gran pregunta de si en algún patio chileno hay algo que vale una fortuna.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del hombre de San Francisco que desenterró una posible escultura de artista famoso haciendo paisajismo en su jardín (UPI, 12 agosto 2026), combinada con el fenómeno chileno del ahorro extremo y los objetos 'escondidos para emergencias'.",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "db9eb605-cb06-41db-aa4b-008b5fb5bc8a",
+    "fecha_encontrada": "2026-08-15",
+    "titulo": "Si el dodo era en realidad un genio y nosotros los tontos, ¿a qué otro animal hemos subestimado brutalmente?",
+    "gancho": "Llevamos siglos riéndonos del dodo como símbolo de la estupidez y resulta que tenía superpoderes sensoriales que nosotros ni sabemos pronunciar.",
+    "por_que_conversar": "La inversión del chiste —el 'tonto' resulta ser el más sofisticado— abre una conversación absurda sobre qué otros animales hemos malentendido, qué diría el dodo de nosotros si pudiera hablar, y cuál es el equivalente humano de extinguirse por subestimado. Da para comparaciones con tipos del trabajo, vecinos y el clásico chileno que parece despistado pero siempre la saca.",
+    "categoria": "absurdo",
+    "basado_en": "Estudio publicado el 8 de agosto 2026 en ScienceDaily que revela que el dodo tenía un sofisticado sistema sensorial desconocido hasta ahora.",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "be823cc2-9be8-493b-9194-b05266242fcf",
+    "fecha_encontrada": "2026-08-15",
+    "titulo": "K-dramas vs. teleseries chilenas: si una estrella del K-pop llegara a trabajar en la tele nacional, ¿sobreviviría?",
+    "gancho": "Un actor surcoreano dijo que su sueño es trabajar en Chile y los chilenos no saben si preparar alfombra roja o disculparse de antemano.",
+    "por_que_conversar": "El contraste entre la producción K-drama —con sus presupuestos, vestuario y dramaturgia épica— y la teleserie chilena promedio es material de humor puro. Da para hablar de qué le explicarías al actor coreano antes de filmar, qué personaje le darían, y si el fandom chileno sería capaz de montar una operación de bienvenida tan organizada como el ARMY de BTS.",
+    "categoria": "observacional",
+    "basado_en": "Declaración del actor surcoreano Son Byeong Hoon que se volvió tendencia en redes sociales chilenas la primera semana de agosto 2026, según 24horas.cl.",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "fee78623-ad7b-4669-9c78-85b0c20a7dc6",
+    "fecha_encontrada": "2026-08-15",
+    "titulo": "El cerebro que se repara solo: ¿cuántas neuronas perdidas en la vida nocturna chilena podríamos recuperar si nos lo propusiéramos?",
+    "gancho": "La ciencia acaba de decir que el cerebro adulto se regenera mejor de lo que creíamos, y Chile tiene una deuda neuronal enorme que saldar.",
+    "por_que_conversar": "El hallazgo científico sirve de excusa perfecta para el inventario irónico de cuántas neuronas ha costado la historia de vida del chileno promedio: la universidad, el trabajo, las juntas, los grupos de WhatsApp, los veraneos en Pichilemu. Da para calcular colectivamente el déficit neuronal nacional y debatir si las cazuelas de la abuela son el verdadero mecanismo de reparación cerebral.",
+    "categoria": "absurdo",
+    "basado_en": "Estudio publicado el 12 de agosto 2026 en ScienceDaily sobre la capacidad autorreparadora del cerebro adulto, combinado con el humor observacional sobre la vida cotidiana chilena.",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
   }
 ]
