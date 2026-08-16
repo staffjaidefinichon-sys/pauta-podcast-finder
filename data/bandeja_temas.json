@@ -2066,5 +2066,38 @@
     "basado_en": "Estudio publicado el 12 de agosto 2026 en ScienceDaily sobre la capacidad autorreparadora del cerebro adulto, combinado con el humor observacional sobre la vida cotidiana chilena.",
     "semana": "2026-08-19",
     "estado": "en_pauta"
+  },
+  {
+    "id": "5082a0e4-f620-48f4-9640-bf2a231eaafa",
+    "fecha_encontrada": "2026-08-16",
+    "titulo": "La serpiente en el casco, en el capó y en el trabajo: ¿los reptiles nos están declarando la guerra o simplemente tienen mejor gusto para elegir casa?",
+    "gancho": "Esta semana una serpiente venenosa vivía en un casco de fútbol y otra salió de abajo de un capó en movimiento: los animales eligieron mejor domicilio que muchos arrendatarios.",
+    "por_que_conversar": "Da para una espiral de historias de animales encontrados en los peores lugares posibles, el equivalente chileno (la culebra en la zapata, el ratón en el motor), y la gran pregunta filosófica: ¿el animal invadió tu espacio o tú invadiste el suyo?",
+    "categoria": "absurdo",
+    "basado_en": "Noticias reales de esta semana: serpiente en casco de fútbol americano en Arkansas y serpiente emergiendo del capó de un auto en Tennessee, ambas del 12-14 agosto 2026.",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "68e03a93-7611-4ad2-98f5-5cae365470bb",
+    "fecha_encontrada": "2026-08-16",
+    "titulo": "El juguete sexual que paró el tráfico de una ciudad: ¿cuál es el objeto más ridículo que ha desatado un protocolo de emergencia en Chile?",
+    "gancho": "El escuadrón antibombas de Washington D.C. cortó el tráfico en hora punta por un consolador abandonado. Algún día Chile va a tener su propia versión.",
+    "por_que_conversar": "Da para un intercambio de historias de llamadas de emergencia absurdas, el nivel de burocracia que dispara un protocolo versus el nivel de sentido común que lo frena, y qué objeto inocente o ridículo te imaginas capaz de paralizar Santiago en hora punta.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia real del 13 agosto 2026: bomba squad de D.C. desplegada por un juguete sexual frente a una estación de bomberos (UPI).",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "85411332-cf1d-43bd-b62f-a637b269614c",
+    "fecha_encontrada": "2026-08-16",
+    "titulo": "Ganar la lotería por error: el chileno y la cultura del 'le atinaste sin querer' como la única estrategia válida",
+    "gancho": "Un tipo compró dos veces el mismo número por despiste y ganó el doble. En Chile eso se llamaría método.",
+    "por_que_conversar": "Da para debatir si el error es en realidad una estrategia oculta, los sistemas más absurdos que la gente usa para el Kino, y si el azar favorece al distraído. Perfecta para contar anécdotas de gente que gana sin intentarlo mientras el que tiene método no gana nunca.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del 12 agosto 2026: hombre de Maryland gana $100.000 al comprar el mismo ticket de lotería dos veces por error (UPI). Fenómeno universal del azar como identidad cultural.",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
   }
 ]
