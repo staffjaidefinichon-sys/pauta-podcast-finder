@@ -2099,5 +2099,49 @@
     "basado_en": "Noticia del 12 agosto 2026: hombre de Maryland gana $100.000 al comprar el mismo ticket de lotería dos veces por error (UPI). Fenómeno universal del azar como identidad cultural.",
     "semana": "2026-08-19",
     "estado": "en_pauta"
+  },
+  {
+    "id": "fbcaea25-c6ea-445d-af1e-ce2fe03c0091",
+    "fecha_encontrada": "2026-08-17",
+    "titulo": "El noticiero chileno como comediante involuntario: ¿los GC de Chilevisión son arte, accidente o el único humor que nos queda?",
+    "gancho": "El noticiero de las 9 lleva meses siendo el mejor programa de humor de la tele chilena sin querer serlo.",
+    "por_que_conversar": "Los GC virales de CHV Noticias abren una conversación sobre si la tele chilena perdió la vergüenza o ganó ingenio, quién los escribe, si hay un equipo secreto de comediantes en la redacción, y cuál sería el GC perfecto para describir la propia vida del conductor. Formato ideal para leer en vivo los mejores y que el panel los comente.",
+    "categoria": "observacional",
+    "basado_en": "Los GC de Chilevisión Noticias que se viralizaron en X e Instagram esta semana, recopilados por Fotech.cl el 13 de agosto de 2026.",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e76ca9f0-8565-410e-9e20-2dee51b0346e",
+    "fecha_encontrada": "2026-08-17",
+    "titulo": "El escuadrón antibombas, las cabras en el metro y la pitón incendiaria: ¿los animales y los objetos raros le están declarando la guerra a la civilización?",
+    "gancho": "Esta semana un juguete sexual detuvo el tráfico de Washington, dos cabras tomaron el metro en Portland y una pitón prendió fuego a un colegio. Es demasiada coincidencia.",
+    "por_que_conversar": "La acumulación de noticias donde animales y objetos cotidianos interrumpen el orden urbano da para construir una 'teoría conspirativa absurda' en clave de humor: ¿los animales tienen un plan? ¿y los juguetes adultos? Da para que cada conductor aporte su propia noticia de la semana donde algo sin cerebro tuvo más protagonismo que los humanos.",
+    "categoria": "absurdo",
+    "basado_en": "Noticias de UPI Odd News del 12-13 de agosto de 2026: cabras en el metro de Portland, pitón incendiaria en Virginia y escuadrón antibombas de D.C. vs. juguete sexual.",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "4864d910-c200-47fa-ab76-e8e6dc3e5c81",
+    "fecha_encontrada": "2026-08-17",
+    "titulo": "El chileno y la nieve en el desierto: ¿somos el único país donde la naturaleza hace lo que quiere y nosotros igual lo encontramos 'normal'?",
+    "gancho": "Nevó en el desierto de Atacama. Hubo tornados en el Ñuble. Y en el sur organizaron un festival de turismo. Todo en la misma semana.",
+    "por_que_conversar": "La paradoja climática chilena de esta semana de agosto —nieve en el lugar más seco del mundo, tornados en el Biobío y un festival de invierno que igual va a funcionar— abre la gran pregunta: ¿somos estoicos, inconscientes o simplemente ya no nos sorprende nada? Da para contar historias de planes que siguieron adelante a pesar del apocalipsis climático y para debatir si el chileno tiene el umbral de alarma más alto del planeta.",
+    "categoria": "observacional",
+    "basado_en": "Nieve en el altiplano de Atacama y festival de invierno en Panguipulli, semana del 15 de agosto de 2026, más el historial de tornados en el Ñuble de semanas anteriores.",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "373d12a6-8ebe-4080-87ed-77fc13b44e93",
+    "fecha_encontrada": "2026-08-17",
+    "titulo": "Récords Guinness absurdos: ¿cuándo exactamente dejamos de preguntarnos por qué existe un campeonato mundial para esto?",
+    "gancho": "Esta semana: campeón mundial de armar Mr. Potato Head vendado, tortuga fugitiva de largo aliento y hombre con dos boletos de lotería idénticos. El mundo tiene demasiados récords inútiles y Chile no tiene ninguno propio.",
+    "por_que_conversar": "La avalancha semanal de récords Guinness cada vez más específicos e inútiles da para debatir qué récord absurdo podría reclamar Chile hoy mismo sin entrenarse: el mayor consumo de completos en una sentada, la fila más larga del Fonasa, el grupo de WhatsApp familiar con más mensajes sin leer. Formato ideal para que el panel proponga y vote el récord nacional más honesto.",
+    "categoria": "absurdo",
+    "basado_en": "Récord Guinness del Mr. Potato Head vendado (UPI, 13 agosto 2026) y el hombre de Maryland que ganó la lotería doble por duplicar su boleto (UPI, 12 agosto 2026).",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
   }
 ]
