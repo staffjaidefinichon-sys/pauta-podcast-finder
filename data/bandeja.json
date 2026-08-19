@@ -2570,7 +2570,8 @@
     "categoria": "observacional",
     "region": "chile",
     "semana": "2026-08-19",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 2
   },
   {
     "id": "044ad61c-feb6-45cb-be69-3e316db80f6c",
@@ -2761,6 +2762,7 @@
     "region": "chile",
     "semana": "2026-08-19",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 1
   }
 ]
