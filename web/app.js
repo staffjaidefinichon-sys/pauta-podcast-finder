@@ -139,12 +139,15 @@ async function detectarBranch() {
 
 async function obtenerArchivo(path) {
   const url = `${API}/repos/${estado.owner}/${estado.repo}/contents/${path}?ref=${estado.branch}`;
-  let r = await fetch(url, { headers: cabeceras(true) });
+  // cache: "no-store" es clave: la API de GitHub responde con max-age=60 y el
+  // navegador cachea; sin esto, los reintentos tras un 409 releen el sha viejo
+  // y vuelven a fallar.
+  let r = await fetch(url, { headers: cabeceras(true), cache: "no-store" });
   // 401: el token guardado expiró o fue revocado. Para LEER un repo público no
   // hace falta token: reintentar sin él y avisar al usuario.
   if (r.status === 401 && getToken()) {
     avisarTokenVencido();
-    r = await fetch(url, { headers: cabeceras(false) });
+    r = await fetch(url, { headers: cabeceras(false), cache: "no-store" });
   }
   if (r.status === 404) return null;
   if (!r.ok) throw new Error(`GitHub ${r.status} al leer ${path}`);
