@@ -2209,5 +2209,49 @@
     "basado_en": "Noticia de escultura de 70 kilos desenterrada en jardín de San Francisco (agosto 2026), más el fenómeno universal y muy chileno de las cosas guardadas sin razón aparente.",
     "semana": "2026-08-19",
     "estado": "en_pauta"
+  },
+  {
+    "id": "b57870bc-81a1-4085-b77c-9f9a998b2e77",
+    "fecha_encontrada": "2026-08-19",
+    "titulo": "El norte chileno y la lluvia: ¿cómo reacciona una ciudad que no sabe lo que es mojarse?",
+    "gancho": "Antofagasta suspendió clases por lluvia mientras Valdivia llevaba meses bajo el agua sin que nadie dijera nada.",
+    "por_que_conversar": "Chile es tan largo que vive en paralelo dos realidades climáticas opuestas: el sur estoico que le dice 'esto no es nada' al temporal, y el norte que colapsa con 5 mm de agua. Da para hablar de qué tan distinto es el chileno según la región donde creció, contar anécdotas de nortinos viendo lluvia por primera vez y debatir si el paraguas es un objeto mitológico en Atacama.",
+    "categoria": "observacional",
+    "basado_en": "Sistema frontal que dejó lluvia y nieve en Atacama y Antofagasta esta semana, con suspensión de clases en el norte, mientras el sur no reportó nada inusual.",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d9e737c3-d455-49d2-a325-a755503c4e66",
+    "fecha_encontrada": "2026-08-19",
+    "titulo": "Animales que sabotean: ¿los bichos nos están declarando la guerra o simplemente tienen mejores ideas que nosotros?",
+    "gancho": "Una serpiente quemó un colegio, un mono se escapó y volvió solo, y un cerdo corrió más rápido que la policía de Los Ángeles, todo en la misma semana.",
+    "por_que_conversar": "La semana estuvo llena de animales con planes propios: el que se mete al casco, el que evalúa su situación y decide volver al zoo, el que le dice no al sistema y huye por Hollywood. Da para el gran debate de si los animales están más organizados que nosotros, qué animal chileno tendría el plan de escape más absurdo y cuál sería el sabotaje animal más glorioso de la historia nacional.",
+    "categoria": "absurdo",
+    "basado_en": "Semana de noticias mundiales con serpiente en casco de fútbol americano en Arkansas, mono que vuelve solo al zoo en Escocia y cerdo fugado en West Hollywood.",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6b5634c7-69a1-4d8f-8b94-3eb449b902f7",
+    "fecha_encontrada": "2026-08-19",
+    "titulo": "El récord Guinness como proyecto de vida: ¿cuándo exactamente decidiste que eso era lo tuyo?",
+    "gancho": "Esta semana alguien batió el récord mundial de doblar camisetas en equipo con la ayuda de un mentalista de Las Vegas.",
+    "por_que_conversar": "Hay personas que dedican años de su vida a ser los mejores del mundo en algo completamente inútil, y eso es a la vez lo más ridículo y lo más admirable de la humanidad. Da para inventar el récord Guinness que el chileno promedio podría ganar sin entrenamiento: el más rápido en quejarse del tiempo, el que más veces pregunta '¿llegamos?' en un viaje, o el que más tiempo ha tenido el auto sin revisión técnica.",
+    "categoria": "absurdo",
+    "basado_en": "Múltiples récords Guinness absurdos batidos esta semana: doblar camisetas en equipo con mentalista, correr 100 millas en cinta, y tendencia global de récords cada vez más específicos e inútiles.",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "663729d1-fa7f-49a1-a99a-2eb63ee17c35",
+    "fecha_encontrada": "2026-08-19",
+    "titulo": "Ir a hacer un trámite ajeno y llevarte el premio mayor: la filosofía del mandado que cambió todo",
+    "gancho": "Una mujer fue a comprar un ticket de lotería para su papá, compró uno para ella de paso, y se ganó 500 mil dólares. El papá se quedó con nada.",
+    "por_que_conversar": "¿Cuántos chilenos han ido a hacer un trámite del papá, la mamá o la pareja y terminaron con algo mejor que el que envió? Da para hablar de la suerte del intermediario, los mandados más rentables de la historia familiar chilena, y si el papá tiene derecho a reclamar algo o si simplemente debió ir él.",
+    "categoria": "curioso",
+    "basado_en": "Noticia real de Carolina del Sur esta semana: mujer gana $500.000 en un raspadito que compró para ella mientras hacía un encargo de lotería de su padre.",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
   }
 ]

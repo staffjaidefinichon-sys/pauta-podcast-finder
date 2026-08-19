@@ -2764,5 +2764,83 @@
     "estado": "aprobada",
     "origen": "manual",
     "orden": 1
+  },
+  {
+    "id": "543337b3-94a9-47fd-8951-6b7562f79bb2",
+    "fecha_encontrada": "2026-08-19",
+    "titular": "Lluvia histórica en Antofagasta va viral: usuarios inundan redes con postales del desierto más árido del mundo empapado",
+    "resumen": "Un sistema frontal atípico dejó lluvia y nieve en sectores del desierto de Atacama y la ciudad de Antofagasta esta semana, con imágenes que se viralizaron en redes. Las precipitaciones acumularon montos equivalentes a varios años de lluvia normal en la zona.",
+    "fuente": "Soychile / 24horas / Enlalinea",
+    "url": "https://www.soychile.cl/antofagasta/sociedad/2026/08/16/961479/lluvia-sctor-afta.html",
+    "por_que_humor": "El desierto más seco del planeta amanece inundado y con nieve, y los antofagastinos —que nunca habían visto un paraguas— se vuelven expertos meteorólogos de la noche a la mañana. El norte suspende clases por lluvia mientras el sur lleva meses con el temporal y dice '¿en serio?'.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ffc544da-b777-4960-a4db-49ac865b5b02",
+    "fecha_encontrada": "2026-08-19",
+    "titular": "Clases suspendidas en Arica, Tarapacá y Antofagasta por lluvia: el norte chileno descubre que el agua cae del cielo",
+    "resumen": "El Mineduc suspendió clases el 19 de agosto en tres regiones del norte por el sistema frontal que activó quebradas y emitió alertas SAE. En el sur, donde llueve casi todos los inviernos, nadie suspendió nada.",
+    "fuente": "La Nación / El Mostrador",
+    "url": "https://www.lanacion.cl/mineduc-decidio-suspender-las-clases-este-miercoles-19-en-las-regiones-de-arica-y-parinacota-tarapaca-y-antofagasta/",
+    "por_que_humor": "Chile es un país tan largo que cuando llueve en el norte es noticia de estado de catástrofe y suspensión de clases; cuando llueve en el sur, es martes. La asimetría es el chiste.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "7a58dd31-46d9-4dff-b237-cbd0a1e053ca",
+    "fecha_encontrada": "2026-08-19",
+    "titular": "Nieve en el altiplano de Antofagasta: montañas del desierto amanecen blancas y las postales confunden a medio Twitter",
+    "resumen": "El sistema frontal de agosto dejó un paisaje insólito: nieve cubriendo sectores de la comunidad de Machuca y el altiplano, generando un contraste visual absurdo con el Atacama, considerado el lugar más árido de la Tierra.",
+    "fuente": "24horas",
+    "url": "https://www.24horas.cl/regiones/zona-norte/antofagasta/nieve-desierto-postales-sistema-frontal",
+    "por_que_humor": "Ver el desierto de Atacama nevado es como ver a tu profe de matemáticas en pijama: técnicamente posible, pero el cerebro no lo procesa. Da para debatir si el Atacama ya no es el Atacama o si la naturaleza simplemente se cansó de las reglas.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "37ad5a56-4988-428b-98f5-13082a777256",
+    "fecha_encontrada": "2026-08-19",
+    "titular": "Serpiente venenosa encontrada escondida dentro del casco de un jugador de fútbol americano en Arkansas",
+    "resumen": "Un estudiante de secundaria en Maumelle, Arkansas, sintió algo raro en su casco durante el entrenamiento. Al revisarlo, encontraron una serpiente cottonmouth —altamente venenosa— enrollada detrás del acolchado. Tuvieron que sumergir el casco en agua para sacarla.",
+    "fuente": "City Weekly / News of the Weird",
+    "url": "https://www.cityweekly.net/news/news-of-the-weirdaugust-19-2026-c07e5c4c",
+    "por_que_humor": "Llevas una hora jugando con una serpiente venenosa en la cabeza y no lo sabías. El director de control animal confirmó: 'En un casco, nunca'. Es el compañero de equipo más tóxico del año, literalmente.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "cea662be-dc9d-4e75-8409-245cfe19170c",
+    "fecha_encontrada": "2026-08-19",
+    "titular": "Robot de rescate con forma de cabra demoníaca presentado por empresa californiana: viene con instrucciones para 'matarlo'",
+    "resumen": "Una empresa de robótica de California presentó un robot de rescate con apariencia de cabra satánica. El producto viene con un manual que incluye instrucciones específicas sobre cómo desactivarlo en caso de emergencia, apodadas en la jerga interna 'cómo matarlo'.",
+    "fuente": "Oddee",
+    "url": "https://www.oddee.com/category/odd-news/",
+    "por_que_humor": "La humanidad diseñó un robot para salvar vidas y eligió darle la forma de una cabra del infierno. El que sobrevive al desastre natural puede morir del susto al ver al rescatista. Da para debatir qué animal debería ser el robot de rescate chileno.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f429e6e5-6760-45c2-afb0-0fd93cb34674",
+    "fecha_encontrada": "2026-08-19",
+    "titular": "Ovejas invaden supermercado alemán: 50 animales entran a un Penny Market y reorganizan los pasillos a su manera",
+    "resumen": "Alrededor de 50 ovejas irrumpieron en un supermercado Penny en Burgsinn, Alemania, derribando productos y dejando al personal sin saber cómo proceder para desalojar a los clientes de cuatro patas.",
+    "fuente": "Oddee",
+    "url": "https://www.oddee.com/29-strange-and-unusual-events-that-happened-in-2026-79454/",
+    "por_que_humor": "Cincuenta ovejas haciendo las compras del mes es la imagen más caótica y adorable posible. Da para preguntar qué llevaban en el carrito y si pidieron la tarjeta de fidelización.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-19",
+    "estado": "en_pauta"
   }
 ]
