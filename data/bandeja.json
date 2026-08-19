@@ -2556,7 +2556,8 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-08-19",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 4
   },
   {
     "id": "6accc623-d119-4cdf-9525-8e286a619b9f",
@@ -2686,7 +2687,8 @@
     "categoria": "curioso",
     "region": "mundo",
     "semana": "2026-08-19",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 5
   },
   {
     "id": "89cd7fc9-80cb-4bc4-89d3-b5e86688ff08",
@@ -2699,7 +2701,8 @@
     "categoria": "curioso",
     "region": "mundo",
     "semana": "2026-08-19",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 6
   },
   {
     "id": "417f4498-5662-4080-ab52-8b9ccbbbe061",
@@ -2713,7 +2716,8 @@
     "region": "mundo",
     "semana": "2026-08-19",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 3
   },
   {
     "id": "e6b91fe6-eeee-4c2b-bd2b-6404677ebaf3",
@@ -2727,7 +2731,8 @@
     "region": "mundo",
     "semana": "2026-08-19",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 1
   },
   {
     "id": "d1460f6f-fc82-4505-9240-a4b545103a11",
@@ -2741,7 +2746,8 @@
     "region": "mundo",
     "semana": "2026-08-19",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 2
   },
   {
     "id": "b2cce634-1e87-45a3-b453-5eaa9519073c",
