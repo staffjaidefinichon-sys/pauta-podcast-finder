@@ -2700,5 +2700,19 @@
     "region": "mundo",
     "semana": "2026-08-19",
     "estado": "aprobada"
+  },
+  {
+    "id": "417f4498-5662-4080-ab52-8b9ccbbbe061",
+    "fecha_encontrada": "2026-08-18",
+    "titular": "YouTuber ataca Call Centers de Estafas en la India... con disfraces de Bob Esponja",
+    "resumen": "El 7 de agosto, Justin Ho, un YouTuber de 23 años, entró en una oficina de Delhi acompañado de seis personas disfrazadas con trajes gigantes de SpongeBob SquarePants, con una boombox en mano. Anunció que el grupo estaba a punto de asaltar un call center en India, y luego transmitió en vivo el caos mientras el video se difundía por YouTube e Instagram.",
+    "fuente": "es.vgtimes.com",
+    "url": "https://es.vgtimes.com/video/163988-el-youtuber-ataca-un-centro-de-llamadas-de-estafas-en-la-india-con-disfraces-de-bob-esponja-bailando.html",
+    "por_que_humor": "Ridiculo y justicia social gracioso",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-19",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
