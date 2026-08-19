@@ -2714,5 +2714,19 @@
     "semana": "2026-08-19",
     "estado": "aprobada",
     "origen": "manual"
+  },
+  {
+    "id": "e6b91fe6-eeee-4c2b-bd2b-6404677ebaf3",
+    "fecha_encontrada": "2026-08-18",
+    "titular": "Informe de la OIT sobre los \"Ninis\" y el aumento del desempleo juvenil",
+    "resumen": "informe de la Organización Internacional del Trabajo (OIT) que revela que hay más de 250 millones de jóvenes (entre 15 y 24 años) considerados \"ninis\" (no estudian ni trabajan) en el mundo, alcanzando una tasa de desempleo juvenil de 12,4%. Criticaron fuertemente la excusa de los \"expertos\" de la OIT, quienes culpan al impacto de la Inteligencia Artificial de esta falta de trabajo.",
+    "fuente": "biobiochile.cl",
+    "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/08/11/el-desempleo-juvenil-sube-en-todo-el-mundo-y-mas-de-250-millones-son-ninis-no-estudian-ni-trabajan.shtml",
+    "por_que_humor": "",
+    "categoria": "observacional",
+    "region": "mundo",
+    "semana": "2026-08-19",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
