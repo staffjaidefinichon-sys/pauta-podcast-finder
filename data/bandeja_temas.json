@@ -2253,5 +2253,49 @@
     "basado_en": "Noticia real de Carolina del Sur esta semana: mujer gana $500.000 en un raspadito que compró para ella mientras hacía un encargo de lotería de su padre.",
     "semana": "2026-08-19",
     "estado": "en_pauta"
+  },
+  {
+    "id": "97fcd745-1719-4134-94e1-f7fc68d13eae",
+    "fecha_encontrada": "2026-08-20",
+    "titulo": "Farmear aura en la calle: ¿los jóvenes de hoy compiten por ser cool o simplemente buscan una excusa para pelear?",
+    "gancho": "Juntarse en una plaza para ver quién tiene más 'aura' y terminar a piedrazos es la evolución natural del recreo, pero con TikTok.",
+    "por_que_conversar": "El fenómeno del 'aura' —la nueva moneda de popularidad callejera que viene de los juegos de rol— da para explicarle a los mayores de 30 qué está pasando, reírse de la terminología, y preguntarse si los chilenos ya están farmeando aura en alguna plaza de La Florida sin que nos hayamos dado cuenta. También da para el debate universal: ¿cuándo exactamente los juegos del recreo se convirtieron en motivo de despliegue policial?",
+    "categoria": "observacional",
+    "basado_en": "Tendencia viral de 'farmear aura' que llegó desde videojuegos a las calles de Mar del Plata y está circulando en redes chilenas",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f035fecd-7540-44eb-bf39-ac273e708981",
+    "fecha_encontrada": "2026-08-20",
+    "titulo": "El animal que entra a tu casa sin pedir permiso y tiene mejor gusto que tú: ¿los bichos ya saben que perdimos?",
+    "gancho": "Un oso entró a una casa de Kentucky, ignoró las joyas, ignoró el efectivo y fue directo al pollo frito de la nevera. Tiene mejor criterio que muchos invitados humanos.",
+    "por_que_conversar": "La acumulación de animales salvajes que entran a casas ajenas con agenda propia —el oso del pollo frito, el mono que se fugó y volvió solo, el cerdo perseguido en Hollywood— da para el debate absurdo de si los animales ya mapearon nuestras debilidades y nos están ganando el pulso. ¿Qué animal chileno te daría más miedo encontrar revisando tu refrigerador? ¿El coipo, el pudú, el chanchito de monte?",
+    "categoria": "absurdo",
+    "basado_en": "Ola de noticias internacionales de animales irrumpiendo en propiedades humanas con total descaro, agosto 2026",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "8b38f30d-a288-404d-828d-7955c19d5f28",
+    "fecha_encontrada": "2026-08-20",
+    "titulo": "El ritual de la suerte: si un anillo puede elegir el Kino ganador, ¿cuál es la metodología más ridícula que has usado tú?",
+    "gancho": "Un hombre dejó que su anillo 'eligiera' el raspadito y ganó 250 mil dólares. Alguien tiene que explicarle esto a la ciencia.",
+    "por_que_conversar": "La noticia del anillo oráculo abre la puerta a la gran conversación chilena sobre los rituales de la suerte: el número de la micro, la fecha del cumpleaños de la abuela, el raspadito que guardas sin abrir 'para cuando más lo necesites', el amigo que siempre pide un número tuyo y gana él. ¿Somos todos supersticiosos con el Kino o somos selectivamente racionales solo cuando perdemos?",
+    "categoria": "observacional",
+    "basado_en": "Noticia del hombre de Carolina del Norte que usó un anillo como método de selección de lotería y ganó, 18 agosto 2026",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "54d40273-015c-4f87-b8c2-a1563478aa14",
+    "fecha_encontrada": "2026-08-20",
+    "titulo": "Cancélenme la fiesta: ¿cuál es el evento chileno que, si lo suspenden, la gente entra en colapso existencial?",
+    "gancho": "La Pampilla de Coquimbo suspendida es el apocalipsis local del norte chico. Ahora imagina que cancelan el Festival de Viña, el asado de 18 de septiembre de tu familia o el Día del Niño de tu colegio.",
+    "por_que_conversar": "La suspensión de La Pampilla dispara la pregunta universal chilena: ¿cuál es la tradición tan arraigada que si la cancelan la gente literalmente no sabe qué hacer con su vida? Da para el inventario de los eventos más irrenunciables del país —desde fondas hasta el asado familiar obligatorio— y para reírse de la cara que pone el cuñado cuando le dicen que este año 'se cancela el plan'.",
+    "categoria": "observacional",
+    "basado_en": "Suspensión de La Pampilla 2026 en Coquimbo anunciada por el alcalde, tendencia en redes del norte de Chile",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
   }
 ]
