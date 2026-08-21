@@ -2842,5 +2842,44 @@
     "region": "mundo",
     "semana": "2026-08-19",
     "estado": "en_pauta"
+  },
+  {
+    "id": "f7b90de0-d8eb-487c-a4e8-61f5498c8c52",
+    "fecha_encontrada": "2026-08-21",
+    "titular": "Un oso negro murió atrapado dentro de un auto en Colorado después de subirse solo al vehículo con el calor",
+    "resumen": "Un oso negro de 113 kilos entró a un automóvil desaparecido en Colorado Springs y quedó atrapado mientras las temperaturas subían. El animal fue encontrado muerto dentro del vehículo después de horas sin poder salir.",
+    "fuente": "Female First / AP",
+    "url": "https://www.femalefirst.co.uk/bizarre",
+    "por_que_humor": "El oso que toca bocina ya estaba en el historial, pero este es el primo que decidió entrar al auto para relajarse con el aire acondicionado... y no leyó las instrucciones. Da para hablar de animales que toman decisiones pésimas en verano, igual que nosotros.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "4c947363-e517-4993-91b0-861696fedd9c",
+    "fecha_encontrada": "2026-08-21",
+    "titular": "Un ladrón robó el Shake Shack donde trabajaba, fue arrestado días después... cuando volvió a hacer su turno con su uniforme puesto",
+    "resumen": "Keondre Simmons, de Arizona, apuntó con un arma a dos empleados de un Shake Shack, robó 2.800 dólares de la caja fuerte y los encerró en la cámara frigorífica. Los investigadores lo detuvieron días después cuando lo vieron salir de su departamento con el uniforme de trabajo puesto para ir a hacer su turno en el mismo local.",
+    "fuente": "Shepherd Express",
+    "url": "https://shepherdexpress.com/puzzles/news-of-the-weird/news-of-the-weird-week-of-august-20-2026/",
+    "por_que_humor": "El nivel de audacia —o de mala memoria— de volver a trabajar en el lugar que acabas de robar con el mismo uniforme es un WTF total. Da para hablar del delincuente más comprometido con su trabajo de la historia y qué pasa si en Chile alguien roba el supermercado y al otro día va a comprar al mismo local.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e65f9b6b-3e88-4074-9b2e-ba51601e23e6",
+    "fecha_encontrada": "2026-08-21",
+    "titular": "Vecinos de Coquimbo reclaman que las marejadas y el temporal congelaron las actividades del borde costero por semanas",
+    "resumen": "El borde costero de Coquimbo sigue resentido tras los últimos temporales y marejadas de agosto: negocios paralizados, actividades suspendidas y vecinos reclamando que los daños van más allá de lo material. La situación se prolonga sin una solución clara.",
+    "fuente": "Diario La Región de Coquimbo",
+    "url": "https://www.diariolaregion.cl/edicion-viernes-21-de-agosto-2026/",
+    "por_que_humor": "El norte chico de Chile, que supuestamente tiene el mejor clima del país, lleva semanas con el borde costero fuera de servicio. Da para el chiste de que en Chile el clima 'más agradable' igual te manda el temporal y te deja sin playa en agosto.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
   }
 ]

@@ -2297,5 +2297,49 @@
     "basado_en": "Suspensión de La Pampilla 2026 en Coquimbo anunciada por el alcalde, tendencia en redes del norte de Chile",
     "semana": "2026-08-26",
     "estado": "en_pauta"
+  },
+  {
+    "id": "2703da6d-171f-4ff4-b7e1-111317155ad6",
+    "fecha_encontrada": "2026-08-21",
+    "titulo": "El ladrón que volvió a trabajar donde robó: ¿los chilenos somos capaces de ese nivel de confianza en sí mismos o el descaro tiene límite?",
+    "gancho": "El tipo robó su propio trabajo y al otro día se presentó con el uniforme puesto. ¿Cuánto descaro necesitas para eso y dónde se aprende?",
+    "por_que_conversar": "El caso del Shake Shack abre una conversación sobre el descaro como habilidad, los trabajos que harías aunque te odiaran, y si en Chile existe el equivalente: el que roba en la empresa y al lunes siguiente llega temprano con el termo.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral de Arizona sobre ladrón arrestado al volver a su turno de trabajo tras el robo (Shepherd Express, agosto 2026)",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9876aea2-4e5f-4971-b7f7-8572ca35253f",
+    "fecha_encontrada": "2026-08-21",
+    "titulo": "El freezer de la abuela: ¿qué guardan los chilenos en los rincones de la casa que nadie revisa hasta que ya es demasiado tarde?",
+    "gancho": "En Alaska encontraron un cuerpo en el freezer de un difunto. En Chile encontramos billetes viejos, medias sin par y misterios que nadie quiere abrir.",
+    "por_que_conversar": "El hallazgo de Alaska dispara una conversación sobre los rincones prohibidos de las casas chilenas: el freezer de la abuela lleno de cosas sin etiqueta, la pieza del fondo que nunca se abre, el cajón donde van a morir las cosas. Humor negro suave y muy reconocible.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia de Alaska sobre cuerpo encontrado en freezer (Shepherd Express / Juneau Empire, julio 2026)",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e55d9912-3855-4476-a097-4b950e74ed14",
+    "fecha_encontrada": "2026-08-21",
+    "titulo": "El souvenir más ridículo que has traído de viaje o que intentarías meter en el avión: el campeonato del recuerdo imposible",
+    "gancho": "Alguien intentó pasar un cañón de la Guerra Civil en el equipaje facturado. ¿Cuál es el souvenir más absurdo que tú has traído o que alguien ha intentado traer desde Chile?",
+    "por_que_conversar": "La bala de cañón en la maleta dispara el debate sobre los recuerdos de viaje más ridículos: piedras de la playa, botellas de aceite que explotan, artesanías que no caben, y el chileno que siempre trae 'algo para la abuela' que casi lo deja en el aeropuerto.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del TSA confiscando un cañón de la Guerra Civil en equipaje facturado (WSLS / AP, julio 2026)",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "58db1f08-23b8-42ac-918e-5d4f5293b463",
+    "fecha_encontrada": "2026-08-21",
+    "titulo": "La alerta que llega tarde: ¿el SAE, el grupo de WhatsApp del edificio y el vecino chismoso son el mismo personaje con distinto disfraz?",
+    "gancho": "La alerta de emergencia que te avisa que ya te inundaste es filosóficamente lo mismo que el vecino que llega a decirte que tu auto tiene la alarma sonando hace dos horas.",
+    "por_que_conversar": "La crítica al SAE chileno abre una conversación muy cotidiana sobre los sistemas de aviso que siempre llegan tarde: la notificación del banco cuando te cobraron de más, el grupo del edificio que alerta sobre el corte de luz cuando ya estás en la oscuridad, y la abuela que te llama para contarte algo que pasó la semana pasada. Humor observacional muy chileno.",
+    "categoria": "observacional",
+    "basado_en": "Críticas al sistema SAE por alertas tardías durante inundaciones invierno 2026 en Chile (24horas.cl)",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
   }
 ]
