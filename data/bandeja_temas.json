@@ -2341,5 +2341,27 @@
     "basado_en": "Críticas al sistema SAE por alertas tardías durante inundaciones invierno 2026 en Chile (24horas.cl)",
     "semana": "2026-08-26",
     "estado": "en_pauta"
+  },
+  {
+    "id": "1a316316-c98b-4787-815f-5a7a68f3e2f9",
+    "fecha_encontrada": "2026-08-22",
+    "titulo": "El monstruo de lago chileno que no tenemos pero deberíamos inventar: si Escocia tiene a Nessie con registro oficial de avistamientos, ¿qué bicho legendario le falta a Chile para el turismo?",
+    "gancho": "Escocia bate récord de avistamientos de Nessie en 2026 y tiene un registro oficial. Chile tiene el lago más profundo de América y ningún monstruo en el currículum.",
+    "por_que_conversar": "Da para inventar en vivo el monstruo lacustre chileno, discutir qué lago lo merece más (Llanquihue, Todos los Santos, el General Carrera), qué nombre le pondríamos, si Sernatur lo publicita y si Carabineros tendría que levantar un informe cuando alguien lo 'vea'. Humor absurdo con ángulo de identidad nacional.",
+    "categoria": "absurdo",
+    "basado_en": "El récord anual de avistamientos del Monstruo del Lago Ness batido en agosto 2026 antes de que termine el año",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e49bd782-97a1-42d0-bc87-6de0b3a40573",
+    "fecha_encontrada": "2026-08-22",
+    "titulo": "Lo prohíben y todo Chile lo quiere: la lógica nacional de que si algo está vetado tiene que ser lo mejor del mercado",
+    "gancho": "El ISP prohíbe la 'miel del amor' y automáticamente se convierte en el producto más buscado de Chile en redes sociales.",
+    "por_que_conversar": "El fenómeno chileno de desear lo prohibido es universal pero acá tiene su propia escala. Da para hablar de todo lo que se hizo famoso por estar vetado, de si la publicidad más barata del mundo es que el Estado te diga que no puedes tener algo, y de qué otro producto absurdo debería prohibirse para que la gente por fin lo compre.",
+    "categoria": "absurdo",
+    "basado_en": "Prohibición del ISP de la 'miel del amor' que se viralizó en redes chilenas en agosto 2026",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
   }
 ]
