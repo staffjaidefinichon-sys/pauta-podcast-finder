@@ -2920,5 +2920,44 @@
     "region": "mundo",
     "semana": "2026-08-26",
     "estado": "en_pauta"
+  },
+  {
+    "id": "297fef85-9d5d-411c-b966-e3a44a3a9c73",
+    "fecha_encontrada": "2026-08-23",
+    "titular": "Un hombre se convirtió en viral prediciendo sismos en TikTok con 'teorías insólitas' y genera miles de risas en redes",
+    "resumen": "Un tiktoker afirma poder predecir sismos con una teoría nunca vista, lo que desató miles de comentarios irónicos y risas en redes sociales latinoamericanas.",
+    "fuente": "TikTok / ATV Noticias",
+    "url": "https://www.tiktok.com/discover/las-noticias-de-risa",
+    "por_que_humor": "Chile es el país de los sismos y siempre hay alguien que dice que 'lo sabía'. Da para un segmento entero sobre los autodenominados profetas del movimiento telúrico y sus métodos de predicción infalibles.",
+    "categoria": "observacional",
+    "region": "mundo",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "651cb809-8074-4b27-85f5-128432cde2d3",
+    "fecha_encontrada": "2026-08-23",
+    "titular": "El tiburón de Groenlandia vive 400 años sin perder la vista: el animal que nos deja a todos en ridículo",
+    "resumen": "Un nuevo estudio revela que los tiburones de Groenlandia pueden vivir cuatro siglos sin sufrir deterioro visual, gracias a proteínas especialmente adaptadas en su retina.",
+    "fuente": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/news/strange_offbeat/odd_creatures/",
+    "por_que_humor": "Un tiburón que vive 400 años y ve perfectamente, mientras un humano a los 40 ya necesita lentes, es la injusticia biológica más grande del universo. Da para el chiste de que el tiburón de Groenlandia ya tuvo cita en el Fonasa hace 300 años y todavía espera el oftalmólogo.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e8d771f1-abc4-48d9-a15a-25e6c8727d4b",
+    "fecha_encontrada": "2026-08-23",
+    "titular": "Nevazón histórico en Loncoche, La Araucanía: acumulación de nieve que no se veía hace una década sorprende a vecinos",
+    "resumen": "La comuna de Loncoche en La Araucanía registró una acumulación de nieve inusual que no se repetía desde hace diez años, generando imágenes que los vecinos compartieron masivamente en redes.",
+    "fuente": "ADN Radio",
+    "url": "https://www.adnradio.cl/",
+    "por_que_humor": "El sur de Chile recibe nieve histórica y los vecinos reaccionan como si fuera la primera nevada de la historia: da para hablar de cómo el chileno trata cualquier fenómeno natural esperable como si fuera el apocalipsis.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
   }
 ]
