@@ -2396,5 +2396,60 @@
     "basado_en": "Viral TikTok de presentadores chilenos riéndose del nombre de un imputado + tradición de los GC y momentos involuntarios del noticiario chileno",
     "semana": "2026-08-26",
     "estado": "en_pauta"
+  },
+  {
+    "id": "e289ded5-2897-47d0-9b4e-8145638f7025",
+    "fecha_encontrada": "2026-08-24",
+    "titulo": "La serpiente en el casco, el oso en el auto y el mono con peluche: ¿los animales del mundo están teniendo una crisis existencial o simplemente nos están ganando?",
+    "gancho": "En una sola semana: una serpiente mortal vivió dentro de un casco de fútbol americano, un oso murió atrapado en un auto, y un mono de un año recibe más mensajes de cumpleaños que cualquier persona normal.",
+    "por_que_conversar": "El combo de noticias animales de esta semana es tan absurdo que da para un segmento completo sobre si los animales están evolucionando hacia algo que no entendemos o simplemente tomando decisiones cada vez más humanas (y cada vez peores). ¿Qué animal chileno haría algo equivalente? ¿El queltehue que bloquea la pista del aeropuerto de Concepción? ¿El perro del vecino que sabe exactamente cuándo volvés a casa?",
+    "categoria": "absurdo",
+    "basado_en": "Noticias de la semana: serpiente en casco de Arkansas, oso muerto en auto en Colorado, mono 'Punch' con miles de mensajes de cumpleaños en Japón",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d71efc54-b415-4250-8759-411dbbbcb357",
+    "fecha_encontrada": "2026-08-24",
+    "titulo": "La Alerta SAE y el grupo de WhatsApp del edificio: ¿cuál avisa más tarde en una emergencia real?",
+    "gancho": "Los vecinos chilenos dicen que la Alerta SAE les llega cuando ya tienen el agua por las rodillas; el debate es si confiar en la app del Estado o en el vecino del cuarto piso.",
+    "por_que_conversar": "La queja de los chilenos con el SAE es un fenómeno muy local que abre el debate más amplio sobre los sistemas de alerta modernos que fallan exactamente cuando más se necesitan. Da para comparar: ¿cuál es más confiable, el SAE, el grupo de WhatsApp del edificio, el vecino que siempre está asomado a la ventana, o el perro que ladra distinto cuando algo pasa? En Chile, el sismógrafo más efectivo sigue siendo la abuela que dice 'esto no huele bien'.",
+    "categoria": "observacional",
+    "basado_en": "Críticas ciudadanas al sistema de Alerta SAE durante las inundaciones del invierno 2026 en Chile",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "bfc00d29-0681-4689-b0cb-dd3da87631b7",
+    "fecha_encontrada": "2026-08-24",
+    "titulo": "La alerta que llega tarde: ¿para qué sirve un aviso si la catástrofe ya pasó?",
+    "gancho": "El SAE chileno avisó de la inundación cuando el agua ya estaba en el living, y nadie en el país lo encontró sorprendente.",
+    "por_que_conversar": "Es un fenómeno tan chileno y tan universal que todo el mundo tiene una historia: el médico que avisa tarde, el amigo que dice 'te iba a llamar' dos semanas después, y el sistema de alertas que confirma lo que ya sabes. Da para construir el Top 5 de las alertas más inútiles de la historia nacional con humor de superviviente.",
+    "categoria": "observacional",
+    "basado_en": "Tendencia en redes chilenas durante el invierno 2026: quejas virales contra el sistema SAE que notificaba emergencias cuando ya era demasiado tarde.",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e1f797bb-09f3-49f4-bd85-94b66758c098",
+    "fecha_encontrada": "2026-08-24",
+    "titulo": "¿Cuánto tarda un chileno en notar que algo está muy mal?",
+    "gancho": "El jugador de Arkansas tardó una hora en notar que había una serpiente venenosa dentro de su casco. ¿Cuánto tardamos los chilenos en darnos cuenta de las cosas?",
+    "por_que_conversar": "La noticia de la serpiente en el casco es el disparador perfecto para hablar del estoicismo chileno al revés: no es que seamos valientes, es que a veces simplemente no nos damos cuenta. Da para construir una antología de situaciones donde el chileno 'aguantó' algo que debió haber detenido hace rato: la cañería que lleva años goteando, el ruido del auto que 'ya se va a arreglar solo', el dolor de muela que espera hasta que no queda muela.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral de semana de agosto 2026: adolescente juega con serpiente venenosa en su casco durante una hora sin notar nada raro.",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "65150eb5-0723-4387-81f7-70b6a36ceed4",
+    "fecha_encontrada": "2026-08-24",
+    "titulo": "Si Chile tuviera un campeonato mundial de algo absurdo, ¿de qué sería?",
+    "gancho": "Hay un campeonato mundial de surf para perros, uno de combate medieval y otro de escribir 150 palabras en un post-it. ¿Qué récord absurdo podría inventar Chile para dominar el mundo?",
+    "por_que_conversar": "La semana estuvo llena de récords y campeonatos mundiales de cosas ridículas, lo que abre la pregunta perfecta para un segmento de humor: ¿en qué cosa completamente absurda somos los mejores del planeta sin haberlo intentado? Da para que cada panelista proponga su categoría (resistencia en fila del Registro Civil, velocidad para quejarse del tiempo, precisión al estacionar en doble fila) y debatir cuál Chile ganaría de forma más convincente.",
+    "categoria": "absurdo",
+    "basado_en": "Tendencia global de récords Guinness y campeonatos mundiales absurdos que coparon los virales de agosto 2026: surf canino, combate medieval, post-it caligráfico.",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
   }
 ]
