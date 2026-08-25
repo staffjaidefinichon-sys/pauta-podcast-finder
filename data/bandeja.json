@@ -2959,5 +2959,31 @@
     "region": "chile",
     "semana": "2026-08-26",
     "estado": "en_pauta"
+  },
+  {
+    "id": "7b67293c-d1ca-4770-9ae8-b8e0eeaa26f3",
+    "fecha_encontrada": "2026-08-25",
+    "titular": "Un hombre bebió mucho y tomó esteroides sin entrenar... y aun así se inscribió en un campeonato de fisicoculturismo",
+    "resumen": "Un sujeto conocido en redes como 'Boozbag Fitness' anunció públicamente que entraría a competir en un campeonato de fisicoculturismo sin hacer ningún ejercicio previo, solo tomando esteroides y bebiendo alcohol. Tal como prometió, compitió en la categoría Men's Classic Physique y terminó en último lugar.",
+    "fuente": "Scotty and Tony / What a Weird Week",
+    "url": "https://www.scottyandtony.com/2026/08/what-weird-week-weird-news-report-on_01241769186.html",
+    "por_que_humor": "El nivel de honestidad y de descaro del plan es incomparable: anunció que iba a perder, cumplió su promesa y lo hizo de todas formas. Da para debatir si eso es fracaso o la victoria moral más grande del deporte de élite.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f4b5fcd2-d7c7-4cfb-a445-3f75fdd09dbb",
+    "fecha_encontrada": "2026-08-25",
+    "titular": "Las orcas filmaron desmantelando un pez luna gigante en el Golfo de California: lo partieron en miles de pedazos",
+    "resumen": "Investigadores documentaron por primera vez un comportamiento orca nunca descrito antes: en dos encuentros separados en el Golfo de California, una orca sujetó un pez luna muerto por la aleta mientras otra cargaba a toda velocidad para destrozarlo. El espectáculo fue grabado en video y dejó perplejos a los científicos.",
+    "fuente": "ScienceDaily Strange & Offbeat",
+    "url": "https://www.sciencedaily.com/news/strange_offbeat/",
+    "por_que_humor": "Las orcas que ya hundían barcos europeos ahora se dedican a destrozar peces gigantes en equipo como si fueran un grupo de CrossFit del océano. Da para actualizar la teoría de que los cetáceos están entrenando para algo mucho peor.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-08-26",
+    "estado": "en_pauta"
   }
 ]
