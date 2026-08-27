@@ -2484,5 +2484,38 @@
     "basado_en": "Noticias internacionales de animales virales de agosto 2026: alce en Montana, orcas en Golfo de California, serpiente en casco de Arkansas",
     "semana": "2026-08-26",
     "estado": "en_pauta"
+  },
+  {
+    "id": "79db3b4b-b77a-48b7-82a6-d5800f27cb79",
+    "fecha_encontrada": "2026-08-27",
+    "titulo": "Chile huele a marihuana: ¿tenemos el aroma nacional más reconocible del planeta o simplemente no nos dimos cuenta?",
+    "gancho": "Una gringa llega a Pucón, respira hondo y diagnostica al país entero.",
+    "por_que_conversar": "La noticia de la influencer gringa da el pie perfecto para hablar de cómo nos ven los extranjeros versus cómo nos vemos nosotros: el olor, los modales, las costumbres raras que normalizamos. Da para chistes sobre cuál sería el olor oficial de cada ciudad chilena (Valparaíso huele a escalera, Antofagasta a cobre, Chiloé a lluvia y mariscos) y para la pregunta bomba: ¿qué es lo primero que notaría un marciano al aterrizar en Chile?",
+    "categoria": "observacional",
+    "basado_en": "Video viral de @lagringanogringa desde Pucón comentando el olor generalizado a marihuana en las calles chilenas, con 108k reproducciones en Instagram.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f326c4ba-3971-4068-b8ce-61d8b254c3e9",
+    "fecha_encontrada": "2026-08-27",
+    "titulo": "Dormir mientras un oso te roba el KFC: ¿cuál es el nivel máximo de inconsciencia que ha alcanzado un chileno en su propia casa?",
+    "gancho": "Una mujer de Kentucky durmió plácidamente mientras un oso de 300 kilos se comía sus sobras en la cocina. Y ella no escuchó nada.",
+    "por_que_conversar": "La historia del oso en la cocina es el punto de partida para hablar del chileno que duerme con todo el ruido del mundo sin inmutarse: el vecino del piso de arriba, la alarma del auto, el grupo de WhatsApp que explota a las 3 AM. ¿Cuál es la cosa más absurda que pasó en tu casa mientras dormías y no te enteraste hasta el día siguiente?",
+    "categoria": "absurdo",
+    "basado_en": "Noticia de la semana del 27 de agosto: oso de 600-700 libras entra a casa de Kentucky, devora KFC, destroza mesa de vidrio y la dueña duerme sin escuchar nada.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3dee5252-eb12-4cdc-a3b9-62d81c51ff94",
+    "fecha_encontrada": "2026-08-27",
+    "titulo": "Obreros que encuentran oro en la pared vs. el chileno que encuentra telarañas: ¿qué tan cerca estamos de hacernos ricos sin querer?",
+    "gancho": "Unos obreros belgas fueron a poner una cañería y salieron con 10 millones de dólares en oro.",
+    "por_que_conversar": "El hallazgo del tesoro en Bélgica da para hablar de la fantasía universal del chileno: encontrar algo valioso en el lugar más inesperado. ¿Qué esconde el sótano de tu abuela? ¿Qué pasaría si en una remodelación de Melipilla aparecen monedas de oro? Da para debatir si los obreros chilenos habrían llamado a la policía o simplemente se habrían ido a Iquique ese mismo día.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia de agosto 2026: construcción en Bélgica descubre $10,4 millones en oro escondido en pared de sótano de una antigua cervecería.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
   }
 ]

@@ -3044,5 +3044,31 @@
     "estado": "aprobada",
     "origen": "manual",
     "orden": 3
+  },
+  {
+    "id": "cf27bb22-dce3-4334-84cb-c6142e6ddb1b",
+    "fecha_encontrada": "2026-08-27",
+    "titular": "Gringa viral se escandaliza porque Chile 'huele a marihuana por todas partes' y llama al país 'país de marihuaneros' desde Pucón",
+    "resumen": "La influencer estadounidense Andrea Pascale (@lagringanogringa) publicó un video desde Pucón, La Araucanía, donde declara que el olor más predominante en las calles chilenas es la marihuana, acumulando más de 108 mil reproducciones solo en Instagram. Su amigo italiano de visita confirmó el diagnóstico olfativo.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/sociedad/viral/2026/08/25/pais-de-marihuaneros-estadounidense-viral-impactada-por-intenso-olor-a-marihuana-en-calles-de-chile.shtml",
+    "por_que_humor": "Una gringa llega a Chile de turismo, visita el paraíso natural de Pucón y lo que más le llama la atención es el olor. Da para hablar del 'aroma nacional' no oficial y para preguntarse qué le pasa a cualquier extranjero la primera vez que huele Chile.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a16d1e8a-e693-4f03-9bc0-6e784584d78f",
+    "fecha_encontrada": "2026-08-27",
+    "titular": "Un oso de 600 kilos entró a una casa de Kentucky por la puerta abierta y se comió los restos de KFC mientras la dueña dormía",
+    "resumen": "Kendra North dejó la puerta delantera abierta porque no tenía aire acondicionado y se olvidó de cerrarla antes de dormir. Un oso de entre 600 y 700 libras entró, devoró las sobras de Kentucky Fried Chicken, destrozó una mesa de vidrio y se fue. North durmió toda la noche sin enterarse.",
+    "fuente": "Shepherd Express / WLKY",
+    "url": "https://shepherdexpress.com/puzzles/news-of-the-weird/news-of-the-weird-week-of-august-27-2026/",
+    "por_que_humor": "Dormir plácidamente mientras un oso de media tonelada te roba el KFC en tu propia cocina es el nivel de inconsciencia más sublime que existe. Da para hablar de si el oso tenía mejor gusto culinario que la dueña y de qué tan profundo duerme el chileno promedio.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
   }
 ]
