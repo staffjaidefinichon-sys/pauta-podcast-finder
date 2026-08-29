@@ -3135,5 +3135,18 @@
     "region": "mundo",
     "semana": "2026-09-02",
     "estado": "en_pauta"
+  },
+  {
+    "id": "4313c690-3a44-4c5b-8ba3-5e7b431979f5",
+    "fecha_encontrada": "2026-08-29",
+    "titular": "Presentadores de canal chileno no pueden contener la risa al leer el nombre de un imputado en vivo y el blooper se vuelve viral",
+    "resumen": "Un video viral que circula en redes muestra a dos conductores de noticias chilenos intentando —y fallando épicamente— mantener la compostura al tener que mencionar el nombre de un imputado durante una nota policial en vivo.",
+    "fuente": "TikTok viral Chile",
+    "url": "https://www.tiktok.com/discover/lo-mas-virales-en-chile",
+    "por_que_humor": "La lucha interna de un presentador de noticias tratando de no reírse en vivo es el drama más humano de la televisión chilena. Da para hablar de qué nombre uno pondría que haría colapsar a cualquier conductor.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
   }
 ]

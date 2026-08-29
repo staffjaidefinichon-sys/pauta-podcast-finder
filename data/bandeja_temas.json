@@ -2539,5 +2539,49 @@
     "basado_en": "Noticias de la semana del 24-25 agosto 2026: oso en estación de bomberos Colorado, bisonte en Virginia, canguro en Kansas",
     "semana": "2026-09-02",
     "estado": "en_pauta"
+  },
+  {
+    "id": "f707305c-c090-4236-8ed7-89cb250cfad8",
+    "fecha_encontrada": "2026-08-29",
+    "titulo": "El congelador de la abuela: el electrodoméstico más peligroso y misterioso de Chile",
+    "gancho": "Una familia en Alaska hereda una casa y encuentra un cuerpo en el freezer; en Chile, ¿qué hay en el fondo del congelador de la abuela que nadie ha revisado desde el 2003?",
+    "por_que_conversar": "El freezer chileno de abuela es un universo paralelo: prietas de hace 8 años, un bizcocho de navidad del gobierno de Frei, algo envuelto en bolsa sin identificar que nadie pregunta qué es. Da para una espiral de confesiones absurdas sobre lo que guarda cada familia en la zona oscura del congelador, con humor total y sin drama.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de la familia en Alaska que descubrió restos humanos en un freezer heredado, más el fenómeno universal del congelador chileno como cápsula del tiempo culinaria-existencial.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "efd25d62-1e2e-4df3-bb81-8ad7e1ec098d",
+    "fecha_encontrada": "2026-08-29",
+    "titulo": "El WiFi te está mirando: ¿qué haría el chileno promedio si supiera que su router es un espía con nombre de pizza?",
+    "gancho": "La ciencia confirmó que el WiFi puede identificarte sin cámaras ni sensores: el router con contraseña 'MiCasita2014' ya sabe todo lo que hacés.",
+    "por_que_conversar": "Da para reírse de la paradoja chilena: el mismo país que le pone nombre de mascota a la red WiFi para confundir a los vecinos ahora resulta que esa red los espía de vuelta. ¿Qué tan comprometedor sería lo que vería el router de tu casa si pudiera hablar? Da para confesiones absurdas sobre hábitos domésticos, el vecino que roba el WiFi y el momento exacto en que la tecnología dejó de ser tu amiga.",
+    "categoria": "absurdo",
+    "basado_en": "Investigación viral de ScienceDaily que confirma que señales WiFi ordinarias pueden identificar personas con precisión casi perfecta, sin ningún dispositivo adicional.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "75bb1340-c91a-4d3d-ab4f-650de1d48800",
+    "fecha_encontrada": "2026-08-29",
+    "titulo": "El nombre que tumbó al noticiero: ¿cuál es el nombre más peligroso que le podrías poner a un hijo en Chile?",
+    "gancho": "Dos presentadores chilenos colapsaron en vivo al tener que leer el nombre de un imputado: ¿cuál es el nombre que haría caer a cualquier conductor de noticias en este país?",
+    "por_que_conversar": "El blooper del presentador tratando de no reírse es el punto de partida para el campeonato más absurdo: ¿cuál es el nombre propio más impronunciable, más ridículo o más inesperado que existe en el registro civil chileno? Da para contar casos reales, inventar los peores posibles y discutir si en Chile hay un límite legal para los nombres o si todo vale.",
+    "categoria": "observacional",
+    "basado_en": "Video viral de presentadores chilenos riendo en vivo al leer el nombre de un imputado, fenómeno recurrente en la televisión nacional que siempre genera ola de memes.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "10047081-b245-4e59-bc11-514fd621504b",
+    "fecha_encontrada": "2026-08-29",
+    "titulo": "Los íconos que amamos sin conocer: ¿a cuántos artistas 'históricos' les haríamos un funeral sin saber ni una canción?",
+    "gancho": "Murió Dolly Parton y todo el mundo lloró: ¿cuántos chilenos podrían tararear aunque sea diez segundos de una canción suya?",
+    "por_que_conversar": "El fenómeno del ícono que todo el mundo dice amar pero nadie escucha activamente es universal, pero en Chile tiene su propia versión local. Da para el juego de 'nombrá un artista histórico y demostrá que conocés más de una canción', con el resultado predecible de que nadie supera la prueba. ¿Qué dice eso de cómo construimos el culto a la celebridad?",
+    "categoria": "observacional",
+    "basado_en": "Fallecimiento de Dolly Parton convertido en tendencia global, más el fenómeno chileno de venerar íconos culturales extranjeros de nombre pero no de obra.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
   }
 ]
