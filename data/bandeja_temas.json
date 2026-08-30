@@ -2583,5 +2583,49 @@
     "basado_en": "Fallecimiento de Dolly Parton convertido en tendencia global, más el fenómeno chileno de venerar íconos culturales extranjeros de nombre pero no de obra.",
     "semana": "2026-09-02",
     "estado": "en_pauta"
+  },
+  {
+    "id": "ab969146-ed04-4ab5-bcfc-de8d37e7e494",
+    "fecha_encontrada": "2026-08-30",
+    "titulo": "El experimento científico más absurdo que haría un chileno: enterrar calzones en el jardín para medir la tierra",
+    "gancho": "Mil suizos enterraron ropa interior para la ciencia. ¿Qué haría Chile si le piden eso?",
+    "por_que_conversar": "El experimento suizo del calzón enterrado es un disparador perfecto para hablar de hasta dónde llega la disposición del chileno a colaborar con la ciencia, qué excusas pondría para no participar y qué experimento absurdo haría Chile si le tocara organizar uno propio. Da para improvisar un 'experimento chileno' en vivo con el equipo del podcast.",
+    "categoria": "absurdo",
+    "basado_en": "Experimento científico suizo real (agosto 2026) en que 1.000+ voluntarios enterraron ropa interior de algodón en jardines para medir actividad biológica del suelo",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "8e5ae8bd-f29e-464e-a97c-9f469088c1fe",
+    "fecha_encontrada": "2026-08-30",
+    "titulo": "El estoicismo extremo: el chileno que no se queja vs. el ruso con un palo de 13 cm en la cabeza que llegó al hospital 'sin saber qué tenía'",
+    "gancho": "Si un ruso no se dio cuenta de que tenía un palo atravesando el cráneo, ¿de qué se queja el chileno promedio?",
+    "por_que_conversar": "Chile tiene fama de estoicismo selectivo: nos quejamos de cosas pequeñas pero aguantamos cosas enormes sin chistar. El caso del ruso con el palo en la cabeza es el disparador perfecto para que cada conductor del podcast confiese la cosa más ridícula de la que se ha quejado esta semana y la cosa más absurda que aguantó sin decir nada. Tiene mucho potencial de anécdotas personales y de humor de autoconciencia.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia real de Kursk, Rusia (agosto 2026): paciente llegó al hospital con trozo de madera de ~13 cm incrustado desde el ojo hasta el cráneo",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e7b30a1a-54e4-491e-80f8-c81cc13e341c",
+    "fecha_encontrada": "2026-08-30",
+    "titulo": "La nostalgia como negocio: ¿somos la generación que no puede soltar el pasado o simplemente la que más se divierte volviendo a él?",
+    "gancho": "Harry Potter vuelve al cine a los 25 años, Linkin Park regresa de entre los muertos y TikTok resucitó el Bottle Flip: ¿en qué año estamos?",
+    "por_que_conversar": "Chile está en modo nostalgia total esta semana: Harry Potter en el cine, Linkin Park en vivo, ropa de los 2000 de vuelta en las tiendas. El tema da para preguntar por qué la industria del entretenimiento apuesta tan fuerte a que paguemos por revivir cosas que ya vivimos, cuánto pagaría el chileno promedio por una máquina del tiempo y si hay algo de 2026 que en 25 años nos vaya a dar nostalgia (o vergüenza).",
+    "categoria": "observacional",
+    "basado_en": "Regreso de Harry Potter a cines chilenos (Back to Hogwarts 2026) y visita viral de Linkin Park a Chile en agosto 2026",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "bec2f82f-4f08-4e6e-a491-0fbffa00b686",
+    "fecha_encontrada": "2026-08-30",
+    "titulo": "Rituales sin explicación: si los chimpancés llevan décadas tirando piedras a un árbol 'porque sí', ¿qué tradición absurda hace el chileno sin saber por qué?",
+    "gancho": "Los chimpancés tienen rituales que nadie entiende y llevan 10 años haciéndolos igual. El chileno también.",
+    "por_que_conversar": "El descubrimiento de los chimpancés con su ritual de piedras es el espejo perfecto para preguntar qué costumbre chilena nadie sabe por qué existe pero todo el mundo sigue haciendo: ¿por qué se pone árbol de Navidad el 8 de diciembre? ¿por qué se aplaude cuando aterriza el avión? ¿por qué se dice 'buen provecho' a desconocidos? Da para un segmento de humor observacional sobre las tradiciones nacionales más inexplicables.",
+    "categoria": "observacional",
+    "basado_en": "Estudio científico publicado el 28 de agosto de 2026 sobre rituales de lanzamiento de piedras en chimpancés de África Occidental sin propósito funcional aparente",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
   }
 ]
