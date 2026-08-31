@@ -2627,5 +2627,49 @@
     "basado_en": "Estudio científico publicado el 28 de agosto de 2026 sobre rituales de lanzamiento de piedras en chimpancés de África Occidental sin propósito funcional aparente",
     "semana": "2026-09-02",
     "estado": "en_pauta"
+  },
+  {
+    "id": "fae3cbda-a5cf-4736-8bcd-c27e7c62535e",
+    "fecha_encontrada": "2026-08-31",
+    "titulo": "El oso pirómano, el murciélago bucal y el gato con chaleco de seguridad: ¿los animales se están organizando para reemplazarnos?",
+    "gancho": "Esta semana un oso incendió una cocina, un murciélago intentó entrar a la boca de una médica durmiendo y un gato fue contratado en una constructora. Algo está pasando.",
+    "por_que_conversar": "La acumulación de noticias de animales haciendo cosas de humanos —o directamente saboteándolos— da para armar una teoría conspirativa absurda sobre la toma de control animal. ¿Cuándo exactamente perdimos la ventaja? ¿Qué animal chileno encabezaría la revuelta? ¿El queltehue? ¿El chucao? Da para humor absurdo puro con personajes concretos de esta semana.",
+    "categoria": "absurdo",
+    "basado_en": "Noticias reales de esta semana: oso que incendió cocina en Colorado, murciélago en la boca de doctora en Virginia, gatito con chaleco en Ohio y serpiente en casco en Arkansas.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "54e75fe6-c839-43ae-b2b4-f7e667e13ed6",
+    "fecha_encontrada": "2026-08-31",
+    "titulo": "La estrategia del calzón enterrado: si la ciencia suiza te pide enterrar ropa interior en el jardín, ¿lo harías?",
+    "gancho": "Mil suizos enterraron calzones de algodón en sus jardines por encargo de la ciencia. Y funcionó. ¿Cuánto le costó convencer a cada voluntario?",
+    "por_que_conversar": "El experimento del calzón enterrado es el punto de partida perfecto para hablar de hasta dónde llega la confianza ciega en la ciencia, de los experimentos más ridículos que alguien ha hecho 'porque se lo pidieron' y del equivalente chileno: ¿qué le pedirías al vecino que enterrara en su patio sin darle explicaciones? Da para humor absurdo con base científica real.",
+    "categoria": "absurdo",
+    "basado_en": "Experimento científico real publicado el 28 de agosto 2026 en ScienceDaily sobre voluntarios suizos enterrando ropa interior para medir actividad biológica del suelo.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5257a346-7d28-4b81-889f-58c94a7d3be6",
+    "fecha_encontrada": "2026-08-31",
+    "titulo": "Comprar 20 tickets idénticos del Kino: ¿estrategia de genio, desesperación máxima o el plan que todos deberíamos estar ejecutando?",
+    "gancho": "Un hombre compró 20 veces el mismo número de lotería en el mismo sorteo. Ganó 20 veces. Alguien en Chile está tomando nota ahora mismo.",
+    "por_que_conversar": "El caso del apostador de Virginia que multiplicó x20 su apuesta al mismo número da para un debate largo y ridículo sobre la lógica del Kino chileno: ¿es más inteligente variar números o apostar fuerte al mismo? ¿Cuánta plata gastaría un chileno promedio en esta táctica? ¿La Chilena tiene un límite de compra del mismo número? Humor observacional sobre nuestra relación nacional con el juego y la suerte.",
+    "categoria": "observacional",
+    "basado_en": "Noticia real del 27 de agosto 2026 (UPI): hombre de Virginia gana $100.000 comprando 20 tickets idénticos del mismo sorteo.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "db9fe699-c953-4e0e-b335-b7ac6490595e",
+    "fecha_encontrada": "2026-08-31",
+    "titulo": "Planificar 'todo' para que tu guagua conozca al Papa: el deporte chileno de hacer algo ridículo 'por el recuerdo'",
+    "gancho": "Unos papás chilenos revelan la operación logística completa para que su bebé —que no entiende nada— conociera al Papa. El bebé no lo va a recordar. Los papás, sí.",
+    "por_que_conversar": "La historia del bebé chileno y el Papa es el disparador perfecto para hablar de las cosas más absurdas que los chilenos hacemos 'para el álbum': llevar recién nacidos a eventos históricos que no van a recordar, sacar foto con el cartel del lugar antes de entrar, el 'esto es para cuando seas grande'. ¿Cuál es la cosa más ridícula que alguien de tu familia hizo 'por el recuerdo' que no le importó a nadie más? Humor identitario con ternura.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral de BioBioChile sobre padres de bebé chileno que planificaron detalladamente el encuentro de su hijo con el Papa León XIV.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
   }
 ]
