@@ -2671,5 +2671,49 @@
     "basado_en": "Noticia viral de BioBioChile sobre padres de bebé chileno que planificaron detalladamente el encuentro de su hijo con el Papa León XIV.",
     "semana": "2026-09-02",
     "estado": "en_pauta"
+  },
+  {
+    "id": "db3be695-461a-46bb-9573-e0ee21d8c670",
+    "fecha_encontrada": "2026-09-01",
+    "titulo": "Las orcas que juegan, explotan peces y hunden barcos: ¿los animales marinos nos están declarando la guerra o simplemente se aburren más que nosotros?",
+    "gancho": "Si una orca puede hacer explotar un pez luna por diversión, ¿qué excusa tenemos nosotros para no hacer nada los fines de semana?",
+    "por_que_conversar": "La acumulación de comportamientos insólitos de orcas en los últimos años —hundir veleros europeos, jugar con peces luna, pedir ayuda a pescadores chilenos— da para una espiral de humor absurdo sobre si los cetáceos tienen agenda propia y si deberíamos preocuparnos. Es un tema con ángulo científico, absurdo y muy conversacional.",
+    "categoria": "absurdo",
+    "basado_en": "Video viral de orcas destrozando un pez luna en el Golfo de California (Smithsonian Magazine, agosto 2026) y el historial de comportamientos insólitos de orcas documentados en los últimos años.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "132d0e9f-10ae-4d76-a3d6-5d9045b885c9",
+    "fecha_encontrada": "2026-09-01",
+    "titulo": "La araña que se suicida para reproducirse, el pez que explota y el gusano que te limpia los huesos: ¿la naturaleza siempre fue así de loca o recién nos dimos cuenta?",
+    "gancho": "Si el mejor plan reproductivo de una araña macho es lanzarse a los colmillos de la hembra, ¿qué dice eso de la evolución… y de nosotros?",
+    "por_que_conversar": "La acumulación de descubrimientos científicos recientes sobre comportamientos animales absolutamente bizarros da para un segmento de humor absurdo sobre si la naturaleza tiene sentido o simplemente improvisa. El ángulo chileno: ¿qué animal de Chile haría algo igual de loco si lo estudiaran de verdad?",
+    "categoria": "absurdo",
+    "basado_en": "Estudios recientes publicados en Smithsonian Magazine (agosto 2026) sobre arañas que se sacrifican durante el apareamiento y supergusanos carnívoros para museos.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "98fa0068-96b3-4df1-bf6e-4edee7f32181",
+    "fecha_encontrada": "2026-09-01",
+    "titulo": "El chileno y la lotería del almuerzo: ¿por qué la persona que gana millones siempre es la que menos lo buscaba, y el que lleva 20 años con su método no gana nada?",
+    "gancho": "Una mujer ganó casi dos millones de dólares mientras comía un sándwich. Tú llevas años eligiendo los números de tus hijos y no ganas ni el raspín.",
+    "por_que_conversar": "El contraste entre el esfuerzo y la suerte en el juego es un tema universalmente frustrante y cómico. Da para hablar del ritual chileno del Kino: los métodos, las supersticiones, el cuñado que 'casi' gana, y la filosofía de que la suerte es para el que no la busca. Muy conversacional y con mucho humor observacional.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de UPI (agosto 2026) sobre mujer de Virginia que ganó US$1.727.474 en lotería online durante su hora de almuerzo.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "55ac479a-b369-4604-83b2-0a076a343243",
+    "fecha_encontrada": "2026-09-01",
+    "titulo": "Primavera en Chile con lluvia extra: el 18 de septiembre bajo el agua, la cueca con paraguas y el asado que nunca fue",
+    "gancho": "El DMC anunció más lluvia de lo normal para la primavera chilena, lo que en la práctica significa que el Dieciocho va a ser un desastre glorioso.",
+    "por_que_conversar": "El Dieciocho de septiembre es el evento nacional más sagrado y más frágil a la vez: cualquier amenaza climática desata una crisis existencial colectiva. Da para hablar del chileno que igual arma la ramada aunque llueva, de las fondas con techo de nylon, de la empanada que llegó fría y del año en que todo salió mal pero igual fue 'el mejor Dieciocho'. Humor observacional con identidad chilena total.",
+    "categoria": "observacional",
+    "basado_en": "Pronóstico de la Dirección Meteorológica de Chile (DMC) publicado en 24horas.cl (agosto/septiembre 2026) anticipando más precipitaciones de lo normal para el inicio de primavera en el centro-sur del país.",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
   }
 ]
