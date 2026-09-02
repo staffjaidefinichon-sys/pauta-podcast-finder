@@ -3163,6 +3163,9 @@
     "semana": "2026-09-02",
     "estado": "en_pauta",
     "origen": "manual",
-    "orden": 1
+    "orden": 1,
+    "urls_extra": [
+      "https://www.instagram.com/reels/DctHjNKRtIe/"
+    ]
   }
 ]
