@@ -3004,16 +3004,19 @@
     "id": "949ad336-8738-4a17-a802-5f014b7dad37",
     "fecha_encontrada": "2026-08-26",
     "titular": "Robot rompe el récord mundial de 100 m de Usain Bolt en Olimpiada Robotica",
-    "resumen": "Robots humanoides chinos batieron récords establecidos por humanos el sábado, incluido el récord mundial de los 100 metros planos de Usain Bolt, en la jornada inaugural de los Juegos Mundiales de Robots Humanoides, un evento similar a los Juegos Olímpicos, en Beijing.  Más de 2.000 robots humanoides participaron en el evento.",
+    "resumen": "Robots humanoides chinos batieron récords establecidos por humanos el sábado, incluido el récord mundial de los 100 metros planos de Usain Bolt, en la jornada inaugural de los Juegos Mundiales de Robots Humanoides, un evento similar a los Juegos Olímpicos, en Beijing.  Más de 2.000 robots humanoides participaron en el evento de diferentes disciplinas..",
     "fuente": "diario.mx",
     "url": "https://diario.mx/internacional/2026/aug/23/video-robot-rompe-el-record-mundial-de-100-m-de-usain-bolt-1134673.html",
     "por_que_humor": "",
-    "categoria": "otro",
+    "categoria": "curioso",
     "region": "mundo",
     "semana": "2026-09-02",
     "estado": "aprobada",
     "origen": "manual",
-    "orden": 1
+    "orden": 1,
+    "urls_extra": [
+      "https://www.facebook.com/watch/?v=1034585989186978"
+    ]
   },
   {
     "id": "56933db6-c76d-4f5f-9dc0-d59ed895ea04",
