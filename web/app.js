@@ -499,6 +499,9 @@ function tarjetaNoticia(item) {
     <p class="fuente">
       ${escapar(item.fuente || "")}
       ${item.url ? `· <a href="${escaparAttr(item.url)}" target="_blank" rel="noopener">ver noticia</a>` : ""}
+      ${(item.urls_extra || []).map((u, i) =>
+        `· <a href="${escaparAttr(u)}" target="_blank" rel="noopener">link ${i + 2}</a>`
+      ).join(" ")}
     </p>
     ${botonesDecision(item.id)}
     ${botonMover(item.id)}
@@ -817,7 +820,11 @@ async function agregarNoticiaManual() {
     return;
   }
   const titular = document.getElementById("man-titular").value.trim();
-  const url = document.getElementById("man-url").value.trim();
+  const links = [...document.querySelectorAll("#man-links .man-url")]
+    .map((i) => i.value.trim())
+    .filter(Boolean);
+  const url = links[0] || "";
+  const urlsExtra = links.slice(1);
   const resumen = document.getElementById("man-resumen").value.trim();
   const porque = document.getElementById("man-porque").value.trim();
   const region = document.getElementById("man-region").value;
@@ -855,6 +862,7 @@ async function agregarNoticiaManual() {
       resumen,
       fuente: dominio(url),
       url,
+      urls_extra: urlsExtra,
       por_que_humor: porque,
       categoria,
       region,
@@ -865,10 +873,12 @@ async function agregarNoticiaManual() {
 
     await guardarArchivo("data/bandeja.json", bandeja, arch ? arch.sha : null, "Agregar noticia a mano (panel)");
 
-    // Limpiar el formulario.
-    ["man-titular", "man-url", "man-resumen", "man-porque"].forEach((i) => {
+    // Limpiar el formulario (y dejar un solo campo de link).
+    ["man-titular", "man-resumen", "man-porque"].forEach((i) => {
       document.getElementById(i).value = "";
     });
+    document.getElementById("man-links").innerHTML =
+      '<input type="text" class="man-url" placeholder="Link (opcional)" />';
 
     mostrarToast("✅ Agregada a “✅ Van” de esta semana.");
     estado.semana = semanaActual();
@@ -944,6 +954,14 @@ async function iniciar() {
   document.getElementById("btn-guardar-ensenar").addEventListener("click", guardarEnsenar);
   document.getElementById("btn-agregar-mano").addEventListener("click", agregarNoticiaManual);
   document.getElementById("btn-guardar-orden").addEventListener("click", guardarOrden);
+  document.getElementById("btn-otro-link").addEventListener("click", () => {
+    const inp = document.createElement("input");
+    inp.type = "text";
+    inp.className = "man-url";
+    inp.placeholder = "Otro link (opcional)";
+    document.getElementById("man-links").appendChild(inp);
+    inp.focus();
+  });
 
   await detectarBranch();
   await cargarContenido();

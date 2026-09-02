@@ -81,6 +81,37 @@ main {
   font-size: 0.9rem;
 }
 
+#man-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+#man-links .man-url {
+  padding: 0.5rem;
+  border: 1px solid var(--borde);
+  border-radius: 6px;
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+}
+
+.btn-otro-link {
+  align-self: flex-start;
+  padding: 0.35rem 0.7rem !important;
+  border: 1px dashed var(--borde) !important;
+  border-radius: 6px;
+  background: #fff !important;
+  color: var(--tenue) !important;
+  font-family: system-ui, sans-serif;
+  font-size: 0.8rem !important;
+  cursor: pointer;
+}
+
+.btn-otro-link:hover {
+  border-color: var(--acento) !important;
+  color: var(--acento) !important;
+}
+
 .fila-selects {
   display: flex;
   gap: 0.4rem;
