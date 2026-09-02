@@ -29,6 +29,7 @@ const estado = {
   decisiones: new Map(),  // id -> "va" | "nova" | "volver"
   motivos: new Map(),     // id -> motivo (texto) para los "No va"
   vista: "aprobadas",     // pauta | aprobadas | descartadas (arranca en "Van")
+  editando: null,         // id de la noticia en edición (o null)
   semana: null,           // "YYYY-MM-DD" del miércoles de cierre seleccionado
   ejemplos: [],           // noticias-ejemplo que el conductor le enseña a la IA
 };
@@ -348,6 +349,36 @@ function renderizar() {
     b.addEventListener("click", () => moverOrden(b.dataset.id, b.dataset.dir));
   });
 
+  contenedor.querySelectorAll(".btn-editar").forEach((b) => {
+    b.addEventListener("click", () => {
+      estado.editando = b.dataset.id;
+      renderizar();
+    });
+  });
+
+  contenedor.querySelectorAll(".ed-cancelar").forEach((b) => {
+    b.addEventListener("click", () => {
+      estado.editando = null;
+      renderizar();
+    });
+  });
+
+  contenedor.querySelectorAll(".ed-otro-link").forEach((b) => {
+    b.addEventListener("click", () => {
+      const cont = b.closest(".tarjeta-edicion").querySelector(".ed-links");
+      const inp = document.createElement("input");
+      inp.type = "text";
+      inp.className = "ed-url";
+      inp.placeholder = "Otro link";
+      cont.appendChild(inp);
+      inp.focus();
+    });
+  });
+
+  contenedor.querySelectorAll(".ed-guardar").forEach((b) => {
+    b.addEventListener("click", () => guardarEdicion(b.closest(".tarjeta-edicion")));
+  });
+
   actualizarBarra();
 }
 
@@ -487,7 +518,54 @@ function claseDecidida(id) {
   return "";
 }
 
+function tarjetaNoticiaEdicion(item) {
+  const card = document.createElement("article");
+  card.className = "tarjeta tarjeta-edicion";
+  card.dataset.id = item.id;
+  const links = [item.url || "", ...(item.urls_extra || [])];
+  const opcion = (v, sel, txt) => `<option value="${v}" ${v === sel ? "selected" : ""}>${txt}</option>`;
+  card.innerHTML = `
+    <span class="categoria">✏️ Editando noticia</span>
+    <div class="form-ejemplo">
+      <label class="etiqueta-campo">Titular</label>
+      <input type="text" class="ed-titular" value="${escaparAttr(item.titular || "")}" />
+      <label class="etiqueta-campo">Bajada / descripción</label>
+      <input type="text" class="ed-resumen" value="${escaparAttr(item.resumen || "")}" />
+      <label class="etiqueta-campo">Por qué da para humor</label>
+      <input type="text" class="ed-porque" value="${escaparAttr(item.por_que_humor || "")}" />
+      <label class="etiqueta-campo">Fuente</label>
+      <input type="text" class="ed-fuente" value="${escaparAttr(item.fuente || "")}" />
+      <label class="etiqueta-campo">Links</label>
+      <div class="ed-links">
+        ${links.map((u) => `<input type="text" class="ed-url" value="${escaparAttr(u)}" placeholder="Link" />`).join("")}
+      </div>
+      <button type="button" class="btn-otro-link ed-otro-link">🔗 Agregar otro link</button>
+      <div class="fila-selects">
+        <select class="ed-region">
+          ${opcion("chile", item.region || "chile", "🇨🇱 Chile")}
+          ${opcion("mundo", item.region || "chile", "🌎 Mundo")}
+        </select>
+        <select class="ed-categoria">
+          ${opcion("absurdo", item.categoria, "Absurdo")}
+          ${opcion("observacional", item.categoria, "Observacional")}
+          ${opcion("curioso", item.categoria, "Curioso")}
+          ${opcion("otro", item.categoria, "Otro")}
+        </select>
+      </div>
+      <div class="acciones">
+        <button class="btn-va ed-guardar activo">💾 Guardar cambios</button>
+        <button class="btn-nova ed-cancelar">✖ Cancelar</button>
+      </div>
+    </div>`;
+  return card;
+}
+
+function botonEditar(id) {
+  return `<button class="btn-editar" data-id="${escaparAttr(id)}">✏️ Editar noticia</button>`;
+}
+
 function tarjetaNoticia(item) {
+  if (item.id === estado.editando) return tarjetaNoticiaEdicion(item);
   const card = document.createElement("article");
   card.className = `tarjeta ${claseDecidida(item.id)}`;
   card.innerHTML = `
@@ -504,6 +582,7 @@ function tarjetaNoticia(item) {
       ).join(" ")}
     </p>
     ${botonesDecision(item.id)}
+    ${botonEditar(item.id)}
     ${botonMover(item.id)}
   `;
   return card;
@@ -808,6 +887,68 @@ async function moverASemanaActual(id) {
     await cargarContenido();
   } catch (e) {
     mostrarToast("Error al mover: " + e.message);
+  }
+}
+
+// --- Editar noticia ------------------------------------------------------------
+
+async function guardarEdicion(card) {
+  if (!getToken()) {
+    mostrarToast("Primero configurá tu token de GitHub (arriba).");
+    document.getElementById("config-details").open = true;
+    return;
+  }
+  const id = card.dataset.id;
+  const titular = card.querySelector(".ed-titular").value.trim();
+  if (!titular) {
+    mostrarToast("El titular no puede quedar vacío.");
+    return;
+  }
+  const resumen = card.querySelector(".ed-resumen").value.trim();
+  const porque = card.querySelector(".ed-porque").value.trim();
+  const fuente = card.querySelector(".ed-fuente").value.trim();
+  const region = card.querySelector(".ed-region").value;
+  const categoria = card.querySelector(".ed-categoria").value;
+  const links = [...card.querySelectorAll(".ed-url")]
+    .map((i) => i.value.trim())
+    .filter(Boolean);
+
+  const btn = card.querySelector(".ed-guardar");
+  btn.disabled = true;
+  btn.textContent = "Guardando…";
+
+  try {
+    for (let intento = 1; intento <= 3; intento++) {
+      try {
+        const arch = await obtenerArchivo("data/bandeja.json");
+        const arr = arch ? JSON.parse(arch.contenido) : [];
+        const it = arr.find((x) => x.id === id);
+        if (!it) {
+          mostrarToast("No encontré la noticia en el repositorio.");
+          return;
+        }
+        it.titular = titular;
+        it.resumen = resumen;
+        it.por_que_humor = porque;
+        it.fuente = fuente;
+        it.region = region;
+        it.categoria = categoria;
+        it.url = links[0] || "";
+        it.urls_extra = links.slice(1);
+        await guardarArchivo("data/bandeja.json", arr, arch.sha, "Editar noticia (panel)");
+        break;
+      } catch (e) {
+        if (String(e.message).includes("409") && intento < 3) continue;
+        throw e;
+      }
+    }
+    estado.editando = null;
+    mostrarToast("✅ Noticia actualizada.");
+    await cargarContenido();
+  } catch (e) {
+    mostrarToast("Error al editar: " + e.message);
+    btn.disabled = false;
+    btn.textContent = "💾 Guardar cambios";
   }
 }
 

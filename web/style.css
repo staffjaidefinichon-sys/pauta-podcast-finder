@@ -401,6 +401,39 @@ main {
 
 .tarjeta.decidida-volver { border-color: #2b4a73; }
 
+.btn-editar {
+  margin-top: 0.6rem;
+  width: 100%;
+  padding: 0.45rem;
+  border: 1px dashed var(--borde);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--tenue);
+  font-family: system-ui, sans-serif;
+  font-size: 0.82rem;
+  cursor: pointer;
+}
+
+.btn-editar:hover { border-color: var(--tenue); color: var(--texto); }
+
+.tarjeta-edicion { border-color: var(--acento); }
+
+.tarjeta-edicion .ed-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.tarjeta-edicion .ed-links .ed-url {
+  padding: 0.5rem;
+  border: 1px solid var(--borde);
+  border-radius: 6px;
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+}
+
+.tarjeta-edicion .etiqueta-campo { margin-top: 0.5rem; }
+
 .btn-mover {
   margin-top: 0.6rem;
   width: 100%;
