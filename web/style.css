@@ -401,9 +401,15 @@ main {
 
 .tarjeta.decidida-volver { border-color: #2b4a73; }
 
-.btn-editar {
+.fila-editar {
+  display: flex;
+  gap: 0.5rem;
   margin-top: 0.6rem;
-  width: 100%;
+}
+
+.btn-editar,
+.btn-borrar-noticia {
+  flex: 1;
   padding: 0.45rem;
   border: 1px dashed var(--borde);
   border-radius: 8px;
@@ -415,6 +421,12 @@ main {
 }
 
 .btn-editar:hover { border-color: var(--tenue); color: var(--texto); }
+
+.btn-borrar-noticia:hover {
+  border-color: var(--nova);
+  color: var(--nova);
+  background: var(--nova-bg);
+}
 
 .tarjeta-edicion { border-color: var(--acento); }
 

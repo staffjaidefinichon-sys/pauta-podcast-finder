@@ -356,6 +356,10 @@ function renderizar() {
     });
   });
 
+  contenedor.querySelectorAll(".btn-borrar-noticia").forEach((b) => {
+    b.addEventListener("click", () => borrarNoticia(b.dataset.id));
+  });
+
   contenedor.querySelectorAll(".ed-cancelar").forEach((b) => {
     b.addEventListener("click", () => {
       estado.editando = null;
@@ -561,7 +565,47 @@ function tarjetaNoticiaEdicion(item) {
 }
 
 function botonEditar(id) {
-  return `<button class="btn-editar" data-id="${escaparAttr(id)}">✏️ Editar noticia</button>`;
+  return `
+    <div class="fila-editar">
+      <button class="btn-editar" data-id="${escaparAttr(id)}">✏️ Editar</button>
+      <button class="btn-borrar-noticia" data-id="${escaparAttr(id)}">🗑️ Borrar</button>
+    </div>`;
+}
+
+async function borrarNoticia(id) {
+  if (!getToken()) {
+    mostrarToast("Primero configurá tu token de GitHub (arriba).");
+    document.getElementById("config-details").open = true;
+    return;
+  }
+  const entrada = estado.itemsPorId.get(id);
+  const titulo = entrada ? (entrada.item.titular || entrada.item.titulo || "") : "";
+  if (!confirm(`¿Borrar definitivamente esta noticia?\n\n"${titulo}"\n\nEsto la elimina del historial (no es lo mismo que descartarla).`)) {
+    return;
+  }
+  const path = entrada && entrada.tipo === "tema" ? "data/bandeja_temas.json" : "data/bandeja.json";
+  try {
+    for (let intento = 1; intento <= 3; intento++) {
+      try {
+        const arch = await obtenerArchivo(path);
+        const arr = arch ? JSON.parse(arch.contenido) : [];
+        const filtrado = arr.filter((x) => x.id !== id);
+        if (filtrado.length === arr.length) {
+          mostrarToast("No la encontré en el repositorio (¿ya estaba borrada?).");
+          return;
+        }
+        await guardarArchivo(path, filtrado, arch.sha, "Borrar noticia (panel)");
+        break;
+      } catch (e) {
+        if (String(e.message).includes("409") && intento < 3) continue;
+        throw e;
+      }
+    }
+    mostrarToast("🗑️ Noticia borrada.");
+    await cargarContenido();
+  } catch (e) {
+    mostrarToast("Error al borrar: " + e.message);
+  }
 }
 
 function tarjetaNoticia(item) {
