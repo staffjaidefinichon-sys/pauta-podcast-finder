@@ -3185,5 +3185,18 @@
     "semana": "2026-09-02",
     "estado": "aprobada",
     "origen": "manual"
+  },
+  {
+    "id": "d8b91cf9-68ed-43c7-921c-b35c9226cb65",
+    "fecha_encontrada": "2026-09-02",
+    "titular": "Viral en Chile: el ritual de soplar canela en la puerta de la casa el 1 de septiembre para atraer prosperidad",
+    "resumen": "Cada 1 de septiembre miles de chilenos y latinoamericanos repiten en redes el ritual de soplar canela en polvo desde la entrada de su casa hacia adentro para atraer abundancia y buena energía durante el mes. En 2026 volvió con más fuerza que nunca.",
+    "fuente": "24horas.cl",
+    "url": "https://www.24horas.cl/tendencias/curioso-ritual-septiembre-prosperidad",
+    "por_que_humor": "Todo Chile soplando canela en la puerta al mismo tiempo es la imagen colectiva más absurda del año. Da para preguntar si realmente funciona, por qué nadie pregunta de dónde viene y si el que estornudó con la canela también cuenta.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
   }
 ]

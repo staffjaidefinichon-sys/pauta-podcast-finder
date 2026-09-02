@@ -2715,5 +2715,38 @@
     "basado_en": "Pronóstico de la Dirección Meteorológica de Chile (DMC) publicado en 24horas.cl (agosto/septiembre 2026) anticipando más precipitaciones de lo normal para el inicio de primavera en el centro-sur del país.",
     "semana": "2026-09-02",
     "estado": "en_pauta"
+  },
+  {
+    "id": "d30dae17-9ad2-4c1e-9f2d-ac2781c9165c",
+    "fecha_encontrada": "2026-09-02",
+    "titulo": "El ritual de la canela: ¿somos un país que sopla especias en la puerta o simplemente necesitamos una excusa para hacer algo ridículo juntos?",
+    "gancho": "Todo Chile soplando canela al mismo tiempo el 1 de septiembre como si hubiera un decreto oficial.",
+    "por_que_conversar": "El ritual de la canela de septiembre es el fenómeno más chileno-latinoamericano del año: nadie sabe de dónde viene, nadie pregunta si funciona, y aun así miles lo hacen y lo graban. Da para hablar de la superstición nacional, de cuántos rituales absurdos seguimos sin cuestionarlos, y de si el que estornudó con la canela en la cara queda maldito o doblemente bendecido.",
+    "categoria": "observacional",
+    "basado_en": "Ritual viral del 1 de septiembre que volvió a ser tendencia en Chile en redes sociales en 2026",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1d4d55f8-458a-4395-90be-5d6515b7ed94",
+    "fecha_encontrada": "2026-09-02",
+    "titulo": "El WiFi que te espía: si tu router ya sabe quién eres sin cámara ni sensor, ¿qué le habrías escondido esta semana?",
+    "gancho": "Tu router barato ya es un agente secreto que te identifica con precisión casi perfecta.",
+    "por_que_conversar": "La noticia de que el WiFi ordinario puede identificar personas con cerca de 100% de precisión es el WTF tecnológico que nadie pidió. Da para hablar de la paranoia del chileno promedio ante la vigilancia, de por qué le pusimos cinta a la cámara del computador pero nunca pensamos en el router, y de qué cosas comprometedoras 'vería' el WiFi del living familiar en una semana normal.",
+    "categoria": "absurdo",
+    "basado_en": "Investigación publicada en agosto 2026 sobre identificación de personas mediante señales WiFi estándar",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e9e8074e-87d2-4830-add6-c32d1cc948d2",
+    "fecha_encontrada": "2026-09-02",
+    "titulo": "Récords Guinness de cosas que nadie pidió: si Indiana tiene el armario de cocina más grande del mundo, ¿qué monumento absurdo le falta a Chile?",
+    "gancho": "Un armario de cocina de tres pisos inaugurado en Indiana como si fuera el Coliseo Romano.",
+    "por_que_conversar": "El armario de cocina gigante de Indiana y los 150 corgis corriendo en Lituania son la prueba de que cualquier cosa puede convertirse en récord o monumento si alguien lo decide. Da para un segmento completamente absurdo sobre qué cosa chilena merecería un monumento de tres pisos (¿un vaso de nescafé? ¿una marraqueta? ¿el semáforo en rojo de Apoquindo?), qué récord Guinness absurdo podría intentar Chile y por qué nadie lo ha pensado todavía.",
+    "categoria": "absurdo",
+    "basado_en": "Noticias de agosto 2026: armario gigante en Indiana y carrera internacional de corgis en Vilnius",
+    "semana": "2026-09-02",
+    "estado": "en_pauta"
   }
 ]
