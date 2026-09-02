@@ -3056,7 +3056,8 @@
     "categoria": "observacional",
     "region": "chile",
     "semana": "2026-09-02",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 2
   },
   {
     "id": "a16d1e8a-e693-4f03-9bc0-6e784584d78f",
@@ -3161,6 +3162,7 @@
     "region": "chile",
     "semana": "2026-09-02",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 1
   }
 ]
