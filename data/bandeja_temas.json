@@ -2748,5 +2748,49 @@
     "basado_en": "Noticias de agosto 2026: armario gigante en Indiana y carrera internacional de corgis en Vilnius",
     "semana": "2026-09-02",
     "estado": "en_pauta"
+  },
+  {
+    "id": "f2826907-ec5f-47d3-bbef-0b1a656108f6",
+    "fecha_encontrada": "2026-09-03",
+    "titulo": "El perro como atleta olímpico: ¿los chilenos estamos dispuestos a tirarnos al piso para que nuestro perro bata un récord mundial?",
+    "gancho": "Un equipo de béisbol en Canadá juntó 56 personas para que un perro les saltara encima y rompiera un Guinness — ¿a qué nivel de devoción canina hemos llegado?",
+    "por_que_conversar": "El vínculo chileno con los perros ya es casi una religión: dar la vida por el perro del barrio, adoptar cinco, ponerles ropa. Pero ¿estarías dispuesto a acostarte en el suelo de un estadio para que tu Golden Retriever sea famoso? Da para debatir los límites del amor por las mascotas y compararlo con los récords absurdos que los dueños chilenos ya hacen sin que les paguen.",
+    "categoria": "absurdo",
+    "basado_en": "Récord Guinness de perro saltando sobre 56 personas en Alberta (UPI, 2 sept 2026) y la cultura chilena de culto al perro",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "dc595733-d0b3-405a-9863-7112fbc2acda",
+    "fecha_encontrada": "2026-09-03",
+    "titulo": "El PowerPoint como herramienta de seducción: ¿los chilenos estamos listos para llevar un PDF a la primera cita?",
+    "gancho": "En Estados Unidos ya se busca pareja con diapositivas corporativas — análisis FODA del corazón incluido.",
+    "por_que_conversar": "Si los gringos usan PowerPoint para enamorar, ¿qué slide deck haría un chileno? ¿Pondría su sueldo en el gráfico de barras? ¿Incluiría un slide de 'referencias laborales' o una foto de la familia en Portillo? Da para hablar de lo terrible que somos para vendernos en las citas, de los DMs que mandamos en vez de hablar y de si esto es evolución romántica o el fin de la civilización.",
+    "categoria": "absurdo",
+    "basado_en": "Tendencia de speed dating con PowerPoint en EE.UU. (Oddee, 2026) y la torpeza universal del chileno en las primeras citas",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f91c08e1-473b-44fb-b13a-6e6c196ffd05",
+    "fecha_encontrada": "2026-09-03",
+    "titulo": "La pelea de pareja en el auto: el espacio más pequeño y más peligroso del planeta",
+    "gancho": "En Florida una mujer le mordió la oreja al marido manejando en la autopista — y encima los hijos iban atrás.",
+    "por_que_conversar": "El auto es el único lugar donde no te puedes ir, no puedes subir el volumen de la tele y no puedes fingir que te quedaste dormido. Da para contar las peleas más legendarias en auto de parejas chilenas, los silencios más incómodos en un viaje familiar largo, y debatir si el copiloto que da instrucciones de GPS cuenta como causal de divorcio.",
+    "categoria": "observacional",
+    "basado_en": "Caso de la mujer de Florida que mordió la oreja de su marido en la autopista (News of the Weird, sept 2026) + fenómeno universal de las peleas de pareja en espacios cerrados",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "46e4824b-c51c-4a87-aa7f-8147c923c3bf",
+    "fecha_encontrada": "2026-09-03",
+    "titulo": "El 18 de septiembre se viene: ¿el chileno puede celebrar Fiestas Patrias sin que algo salga catastrófico?",
+    "gancho": "Cada año el 18 tiene su propia catástrofe nacional no oficial: el asado quemado, el curado que se cae del palco, la empanada que manda al hospital.",
+    "por_que_conversar": "Con el 18 a dos semanas, da para hacer un repaso humorístico del desastre predecible que es la Fiesta Patria chilena: el que baila cueca sin saber cueca, la chicha que nadie sabe de dónde vino, los fuegos artificiales del vecino que casi queman el árbol. Da para que cada conductor aporte su peor anécdota del 18 y para debatir si el chileno celebra de verdad o simplemente sobrevive.",
+    "categoria": "observacional",
+    "basado_en": "Proximidad del 18 de septiembre 2026 (15 días) y la cultura de las Fiestas Patrias chilenas como fenómeno social compartido",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
   }
 ]
