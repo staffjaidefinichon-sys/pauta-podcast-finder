@@ -2858,5 +2858,71 @@
     "basado_en": "Ceremonia Ig Nobel 2026, 3 de septiembre en Zúrich. Premio por investigaciones como la aerodinámica del soplido nasal, el necroprinting con mosquitos y el diseño de urinarios sin salpicadura.",
     "semana": "2026-09-09",
     "estado": "en_pauta"
+  },
+  {
+    "id": "8bf207ad-04d0-4401-8236-e133c4b8cb1c",
+    "fecha_encontrada": "2026-09-05",
+    "titulo": "La suerte del novato total: ¿por qué la gente que juega por primera vez siempre gana, y el que tiene método hace 20 años no gana nada?",
+    "gancho": "Una mujer juega a la lotería por primera vez en su vida y se saca 325 mil dólares. El que tiene Excel con estadísticas del Kino desde 2008: cero.",
+    "por_que_conversar": "Es el tema universal de la injusticia cósmica de la suerte que en Chile se siente especialmente personal: da para hablar de los métodos más ridículos que la gente usa para el Kino, de si la ignorancia es genuinamente la mejor estrategia, y de la rabia colectiva de ver al principiante total ganar lo que el experto lleva años buscando.",
+    "categoria": "observacional",
+    "basado_en": "Mujer de Carolina del Norte gana lotería por primera vez (UPI, sept 2026) + hombre de Ohio gana con el número 13 (UPI, sept 2026)",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "77e85c9d-5e0e-4815-9f4a-222c36a4163d",
+    "fecha_encontrada": "2026-09-05",
+    "titulo": "Los animales que entran a propiedades privadas sin pedir permiso y actúan como si el inmueble fuera suyo: ¿los bichos ya saben que ganaron?",
+    "gancho": "Esta semana: un ciervo que inspeccionó un baño en Florida y se tiró a la piscina, un oso que robó palos de golf en Canadá y un lince que hizo que llamaran al 911. Mientras tanto, en Chile seguimos poniendo reja.",
+    "por_que_conversar": "La acumulación de animales que entran a casas, piscinas, supermercados y estacionamientos con total descaro es un fenómeno global que da para una conversación hilarante: ¿qué animal intruso se podría encontrar en una casa chilena?, ¿hay algún bicho autóctono capaz del mismo nivel de descaro que un oso grizzly?, y sobre todo, ¿en qué momento los humanos dejamos de ser los dueños del territorio?",
+    "categoria": "absurdo",
+    "basado_en": "Ciervo en piscina de Florida, oso con palos de golf en BC, lince en propiedad de Washington (UPI, sept 2026)",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b1752834-bbb2-4bd1-b799-9ac491b1478c",
+    "fecha_encontrada": "2026-09-05",
+    "titulo": "¿Cuánto vale un accidente de café? La cultura de la demanda millonaria y por qué en Chile nadie ha intentado eso todavía",
+    "gancho": "En EE.UU., un café mal tapado vale 50 millones de dólares ante un jurado. En Chile, te quemas la mano y el barista te dice 'ay, lo siento' y te da una servilleta.",
+    "por_que_conversar": "La diferencia cultural entre la cultura de la demanda gringa y la resignación chilena es un tema de conversación infinito con humor observacional: da para hablar de qué accidente absurdo intentaría demandar un chileno si pudiera, cuánto cobrarían por un sopaipilla demasiado caliente en la feria y si alguna vez alguien ha intentado algo parecido aquí con resultados ridículos.",
+    "categoria": "observacional",
+    "basado_en": "Demanda de $50 millones contra Starbucks por café derramado (BioBioChileTV, viral sept 2026)",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9216692d-3682-47b2-96f0-a51c552f4fce",
+    "fecha_encontrada": "2026-09-05",
+    "titulo": "El hombre que sabotea su propia casa en llamas: ¿hasta dónde llega el chileno cuando entra en modo pánico total?",
+    "gancho": "Si te incendias la casa y lo primero que haces es chocar al camión de bomberos que venía a salvarte, ¿cuál es el plan exactamente?",
+    "por_que_conversar": "La noticia del tipo de New Hampshire que destruyó su propio rescate es el punto de partida para hablar de las decisiones más irracionales que toma el ser humano en crisis. Da para el debate: ¿qué haría el chileno promedio si se le incendia la casa? ¿Salvaría el notebook, el perro o el termo del 18? Y de ahí al tema universal del 'modo pánico' que todos tenemos y que cuando aparece, nadie reconoce.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral de la semana: hombre de New Hampshire roba camión de rescate para embestir al carro bomba que apagaba el incendio de su propia casa",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9fade739-c146-4040-8fbe-941ceec3ad04",
+    "fecha_encontrada": "2026-09-05",
+    "titulo": "El número de la mala suerte que te hace millonario: ¿el chileno tiene algún método para el Kino o todos somos igual de irracionales?",
+    "gancho": "Un tipo en Ohio eligió el número 13 para su raspadín 'porque es su favorito' y ganó un millón de dólares. Tu abuelo lleva 30 años con el mismo número 'seguro' y nunca gana nada.",
+    "por_que_conversar": "El que gana siempre tiene un método ridículo. El que no gana siempre tiene un método 'científico'. Da para hablar de las metodologías más absurdas que usan los chilenos para el Kino (números de la placa del auto, fechas de cumpleaños del perro, el número que soñó la suegra), y para preguntarse si existe alguna diferencia real entre el tipo del 13 y el que lleva su planilla de Excel con los números 'calientes'.",
+    "categoria": "observacional",
+    "basado_en": "Noticia: hombre de Ohio gana un millón de dólares con su número favorito el 13, considerado de mala suerte por la mayoría",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "416249b9-0f8a-4afc-b169-8082f3292865",
+    "fecha_encontrada": "2026-09-05",
+    "titulo": "Coleccionar 2.000 pares de calcetines: ¿cuál es el objeto más ridículo que acumula el chileno sin darse cuenta de que tiene un problema?",
+    "gancho": "Hay un hombre en EE.UU. con 2.000 pares de calcetines que quiere el Guinness. En algún cajón de tu casa hay exactamente cuántos calcetines sin par sueltos.",
+    "por_que_conversar": "El coleccionista de calcetines es solo el extremo del espectro de una conducta universal: acumular cosas sin sentido. Da para hablar del cajón de los 'por si acaso' en la cocina chilena (pilas sin carga, botones de ropa que ya no existe, llaves de puertas que nadie sabe cuáles son), del freezer de la abuela con cosas de 2009 y de si en Chile existe algún récord Guinness que podríamos batir con lo que ya tenemos guardado en el clóset.",
+    "categoria": "observacional",
+    "basado_en": "Noticia: hombre de South Carolina intenta récord Guinness con más de 2.000 pares de calcetines acumulados",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
   }
 ]
