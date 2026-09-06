@@ -2924,5 +2924,49 @@
     "basado_en": "Noticia: hombre de South Carolina intenta récord Guinness con más de 2.000 pares de calcetines acumulados",
     "semana": "2026-09-09",
     "estado": "en_pauta"
+  },
+  {
+    "id": "6df17558-0146-4640-aaed-8490b92fea5f",
+    "fecha_encontrada": "2026-09-06",
+    "titulo": "La voz de tu ídolo de la infancia probando algo chileno: ¿cuál sería el cruce pop más épico que Chile podría producir?",
+    "gancho": "Si la voz de Piccolo aprobó el terremoto, ¿qué personaje de caricatura o serie le haría honor al mote con huesillo o a la cazuela?",
+    "por_que_conversar": "La cultura chilena tiene una obsesión con que los extranjeros 'prueben' o 'aprueben' sus cosas: el terremoto, la marraqueta, el completo. Cuando encima el extranjero es la voz de un ícono de la infancia, el país entra en modo celebración colectiva. Da para armar el 'dream team' de voces internacionales que uno querría ver reaccionando a comida o expresiones chilenas, y para debatir qué es más orgullo nacional: ganar un mundial o que Piccolo apruebe el terremoto.",
+    "categoria": "observacional",
+    "basado_en": "Viral de la semana en Chile: la voz de Piccolo (Dragon Ball Z) probando el trago 'terremoto' y aprobándolo tras dudar",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "022eaee2-ac54-42b7-99c2-6f613b46bd7d",
+    "fecha_encontrada": "2026-09-06",
+    "titulo": "El récord Guinness de algo espantoso: ¿hay más mérito en ser campeón mundial de algo que nadie quiere hacer?",
+    "gancho": "1.969 personas tomando voluntariamente el licor más asqueroso de Chicago para batir un récord: el nivel de compromiso que merece una medalla... o un psicólogo.",
+    "por_que_conversar": "Existe toda una categoría de récords Guinness que consiste en reunirse para hacer algo desagradable, incómodo o ridículo en masa. Eso genera la pregunta filosófica del año: ¿es más valioso ser el mejor del mundo en algo bueno, o el primero en hacer algo que nadie más quiso intentar? Da para que los conductores propongan qué récord absurdo y ligeramente asqueroso podría intentar Chile: ¿el mayor ensamble de personas tomando mote sin huesillos? ¿El concurso nacional de comer cazuela a las 7 AM?",
+    "categoria": "absurdo",
+    "basado_en": "Bar de Chicago que convocó a 1.969 personas a tomar shots del licor más amargo del mundo para batir un Guinness, septiembre 2026",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d8731a64-c4a8-4ebf-8772-851920405bd1",
+    "fecha_encontrada": "2026-09-06",
+    "titulo": "Septiembre en Chile: el mes donde el clima, el calendario y el chileno promedio entran en colapso existencial simultáneo",
+    "gancho": "Lunes: plumón y calefacción. Jueves: polera y helado. Domingo: lluvia y asado igual.",
+    "por_que_conversar": "Septiembre en Chile concentra más variables de caos que ningún otro mes del año: cambio de hora, primavera que llega antes (o no llega), Fiestas Patrias con feriado incierto, y encima el chileno promedio que no sabe si ya puede sacar el traje de baño o si guarda el abrigo. Da para el clásico debate sobre el guardarropa chileno de septiembre, la cueca bajo la lluvia, y por qué en este país el 18 de septiembre parece una apuesta más que una fecha fija.",
+    "categoria": "observacional",
+    "basado_en": "Cambio brusco de temperatura en Chile primera semana de septiembre 2026 + la tradición nacional del caos climático y del feriado del 18 siempre en limbo",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3f818985-aefa-416a-a979-114d63bc9363",
+    "fecha_encontrada": "2026-09-06",
+    "titulo": "El autosabotaje como forma de vida: el arte de destruir exactamente lo que intentabas salvar",
+    "gancho": "Un hombre roba el camión de bomberos para atacar a los bomberos que apagan el fuego de su propia casa. ¿Cuántos chilenos han hecho algo parecido, en menor escala?",
+    "por_que_conversar": "El caso del tipo en New Hampshire que embestió a los bomberos mientras su casa ardía es el ejemplo extremo de un fenómeno universal: el autosabotaje épico. Da para contar historias propias de 'lo empeoré intentando arreglarlo' —el clavo que terminó en un hueco en la pared, el auto que fue al taller por un ruido y salió con tres problemas nuevos, el grupo de WhatsApp que armaste para organizarte y que se convirtió en el caos—, y para debatir si el chileno promedio tiene un gen especial para complicar lo simple.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral de la semana: hombre de New Hampshire roba camión de rescate para embestir a los bomberos que apagaban el incendio de su propia casa, septiembre 2026",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
   }
 ]
