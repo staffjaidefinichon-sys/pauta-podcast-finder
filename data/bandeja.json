@@ -3510,5 +3510,44 @@
     "region": "mundo",
     "semana": "2026-09-09",
     "estado": "en_pauta"
+  },
+  {
+    "id": "fd30ba42-3140-41cb-b281-18e4e6f7fa04",
+    "fecha_encontrada": "2026-09-07",
+    "titular": "Un pueblo del norte de Chile recibirá a 70.000 peregrinos este fin de semana en Ayquina, a 73 km de Calama, en honor a la Virgen",
+    "resumen": "El pequeño poblado de Ayquina, ubicado en el altiplano atacameño, se prepara para recibir entre el 7 y 8 de septiembre a más de 70 mil peregrinos llegados de toda la región y países vecinos para venerar a la Virgen de Guadalupe de Ayquina.",
+    "fuente": "El Mostrador",
+    "url": "https://www.elmostrador.cl/revista-jengibre/panoramas/2026/09/06/fiestas-patrias-2026-los-principales-panoramas-dieciocheros-de-norte-a-sur-de-chile/",
+    "por_que_humor": "Un pueblo que en condiciones normales tiene un par de cientos de habitantes recibe 70 mil personas este fin de semana. Da para hablar de la logística imposible del baño, la señal de celular y el único almacén del pueblo.",
+    "categoria": "curioso",
+    "region": "chile",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "374c4433-7776-4bb3-b257-3c1f4eff96bf",
+    "fecha_encontrada": "2026-09-07",
+    "titular": "El 18 de septiembre cae viernes en 2026 pero legalmente no corresponde feriado el jueves 17, y el país entero lo discute igual",
+    "resumen": "Una ley chilena establece feriado extra solo cuando el 18 y 19 caen en martes-miércoles o miércoles-jueves. Este año caen viernes y sábado, por lo que no aplica, pero un proyecto ingresado al Congreso intenta agregar igual el jueves 17.",
+    "fuente": "feriados.io",
+    "url": "https://feriados.io/blog/feriado-17-septiembre-chile-2026",
+    "por_que_humor": "Chile es el único país del mundo que estudia leyes con calculadora para ver si puede trabajar menos el 18. El nivel de energía nacional dedicado a conseguir un día libre extra no tiene comparación.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d2ee2966-38f6-49a0-8f9a-630f1dcd30c5",
+    "fecha_encontrada": "2026-09-07",
+    "titular": "Un chile en nogada gigante misterioso apareció en las calles de Puebla y se convirtió en el primer meme de las fiestas patrias mexicanas",
+    "resumen": "Una enorme figura de chile en nogada apareció abandonada en una calle de Puebla, México, sin que nadie supiera de dónde venía ni a dónde iba. Los internautas mexicanos la adoptaron de inmediato como símbolo involuntario de sus fiestas patrias.",
+    "fuente": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/09/03/chile-en-nogada-gigante-aparece-en-calles-de-puebla-y-se-convierte-en-el-primer-meme-de-las-fiestas-patrias/",
+    "por_que_humor": "Un chile gigante sin dueño que nadie sabe explicar es el nivel de misterio gastronómico que merece una investigación policial completa. Además, se llama 'chile' y eso solo ya es gracioso en un podcast chileno.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
   }
 ]

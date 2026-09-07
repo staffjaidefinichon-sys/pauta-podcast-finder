@@ -2968,5 +2968,49 @@
     "basado_en": "Noticia viral de la semana: hombre de New Hampshire roba camión de rescate para embestir a los bomberos que apagaban el incendio de su propia casa, septiembre 2026",
     "semana": "2026-09-09",
     "estado": "en_pauta"
+  },
+  {
+    "id": "614ad54b-fb11-4f58-9a0f-e1be066b8344",
+    "fecha_encontrada": "2026-09-07",
+    "titulo": "El calzón enterrado como acto científico: ¿hasta dónde estás dispuesto a llegar por la ciencia (o por el jardín)?",
+    "gancho": "Si mil europeos enterraron ropa interior en el patio 'por la ciencia', ¿qué le pediría la ciencia al chileno promedio y cuánto cobraría por hacerlo?",
+    "por_que_conversar": "Conecta el absurdo real de los voluntarios suizos enterrando calzones con el experimento más ridículo que un chileno aceptaría hacer (o no) si se lo pide un investigador con delantal blanco. Da para hablar de los límites del civismo, la fe ciega en la ciencia y el olor del jardín de la abuela.",
+    "categoria": "absurdo",
+    "basado_en": "Experimento suizo real donde más de 1.000 voluntarios enterraron ropa interior de algodón para medir la actividad biológica del suelo (ScienceDaily, agosto 2026)",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "842c2757-223c-41f7-9a75-00b96fc19e80",
+    "fecha_encontrada": "2026-09-07",
+    "titulo": "El chileno y el feriado: la única ley que el país estudia con lupa, calculadora y abogado",
+    "gancho": "Somos el único país del mundo con una ley que dice 'feriado solo si el 18 cae martes o miércoles': ¿eso es organización o la prueba de que nuestra prioridad nacional es no trabajar?",
+    "por_que_conversar": "El fenómeno chileno del 'puente' es un deporte nacional con sus propias reglas, jurisprudencia y debates parlamentarios. Da para hablar de la energía épica que el chileno destina a no trabajar, comparada con la que destina a trabajar, y de cómo el 18 de septiembre es la única fecha donde todo el país estudia la Constitución.",
+    "categoria": "observacional",
+    "basado_en": "Tendencia en Chile sobre el feriado del jueves 17 de septiembre 2026 y la Ley 20.215 que regula cuándo aplica",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f41f12ad-94e0-491f-9408-3071b7eebd93",
+    "fecha_encontrada": "2026-09-07",
+    "titulo": "Si tu ídolo musical aparece convertido en cueca, ¿lo sigues amando igual o ya no es el mismo?",
+    "gancho": "El Hoyo convirtió a Los Prisioneros en música de zapateo: ¿hay algún artista sagrado que el 18 de septiembre no puede tocar?",
+    "por_que_conversar": "El cruce entre identidad musical y Fiestas Patrias es un campo minado glorioso: ¿qué pasa cuando tu canción favorita aparece en versión cueca? Da para un ranking de las canciones que sobrevivirían el tratamiento dieciochero y las que no, y para hablar de si en Chile el 18 todo está permitido o hay líneas que no se cruzan ni con chicha encima.",
+    "categoria": "observacional",
+    "basado_en": "Álbum de El Hoyo que convierte clásicos del rock chileno en música de zapateo para Fiestas Patrias 2026 (24horas.cl)",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "967f1346-1ebd-48c0-938c-275661423c11",
+    "fecha_encontrada": "2026-09-07",
+    "titulo": "Robarle a Mozart: ¿cuál es el objeto más ridículo pero irresistible que el chileno promedio robaría si pudiera salirse con la suya?",
+    "gancho": "Alguien robó 210 estatuillas de oro de Mozart en Salzburgo y nadie sabe por qué: el crimen más absurdo del año abre el campeonato del robo sin sentido.",
+    "por_que_conversar": "El robo de los Mozart no tiene lógica aparente, y eso es lo que lo hace perfecto para conversar: ¿qué se hace con 210 figuras de un compositor muerto? Da para el juego de 'si pudieras robar algo completamente inútil pero irresistible, ¿qué sería?' y para conectar con los robos más absurdos de la historia chilena (los cuerpos de mascotas, las monedas de 10 pesos, etc.).",
+    "categoria": "absurdo",
+    "basado_en": "Robo de más de 200 estatuillas de oro de Mozart en Salzburgo durante el aniversario del compositor (AP / WSLS, septiembre 2026)",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
   }
 ]
