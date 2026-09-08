@@ -3012,5 +3012,27 @@
     "basado_en": "Robo de más de 200 estatuillas de oro de Mozart en Salzburgo durante el aniversario del compositor (AP / WSLS, septiembre 2026)",
     "semana": "2026-09-09",
     "estado": "en_pauta"
+  },
+  {
+    "id": "26ac98e6-b53a-411c-b8b9-c868f4b6a0f5",
+    "fecha_encontrada": "2026-09-08",
+    "titulo": "El aceite que lleva 66 años sin cambiarse y gana premios: ¿cuántas cosas guardan los chilenos 'porque todavía sirven' que llevan décadas sin revisarse?",
+    "gancho": "Un restaurante japonés tiene aceite de fritura desde 1960 y es el más premiado del barrio: en Chile llamamos a eso 'el condimento de la abuela que nadie toca'.",
+    "por_que_conversar": "El aceite de 66 años abre la puerta a hablar del fenómeno chileno de conservar cosas indefinidamente 'porque todavía sirven': el queso del congelador de 2019, el ketchup sin fecha, la botella de pisco 'para las visitas' que nadie abre desde 2003. Humor observacional garantizado con historias propias.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del restaurante Wakatori en Japón con aceite de fritura de 66 años premiado internacionalmente, que generó debate global en redes sobre higiene vs. tradición.",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2fa1d846-c605-4a05-8166-a6fae2a35a2b",
+    "fecha_encontrada": "2026-09-08",
+    "titulo": "Animales borrachos, perdidos y enredados en hamacas: ¿los bichos del mundo están teniendo una crisis existencial o simplemente están pasando un mejor 18 que nosotros?",
+    "gancho": "Una ardilla curada de pera ataca Queens, un alce queda atrapado en una hamaca roja y un oso roba un durazno en un mall: si eso no es un plan de Fiestas Patrias, ¿qué es?",
+    "por_que_conversar": "La acumulación de noticias de animales en situaciones ridículas da para el debate eterno: ¿los animales nos están copiando o nosotros les copiamos a ellos? Permite contar anécdotas de animales propios o del barrio que hicieron algo inexplicable, y conecta con el humor de los meses anteriores del podcast.",
+    "categoria": "absurdo",
+    "basado_en": "Ardilla ebria de pera fermentada en Queens, alce enredado en hamaca, oso en mall de Alaska: noticias de animales en situaciones humanas que inundaron redes en la primera semana de septiembre 2026.",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
   }
 ]

@@ -3549,5 +3549,44 @@
     "region": "mundo",
     "semana": "2026-09-09",
     "estado": "en_pauta"
+  },
+  {
+    "id": "f7e6e95c-2b20-458d-8b6b-df29eee480bd",
+    "fecha_encontrada": "2026-09-08",
+    "titular": "En los Juegos Nómadas del Mundo reemplazaron el levantamiento de camello vivo por uno de plástico con forma de camello",
+    "resumen": "La competencia tradicional de levantar camellos en los Juegos Nómadas del Mundo adoptó una versión 'animal-friendly': ahora los atletas levantan un pesado modelo con forma de camello en vez del animal real. El espíritu es el mismo, pero el camello lo agradece.",
+    "fuente": "Super Punch / Twitter",
+    "url": "https://www.superpunch.net/2026/09/todays-news-and-jokes_0904435147.html",
+    "por_que_humor": "Que la solución para no maltratar animales sea construir un camello de plástico gigante para que los atletas lo levanten igual es la lógica más absurda y más honesta del deporte mundial. Da para imaginar qué animal de plástico inventaría Chile para sus propias olimpiadas.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "24dfc8cf-9067-4c01-8187-aa55009e437c",
+    "fecha_encontrada": "2026-09-08",
+    "titular": "La Pampilla de Coquimbo estuvo cancelada, luego no cancelada, y ahora vuelve pero en formato 'austero y solidario'",
+    "resumen": "La Municipalidad de Coquimbo primero anunció la suspensión de La Pampilla 2026 para destinar recursos a la reconstrucción post-temporales, pero el 13 de agosto revirtió la decisión. La fiesta más grande del norte chico vuelve, pero en versión reducida y con mensaje solidario incluido.",
+    "fuente": "El Mostrador",
+    "url": "https://www.elmostrador.cl/revista-jengibre/panoramas/2026/09/01/fondas-2026-en-chile-fechas-precios-y-preventas-para-celebrar-fiestas-patrias/",
+    "por_que_humor": "El drama en tres actos de La Pampilla: 'se cancela', 'no se cancela', 'vuelve pero triste' es el guion de una teleserie. Da para preguntarse si el chileno puede celebrar el 18 sin al menos una crisis organizacional previa.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "59578375-f6ef-4a95-b183-59726fa0ca0b",
+    "fecha_encontrada": "2026-09-08",
+    "titular": "Fiestas Patrias 2026: solo tres días, el 18 cae viernes y el aguinaldo del funcionario público alcanza para una empanada y media",
+    "resumen": "Este año el 18 de septiembre cae viernes, lo que da un fin de semana largo de tres días exactos. El aguinaldo de Fiestas Patrias para funcionarios públicos con sueldos bajos es de $91.682 y para los que ganan más, de $63.645: suficiente para cubrir el asado de una persona sin bebestibles.",
+    "fuente": "Meganoticias",
+    "url": "https://www.meganoticias.cl/dato-util/530881-feriados-irrenunciables-en-fiestas-patrias-chile-2026-18-y-19-de-septiembre-06-09-2026.html",
+    "por_que_humor": "El aguinaldo que alcanza para una empanada de pino con vuelto es el chiste nacional que se repite cada septiembre. Da para calcular en vivo cuántas empanadas, chopps o metros de longaniza cubre el bono y comparar con el precio real de La Pampilla.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
   }
 ]
