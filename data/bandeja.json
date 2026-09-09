@@ -3431,7 +3431,8 @@
     "categoria": "curioso",
     "region": "chile",
     "semana": "2026-09-09",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 2
   },
   {
     "id": "03f72629-d813-4e5d-b15e-f27b9b0542fa",
@@ -3574,7 +3575,8 @@
     "categoria": "observacional",
     "region": "chile",
     "semana": "2026-09-09",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 1
   },
   {
     "id": "59578375-f6ef-4a95-b183-59726fa0ca0b",
@@ -3666,6 +3668,7 @@
     "region": "chile",
     "semana": "2026-09-09",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 3
   }
 ]
