@@ -3620,5 +3620,22 @@
     "semana": "2026-09-09",
     "estado": "aprobada",
     "origen": "manual"
+  },
+  {
+    "id": "7edcd7c6-7dac-409c-8f8b-e92da7162ad7",
+    "fecha_encontrada": "2026-09-08",
+    "titular": "Trump muestra el uniforme de la Fuerza Espacial de EE.UU. y recibe numerosas críticas por su parecido con un traje nazi",
+    "resumen": "El diseño, creado con IA y que todavía no está confirmado que sea el oficial, se inspira en la «disciplina y funcionalidad del uniforme de (la película) 'Starship Troopers'», según el presidente.",
+    "fuente": "abc.es",
+    "url": "https://www.abc.es/internacional/trump-muestra-uniforme-fuerza-espacial-eeuu-recibe-20260907150241-nt.html",
+    "urls_extra": [
+      "https://truthsocial.com/@realDonaldTrump/posts/117225384741591978"
+    ],
+    "por_que_humor": "",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-09",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
