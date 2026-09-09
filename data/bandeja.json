@@ -3670,5 +3670,31 @@
     "estado": "aprobada",
     "origen": "manual",
     "orden": 3
+  },
+  {
+    "id": "c87d26a0-1e88-4dea-9248-85bc370e097b",
+    "fecha_encontrada": "2026-09-09",
+    "titular": "¿Mapuches y vikingos comparten origen? El video viral que hizo explotar las redes con teorías genéticas imposibles",
+    "resumen": "Un video que propone similitudes genéticas y culturales entre mapuches y vikingos se volvió tendencia en redes chilenas durante la primera semana de septiembre, generando un aluvión de comentarios, teorías disparatadas y memes de guerreros nórdicos con poncho.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/sociedad/viral/2026/09/02/mapuches-y-vikingos-comparten-origen-expertos-explican-las-similitudes-que-sorprenden-en-video-viral.shtml",
+    "por_que_humor": "La imagen mental del vikingo con kultrun o del guerrero mapuche con casco con cuernos es absurda de por sí; da para debatir si el Biobío es en realidad la Escandinavia del sur y si Thor también tomaba muday.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ad7afdc6-aeae-4104-a593-55e889a76b83",
+    "fecha_encontrada": "2026-09-09",
+    "titular": "Un marinero zarpa solo a circunnavegar el Ártico en velero: 10.000 millas náuticas entre hielos y tormentas 'porque sí'",
+    "resumen": "Matt Rutherford partió en solitario a completar la circunnavegación del Círculo Ártico en velero, 10.000 millas entre témpanos y ventiscas, intentando convertirse en el primero en lograrlo sin acompañamiento. Le preguntaron por qué y dijo que es su proyecto.",
+    "fuente": "NPR",
+    "url": "https://www.npr.org/2026/08/08/nx-s1-5923345/arctic-circle-solo-sail",
+    "por_que_humor": "El nivel de voluntad de sufrimiento de este hombre es incomprensible para el chileno promedio que se queja si el Uber tarda más de 3 minutos. Da para hablar del deporte más masoquista al que alguien se ha inscrito sin que nadie lo obligara.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-09",
+    "estado": "en_pauta"
   }
 ]
