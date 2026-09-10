@@ -3078,5 +3078,49 @@
     "basado_en": "Sock Burning Festival de Annapolis 2026 y llegada de la primavera en Chile el 21 de septiembre",
     "semana": "2026-09-09",
     "estado": "en_pauta"
+  },
+  {
+    "id": "ffeb277e-ffa9-4fcb-bbca-b0493ca737dd",
+    "fecha_encontrada": "2026-09-10",
+    "titulo": "El gallo como símbolo nacional no oficial: ¿Chile es el único país donde puedes ir a una 'arena VIP' a ver un gallo pelear y encima cobran $20.000 por el asiento premium?",
+    "gancho": "Hay una arena con butacas, sistema de apuestas y espolones metálicos... para gallos. Y después te roban los gallos. Todo en Arauco.",
+    "por_que_conversar": "La noticia de los gallos de Arauco abre un mundo: el fenómeno de las peleas de gallos en regiones, el nivel de organización (¡butacas VIP!), y el remate de que igual te los roban. Da para hablar de los 'negocios' más insólitos que existen en las regiones de Chile que Santiago ni sabe que existen.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del ruedo de peleas de gallos VIP desmantelado en Arauco, Biobío, septiembre 2026",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "864c0f7e-a82e-4986-8e34-036b2c3139c9",
+    "fecha_encontrada": "2026-09-10",
+    "titulo": "El animal que entró sin avisar y actuó como si la casa fuera suya: ¿los bichos del mundo están reservando Airbnbs a nuestra costa?",
+    "gancho": "Un ciervo usó la piscina, una cabra atacó al vecindario, un murciélago amaneció en la boca de alguien: el reino animal está perdiendo el respeto por los límites humanos.",
+    "por_que_conversar": "Esta semana los animales se portaron peor que cualquier visita no invitada: el ciervo en la piscina, la cabra violenta de Washington, el murciélago bucal. Da para el gran debate de qué harías si un animal aleatorio entrara a tu casa y cuál sería el más aterrador vs. el más gracioso en Chile (un queltehue, un zorro, un loro, un perro ajeno).",
+    "categoria": "absurdo",
+    "basado_en": "Múltiples noticias de la semana: ciervo en piscina de Florida, cabra 'muy fuerte' en Washington, murciélago en boca de mujer en Virginia (UPI, septiembre 2026)",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "fe9300fe-8ff5-403b-9ce1-6e2838bb6771",
+    "fecha_encontrada": "2026-09-10",
+    "titulo": "La suerte del que no busca: ¿por qué el que nunca juega siempre gana el millón y el que tiene método desde 2008 no ve un peso?",
+    "gancho": "Un tipo en Illinois recibe un raspadín de regalo de cumpleaños, nunca compra lotería, y se gana un millón de dólares. La injusticia cósmica más perfecta.",
+    "por_que_conversar": "El fenómeno del novato que gana siempre es universal y da para reírse del método del chileno promedio (el número del auto, la fecha de nacimiento, el sueño de la semana). Da para inventar teorías sobre si la suerte castiga el esfuerzo y para que cada uno cuente su historia más cercana a un premio que se le escapó.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del hombre de Illinois que ganó $1 millón con un raspadín de regalo (UPI, septiembre 2026) + patrón recurrente en noticias de lotería de la temporada",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "449b45ea-6d37-4321-9808-682bca67279d",
+    "fecha_encontrada": "2026-09-10",
+    "titulo": "El récord Guinness más ridículo que existe esta semana: ser lanzado 28 metros al aire desde un trampolín inflable se llama deporte y tiene campeón mundial",
+    "gancho": "El 'blobbing' es un deporte cuyo nombre suena a onomatopeya de caída y cuyo único objetivo es catapultar a alguien lo más lejos posible. Hay un récord Guinness. Hay un campeón.",
+    "por_que_conversar": "La existencia del blobbing como deporte oficial con récord mundial abre la pregunta de qué actividad absurda chilena podría convertirse en récord Guinness. Da para proponer categorías: ¿el mayor número de personas tomando once al mismo tiempo? ¿el asado más largo? ¿el atasco de Alameda más épico? ¿quién aguanta más sin quejarse en la cola de Fonasa?",
+    "categoria": "absurdo",
+    "basado_en": "Récord Guinness de blobbing registrado esta semana (UPI/aggregator, septiembre 2026) + tendencia de récords absurdos que viene siendo recurrente en el podcast",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
   }
 ]
