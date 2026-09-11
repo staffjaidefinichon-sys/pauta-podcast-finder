@@ -3800,5 +3800,44 @@
     "region": "mundo",
     "semana": "2026-09-16",
     "estado": "en_pauta"
+  },
+  {
+    "id": "b0b250d5-a9c2-40f9-b776-a99fe508fe5f",
+    "fecha_encontrada": "2026-09-11",
+    "titular": "Premio 'Plagio a la Creatividad Artística 2026': Chile premia oficialmente a quien copió mejor",
+    "resumen": "Un premio chileno reconoce públicamente el plagio artístico y ya tiene cinco finalistas votados por el público. El concepto: honrar la 'creatividad' de copiar sin vergüenza.",
+    "fuente": "Radio Modelo Chile",
+    "url": "https://radiomodelo.cl/2026/09/11/gobierno-impulsa-proyectos-de-tierras-raras-en-biobio-nuble-y-maule-mientras-crecen-las-concesiones",
+    "por_que_humor": "Un premio que celebra el plagio es la ironía más chilena posible: en vez de castigar a los copiones, les damos una estatuilla. Da para preguntar si el trofeo también es robado.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "de847a80-7e47-4fd1-aa78-9245a7ee2c7e",
+    "fecha_encontrada": "2026-09-11",
+    "titular": "Marmota tomó líquido de radiador de un auto en las sierras de California, quedó inconsciente y despertó en pleno barrio Mission de San Francisco",
+    "resumen": "Una marmota fue encontrada en el patio de una casa del Mission District de San Francisco sin que nadie supiera cómo llegó ahí. Los rescatistas explicaron que las marmotas son conocidas por meterse bajo los autos, tomar líquido de radiador, desmayarse y despertar lejos de casa.",
+    "fuente": "KQED / UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/10/San-Francisco-mystery-marmot/2781789056914",
+    "por_que_humor": "Una marmota que bebe anticongelante, se desmaya y amanece en otro estado es básicamente el mismo arco narrativo de cualquier despedida de soltero. Da para preguntar si el animal recuerda algo de lo que pasó y si buscan al dueño del auto en Burning Man.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "dd6aa73a-8aab-44fc-b6c8-567789a6b89d",
+    "fecha_encontrada": "2026-09-11",
+    "titular": "Lagarto monitor asiático de casi un metro fue sacado de un desagüe pluvial en Missouri y los rescatistas lo llamaron 'Gojira'",
+    "resumen": "Controladores de animales en el condado de St. Louis, Missouri, encontraron un lagarto monitor asiático atrapado en un desagüe y lo rescataron. El animal, bautizado Gojira por los rescatistas, tenía un carácter muy amigable y fue puesto en adopción.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/10/Asian-water-monitor-lizard-storm-drain/2391789055712",
+    "por_que_humor": "Bautizar 'Gojira' a un lagarto que salió de las alcantarillas es el nivel de cultura pop que merece un aplauso. Da para preguntar cómo terminas adoptando un lagarto de un metro que vino del desagüe y qué le dices al casero.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
   }
 ]

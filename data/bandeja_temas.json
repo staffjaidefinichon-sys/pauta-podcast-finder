@@ -3122,5 +3122,38 @@
     "basado_en": "Récord Guinness de blobbing registrado esta semana (UPI/aggregator, septiembre 2026) + tendencia de récords absurdos que viene siendo recurrente en el podcast",
     "semana": "2026-09-16",
     "estado": "en_pauta"
+  },
+  {
+    "id": "d81d6493-7731-4610-9626-0e959a7c34ba",
+    "fecha_encontrada": "2026-09-11",
+    "titulo": "El Premio al Plagio: ¿Chile es el único país que premia oficialmente a los copiones o simplemente el único que lo admite?",
+    "gancho": "Si hay un trofeo para el que copió mejor, ¿quién se lleva el de la vida real?",
+    "por_que_conversar": "La existencia de un 'Premio Plagio a la Creatividad Artística' abre el debate más chileno posible: ¿cuánto de lo que consumimos, creamos o admiramos es copia de algo? Da para repasar los plagios más escandalosos de la cultura pop chilena, preguntar si el trofeo también fue robado de otro premio y terminar en la pregunta filosófica de si la originalidad existe o todo es remix.",
+    "categoria": "observacional",
+    "basado_en": "Premio Plagio a la Creatividad Artística 2026 que circula en redes y medios chilenos esta semana",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c1a64be1-1f21-472b-9839-9f8da4e7b3ba",
+    "fecha_encontrada": "2026-09-11",
+    "titulo": "La marmota que tomó anticongelante, se desmayó y despertó en otro estado: ¿los animales también tienen noches que no recuerdan?",
+    "gancho": "El animal hizo lo mismo que cualquier ser humano en una despedida de soltero y terminó igual de perdido.",
+    "por_que_conversar": "La historia de la marmota de San Francisco es el disparador perfecto para hablar de animales que hacen exactamente lo mismo que los humanos en sus peores momentos: beber lo que no deben, quedarse inconscientes y despertar sin saber dónde están ni cómo llegaron. Da para comparar con historias propias, preguntar cuál es el equivalente humano del 'líquido de radiador que huele rico pero te destruye' y debatir si la marmota tiene más o menos dignidad que nosotros en esas circunstancias.",
+    "categoria": "absurdo",
+    "basado_en": "Marmota encontrada en San Francisco tras beber líquido de radiador y viajar inconsciente bajo un auto, noticia viral del 10 de septiembre 2026",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3685a2c2-9484-41f5-ae4f-bc3ef2ce7388",
+    "fecha_encontrada": "2026-09-11",
+    "titulo": "Veinte años con los mismos números del Kino: ¿lealtad irracional o la única estrategia que funciona?",
+    "gancho": "La mujer de Maryland esperó dos décadas y el día que compró triple ganó $150.000 dólares. ¿Método o milagro?",
+    "por_que_conversar": "La historia de la mujer que jugó los mismos números por 20 años activa el debate más chileno sobre la lotería: ¿tiene sentido tener un método o todos somos igual de irracionales? Da para que cada uno cuente su 'sistema' personal para el Kino, hablar del chileno que lleva años con sus números y todavía no gana nada, y terminar en la pregunta de si comprar tres tickets el mismo día es genialidad matemática o simplemente gastar el triple.",
+    "categoria": "observacional",
+    "basado_en": "Mujer de Maryland que ganó $150.000 con los mismos números del Pick 5 que jugó durante 20 años, noticia del 9 de septiembre 2026",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
   }
 ]
