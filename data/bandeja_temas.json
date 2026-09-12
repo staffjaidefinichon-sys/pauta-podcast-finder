@@ -3155,5 +3155,38 @@
     "basado_en": "Mujer de Maryland que ganó $150.000 con los mismos números del Pick 5 que jugó durante 20 años, noticia del 9 de septiembre 2026",
     "semana": "2026-09-16",
     "estado": "en_pauta"
+  },
+  {
+    "id": "52baa275-68e5-4a0c-812d-bd1b3d7373f6",
+    "fecha_encontrada": "2026-09-12",
+    "titulo": "El rincón de los pedos en la sala de clases: ¿qué zona especial le falta al chileno promedio en su lugar de trabajo, micro o edificio?",
+    "gancho": "Una profesora de EE.UU. creó un espacio oficial para que los niños se tiren pedos sin interrumpir la clase. Chile lleva décadas necesitando algo así y nadie lo ha propuesto.",
+    "por_que_conversar": "El concepto del 'espacio designado para lo vergonzoso' es un disparador brutal para hablar de cuántas zonas de descarga necesita el chileno en su vida cotidiana: el rincón de la queja en el trabajo, el asiento del llorón en la micro, el cuarto del drama en los matrimonios. Da para imaginar la instalación de estos rincones en distintos contextos chilenos con sus propias reglas no escritas.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia de la profesora de Georgia con el 'fart corner' viral (News of the Weird / UExpress, sept. 4, 2026) y la cultura chilena de aguantarse y no decir nada.",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ec69d83c-646b-4e91-983a-9552651d2474",
+    "fecha_encontrada": "2026-09-12",
+    "titulo": "El autosabotaje como deporte nacional: ¿los chilenos somos campeones mundiales de arruinar exactamente lo que estábamos intentando salvar?",
+    "gancho": "Un tipo de New Hampshire robó el camión de bomberos que estaba apagando el incendio de su propia casa para embestir al otro camión. Si eso no es Chile, ¿qué es?",
+    "por_que_conversar": "El autosabotaje en modo extremo sirve como trampolín para hablar del fenómeno chileno cotidiano: el que arregla el caño y rompe la pared, el que va al banco a resolver un trámite y termina con dos trámites nuevos, el que empieza la dieta el lunes y el martes pide delivery doble. Da para que cada uno cuente su récord personal de autosabotaje con humor y sin culpa.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del hombre de New Hampshire que robó el camión bomba de su propio incendio (News of the Weird / UExpress, ago. 2026) más el fenómeno cultural chileno del 'cómo empeoré algo que ya estaba mal'.",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1a6b8b1f-1b52-4182-9564-05a0c3ed7b0e",
+    "fecha_encontrada": "2026-09-12",
+    "titulo": "Obreros que abren una zanja y encuentran oro: ¿cuál es el tesoro más ridículo o más valioso que podría aparecer escondido en una construcción chilena?",
+    "gancho": "En Bélgica unos obreros fueron a meter tuberías y salieron con 10 millones de dólares en oro. En Chile, ¿qué encontraría un obrero que rompe la pared correcta?",
+    "por_que_conversar": "El fantasy de encontrar algo inesperado dentro de las paredes de una construcción chilena da para infinitas posibilidades: desde plata enterrada de la abuela hasta una colección de casetes de cumbia, un mueble de los 80 que nadie recuerda haber puesto ahí, o simplemente humedad y una araña de rincón. Da para hablar de qué tienen escondidos los chilenos en sus casas sin saberlo y de si el precio de las remodelaciones vale el riesgo de no encontrar nada.",
+    "categoria": "curioso",
+    "basado_en": "Noticia de los obreros belgas que encontraron oro (News of the Weird / UExpress, ago. 2026) y la tendencia previa aprobada sobre 'el jardín de la abuela como yacimiento arqueológico'.",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
   }
 ]
