@@ -3188,5 +3188,27 @@
     "basado_en": "Noticia de los obreros belgas que encontraron oro (News of the Weird / UExpress, ago. 2026) y la tendencia previa aprobada sobre 'el jardín de la abuela como yacimiento arqueológico'.",
     "semana": "2026-09-16",
     "estado": "en_pauta"
+  },
+  {
+    "id": "4926d328-e3a7-45fd-b445-2796f83a6c28",
+    "fecha_encontrada": "2026-09-13",
+    "titulo": "El 'rincón del pedo' en la sala de clases: si existiera en Chile, ¿quién lo usaría más, los alumnos o el profesor?",
+    "gancho": "Una maestra gringa ya lo inventó y funciona. ¿Chile está listo para institucionalizarlo?",
+    "por_que_conversar": "La noticia de la profe de Georgia es el punto de partida perfecto para hablar del absurdo de las reglas no escritas en el aula chilena, la vergüenza colectiva del gas corporal en espacios públicos y si realmente necesitamos zonas especiales para todo. Da para comparar con el 'rincón del llanto' de los adultos en el trabajo y terminar diseñando el aula del futuro más honesta de la historia.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral de maestra de Georgia que creó un 'fart corner' oficial en su sala de clases, cubierta por Today.com y viralizada en septiembre 2026",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "35a1cd2b-ad73-4ab1-920d-be536411c65e",
+    "fecha_encontrada": "2026-09-13",
+    "titulo": "Ganar la lotería dos veces en el mismo año: ¿existe el método, la suerte o simplemente hay gente que no merece explicación?",
+    "gancho": "Una señora de Maryland lo hizo en 2026. Dos veces. En el mismo año. Con el mismo juego.",
+    "por_que_conversar": "El caso de la mujer de Maryland que ganó 50.000 dólares dos veces en 2026 con Pick 5 es el disparador ideal para el debate más chileno del mundo: ¿hay sistema para el Kino o todo es ilusión? Da para que cada conductor confiese su método infalible (el número del auto, la fecha de cumpleaños de la abuela, los números que 'se sienten bien'), para burlarse del 'método científico' del apostador promedio y para concluir que la única estrategia que funciona es no tener estrategia.",
+    "categoria": "curioso",
+    "basado_en": "Noticia UPI del 10 de septiembre 2026 sobre mujer de Maryland que ganó su segundo premio de 50.000 dólares en la lotería en el mismo año",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
   }
 ]
