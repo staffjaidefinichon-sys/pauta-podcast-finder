@@ -3917,5 +3917,31 @@
     "region": "mundo",
     "semana": "2026-09-16",
     "estado": "en_pauta"
+  },
+  {
+    "id": "d34a5ff1-588f-45c7-b3c8-668eb2e91939",
+    "fecha_encontrada": "2026-09-14",
+    "titular": "Los virales chilenos más icónicos se reúnen en una fonda dieciochera: El Tarro, Zafrada, Tía Paty y Las Calilas juntos por el 18",
+    "resumen": "Una iniciativa de Fiestas Patrias 2026 juntó a los personajes más recordados de los virales chilenos de todos los tiempos en una fonda ficticia. Según un estudio de Cadem, 'Las Calilas y las Mojo Jojo' encabeza las preferencias espontáneas con un 14%, seguida de El Zafrada y Adiós Tía Paty.",
+    "fuente": "Duplos.cl",
+    "url": "https://duplos.cl/tendencias/reencuentro-virales-chilenos-fiestas-patrias-el-tarro-zafrada/278950/2026/09/14/",
+    "por_que_humor": "El crossover de los virales más recordados de Chile en una fonda es el equivalente a juntar a todos los memes de la historia nacional en una sola reunión familiar: pura nostalgia chilenísima y debate de cuál es el mejor viral de todos los tiempos.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "7d6dfbf2-951d-423f-90b1-15d3dbf6a0ad",
+    "fecha_encontrada": "2026-09-14",
+    "titular": "Chillán y sus comunas se preparan para el 18 con fondas repartidas por toda la región: 'el sur dieciochea a su manera'",
+    "resumen": "La Discusión de Ñuble reporta el 12 de septiembre que en Chillán y sus comunas se han montado distintas festividades de Fiestas Patrias con identidad regional propia, lejos del molde capitalino.",
+    "fuente": "La Discusión",
+    "url": "https://ladiscusion.cl/los-panoramas-para-celebrar-fiestas-patrias-a-lo-largo-de-la-region/",
+    "por_que_humor": "Las Fiestas Patrias en regiones siempre tienen sus propias reglas no escritas, sus propias tradiciones y sus propios dramas. Da para comparar el 18 de Santiago (con empanada de mall) vs. el 18 de Chillán (con longaniza de verdad) y quién lo hace mejor.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
   }
 ]
