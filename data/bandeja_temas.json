@@ -3232,5 +3232,49 @@
     "basado_en": "Fiestas Patrias 2026 con noticias de Chillán/Ñuble y el evento de SUP en Antofagasta reportados esta semana",
     "semana": "2026-09-16",
     "estado": "en_pauta"
+  },
+  {
+    "id": "e8000ee9-c762-41c5-b16d-0234f2f399ec",
+    "fecha_encontrada": "2026-09-15",
+    "titulo": "Gritar al océano como terapia: ¿los chilenos también necesitamos un evento oficial para desahogarnos en público sin que nos miren raro?",
+    "gancho": "Cien personas en San Francisco se juntaron a gritar al mar 'para liberar frustraciones'… y en Chile ni siquiera podemos quejarnos en voz alta en la micro.",
+    "por_que_conversar": "El contraste entre la cultura del desahogo colectivo norteamericana y el estoicismo chileno clásico ('¿estái bien?' / 'sí, estoy bien') da para una conversación infinita sobre cómo el chileno reprime, acumula y eventualmente explota de formas mucho más creativas (o destructivas) que gritar al mar. Da para proponer el equivalente chileno: ¿gritar al Mapocho? ¿al taco de la Alameda?",
+    "categoria": "observacional",
+    "basado_en": "Evento viral de San Francisco donde más de 100 personas gritaron al océano simultáneamente como terapia colectiva (UPI, 14 sep 2026)",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c7753e8f-7f1d-4bfe-9695-e38f968bc1a2",
+    "fecha_encontrada": "2026-09-15",
+    "titulo": "El animal como polizón, fugitivo y pasajero: ¿los bichos del mundo se están organizando para invadir nuestros medios de transporte?",
+    "gancho": "Un murciélago tomó el metro en Glasgow, un emu escapó y requirió un operativo con dron en Nueva York, y en Chile ya tuvimos la orca que tocó timbre en una lancha del Biobío.",
+    "por_que_conversar": "La acumulación de animales que deciden meterse en trenes, aviones, buses o barcos como si tuvieran itinerario propio es un patrón absurdo que da para una conversación sobre qué animal chileno sería capaz de tomarse el Transantiago, en qué línea subiría y si pagaría con Bip o se colaría.",
+    "categoria": "absurdo",
+    "basado_en": "Murciélago en tren de Glasgow y emu fugado con persecución policial en Nueva York (UPI, 14 sep 2026)",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5416da29-2482-482f-abc4-6ee7d2df1c34",
+    "fecha_encontrada": "2026-09-15",
+    "titulo": "El 18 de septiembre y el asado perfecto: ¿el chileno tiene más protocolo para el día de la independencia que para cualquier otra cosa en su vida?",
+    "gancho": "Chile tiene reglas no escritas para el 18 que ningún reglamento oficial podría superar: quién pone la carne, a qué hora hay que llegar, quién saca el vino primero y qué pasa si llueve.",
+    "por_que_conversar": "Con el 18 cayendo viernes y las Fiestas Patrias reduciéndose a tres días, el chileno entra en modo de planificación de alto rendimiento para maximizar empanadas, terremotos y cueca en el menor tiempo posible. Da para hablar de los rituales más ridículos e irrenunciables del Dieciocho: desde el que guarda el mismo mantel de años hasta el que 'ya tiene el disco de Los Jaivas listo desde agosto'.",
+    "categoria": "observacional",
+    "basado_en": "Fiestas Patrias 2026 con solo tres días de celebración, 18 cayendo viernes, y la tensión nacional acumulada pre-Dieciocho",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "999ed6ec-4391-47c9-b158-62a915e11275",
+    "fecha_encontrada": "2026-09-15",
+    "titulo": "El autosabotaje perfecto: ¿por qué el chileno tiene una habilidad innata para arruinar exactamente lo que más le importa en el peor momento posible?",
+    "gancho": "Un hombre robó el camión que apagaba el incendio de su propia casa. En Chile no llegamos a ese nivel... ¿o sí?",
+    "por_que_conversar": "La historia del tipo de New Hampshire que saboteó su propio rescate es el ejemplo extremo de una tendencia universal: arruinar lo que uno intenta salvar. Da para una conversación sobre el autosabotaje chileno más épico: desde el asado que se quema porque nadie quiso admitir que no sabía prender el fuego, hasta el grupo de WhatsApp que se creó 'para coordinarse' y terminó destruyendo la amistad de 20 años.",
+    "categoria": "absurdo",
+    "basado_en": "Hombre de New Hampshire que robó camión de rescate para embestir a los bomberos que apagaban el incendio de su propia casa (Shepherd Express, sep 2026)",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
   }
 ]

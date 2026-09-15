@@ -3943,5 +3943,44 @@
     "region": "chile",
     "semana": "2026-09-16",
     "estado": "en_pauta"
+  },
+  {
+    "id": "3fb16329-413f-4b2e-bf7b-78621d613c05",
+    "fecha_encontrada": "2026-09-15",
+    "titular": "Más de 100 personas se juntaron en San Francisco a gritar al océano simultáneamente para liberar frustraciones",
+    "resumen": "Un evento organizado convocó a más de cien personas a la orilla del mar en San Francisco para gritar al océano al mismo tiempo como terapia colectiva de desahogo. El video se viralizó de inmediato en redes sociales.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/14/San-Francisco-ocean-screaming-event/",
+    "por_que_humor": "La imagen de cien adultos gritándole al mar 'porque sí' es el WTF terapéutico del año: da para preguntar si el océano les respondió y qué dirían los turistas que pasaban por ahí.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "35456f4d-4b44-4157-962b-52efe9682153",
+    "fecha_encontrada": "2026-09-15",
+    "titular": "Un murciélago se subió a un tren de cercanías en Glasgow y armó el caos mientras el personal intentaba atraparlo",
+    "resumen": "Un murciélago abordó un tren de pasajeros en Glasgow, Escocia, y fue captado en cámara generando pánico entre los pasajeros mientras el personal de la línea intentaba capturarlo sin éxito durante varios minutos.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/14/bat-commuter-train-Glasgow-Scotland/",
+    "por_que_humor": "El murciélago como pasajero sin ticket que además pone en jaque a todo el equipo de seguridad ferroviaria es el polizón más incontrolable de Europa. Da para hablar de los pasajeros más aterradores que has tenido al lado en el Metro.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "07e8b162-5b3b-4807-a59a-e25b7da367fa",
+    "fecha_encontrada": "2026-09-15",
+    "titular": "Un emu escapó de un zoológico de Nueva York y desató una persecución policial con múltiples oficiales y un dron",
+    "resumen": "Un emu se fugó de un zoológico de mascotas en el condado de Rockland, Nueva York, y generó un operativo de búsqueda que involucró a varios policías y un dron para localizar al ave en plena zona residencial.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/14/emu-escape-New-York-police-drone/",
+    "por_que_humor": "Desplegar un dron policial para perseguir a un emu en un barrio de Nueva York es el uso más extravagante de tecnología de seguridad de la historia. Da para imaginar el reporte policial: 'sospechoso: plumaje marrón, dos metros, no colaboró'.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
   }
 ]
