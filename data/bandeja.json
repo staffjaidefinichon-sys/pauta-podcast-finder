@@ -3982,5 +3982,18 @@
     "region": "mundo",
     "semana": "2026-09-16",
     "estado": "en_pauta"
+  },
+  {
+    "id": "d200a7b6-1d45-4efb-970f-46c041d603d3",
+    "fecha_encontrada": "2026-09-16",
+    "titular": "La Corte Suprema de Chile declaró ilegales las apuestas online y ordenó bloquearlas en todo el país",
+    "resumen": "La Corte Suprema chilena determinó que las apuestas online son ilegales y ordenó su bloqueo a nivel nacional, generando reacciones masivas de usuarios que cuestionan qué harán ahora con sus 'inversiones' deportivas.",
+    "fuente": "Diario de Cuyo / medios chilenos",
+    "url": "https://www.diariodecuyo.com.ar/chile-a310/2",
+    "por_que_humor": "El país que tiene casino en casi cada ciudad declaró ilegales las apuestas online. El nivel de contradicción es olimpíada. Da para preguntarse si el chileno que 'apostaba en la ruleta de la computadora' ahora tiene que ir en persona a perder su plata.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-16",
+    "estado": "en_pauta"
   }
 ]
