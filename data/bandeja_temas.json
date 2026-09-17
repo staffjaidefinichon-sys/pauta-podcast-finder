@@ -3320,5 +3320,38 @@
     "basado_en": "Investigación científica publicada en agosto 2026 sobre identificación de personas mediante señales WiFi ordinarias, tendencia en redes sobre privacidad digital",
     "semana": "2026-09-16",
     "estado": "en_pauta"
+  },
+  {
+    "id": "7f6c98ae-8f90-4c66-9513-55dc290aa711",
+    "fecha_encontrada": "2026-09-17",
+    "titulo": "La superstición del método: si un hombre creyó durante años que iba a ganar la lotería y al final ganó, ¿el chileno debería confiar más en su propio delirio?",
+    "gancho": "El tipo que predijo su propio millón tiene más argumentos que cualquier estratega del Kino con Excel.",
+    "por_que_conversar": "Da para hablar de los métodos más ridículos e irracionales que los chilenos usan para la lotería, los rituales de suerte del 18 de septiembre y si la fe ciega en uno mismo es en realidad la única estrategia que funciona. Humor observacional sobre la relación chilena con la suerte y el azar.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del hombre de Michigan que ganó $1,5 millones después de años prediciendo que lo haría, y tendencia chilena permanente de los 'métodos' del Kino.",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "fef7a04a-dc00-4092-8a3f-e5ff8041123f",
+    "fecha_encontrada": "2026-09-17",
+    "titulo": "Si los científicos ya pueden ver lo que piensa un ratón, ¿qué tan rápido llegan a meterse en la cabeza del chileno promedio en el taco del lunes?",
+    "gancho": "Reconstruir un video de 10 segundos desde el cerebro de un ratón: la tecnología más aterradora y más graciosa de la semana.",
+    "por_que_conversar": "El WTF de leer la mente de animales abre la puerta a imaginar qué verían los científicos si enchufaran esa tecnología al chileno en la micro, en la caja del supermercado o esperando el SAE. Humor absurdo con capa de ciencia real: combo perfecto para el podcast.",
+    "categoria": "absurdo",
+    "basado_en": "Estudio de ScienceDaily del 16 de septiembre 2026 sobre reconstrucción de videos desde neuronas de ratones y tendencia de noticias científicas raras viralizadas en redes.",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "7e9c0278-2b60-41ad-b7f9-ae1c0cf3040d",
+    "fecha_encontrada": "2026-09-17",
+    "titulo": "Chile necesita su propio festival de quema de calcetines: ¿qué objeto de invierno debería el chileno destruir colectivamente para despedir el frío con dignidad?",
+    "gancho": "En Maryland queman calcetines para festejar la primavera. En Chile ni siquiera sabemos que el invierno se fue hasta que aparece el calor de noviembre.",
+    "por_que_conversar": "El festival de quema de calcetines de Annapolis es el disparador perfecto para hablar de rituales de cambio de estación que Chile no tiene pero debería inventar. Da para debatir qué objeto textil, electrodoméstico o actitud merece ser quemado simbólicamente al llegar la primavera, con humor observacional sobre el invierno chileno y la identidad regional.",
+    "categoria": "observacional",
+    "basado_en": "Festival Sock Burning de Annapolis 2026 y la llegada de la primavera chilena en plenas Fiestas Patrias.",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
   }
 ]
