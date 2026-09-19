@@ -4125,5 +4125,31 @@
     "region": "mundo",
     "semana": "2026-09-23",
     "estado": "en_pauta"
+  },
+  {
+    "id": "d0f868df-d71b-4f51-b6a4-8669c5de7cfa",
+    "fecha_encontrada": "2026-09-19",
+    "titular": "Dos chimpancés escaparon del zoológico de Taipei, pasearon por zonas públicas y tuvieron que ser tranquilizados con dardos",
+    "resumen": "El zoológico de Taipei confirmó que dos chimpancés salieron de su recinto y comenzaron a deambular por áreas abiertas al público antes de ser interceptados y sedados por el equipo del zoo.",
+    "fuente": "UPI Odd News",
+    "url": "https://www.upi.com/Odd_News/2026/09/18/chimpanzees-tranquilized-Taipei-zoo-escape/",
+    "por_que_humor": "Dos chimpancés haciendo turismo en el zoológico de Taipei, como si el recinto fuera para ellos y los humanos los bichos enjaulados. Da para imaginar qué fueron a visitar primero y si pidieron foto.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e53f30ba-d54f-45fe-8d96-f685356497ab",
+    "fecha_encontrada": "2026-09-19",
+    "titular": "Una familia de Iowa tiene cinco generaciones con el mismo cumpleaños y Guinness lo oficializó",
+    "resumen": "Una familia de Iowa fue reconocida por el Libro Guinness de los Récords por tener cinco generaciones consecutivas que comparten exactamente la misma fecha de nacimiento, algo estadísticamente casi imposible.",
+    "fuente": "UPI Odd News",
+    "url": "https://www.upi.com/Odd_News/2026/09/17/Iowa-family-five-generations-same-birthday-Guinness/",
+    "por_que_humor": "El Récord Guinness más aterrador de la semana: cinco generaciones atrapadas en el mismo día de cumpleaños. Da para preguntar si celebran juntos y quién paga el pastel más grande.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
   }
 ]

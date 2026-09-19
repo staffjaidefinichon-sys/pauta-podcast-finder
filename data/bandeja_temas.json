@@ -3397,5 +3397,49 @@
     "basado_en": "Estudio que reconstruyó videos de 10 segundos desde neuronas de ratones (ScienceDaily, sept. 2026)",
     "semana": "2026-09-23",
     "estado": "en_pauta"
+  },
+  {
+    "id": "34fd91e9-d8f6-415c-b8d2-1fc53561062e",
+    "fecha_encontrada": "2026-09-19",
+    "titulo": "El autosabotaje como deporte nacional: si un tipo destruyó su propia casa robándole el camión a los bomberos, ¿cuál es el peor error que el chileno ha cometido intentando arreglar algo?",
+    "gancho": "Hay un hombre en New Hampshire que llamó a los bomberos, les robó el camión y terminó siendo él el que destruyó su propia casa. Chile tiene ejemplos propios.",
+    "por_que_conversar": "El concepto de empeorar activamente tu propia catástrofe es universal y da para que cada uno cuente su historia más vergonzosa de autosabotaje doméstico, laboral o sentimental. El humor es garantizado porque todos tienen una.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del hombre de New Hampshire que robó el camión de bomberos mientras apagaban el incendio de su propia casa (semana del 3 de septiembre 2026, Shepherd Express)",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "8c00d693-a7eb-49df-ac84-c3f28b0ab722",
+    "fecha_encontrada": "2026-09-19",
+    "titulo": "El perro callejero como figura histórica chilena: ¿el quiltro es el animal más patriota del país o simplemente el único que hace lo que quiere sin pedir permiso?",
+    "gancho": "Si un perro sin dueño desfiló en la Parada Militar con mejor postura que varios reclutas, ¿qué dice eso de Chile como nación?",
+    "por_que_conversar": "El quiltro chileno tiene una historia épica y da para un debate absurdo sobre si el perro callejero es parte del patrimonio nacional, si merece monumento y cuál sería el nombre oficial del que desfiló en la Parada Militar 2026.",
+    "categoria": "absurdo",
+    "basado_en": "Contexto del 19 de septiembre 2026 y la cultura del quiltro chileno como ícono viral en Fiestas Patrias",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "979dd90f-c743-478e-b05a-9dd3571f1e9f",
+    "fecha_encontrada": "2026-09-19",
+    "titulo": "El hobby que se te fue de las manos: si un camionero construyó 800.000 estructuras en miniatura 'por entretención', ¿qué hace el chileno promedio cuando dice que tiene un pasatiempo?",
+    "gancho": "Hay un tipo que en su tiempo libre construyó la ciudad de Nueva York entera en miniatura y ahora está en un museo. El chileno también tiene hobbies, pero distintos.",
+    "por_que_conversar": "El contraste entre el hobby que se convierte en obra de arte y el hobby chileno promedio (ver series, ir al mall, tomar once) da para una conversación irónica y divertida sobre qué hacemos realmente con el tiempo libre y si hay algo de lo que estamos orgullosos.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del camionero Joe Macken y su maqueta de NYC (exhibida en el Museo de la Ciudad de Nueva York, septiembre 2026)",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c486c17d-13df-4ec2-9674-6acab1c78876",
+    "fecha_encontrada": "2026-09-19",
+    "titulo": "Bautizar lo que descubres con el nombre de tu ídolo: si los científicos le pusieron 'Slash' a una serpiente nueva, ¿qué animal o lugar chileno merece llevar el nombre de un artista nacional?",
+    "gancho": "La ciencia le rindió homenaje a Slash, guitarrista de Guns N' Roses, bautizando una serpiente nueva con su nombre. Chile tiene fauna propia y artistas con karma de sobra.",
+    "por_que_conversar": "El debate de qué nombre de artista, personaje o figura chilena merece ser inmortalizado en un animal o especie da para un segmento completamente ridículo y creativo: ¿el cóndor de Los Prisioneros, el pingüino de Bombín Ataque, el puma de La Sonora Palacios?",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del descubrimiento de nueva especie de serpiente en Nueva Guinea bautizada como 'Slash' (ScienceDaily, 18 septiembre 2026)",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
   }
 ]
