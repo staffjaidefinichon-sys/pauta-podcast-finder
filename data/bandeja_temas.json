@@ -3441,5 +3441,49 @@
     "basado_en": "Noticia del descubrimiento de nueva especie de serpiente en Nueva Guinea bautizada como 'Slash' (ScienceDaily, 18 septiembre 2026)",
     "semana": "2026-09-23",
     "estado": "en_pauta"
+  },
+  {
+    "id": "ab6a110e-e6c4-4ea9-b70e-5db393a537d9",
+    "fecha_encontrada": "2026-09-20",
+    "titulo": "El Gato con Sombrero ya es amenaza criminal: ¿los personajes infantiles son el nuevo miedo del siglo XXI o simplemente nos merecemos esto?",
+    "gancho": "Un personaje de Dr. Seuss tiene en alerta a policías, padres y colegios en tres países. La infancia ya no es lo que era.",
+    "por_que_conversar": "Da para repasar toda la lista de personajes 'inofensivos' de la infancia que podrían convertirse en amenaza viral si alguien decide disfrazarse: ¿qué sería peor en Chile, el Gato con Sombrero, el Pato Donald o el Pájaro Loco deambulando de noche por el barrio? Es también una conversación sobre cómo Internet convierte cualquier cosa tierna en algo de terror en 48 horas.",
+    "categoria": "absurdo",
+    "basado_en": "Tendencia viral global de septiembre 2026 donde imágenes y personas disfrazadas del Gato con Sombrero de Dr. Seuss generaron alertas policiales reales en EE.UU. y Canadá",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1444318b-40ec-4a5c-afe8-ef4036f681e6",
+    "fecha_encontrada": "2026-09-20",
+    "titulo": "El autosabotaje como superpoder: ¿por qué cuando algo sale mal el chileno tiene un talento natural para empeorarlo exactamente en el momento crítico?",
+    "gancho": "Un tipo le robó el camión a los bomberos mientras le apagaban el incendio de su propia casa. Y nosotros también lo haríamos.",
+    "por_que_conversar": "El caso del hombre de New Hampshire que destruyó el carro de bomberos durante su propio incendio es el ejemplo perfecto para hablar del autosabotaje humano universal, pero con tono chileno: la marraqueta que se te cae al suelo cara arriba, el permiso de circulación que se vence el día que te para carabineros, el asado que arruinas intentando arreglarlo. ¿Tiene el chileno un récord oculto en el deporte del autosabotaje?",
+    "categoria": "observacional",
+    "basado_en": "Noticia real de septiembre 2026: hombre en New Hampshire robó camión de bomberos durante el incendio de su propia casa y lo usó para embestirlos",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "01c6b7a1-cf91-4482-aca0-5646ce197496",
+    "fecha_encontrada": "2026-09-20",
+    "titulo": "Contrabando creativo: si alguien metió 200 lagartijas en calcetines para pasar aduana, ¿qué objeto absurdo intentaría meter el chileno promedio en una maleta?",
+    "gancho": "Doscientas lagartijas vivas en 22 pares de calcetines. La aduana ya no sabe qué esperar.",
+    "por_que_conversar": "El caso de los calcetines con lagartijas abre la conversación más chilena posible: el arte de meter cosas 'no declaradas' en el equipaje. Del queso de oveja envuelto en ropa interior al cuchillo carnicero entre las revistas, el chileno tiene una tradición oral de contrabando doméstico que da para horas de anécdotas. ¿Cuál es el objeto más ridículo que alguien ha intentado pasar sin declarar y por qué siempre lo pillan justo a ellos?",
+    "categoria": "absurdo",
+    "basado_en": "Noticia real: pasajero mexicano detenido en Tokio con 200 lagartijas ocultas en calcetines dentro de su maleta (agosto 2026)",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "63f7cafc-9a6d-4fcd-936d-0784697a037c",
+    "fecha_encontrada": "2026-09-20",
+    "titulo": "El taco humano: ¿cuál es el lugar más insólito en el que un chileno podría quedar atrapado y cuánto tardaría en pedir ayuda (o en admitirlo)?",
+    "gancho": "Un hombre pasó ocho horas dentro de un baño portátil. El chileno promedio habría esperado doce antes de llamar a alguien.",
+    "por_que_conversar": "El hombre de Kansas City atrapado ocho horas dentro del depósito de un baño portátil es el punto de partida para hablar del estoicismo extremo versus la capacidad del chileno de aguantar situaciones absurdas antes de pedir auxilio. ¿El chileno pide ayuda cuando lo necesita o prefiere pasar ocho horas en silencio digno? Da para anécdotas de encierros, trabas y momentos donde el orgullo le ganó al sentido común.",
+    "categoria": "observacional",
+    "basado_en": "Noticia real: hombre de Kansas City atrapado 8 horas dentro del tanque de un baño portátil (julio 2026)",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
   }
 ]
