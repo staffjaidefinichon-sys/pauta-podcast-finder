@@ -3485,5 +3485,49 @@
     "basado_en": "Noticia real: hombre de Kansas City atrapado 8 horas dentro del tanque de un baño portátil (julio 2026)",
     "semana": "2026-09-23",
     "estado": "en_pauta"
+  },
+  {
+    "id": "05321331-5a96-495f-a866-015264c89d52",
+    "fecha_encontrada": "2026-09-21",
+    "titulo": "La yegua como máquina industrial: ¿el campo chileno tiene tecnología propia que el mundo no entiende?",
+    "gancho": "Mientras en Silicon Valley diseñan robots agrícolas, en Chile un caballo sigue siendo la solución más efectiva y con más carácter.",
+    "por_que_conversar": "Da para hablar con humor sobre la brecha campo-ciudad en Chile, los inventos locales que jamás necesitaron manual y el momento en que alguien del norte chico le explica a un santiaguino qué es trillar. También para debatir qué otros 'aparatos' chilenos rurales merecen una patente internacional.",
+    "categoria": "observacional",
+    "basado_en": "Video viral del 21 de septiembre sobre la trilla a yegua suelta en el campo chileno que circuló en redes.",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6de069ca-db1e-4550-8ab3-359155e1e933",
+    "fecha_encontrada": "2026-09-21",
+    "titulo": "Los animales borrachos del mundo: si una ardilla puede quedar en modo agresivo con peras fermentadas, ¿qué pasa si le das chicha a un queltehue?",
+    "gancho": "El reino animal descubrió el alcohol antes de que nosotros inventáramos el vino y, aparentemente, lo maneja bastante peor.",
+    "por_que_conversar": "La ardilla karateca de Queens, los ciervos borrachos de Francia y los osos con instinto de delivery son la excusa perfecta para debatir si los animales tienen mejor o peor control bajo los efectos del alcohol que el chileno promedio en un 18 extendido. Da para inventar cuál sería la bebida típica de cada animal chileno y qué haría después de tomársela.",
+    "categoria": "absurdo",
+    "basado_en": "Ardilla borracha atacando vecinos en Queens (HuffPost) + policía francesa advirtiendo de ciervos borrachos (noticia previa aprobada) + patrón mundial de animales intoxicados con fruta fermentada.",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "92ed2505-ade1-47af-a034-80021225e131",
+    "fecha_encontrada": "2026-09-21",
+    "titulo": "Planificar en exceso algo que la otra persona ni va a recordar: el deporte nacional chileno de sufrir por anticipado para el recuerdo ajeno",
+    "gancho": "¿Para quién es el esfuerzo: para el bebé que no va a acordarse del Papa, para el hijo que no pidió el regalo de cumpleaños o para los papás que van a tener la foto enmarcada en el living?",
+    "por_que_conversar": "Los padres que 'lo planificaron todo' para llevar a su bebé a ver al Papa es el disparador perfecto para hablar del chileno que hace sacrificios épicos por experiencias que la otra persona no pidió ni va a recordar. Da para contar los casos más extremos: el regalo de cumpleaños que nunca se abrió, el viaje familiar donde solo sufrieron los adultos y la foto del bautizo que le da vergüenza al bautizado 30 años después.",
+    "categoria": "observacional",
+    "basado_en": "Viral chileno de pareja que 'lo planificó todo' para llevar a su bebé a conocer al Papa León XIV (BioBioChile).",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b84eb5e9-7ede-4584-bdcc-a63a4962caf2",
+    "fecha_encontrada": "2026-09-21",
+    "titulo": "Si la ciencia ya puede grabar lo que piensa un ratón, ¿cuánto falta para que graben lo que piensa el chileno en el taco, en la fila del banco o en la once familiar?",
+    "gancho": "Los científicos reconstruyeron en video la mente de un ratón. La pregunta incómoda es: ¿querrías que grabaran la tuya?",
+    "por_que_conversar": "El avance de leer neuronas en tiempo real es la excusa más absurda y más legítima para hablar de los pensamientos que el chileno jamás admitiría en voz alta: lo que piensa en el taco cuando alguien se le mete, lo que piensa en la reunión de apoderados y lo que piensa cuando su suegra le dice 'no, si a mí me da lo mismo'. Da para un segmento de confesiones anónimas con humor.",
+    "categoria": "curioso",
+    "basado_en": "Estudio de ScienceDaily (16 sept 2026) donde científicos reconstruyeron en video lo que ven los ratones desde la actividad neuronal.",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
   }
 ]

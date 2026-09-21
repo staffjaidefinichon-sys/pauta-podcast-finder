@@ -4164,5 +4164,57 @@
     "region": "mundo",
     "semana": "2026-09-23",
     "estado": "en_pauta"
+  },
+  {
+    "id": "4a6c7a80-6cbe-4ae8-86cc-9aab176bb708",
+    "fecha_encontrada": "2026-09-21",
+    "titular": "Cabras rabiosas recorren asilos de ancianos, fiestas de regreso a clases y un picnic masónico durante un mes entero en EE.UU.",
+    "resumen": "Un grupo de cabras bebé resultaron estar infectadas con rabia y durante semanas estuvieron siendo llevadas de paseo por eventos públicos, incluyendo hogares de adultos mayores y actividades escolares, antes de que alguien notara el problema.",
+    "fuente": "Odd News",
+    "url": "https://oddnews.com/topic/animals/",
+    "por_que_humor": "La secuencia de eventos es tan absurda que parece un sketch: cabras rabiosas de visita en un picnic masónico, una fiesta de colegio y una residencia de ancianos. La abuela que quería acariciar a una cabra terminó con una 'nueva relación con el departamento de salud'.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d94ef812-2e96-469c-8b77-e7ed134e2e58",
+    "fecha_encontrada": "2026-09-21",
+    "titular": "Policía de Nuevo México se alió con vaqueros profesionales para atrapar un caballo que escapó en pleno desfile de Santa Fe",
+    "resumen": "Un caballo que esperaba para participar en un desfile decidió que no era su tarde y escapó por las calles de Santa Fe. La policía local tuvo que llamar a vaqueros reales para capturarlo, en una escena que parecía sacada del Lejano Oeste.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/17/horse-escaped-parade-santa-fe-cowboys/",
+    "por_que_humor": "La ciudad de Santa Fe en 2026 tuvo que recurrir a vaqueros con lazo para resolver un problema que ninguna app de gestión de emergencias contemplaba. Da para imaginar el parte policial: 'se procedió a contratar vaquería especializada'.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1a20a216-279a-46a8-8adc-7b32a19db8ef",
+    "fecha_encontrada": "2026-09-21",
+    "titular": "Padres chilenos 'lo planificaron todo' para que su bebé conociera al Papa León XIV y el video se volvió viral",
+    "resumen": "Una pareja chilena reveló en una entrevista cómo organizaron meticulosamente cada detalle del viaje para que su hijo recién nacido pudiera conocer al Papa, convirtiendo el logro en un fenómeno viral de orgullo patrio y planificación extrema.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/biobiotv/",
+    "por_que_humor": "El nivel de coordinación logística para llevar a un bebé que no entiende nada a conocer al Papa es la cima del 'esto lo hago por él cuando sea grande': da para imaginar la presentación en PowerPoint que prepararon y la cara del niño en la foto.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "8c2a3eb8-f9f2-4687-90cd-b81845b8b19a",
+    "fecha_encontrada": "2026-09-21",
+    "titular": "Serpiente venenosa encontrada en la playa de California: una yellow-bellied sea snake, rarísima en el estado, fue filmada por un turista",
+    "resumen": "Un visitante a una playa del sur de California grabó en video una serpiente de mar de vientre amarillo, una de las más venenosas del Pacífico y sumamente rara en esas costas, lo que generó alarma y fascinación simultáneamente.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/17/yellow-bellied-sea-snake-california-beach/",
+    "por_que_humor": "Un bañista californiano encuentra en la orilla una de las serpientes más venenosas del planeta: la diferencia entre un día de playa normal y una anécdota que contarás toda tu vida es apenas cuestión de metros de distancia.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
   }
 ]
