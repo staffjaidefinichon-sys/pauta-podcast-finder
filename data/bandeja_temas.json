@@ -3529,5 +3529,38 @@
     "basado_en": "Estudio de ScienceDaily (16 sept 2026) donde científicos reconstruyeron en video lo que ven los ratones desde la actividad neuronal.",
     "semana": "2026-09-23",
     "estado": "en_pauta"
+  },
+  {
+    "id": "ac2a8291-7f27-45d1-8aee-85cc4b8df413",
+    "fecha_encontrada": "2026-09-22",
+    "titulo": "TikTok inventó una tradición chilena en 48 horas: ¿somos el país más fácil de manipular o simplemente el más divertido?",
+    "gancho": "Chile adoptó el 'día de las flores amarillas' basado en Floricienta, una teleserie argentina de hace 20 años, porque TikTok lo dijo.",
+    "por_que_conversar": "Da para hablar de cuántas 'tradiciones' chilenas son en realidad inventadas hace cinco minutos por una app, cuántas generaciones tardan en volverse 'costumbre de toda la vida' y si el chileno necesita que alguien le diga cuándo hacer algo romántico para finalmente hacerlo.",
+    "categoria": "observacional",
+    "basado_en": "Trend viral del 21 de septiembre en Chile con flores amarillas y Floricienta explotando en TikTok e Instagram.",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e26cf6f2-b68b-4b30-91ac-6359a4a6afc0",
+    "fecha_encontrada": "2026-09-22",
+    "titulo": "El robot que noqueó al influencer: ¿cuándo exactamente el humano decidió que pegarle a una máquina era una buena idea?",
+    "gancho": "Un influencer retó a un robot a pelear, conectó varios golpes... y terminó en la lona. La máquina no tuvo comentarios al respecto.",
+    "por_que_conversar": "Da para debatir si esto es el momento en que definitivamente perdimos como especie, quién tiene la culpa —el que fabricó el robot o el que decidió pegarle— y qué pasaría si en Chile alguien retara al robot de la caja de un banco a una pelea callejera.",
+    "categoria": "absurdo",
+    "basado_en": "Viral mundial del influencer italiano noqueado por robot humanoide de combate, septiembre 2026.",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5bb9e480-5b6a-4e43-a2fe-4372d2cd8142",
+    "fecha_encontrada": "2026-09-22",
+    "titulo": "Empezó la primavera bajo un diluvio: ¿Chile tiene las estaciones del año que le corresponden o simplemente vive en modo beta permanente?",
+    "gancho": "El primer día oficial de primavera en Chile llegó acompañado de alarma por 120 mm de lluvia en seis regiones.",
+    "por_que_conversar": "Da para hablar de la primavera chilena como concepto abstracto que el clima nunca respeta, comparar regiones (el norte muerto de calor, el sur bajo agua, Santiago con las dos cosas a la vez), y preguntarse si el chileno en algún momento dejó de sorprenderse de que el tiempo no tenga ninguna lógica.",
+    "categoria": "observacional",
+    "basado_en": "Alerta meteorológica del 22 de septiembre de 2026 por sistema frontal de primavera con lluvias extremas en Chile.",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
   }
 ]

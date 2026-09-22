@@ -4216,5 +4216,70 @@
     "region": "mundo",
     "semana": "2026-09-23",
     "estado": "en_pauta"
+  },
+  {
+    "id": "becd8a0e-ddf5-442f-b8e0-6f4519374a0f",
+    "fecha_encontrada": "2026-09-22",
+    "titular": "Influencer italiano desafió a robot estilo Terminator en el ring y terminó noqueado en la lona",
+    "resumen": "Un influencer aceptó pelear contra un robot humanoide de combate y, aunque al principio conectó varios golpes, terminó derribado ante la mirada atónita de las redes sociales. El video encendió los debates sobre si esto es deporte, espectáculo o simplemente el fin de la humanidad.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/09/22/el-nocaut-que-encendio-las-redes-influencer-desafio-a-robot-estilo-terminator-y-termino-en-la-lona.shtml",
+    "por_que_humor": "El sueño de cualquier influencer: buscar pelea con una máquina sin sentimientos y perder en segundos ante el mundo entero. Da para preguntar qué pensó exactamente en el momento en que decidió que esto era buena idea.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5ecaa4a0-9490-4c9a-9c06-8d327d0eb9ae",
+    "fecha_encontrada": "2026-09-22",
+    "titular": "Australia descubrió que los comederos de pájaros en el jardín podrían ser el epicentro del próximo brote de gripe aviar H5N1",
+    "resumen": "Científicos australianos advirtieron que los comederos de aves domésticos están reuniendo especies que normalmente no se juntan, creando el ambiente perfecto para que el H5N1 salte entre ellas. La recomendación oficial: deja de darle comida a los pajaritos.",
+    "fuente": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/news/plants_animals/animals/",
+    "por_que_humor": "El comedero de pajaritos que la abuela tiene en el patio —el símbolo más inofensivo del mundo— resulta ser potencialmente el origen del apocalipsis viral. El nivel de irresponsabilidad involuntaria es total.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "470d0d5c-b5b0-499e-ae2a-4c3f4144a248",
+    "fecha_encontrada": "2026-09-22",
+    "titular": "Chile arranca la primavera con un TikTok masivo de flores amarillas y Floricienta: el país descubrió el 21 de septiembre en 2026",
+    "resumen": "Un trend viral en TikTok convirtió el primer día de primavera en Chile en el 'día de las flores amarillas', impulsado por una canción de la teleserie argentina Floricienta de los 2000. Miles de chilenos regalaron flores amarillas a sus parejas siguiendo el ritual inventado por la app.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/sociedad/viral/2026/09/21/por-que-regalar-flores-amarillas-este-21-de-septiembre-el-origen-de-la-nueva-costumbre-en-chile.shtml",
+    "por_que_humor": "Chile adoptó en 48 horas una 'tradición ancestral' inventada por TikTok basada en una teleserie argentina de hace 20 años. Da para preguntar cuántas 'tradiciones' chilenas tienen en realidad origen en una app gringa y un algoritmo.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f0599b20-a375-4d12-b56d-477bf320f4f2",
+    "fecha_encontrada": "2026-09-22",
+    "titular": "Lluvia histórica de primavera: Chile entra al 22 de septiembre con alerta por hasta 120 mm de agua en seis regiones",
+    "resumen": "La Dirección Meteorológica de Chile emitió alarma por un sistema frontal que traerá precipitaciones extremas justo en el arranque de la primavera, afectando desde la Región Metropolitana hasta el Biobío. El país entró a la estación más alegre del año literalmente bajo el agua.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/09/22/sistema-frontal-traera-hasta-120-mm-de-lluvia-en-estas-regiones-direccion-meteorologica-emitio-alarma.shtml",
+    "por_que_humor": "Chile celebró el inicio de la primavera con una alarma de lluvia histórica. La naturaleza chilena literalmente no leyó el calendario. Da para hablar de si acá la primavera existe de verdad o es solo un mito que los meteorólogos alimentan.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "83d014b1-8bcb-4117-baed-4b5fc6444229",
+    "fecha_encontrada": "2026-09-22",
+    "titular": "La Seremi de Salud decomisó más de 8.600 kilos de alimentos durante Fiestas Patrias en la región del Biobío",
+    "resumen": "Durante las inspecciones de Fiestas Patrias, la autoridad sanitaria de la región del Biobío incautó más de ocho toneladas y media de alimentos en mal estado o sin certificación. Las empanadas, los anticuchos y los chorizos en fondas fueron los principales afectados.",
+    "fuente": "El Conquistador Concepción",
+    "url": "https://www.elconquistadorconcepcion.cl/2026/09/22/mesa-de-noticias-22-de-septiembre-2026/",
+    "por_que_humor": "8.600 kilos de comida decomisada en el Dieciocho es la cantidad exacta que el chileno promedio habría comido igual. Da para hablar de qué tan difícil es que un chileno en fonda rechace un anticucho 'por prevención'.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
   }
 ]
