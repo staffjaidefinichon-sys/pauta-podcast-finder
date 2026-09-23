@@ -3562,5 +3562,49 @@
     "basado_en": "Alerta meteorológica del 22 de septiembre de 2026 por sistema frontal de primavera con lluvias extremas en Chile.",
     "semana": "2026-09-23",
     "estado": "en_pauta"
+  },
+  {
+    "id": "e176f659-5e77-41dc-8bdb-01f0015b67f0",
+    "fecha_encontrada": "2026-09-23",
+    "titulo": "Estar muerto en el sistema y vivo en la realidad: ¿qué tan fácil le sería al Estado chileno 'eliminarte' con un error de formulario?",
+    "gancho": "Un hombre de Valparaíso lleva cuatro años muerto para el Estado, con tumba incluida, y nadie le ha podido 'resucitar' en el sistema.",
+    "por_que_conversar": "El caso del hombre declarado muerto por error abre la pregunta más kafkiana de la chilenidad: ¿qué tan preparado está el Estado para reconocer que te equivocaste con alguien y corregirlo? Da para hablar del ServiEstado, el Fonasa, la AFP y la aterradora burocracia que convierte un error tipográfico en cuatro años de limbo existencial. ¿Cuántos chilenos viven en algún limbo burocrático sin saberlo todavía?",
+    "categoria": "observacional",
+    "basado_en": "Caso viral del hombre de Valparaíso declarado muerto por error en ServiEstado, publicado el 23 de septiembre de 2026.",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a66677ed-197d-4b08-a6c5-4f5265db225f",
+    "fecha_encontrada": "2026-09-23",
+    "titulo": "El vecino del bus con el altavoz a tope: ¿por qué Chile no tiene multa para el sonido ajeno y cuánto recaudaría si la tuviera?",
+    "gancho": "Singapur ya multa con 400 dólares al que pone música sin audífonos en el transporte público. Chile lleva décadas tolerando el reggaetón a las 7 AM.",
+    "por_que_conversar": "El fenómeno del 'altavoz sin audífonos' es universal, pero en Chile alcanza niveles épicos: desde el bus interurbano hasta el Metro, siempre hay alguien con el video a full volumen. Da para armar el ranking de los peores sonidos no pedidos de la micro chilena, debatir si la multa de Singapur es genial o autoritaria, y preguntar si el chileno cambiaría su comportamiento con una multa o simplemente subiría más el volumen por rebeldía.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de la multa de Singapur a pasajeros que ponen música sin audífonos en el transporte público, trending esta semana.",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "174d965b-f72a-4370-bada-3dd3293ed59e",
+    "fecha_encontrada": "2026-09-23",
+    "titulo": "La mamá que siempre tiene razón: ¿cuántas decisiones de tu vida las tomó tu vieja sin que te dieras cuenta y resultaron ser las mejores?",
+    "gancho": "Una señora obligó a su hija a comprar un raspadín mientras hacían compras y la hija ganó 500.000 dólares. La mamá chilena como oráculo financiero no reconocido.",
+    "por_que_conversar": "El WTF de que tu mamá te haga ganar medio millón de dólares por insistencia es el disparador perfecto para hablar del fenómeno 'la mamá chilena siempre tiene razón'. Da para que cada uno cuente la historia de algo que hizo obligado por su madre y resultó genial (o catastrófico), y para debatir si la intuición materna es un superpoder real o pura coincidencia que recordamos selectivamente.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral de mujer de Virginia que ganó $500.000 en la lotería porque su mamá la obligó a comprar el ticket, publicada el 21 de septiembre de 2026.",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1cdf2625-9e56-42c1-b391-975f562d7fc6",
+    "fecha_encontrada": "2026-09-23",
+    "titulo": "Bootcamp para mapaches vs. sistema educativo chileno: ¿qué institución entrega mejores herramientas de supervivencia para el mundo real?",
+    "gancho": "En Mississippi los mapaches bebés pasan por un entrenamiento militar oficial antes de salir al mundo. En Chile, los humanos salen del colegio sin saber doblar una boleta.",
+    "por_que_conversar": "El absurdo de que un mapache tenga un programa estructurado de preparación para la vida mientras el sistema educativo humano sigue debatiendo si enseñar a hacer la declaración de renta es un disparador perfecto. Da para hablar de todas las cosas que nadie te enseñó en el colegio y tuviste que aprender a los golpes, y para armar la lista de materias que debería tener el 'bootcamp de supervivencia para adultos chilenos': cómo hablar con el banco, cómo leer un contrato, cómo no morir en el primer departamento arrendado.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del 'Raccoon Boot Camp' de Mississippi, programa de rehabilitación militar para mapaches bebés huérfanos, publicada el 21 de septiembre de 2026.",
+    "semana": "2026-09-23",
+    "estado": "en_pauta"
   }
 ]
