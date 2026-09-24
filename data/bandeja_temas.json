@@ -3606,5 +3606,38 @@
     "basado_en": "Noticia del 'Raccoon Boot Camp' de Mississippi, programa de rehabilitación militar para mapaches bebés huérfanos, publicada el 21 de septiembre de 2026.",
     "semana": "2026-09-23",
     "estado": "en_pauta"
+  },
+  {
+    "id": "a4fd10f0-c085-488b-a8f6-daf024bd836f",
+    "fecha_encontrada": "2026-09-24",
+    "titulo": "Chile como pasillo: ¿somos el único país del mundo cuya geografía es en sí misma un meme internacional?",
+    "gancho": "El mundo lleva días riéndose de que Chile es básicamente un corredor con bandera, y nosotros estamos de acuerdo.",
+    "por_que_conversar": "La tendencia viral de los memes sobre lo angosto de Chile da para explorar la identidad nacional desde el humor: ¿nos molesta que nos llamen 'el pasillo de Sudamérica' o en el fondo lo usamos como orgullo? Da para chistes sobre vivir en un país donde el ancho máximo cabe dentro de Buenos Aires, y para imaginar qué pasaría si Chile fuera aún más angosto.",
+    "categoria": "observacional",
+    "basado_en": "Tendencia viral internacional del 22-23 de septiembre de 2026 en TikTok, X e Instagram sobre la forma geográfica de Chile",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5bf0578d-82b6-4415-bff4-c9fdc26d5f89",
+    "fecha_encontrada": "2026-09-24",
+    "titulo": "La 'Tienda de las Inconveniencias': si existiera en Chile, ¿qué productos ridículos pero perfectamente chilenos vendería?",
+    "gancho": "Seattle ya tiene una tienda que vende cables USB pre-enredados y enchufes que no enchufan a nada: la tienda más honesta del mundo.",
+    "por_que_conversar": "La 'Inconvenience Store' de Seattle es el espejo perfecto de miles de trámites, productos y situaciones chilenas cotidianas. Da para inventar el catálogo completo de una versión chilena: filas para sacar número para pedir número, formularios que piden datos que ya entregaste tres veces, el carné de identidad que tarda cuatro meses y llega justo cuando ya no lo necesitas.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de la 'Inconvenience Store' de Seattle, UPI, 22 de septiembre de 2026",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "7402df27-7cd1-4106-a831-bca978be2f34",
+    "fecha_encontrada": "2026-09-24",
+    "titulo": "Bautizar lo que descubres con el nombre de tu serie favorita: si los científicos le pusieron 'Syrax' a un lagarto, ¿qué animal o accidente geográfico chileno merece el nombre de un ícono pop?",
+    "gancho": "La ciencia ya no disimula: los investigadores son tan frikis como el resto y lo demuestran bautizando lagartos con nombres de dragones de HBO.",
+    "por_que_conversar": "La tendencia científica de usar nombres de cultura pop para nuevas especies abre el debate más divertido: ¿qué animal o cerro o bacteria chilena merece llevar el nombre de Bombo Fica, la Tía Paty o el Mago Tapia? Da para inventar propuestas y para preguntar si el queltehue ya tiene el nombre suficientemente ridículo o si se puede mejorar.",
+    "categoria": "absurdo",
+    "basado_en": "Descubrimiento del dragón cornudo Acanthosaura syrax en Tailandia, bautizado en honor a House of the Dragon, agosto 2026",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
   }
 ]
