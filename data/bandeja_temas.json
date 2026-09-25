@@ -3639,5 +3639,38 @@
     "basado_en": "Descubrimiento del dragón cornudo Acanthosaura syrax en Tailandia, bautizado en honor a House of the Dragon, agosto 2026",
     "semana": "2026-09-30",
     "estado": "en_pauta"
+  },
+  {
+    "id": "cddff93c-e5fa-4dde-bfe9-2a78fc2396cf",
+    "fecha_encontrada": "2026-09-25",
+    "titulo": "Tener tu propia tumba y seguir vivo: ¿qué tan fácil le sería al Estado chileno borrarte del mapa con un formulario mal llenado?",
+    "gancho": "Un tipo en Valparaíso tiene su lápida puesta, sin acceso al banco ni a la salud, y la única diferencia con estar muerto de verdad es que él lo sabe.",
+    "por_que_conversar": "El caso de Rodrigo Huenchún abre la pregunta más absurda y más chilena: ¿cuánto poder tiene un error burocrático? Da para imaginar cómo sobrevivir sin RUT, sin Fonasa, sin AFP y sin cuenta bancaria, y para debatir cuánta gente en Chile está 'técnicamente muerta' sin saberlo todavía.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral del 23 de septiembre sobre hombre de Playa Ancha declarado muerto por error, con tumba encontrada en cementerio local",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "0267a4ba-5996-4c54-9a16-32ac0b4f18df",
+    "fecha_encontrada": "2026-09-25",
+    "titulo": "El 'rincón del pedo' en el aula: si existiera en Chile, ¿en qué otro lugar público lo necesitamos con urgencia?",
+    "gancho": "Una maestra en EE.UU. designó un rincón oficial del salón para que los alumnos vayan a tirarse pedos sin molestar, y la pregunta es por qué Chile no lo ha implementado ya.",
+    "por_que_conversar": "La noticia de la semana más absurda abre un debate completamente ridículo pero inexorable: ¿dónde más necesita Chile una zona designada para lo inevitable? Candidatos obvios: el ascensor del edificio, la micro, la fila del banco, la reunión de apoderados. Da para construir un reglamento nacional de zonas de alivio que nadie pidió pero todos necesitan.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral de la semana del 24 de septiembre sobre maestra estadounidense que implementó un 'fart corner' oficial en el aula",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3ccb4799-e0a0-4fb8-a715-4fe696231f6d",
+    "fecha_encontrada": "2026-09-25",
+    "titulo": "El recuerdo más comprometedor que trajiste de un viaje: si la medalla de un maratón puede tener el estadio equivocado, ¿qué tan mal puede salir el souvenir chileno?",
+    "gancho": "Los organizadores del Maratón de Sydney pusieron un estadio alemán en la medalla oficial del evento y decidieron no cambiarlo: el recuerdo de tu vida tiene el logo del país equivocado.",
+    "por_que_conversar": "La medalla con el estadio de Múnich es el souvenir más honesto del mundo: admite el error y sigue. Da para hablar de los recuerdos de viaje más ridículos o avergonzantes que el chileno trae a casa, los que compra 'por el recuerdo' y terminan en el cajón de las cosas raras, y si alguna vez alguien trajo algo tan malo que era mejor no haberlo traído.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de la semana del 24 de septiembre 2026: medalla del Maratón de Sydney con el estadio de Múnich grabado por error",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
   }
 ]

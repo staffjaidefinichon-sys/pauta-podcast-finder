@@ -4463,5 +4463,83 @@
     "region": "mundo",
     "semana": "2026-09-30",
     "estado": "en_pauta"
+  },
+  {
+    "id": "5ffd50fd-12bb-4167-beeb-277472152503",
+    "fecha_encontrada": "2026-09-25",
+    "titular": "Hombre de Playa Ancha lleva semanas 'oficialmente muerto': la PDI encontró una sepultura con su nombre en el cementerio y él sigue vivo y muy enojado",
+    "resumen": "Rodrigo Huenchún, vecino de Valparaíso, descubrió que un error lo declaró muerto en el sistema: quedó bloqueado en bancos, Fonasa, AFP y AFC. Para rematar, la PDI halló una tumba con su nombre en el cementerio de Playa Ancha. 'Quedé con la plata que tenía en el bolsillo', declaró.",
+    "fuente": "24horas.cl",
+    "url": "https://www.24horas.cl/regiones/zona-centro/valparaiso/24-horas-central-red-valparaiso-martes-22-de-septiem",
+    "por_que_humor": "El absurdo burocrático chileno en su máxima expresión: un tipo vivo que tiene su propia tumba, sin acceso al banco ni a la salud. Da para imaginar si la tumba ya tiene flores y quién las puso.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "bfa37a46-470f-43cb-9f5f-2c9808e23cfc",
+    "fecha_encontrada": "2026-09-25",
+    "titular": "Chile se convierte en meme mundial y todo por culpa de su figura 'estrecha': publicaciones en español, francés, inglés y ruso se burlan de la geografía del país",
+    "resumen": "Entre el 22 y 23 de septiembre explotó en TikTok, X e Instagram una tendencia internacional que exagera lo angosto de Chile: habitaciones donde 'solo cabe una cama', un 'chileno promedio' imposiblemente delgado y hasta el corte de pelo de Arturo Vidal como símbolo nacional de la estrechez.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/sociedad/viral/2026/09/23/el-pasillo-de-latinoamerica-chile-se-vuelve-meme-mundial-y-todo-por-culpa-de-su-estrecha-figura.shtml",
+    "por_que_humor": "El mundo entero burlándose de que Chile es un pasillo y los propios chilenos riendo más fuerte que nadie. El corte de Vidal como ícono nacional de la estrechez es el remate perfecto.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "58eeb1b7-386b-4fe1-bdd3-02a5bdc3c814",
+    "fecha_encontrada": "2026-09-25",
+    "titular": "Manada de ovejas escapa de su corral y hace una 'visita escolar' al colegio secundario del barrio: fotos virales",
+    "resumen": "Un rebaño de ovejas se fugó de su encierro en Estados Unidos y apareció deambulando tranquilamente por los patios y pasillos de una escuela secundaria cercana. Un testigo fotografió la invasión y las imágenes se volvieron virales.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/23/sheep-escape-high-school/",
+    "por_que_humor": "Las ovejas haciendo lo que ningún estudiante puede: entrar al colegio cuando quieren y salir también cuando quieren. Da para imaginar si alguna rindió el examen de matemáticas mejor que el promedio de la clase.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "04d1dbec-8d19-4f50-b17a-5d708bc5f110",
+    "fecha_encontrada": "2026-09-25",
+    "titular": "Policía de Ontario cortó el tráfico de una autopista para rescatar a un mapache que quedó atascado en una coladera",
+    "resumen": "Agentes bloquearon un carril completo de una rampa de acceso en Ontario, Canadá, para rescatar a un mapache que había quedado atorado en una reja de alcantarilla. La operación policial detuvo el flujo vehicular durante varios minutos.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/23/raccoon-sewer-grate-ontario-police/",
+    "por_que_humor": "Detener el tráfico de una autopista entera para salvar a un mapache es la prioridad más canadiense que existe. Da para imaginar el parte policial: 'Rescate animal, coladera, alto impacto vial'.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a9ed9a37-d6fb-425d-9098-a88e85d32f9d",
+    "fecha_encontrada": "2026-09-25",
+    "titular": "Abuela escocesa de 78 años bate el récord Guinness como la streamear de Fortnite más anciana del mundo en Twitch",
+    "resumen": "Una mujer de 78 años de Escocia obtuvo el reconocimiento oficial de Guinness World Records como la streamer femenina más longeva de Fortnite en Twitch, superando su propio récord anterior. La abuela lleva años construyendo una comunidad de seguidores en la plataforma.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/24/scotland-grandma-fortnite-guinness-record/",
+    "por_que_humor": "Una abuela de 78 que no solo juega Fortnite sino que tiene más récords que cualquier nieto. Da para preguntarse qué le diría a los millenials que dicen que 'ya están viejos para los videojuegos a los 35'.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "626117a2-5881-4136-9310-d39dd833cbc4",
+    "fecha_encontrada": "2026-09-25",
+    "titular": "La medalla del Maratón de Sydney tenía grabado el estadio equivocado: pusieron el Allianz Arena de Múnich en vez del de Sydney y nadie lo notó hasta después",
+    "resumen": "Los organizadores del Maratón de Sydney encargaron medallas conmemorativas con grabados de íconos locales, pero incluyeron por error el estadio Allianz Arena de Múnich, Alemania, en vez del estadio homónimo de Australia. Con el evento demasiado cerca para corregir el error, decidieron no cambiar las medallas.",
+    "fuente": "Memphis Flyer / Andrews McMeel Syndication",
+    "url": "https://www.memphisflyer.com/news-of-the-weird-week-of-09-24-26/",
+    "por_que_humor": "El recuerdo oficial de tu maratón australiano tiene un estadio alemán. El portavoz dijo que 'no iban a correr de eso'. Literalmente la frase más perfecta de la historia del atletismo.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
   }
 ]
