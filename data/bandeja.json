@@ -4541,5 +4541,83 @@
     "region": "mundo",
     "semana": "2026-09-30",
     "estado": "en_pauta"
+  },
+  {
+    "id": "cd4d6c23-480b-44a6-a664-7baafb572af4",
+    "fecha_encontrada": "2026-09-26",
+    "titular": "'La Nona' de Morandé con Compañía, 99 años, encontrada pidiendo dinero en el Metro San Pablo para comprar pan",
+    "resumen": "Guillermina, conocida como 'La Nona' por su paso por Morandé con Compañía, fue registrada en video pidiendo monedas en la estación Metro San Pablo de Lo Prado. El creador de contenido 'El Rey del Lápiz' le ofreció $10.000 a cambio de dibujarla y el video se volvió viral, movilizando a influencers para ayudarla.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/sociedad/viral/2026/09/26/el-complejo-presente-de-exintegrante-de-morande-con-compania-pide-dinero-en-el-metro-a-sus-99-anos.shtml",
+    "por_que_humor": "La imagen de 'La Nona' a los 99 años siendo retratada en el Metro a cambio de $10.000 —mientras los nominados a los Premios Cordillera salen disparados a buscarle un peluquero— es un episodio tan chileno y tan absurdo que escapa a cualquier guion. Da para hablar de cómo Chile recuerda (o no) a sus figuras de humor.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d252487e-a925-4da2-8e20-3a23a3d14a81",
+    "fecha_encontrada": "2026-09-26",
+    "titular": "Emu escapa de zoo móvil en ciudad japonesa y protagoniza persecución policial de 2 horas por barrio residencial",
+    "resumen": "Un emu se escapó de un zoológico ambulante en Japón y protagonizó una carrera de dos horas por las calles de un barrio residencial, dejando a la policía local corriendo detrás del ave más absurda del planeta.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/24/emu-escape-mobile-zoo-japan-police-chase/",
+    "por_que_humor": "Un emu que le gana en velocidad a la policía japonesa durante dos horas en un barrio tranquilo es el WTF animal más puro de la semana. Da para preguntar qué hace un zoológico móvil, quién aprueba esa idea y si el emu tenía un plan de escape o simplemente tuvo una mañana mala.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "aab41701-079a-48c0-8981-489da6c8e390",
+    "fecha_encontrada": "2026-09-26",
+    "titular": "Bomberos de Florida baten récord Guinness: la bombera más baja del mundo mide 1,35 metros y apaga incendios igual",
+    "resumen": "Una bombera de Florida de 1 metro 35 centímetros de altura obtuvo el Récord Guinness como la mujer más baja en ejercer la profesión de bombero a nivel mundial.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/25/florida-firefighter-shortest-woman-guinness-world-record/",
+    "por_que_humor": "El récord más específico y más improbable de la semana: una mujer que mide 1,35 y apaga edificios completos. Da para imaginar la cara del incendio al verla llegar, y para debatir si en Chile existe algún récord profesional igual de inesperado.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b226ea91-d160-49c4-b4c5-257645c6bb2e",
+    "fecha_encontrada": "2026-09-26",
+    "titular": "Carnero suelto en ciudad de Ohio provoca alerta oficial: autoridades piden a ciudadanos evitar acercarse al animal",
+    "resumen": "Las autoridades de una ciudad de Ohio emitieron una alerta pública para que residentes y turistas se mantuvieran alejados de un carnero 'potencialmente peligroso' que deambulaba por las calles.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/24/ohio-ram-loose-warning-residents/",
+    "por_que_humor": "Una ciudad entera puesta en alerta máxima por un solo carnero que sale a pasear es la demostración más honesta de que EE.UU. no sabe manejar animales que no sean de zoo. Da para imaginar el comunicado oficial de emergencia y compararlo con lo que haría un municipio chileno ('ojo con la oveja en Población Los Aromos').",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "58dcf949-88f1-4a09-91c3-9e37ab0611b2",
+    "fecha_encontrada": "2026-09-26",
+    "titular": "Semana del Oso Gordo: Katmai National Park abre votación popular para elegir al oso más obeso del año como si fuera un Grammy",
+    "resumen": "El parque nacional Katmai en Alaska arrancó su ya tradicional 'Fat Bear Week', donde la ciudadanía vota online para coronar al oso que engordó más durante el verano antes de hibernar.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/09/24/fat-bear-week-katmai-national-park-voting/",
+    "por_que_humor": "El único concurso de popularidad del mundo donde el mérito es haberse comido el salmón más grande posible y lucirlo con orgullo. Da para compararlo con los premios chilenos y preguntarse si alguien en el país podría organizar la 'Semana del Perro Más Acurrucado del Invierno'.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "4197d584-4777-48e0-9014-8e81e54e4555",
+    "fecha_encontrada": "2026-09-26",
+    "titular": "Posible 'familia de Nessies' aparece en Google Earth y desata teorías en todo el mundo esta semana",
+    "resumen": "Una imagen satelital difundida esta semana muestra lo que usuarios describen como una posible 'familia' del monstruo del Lago Ness en Google Earth, desatando una nueva ola de teorías y memes globales.",
+    "fuente": "WIMA / Politixia",
+    "url": "https://politixia.com/2026/09/26/this-weeks-weird-news-9-25-26-1150-wima/",
+    "por_que_humor": "El Loch Ness ya no es un monstruo solitario: ahora tiene familia y apareció en una app que todos usamos para buscar restaurantes. Da para preguntar cuándo Nessie va a aparecer en Waze y si Google va a poner un pin de 'monstruo confirmado'.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
   }
 ]

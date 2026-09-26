@@ -3672,5 +3672,49 @@
     "basado_en": "Noticia de la semana del 24 de septiembre 2026: medalla del Maratón de Sydney con el estadio de Múnich grabado por error",
     "semana": "2026-09-30",
     "estado": "en_pauta"
+  },
+  {
+    "id": "8512e1ae-cba7-4d79-aa22-75818db7e006",
+    "fecha_encontrada": "2026-09-26",
+    "titulo": "La 'Nona' a los 99 años en el Metro y los influencers al rescate: ¿Chile olvidó a sus figuras de humor o simplemente las recuerda demasiado tarde?",
+    "gancho": "La mujer que hizo reír a un país entero en Morandé con Compañía hoy pide monedas en el Metro, y la respuesta del país fue mandarle un dibujante y dos influencers con cámara.",
+    "por_que_conversar": "Da para un debate de fondo con humor negro: la industria del entretenimiento chilena que no tiene sistema de pensión para sus figuras, los influencers como nueva Cruz Roja nacional, y la pregunta inevitable de si Miguelito también va a terminar dibujado a cambio de $10.000 en alguna estación de metro.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral del 25-26 sept 2026 sobre Guillermina 'la Nona' de Morandé con Compañía pediendo dinero en Metro San Pablo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f575ffc3-3d55-4269-ad27-8a2cc5ad2a89",
+    "fecha_encontrada": "2026-09-26",
+    "titulo": "La gordura como mérito: si en EE.UU. votan al oso más gordo del año como si fuera un Grammy, ¿qué campeonato absurdo de 'el más de algo' organizaría Chile?",
+    "gancho": "Existe un concurso oficial donde el oso que más engordó antes de hibernar gana votos populares como si fuera un candidato presidencial, y la gente lo toma muy en serio.",
+    "por_que_conversar": "Dispara el debate de los concursos más absurdos que Chile podría inventar: el quiltro más dormilón, el vecino que más tardó en pagar la cuota del edificio, el auto más oxidado que todavía pasa la revisión técnica. También da para hablar de qué dice de nosotros que nos importe tanto quién es 'el más' de cualquier cosa.",
+    "categoria": "absurdo",
+    "basado_en": "Fat Bear Week de Katmai National Park, en votación activa el 24-26 sept 2026",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c4ce6749-6287-4a49-9043-4fd36a2c112a",
+    "fecha_encontrada": "2026-09-26",
+    "titulo": "Buscar camping en Google Maps y descubrir un cráter geológico: ¿qué encontraría el chileno promedio si mirara con atención lo que tiene debajo de los pies?",
+    "gancho": "Un tipo que buscaba dónde plantar su carpa accidentalmente descubrió una catástrofe geológica de millones de años, y los científicos le dijeron 'sí, tenías razón'.",
+    "por_que_conversar": "El punto de partida es absurdo pero dispara una conversación deliciosa: qué hay bajo el suelo de Chile que nadie ha revisado todavía, si el terremoto del 2010 reveló o destruyó algo importante, y la fantasía chilena de encontrar algo histórico bajo el patio de la abuela. También da para comparar al 'astrónomo amateur canadiense' con el chileno promedio que solo usa Google Maps para ver si hay taco en la 5 Norte.",
+    "categoria": "curioso",
+    "basado_en": "Hallazgo viral de cráter de impacto en Quebec por astrónomo amateur buscando camping, sept 2026",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "cb784650-9a01-455c-a5de-4ba13482938f",
+    "fecha_encontrada": "2026-09-26",
+    "titulo": "El 'chuncho digital': si los influencers son hoy la nueva red de apoyo social en Chile, ¿quién cuida a los que cuidan?",
+    "gancho": "En menos de 48 horas, un dibujante de TikTok reemplazó al Sename, a la municipalidad y al programa de televisión que la abandonó, todo con una cámara y $10.000.",
+    "por_que_conversar": "Da para hablar con ironía y afecto sobre el fenómeno chileno del influencer como bombero social: el que llega primero al accidente, el que junta plata para el enfermo, el que visita a la abuela olvidada. ¿Es esto hermoso o es la señal de que el Estado falló en todo? Y sobre todo: ¿el influencer también necesita que alguien lo cuide a él?",
+    "categoria": "observacional",
+    "basado_en": "Caso 'La Nona' de Morandé + movilización de creadores de contenido en Plaza de Armas por El Kofran, semana del 25 sept 2026",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
   }
 ]
