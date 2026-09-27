@@ -3716,5 +3716,27 @@
     "basado_en": "Caso 'La Nona' de Morandé + movilización de creadores de contenido en Plaza de Armas por El Kofran, semana del 25 sept 2026",
     "semana": "2026-09-30",
     "estado": "en_pauta"
+  },
+  {
+    "id": "10e2290d-8d36-406a-a5aa-f5d14c724074",
+    "fecha_encontrada": "2026-09-27",
+    "titulo": "El carné de identidad del pipí: si los gatos se autentican con 13 ácidos grasos únicos en la orina, ¿cuánto sabe tu mascota de burocracia que vos no sabías?",
+    "gancho": "Los gatos llevan milenios con su propio sistema de identificación biométrica en la orina y ningún humano lo sabía. Mientras tanto, nosotros hacemos cola en el Registro Civil.",
+    "por_que_conversar": "La idea de que el animal más misterioso del planeta resulta ser también el más burocrático —con documentos en el pipí, tarjeta de presentación química y sistema de verificación de identidad— es un absurdo perfecto. Da para comparar con la burocracia chilena, preguntar si el gato callejero del barrio también tiene RUT y hablar de si la ciencia debería enfocarse en cosas más urgentes (o si esto ya es lo más urgente).",
+    "categoria": "absurdo",
+    "basado_en": "Estudio publicado en septiembre 2026 que descubrió que los gatos se identifican entre sí mediante 13 ácidos grasos únicos en su orina",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "85590588-3535-4790-b6e5-70eab404be40",
+    "fecha_encontrada": "2026-09-27",
+    "titulo": "Chile como meme geográfico mundial: ¿ser el país más flaco del planeta es una desgracia, un superpoder o simplemente el chiste más largo de la historia?",
+    "gancho": "El mundo entero se burló esta semana de que Chile es tan angosto que 'solo cabe una cama'. Y los chilenos respondieron con más memes.",
+    "por_que_conversar": "El hecho de que Chile se convierta en meme internacional por su propia forma —algo que no eligió y no puede cambiar— es el punto de partida perfecto para hablar de la identidad chilena y el humor de la autoburla. Da para debatir si ser el país más largo y flaco del mundo es algo de lo que enorgullecerse, qué otros países tienen defectos geográficos igual de graciosos y si el chileno debería patentar el chiste antes de que el algoritmo lo olvide.",
+    "categoria": "observacional",
+    "basado_en": "Tendencia viral internacional de la semana del 22 de septiembre 2026 donde el mundo se burló de la geografía estrecha de Chile en TikTok, X e Instagram",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
   }
 ]
