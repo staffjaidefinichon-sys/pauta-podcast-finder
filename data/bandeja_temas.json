@@ -3782,5 +3782,49 @@
     "basado_en": "Hallazgo científico de septiembre 2026 sobre el consumo habitual de nuez de betel psicoactiva en humanos de hace 25.000 años en Sulawesi.",
     "semana": "2026-09-30",
     "estado": "en_pauta"
+  },
+  {
+    "id": "78491307-e11f-4d6f-b493-f22ee4bcf763",
+    "fecha_encontrada": "2026-09-29",
+    "titulo": "El ser humano que busca camping y encuentra un cráter de asteroide: ¿el chileno está preparado para encontrar algo gigante sin buscarlo?",
+    "gancho": "Un tipo buscaba dónde plantar la carpa y encontró el hoyo que dejó el universo hace millones de años: eso es sobreentrega cósmica.",
+    "por_que_conversar": "Da para una conversación absurda sobre qué encontraría el chileno promedio si mirara con atención lo que tiene debajo de los pies o en su propio barrio: ¿un tesoro, un cráter, o simplemente más humedad y ratones? Permite hablar de la fiebre del 'descubrimiento accidental' y de si en Chile hay cosas gigantes esperando ser encontradas por alguien que solo buscaba estacionar.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral de astrónomo aficionado canadiense que encontró cráter gigante buscando camping en Google Maps (septiembre 2026)",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "7eec3d24-2a0e-4102-a4dd-c3a320d00c38",
+    "fecha_encontrada": "2026-09-29",
+    "titulo": "Galletas de plástico reciclado para astronautas vs. la once chilena: ¿hay algún límite para lo que el ser humano está dispuesto a comer si alguien dice que 'tiene proteínas'?",
+    "gancho": "La NASA convirtió una bolsa plástica en galleta y el astronauta se la tiene que comer igual porque en el espacio no hay dónde reclamar.",
+    "por_que_conversar": "Da para reírse del extremo opuesto de la once chilena —marraqueta, mantequilla, queso fresco— vs. la versión espacial del snack del futuro hecha con PET reciclado. Abre el debate de qué comida absurda el chileno promedio aceptaría comer si alguien dice que 'es saludable' o 'tiene proteína', desde la leche de cucaracha hasta la galleta de bolsa plástica, y cuánto tiempo tardaría en aparecer en el menú de un local de Providencia con nombre en inglés.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia de NASA que desarrolla galletas impresas en 3D hechas de plástico reciclado y residuos agrícolas para misiones espaciales profundas (septiembre 2026)",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c8dc67c2-c085-4c5a-8777-13cb766610a6",
+    "fecha_encontrada": "2026-09-29",
+    "titulo": "El carné de identidad de la orina: si los gatos tienen biometría natural desde hace siglos, ¿qué tan anticuado es el sistema de identificación chileno?",
+    "gancho": "El gato lleva milenios con su propio sistema de identificación personal sin necesidad de foto, firma ni hacer fila en el Registro Civil.",
+    "por_que_conversar": "Da para una conversación irónica sobre burocracia chilena comparada con la eficiencia animal: el gato se identifica en microsegundos con su propio olor, mientras que el chileno hace tres filas, un trámite online que no carga y necesita fotocopia del reverso. Permite hablar de la obsesión nacional con los papeles, el RUT y los formularios, y terminar preguntando si sería más fácil que el Estado nos identificara por el olor.",
+    "categoria": "observacional",
+    "basado_en": "Estudio científico sobre los 13 ácidos grasos en la orina felina que funcionan como carné de identidad individual (ScienceDaily, septiembre 2026)",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "033fd41f-f583-4776-8b7b-9a00b68f605f",
+    "fecha_encontrada": "2026-09-29",
+    "titulo": "49 medallas de oro y nadie lo vio: ¿Chile es el único país del mundo que puede ganar histórico y no enterarse?",
+    "gancho": "Ganamos más oros que nunca en los Juegos Suramericanos y el país estaba ocupado en otra cosa: el chileno es el único ser capaz de ignorar su propia gloria.",
+    "por_que_conversar": "Da para hablar de la selectividad del orgullo chileno: cómo el mismo país que pone el grito al cielo si pierde un partido de fútbol puede pasar completamente por alto 49 medallas de oro en deportes que ni sabe que existen. Permite preguntar en qué disciplinas ganamos exactamente —¿canotaje? ¿tiro al arco? ¿lucha?— y si alguno de esos deportes se podría practicar en el pasillo estrecho de un departamento santiaguino.",
+    "categoria": "observacional",
+    "basado_en": "Chile logra su mejor participación histórica en los Juegos Suramericanos 2026 con 49 medallas de oro, tendencia en El Dínamo (septiembre 2026)",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
   }
 ]

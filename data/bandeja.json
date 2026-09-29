@@ -4645,5 +4645,44 @@
     "region": "chile",
     "semana": "2026-09-30",
     "estado": "en_pauta"
+  },
+  {
+    "id": "511300fc-8d7b-4634-864d-2f2f2740e276",
+    "fecha_encontrada": "2026-09-29",
+    "titular": "Mapaches en peligro de extinción en Cozumel aprenden a convertir basura en pelotas de juguete entre ellos",
+    "resumen": "Científicos descubrieron que los mapaches pigmeos de Cozumel, críticamente en peligro, se están enseñando unos a otros a transformar desechos plásticos humanos en juguetes. Es la primera evidencia de que esta habilidad se transmite socialmente entre los animales.",
+    "fuente": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/smart-news/these-adorable-critically-endangered-pygmy-raccoons-in-cozumel-are-teaching-one-another-to-turn-trash-into-toy-balls-180987001/",
+    "por_que_humor": "Los mapaches llevan años robándole billeteras a turistas y ahora resulta que además tienen escuela propia para reutilizar la basura que el humano deja: son más organizados que cualquier municipio. Da para preguntar cuándo abren una cooperativa.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c544010d-1fbf-44de-a0dc-b8b39daa113d",
+    "fecha_encontrada": "2026-09-29",
+    "titular": "Nuevo pez peludo descubierto y los científicos le pusieron el nombre de 'Sr. Snuffleupagus' de Plaza Sésamo",
+    "resumen": "Una nueva especie de pez fantasma fue descubierta y bautizada en honor al personaje peludo de Plaza Sésamo, porque su apariencia esponjosa le ayuda a camuflarse entre las algas. Los científicos concluyeron que si parece un muppet, que lleve el nombre de uno.",
+    "fuente": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/smart-news/meet-the-newly-discovered-fuzzy-fish-species-named-after-mr-snuffleupagus-from-sesame-street-180986800/",
+    "por_que_humor": "La ciencia marina decidió que el mejor honor que puede darle a un pez nuevo es el nombre de un personaje de TV infantil. Da para preguntar qué animal chileno merece llevar el nombre de un personaje del Chavo del 8 y si el quiltro ya clasificaría como 'Quico'.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2981b4fb-f212-4642-b8dc-1dc18b28a45c",
+    "fecha_encontrada": "2026-09-29",
+    "titular": "Policía de Georgia busca a un hombre que se 'enamoró' de un pato de goma en una tienda y lo usó por 10 minutos",
+    "resumen": "Las autoridades del condado de Chatham, Georgia, buscan a un sospechoso cuyo comportamiento más llamativo fue 'encariñarse' con un pato de goma en un local y quedarse jugando con él durante más de diez minutos antes de ser confrontado.",
+    "fuente": "City Weekly / News of the Weird",
+    "url": "https://www.cityweekly.net/news/news-of-the-weirdseptember-16-2026-e99a7907",
+    "por_que_humor": "Ser buscado por la policía y que el delito más destacable en tu ficha sea 'se encariñó con un pato de goma' es el epítome de la dignidad perdida. Da para imaginar la declaración del testigo y cómo describe el 'crimen' al fiscal.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
   }
 ]
