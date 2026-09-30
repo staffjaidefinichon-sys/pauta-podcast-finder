@@ -4151,7 +4151,8 @@
     "region": "mundo",
     "semana": "2026-09-30",
     "estado": "aprobada",
-    "urls_extra": []
+    "urls_extra": [],
+    "orden": 2
   },
   {
     "id": "cec9f8de-35f4-48c6-a941-0d3124bf3ca2",
@@ -4232,7 +4233,8 @@
     "estado": "aprobada",
     "urls_extra": [
       "https://www.instagram.com/reel/Ddmih9azr68/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=="
-    ]
+    ],
+    "orden": 3
   },
   {
     "id": "5ecaa4a0-9490-4c9a-9c06-8d327d0eb9ae",
@@ -4442,7 +4444,8 @@
     "region": "mundo",
     "semana": "2026-09-30",
     "estado": "aprobada",
-    "urls_extra": []
+    "urls_extra": [],
+    "orden": 4
   },
   {
     "id": "cd6f9074-4f7e-4d4f-a0b1-0a2bd965da93",
@@ -4534,7 +4537,8 @@
     "region": "mundo",
     "semana": "2026-09-30",
     "estado": "aprobada",
-    "urls_extra": []
+    "urls_extra": [],
+    "orden": 5
   },
   {
     "id": "626117a2-5881-4136-9310-d39dd833cbc4",
@@ -4561,7 +4565,8 @@
     "region": "mundo",
     "semana": "2026-09-30",
     "estado": "aprobada",
-    "urls_extra": []
+    "urls_extra": [],
+    "orden": 6
   },
   {
     "id": "b226ea91-d160-49c4-b4c5-257645c6bb2e",
@@ -4680,7 +4685,8 @@
     "region": "mundo",
     "semana": "2026-09-30",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 1
   },
   {
     "id": "5ee9af11-21af-4c3e-afeb-9d2984f9ae79",
@@ -4695,6 +4701,7 @@
     "region": "mundo",
     "semana": "2026-09-30",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 7
   }
 ]
