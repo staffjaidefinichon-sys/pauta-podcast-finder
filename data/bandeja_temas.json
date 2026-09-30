@@ -3826,5 +3826,38 @@
     "basado_en": "Chile logra su mejor participación histórica en los Juegos Suramericanos 2026 con 49 medallas de oro, tendencia en El Dínamo (septiembre 2026)",
     "semana": "2026-09-30",
     "estado": "en_pauta"
+  },
+  {
+    "id": "1b756e52-6ed0-4592-a78b-3736eb86f864",
+    "fecha_encontrada": "2026-09-30",
+    "titulo": "Robarle las cañerías al cuartel de Bomberos: ¿cuál es el lugar más intocable de Chile que alguien se atrevería a saquear igual?",
+    "gancho": "Si alguien le robó el agua a los que apagan incendios, ya no hay nada sagrado.",
+    "por_que_conversar": "El robo al cuartel de Bomberos de Rancagua abre el debate más absurdo y más chileno: ¿qué institución, edificio o persona parecía 'intocable' y resultó que no lo era? Da para un juego de 'rank the audacity': de robarle las cañerías a Bomberos hasta robarle el auto al cura en misa, pasando por el que saca cosas del casino de un hospital. El chileno tiene una fascinación secreta por la audacia extrema ajena.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral del ladrón que saqueó las cañerías del Cuartel General de Bomberos de Rancagua (septiembre 2026)",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c513b8b1-cb79-4541-83b8-576523efffc0",
+    "fecha_encontrada": "2026-09-30",
+    "titulo": "El perro gordo como espejo de su dueño: ¿el estado físico de tu mascota dice más de ti que tu propia cuenta de Instagram?",
+    "gancho": "Si tu perro está gordo, ¿quién tiene realmente el problema?",
+    "por_que_conversar": "Chile ya tiene su concurso de perros gordos viral, lo que abre una conversación eterna: ¿cuánto del estilo de vida del dueño se le traspasa al animal? Da para hablar de los perros que comen sopaipillas, los que tienen más ropa que sus dueños, los quiltros que de alguna forma siempre están en mejor forma que uno y la pregunta filosófica de si en Chile existen perros en dieta o eso es solo un mito urbano.",
+    "categoria": "observacional",
+    "basado_en": "Concurso viral de perros gordos que causó furor en redes sociales chilenas (septiembre 2026)",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1b0df031-ebd5-42f6-8219-ea1aa6c4b7ab",
+    "fecha_encontrada": "2026-09-30",
+    "titulo": "El robot que ya corre más rápido que Usain Bolt: ¿en qué actividad humana Chile resistiría más tiempo antes de ser reemplazado por una máquina?",
+    "gancho": "Si ya perdimos la velocidad, ¿qué nos queda exactamente como especie?",
+    "por_que_conversar": "Un robot chino superó a Bolt y eso abre el debate más existencial del año en clave de humor: ¿qué cosa hace el chileno promedio que todavía no puede hacer una máquina? Da para propuestas absurdas como 'hacer trampa en la fila', 'quemar el asado exactamente el día que importa' o 'discutir con la abuela sobre política', y para preguntarse si el robot tendría paciencia para el taco de las 8 de la mañana o simplemente colapsaría.",
+    "categoria": "absurdo",
+    "basado_en": "Robot humanoide chino que superó el récord de velocidad de Usain Bolt (septiembre 2026)",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
   }
 ]

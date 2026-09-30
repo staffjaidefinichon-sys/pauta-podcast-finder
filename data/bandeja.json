@@ -4703,5 +4703,44 @@
     "estado": "aprobada",
     "origen": "manual",
     "orden": 3
+  },
+  {
+    "id": "6771bec0-d129-49c6-83e7-07a83b40dd80",
+    "fecha_encontrada": "2026-09-30",
+    "titular": "Ladrón solitario se robó hasta las cañerías de agua del Cuartel General de Bomberos de Rancagua",
+    "resumen": "Un ladrón entró al Cuartel General de Bomberos de Rancagua y se llevó literalmente las cañerías de agua del edificio. El propio titular generó la frase viral: 'Hay que ser bien desgraciado'.",
+    "fuente": "Meganoticias",
+    "url": "https://www.meganoticias.cl/hemeroteca/2026/09/26/",
+    "por_que_humor": "Robarle las cañerías al cuartel de Bomberos —la institución que apaga incendios y rescata gente— es el nivel de descaro absoluto que se escribe solo. Da para preguntar qué tan desesperado hay que estar para robarle el agua a los que apagan incendios, y si el tipo pensó siquiera que podía necesitarlos algún día.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ed924be1-0960-4563-9c05-3e73db63144b",
+    "fecha_encontrada": "2026-09-30",
+    "titular": "Detectan murciélago con rabia en el barrio Lastarria de Santiago y activan operativo de vacunación masiva",
+    "resumen": "Un murciélago con rabia fue encontrado en el barrio Lastarria, uno de los más concurridos y 'cool' de Santiago, desatando un operativo sanitario de emergencia para vacunar a las mascotas del sector.",
+    "fuente": "Meganoticias",
+    "url": "https://www.meganoticias.cl/nacional/",
+    "por_que_humor": "El barrio más hipster de Santiago, lleno de cafés de especialidad y galerías de arte, recibe como visita no esperada un murciélago con rabia. Es el cruce más inesperado de fauna y gentrificación. Da para imaginar la cara de los vecinos con perros de raza y el operativo de vacunación entre las mesas del café.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "fe0441cc-4f89-4f5a-9098-7143f9e097f9",
+    "fecha_encontrada": "2026-09-30",
+    "titular": "Un pueblo inglés votó por declararse 'principado independiente' del Reino Unido y puso un cartel en la entrada",
+    "resumen": "El pequeño pueblo de Piddington, en Oxfordshire, realizó un 'referéndum simbólico' y votó abrumadoramente por convertirse en el 'Principado de Piddington', instalando un cartel oficial en su entrada.",
+    "fuente": "KTLA / AP",
+    "url": "https://ktla.com/news/ap-strange-news/",
+    "por_que_humor": "Un pueblo que se harta del Reino Unido, vota independizarse y pone un letrero como si hubiera ganado algo real es el absurdo político-vecinal más tierno del año. Da para imaginar qué haría Chile si el barrio Yungay o Pomaire decidiera lo mismo.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-09-30",
+    "estado": "en_pauta"
   }
 ]
