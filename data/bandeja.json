@@ -4742,5 +4742,44 @@
     "region": "mundo",
     "semana": "2026-09-30",
     "estado": "en_pauta"
+  },
+  {
+    "id": "2c659b84-9587-407b-8766-e5d74792d184",
+    "fecha_encontrada": "2026-10-01",
+    "titular": "Video viral: ballena jorobada protagoniza salto espectacular frente a las costas de Mejillones y se replica en todo el mundo",
+    "resumen": "Un aficionado capturó el 27 de septiembre el momento exacto en que una ballena jorobada emerge completamente del agua frente a Mejillones, Región de Antofagasta. El registro se viralizó en redes sociales y medios internacionales en cuestión de horas.",
+    "fuente": "Portal Antofagasta",
+    "url": "https://www.portalantofagasta.cl/video-de-ballena-jorobada-saltando-en-mejillones-se-viraliza-en-redes-sociales/",
+    "por_que_humor": "La imagen de una ballena del tamaño de un edificio saltando frente al pueblo más tranquilo del norte grande da para imaginar a los mejilloninos mirando el celular y diciendo 'ah, la ballenita de siempre'. Es el WTF natural que Chile produce sin avisar.",
+    "categoria": "curioso",
+    "region": "chile",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5b6242af-724d-4b00-9dae-17e0cbd0b9e4",
+    "fecha_encontrada": "2026-10-01",
+    "titular": "Santiago City al borde de la desafiliación y su cuenta de Instagram termina en un taller mecánico",
+    "resumen": "El club de Segunda División Santiago City enfrenta una acusación gravísima por presentar documentos falsos ante el Tribunal de Disciplina de la ANFP. Cuando BioBioChile llamó al teléfono oficial del club en Instagram, quien contestó dijo: 'No sé de qué habla. Está hablando con un taller mecánico'.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/01/santiago-city-al-borde-de-la-desafiliacion-escandalo-con-documentos-falsos-peritaje-y-querella.shtml",
+    "por_que_humor": "Un club de fútbol chileno al borde de la desafiliación por fraude cuya línea de contacto oficial en Instagram resulta ser un taller mecánico es el nivel de organización institucional más chileno del año. Da para imaginar a quién más llaman en la ANFP y qué otro rubro contestan.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "cb5a9d9f-7183-4598-9642-419dea4e2df6",
+    "fecha_encontrada": "2026-10-01",
+    "titular": "Cuervo dejó pan en el balcón de su 'cuidadora' humana porque pensó que ella se había quedado sin comida",
+    "resumen": "Una usuaria de redes sociales reportó que dejó de alimentar a los cuervos de su balcón por un día porque se le acabaron las galletas. A la mañana siguiente, los pájaros le habían dejado trozos de pan encima del balcón como si quisieran devolverle el favor.",
+    "fuente": "X / Twitter (viral septiembre 2026)",
+    "url": "https://www.buzzfeed.com/angelicaamartinez/funny-animal-tweets-september-2026",
+    "por_que_humor": "Un cuervo que te lleva comida porque creyó que tenías hambre es el nivel de empatía que ni el grupo de WhatsApp de la familia alcanza. Da para debatir si los cuervos tienen mejor sentido de la reciprocidad que la mayoría de los seres humanos que conocemos.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
   }
 ]
