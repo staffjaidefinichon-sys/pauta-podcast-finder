@@ -3892,5 +3892,38 @@
     "basado_en": "Tweet viral de septiembre 2026 sobre cuervos que dejaron pan en el balcón de su cuidadora cuando dejó de alimentarlos un día",
     "semana": "2026-10-07",
     "estado": "en_pauta"
+  },
+  {
+    "id": "5217f065-5a15-4712-ae2a-657d113dfe3a",
+    "fecha_encontrada": "2026-10-02",
+    "titulo": "El socavón como mascota nacional: ¿cuándo un hoyo en la calle deja de ser un problema y pasa a ser parte de la familia?",
+    "gancho": "600 días abierto y nadie lo tapa: en algún momento el vecindario le puso nombre.",
+    "por_que_conversar": "El socavón eterno de Conchalí es el símbolo perfecto de la resignación chilena ante la infraestructura: hay un punto en que el hoyo ya no es una falla, es una atracción local. Da para contar historias de hoyos míticos del propio barrio, inventar nombres para el de Conchalí y debatir si el chileno promedio reporta el problema o simplemente aprende a esquivarlo.",
+    "categoria": "observacional",
+    "basado_en": "Socavón de Conchalí que supera los 600 días sin reparar, viral en CHV Noticias esta semana.",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "319f1284-3fc1-49dd-9dc3-eafe2f8320f5",
+    "fecha_encontrada": "2026-10-02",
+    "titulo": "Rifar una casa en Chile: ¿plan de negocios genial, grieta legal gigantesca o el nuevo modelo de emprendimiento nacional?",
+    "gancho": "Una influencer rifa su casa de $600 millones y nadie sabe bien si eso es legal, posible o simplemente la idea más atrevida del año.",
+    "por_que_conversar": "La rifa de propiedades no es nueva en el mundo, pero cuando lo hace una figura chilena pública la pregunta se vuelve urgente y cómica: ¿quién fiscaliza eso?, ¿el SII ya se enteró?, ¿cuántos tickets necesitas vender para recuperar los 600 palos? Da para hablar de los planes de negocios más creativos/cuestionables que el chileno ha visto en su vida y si alguno hubiera rifado algo propio.",
+    "categoria": "observacional",
+    "basado_en": "Naya Fácil anuncia rifa de su casa valorada en $600 millones, noticia viral en medios chilenos esta semana.",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e5a144c7-9893-41ba-b48e-5df849817f6a",
+    "fecha_encontrada": "2026-10-02",
+    "titulo": "Los animales ya tienen más récords Guinness que nosotros: ¿en qué momento los bichos ganaron la carrera por la fama mundial?",
+    "gancho": "300 perros en una piscina, un emú que noquea humanos en carretera y una ardilla que tumba búhos dos veces seguidas: los animales están compitiendo en serio.",
+    "por_que_conversar": "Esta semana los animales se robaron todos los titulares absurdos del planeta: hay canes batiendo récords en piscinas, emús peleando en carreteras inglesas y ardillas practicando llaves de lucha libre con búhos. Da para el gran debate de si los animales tienen más ambición que nosotros, cuál sería el animal chileno candidato a récord Guinness (el quiltro playero, el loro de feria) y qué categoría absurda inventaría Chile para ganar uno.",
+    "categoria": "absurdo",
+    "basado_en": "Ola de noticias animales de la última semana: récord de piscina canina en Nevada (UPI), emú callejero en Inglaterra (UPI), finales Comedy Wildlife Awards 2026 con ardilla y búho.",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
   }
 ]
