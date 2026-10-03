@@ -3925,5 +3925,49 @@
     "basado_en": "Ola de noticias animales de la última semana: récord de piscina canina en Nevada (UPI), emú callejero en Inglaterra (UPI), finales Comedy Wildlife Awards 2026 con ardilla y búho.",
     "semana": "2026-10-07",
     "estado": "en_pauta"
+  },
+  {
+    "id": "028d2a21-24ed-4318-a935-331b2c3b8979",
+    "fecha_encontrada": "2026-10-03",
+    "titulo": "¿Chile es el único país del mundo que puede estar fuera de un Mundial y vivirlo igual como si jugara?",
+    "gancho": "El chileno que no clasificó pero igual se pintó la cara, puso la tele y lloró en el segundo tiempo ajeno es el fanático más misterioso de la historia del fútbol.",
+    "por_que_conversar": "Da para hablar de si la pasión futbolera chilena es independiente del resultado clasificatorio, qué partido ajeno vivió el chileno con más intensidad que si fuera propio, y si esto es amor genuino al fútbol o simplemente una excusa para reunirse.",
+    "categoria": "observacional",
+    "basado_en": "Tendencia viral en redes chilenas de seguir el Mundial 2026 sin representación nacional, con memes y coberturas paralelas como si la Roja estuviera jugando",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "cafbecd3-838d-49d3-bc02-90b4b7e7e1fa",
+    "fecha_encontrada": "2026-10-03",
+    "titulo": "El nombre del pueblo que te hace viral sin avisar: ¿Chile tiene los topónimos más accidentalmente graciosos del planeta?",
+    "gancho": "Ibai Llanos viajó a Chile, encontró un pueblo con nombre imposible y el país entero reaccionó como si hubieran ganado un Oscar.",
+    "por_que_conversar": "Da para recorrer el mapa chileno con los nombres más inverosímiles, debatir si los fundadores lo hicieron a propósito, y preguntarse qué pensaría Ibai si llegara a Punta Arenas, Quilpué o Curicó sin preparación previa.",
+    "categoria": "observacional",
+    "basado_en": "Video viral de Ibai Llanos sobre un pueblo del Biobío con nombre particular, tendencia en redes chilenas primera semana de octubre 2026",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "fa089654-8ccd-4309-9ad3-a5149fa28572",
+    "fecha_encontrada": "2026-10-03",
+    "titulo": "El bloopers en vivo: ¿por qué la televisión chilena es el mejor programa de comedia involuntaria del país?",
+    "gancho": "En Chile, el noticiero de las nueve produce más carcajadas sin querer que cualquier sketch de comedia escrito a propósito.",
+    "por_que_conversar": "Da para repasar los mejores momentos de televisión chilena donde el profesionalismo colapsó en vivo —nombres impronunciables, GC imposibles, errores de graficación— y preguntarse si el bloopers involuntario es ya un género televisivo nacional propio.",
+    "categoria": "observacional",
+    "basado_en": "Viral de conductores del 24 Horas perdiendo la compostura con el nombre 'Rosamel Fierro', y el caso anterior de los GC de CHV Noticias; fenómeno recurrente en redes chilenas",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "cfe5591a-0c4e-4b23-9403-ff1ab6e32827",
+    "fecha_encontrada": "2026-10-03",
+    "titulo": "Ganarle un récord Guinness a tu especie entera: ¿los animales ya compiten más seriamente que los humanos?",
+    "gancho": "Un cerdo en skate, un burro de 1,67 metros y otro con orejas de 35 centímetros: los animales están teniendo el mejor año de su carrera profesional.",
+    "por_que_conversar": "Da para debatir qué récord absurdo podría tener un animal chileno —el queltehue más ruidoso de la región, el perro más gordo de la plaza, la gaviota más atrevida del litoral— y si el Libro Guinness debería tener una categoría latinoamericana de fauna local.",
+    "categoria": "absurdo",
+    "basado_en": "Récords Guinness 2026 protagonizados por animales: cerdo skater Norbert, burro Derrick y burra Bambou del santuario de Lincolnshire",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
   }
 ]

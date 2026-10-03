@@ -4872,5 +4872,70 @@
     "region": "mundo",
     "semana": "2026-10-07",
     "estado": "en_pauta"
+  },
+  {
+    "id": "95d5bc5d-8d7d-497c-bb59-a1fa64173924",
+    "fecha_encontrada": "2026-10-03",
+    "titular": "Conductores del noticiero 24 Horas no aguantan la risa en vivo al mencionar el nombre del detenido 'Rosamel Fierro'",
+    "resumen": "Dos presentadores del noticiero chileno 24 Horas perdieron la compostura en plena transmisión en directo al tener que informar la detención de un sujeto con ese nombre. El video se volvió viral en TikTok.",
+    "fuente": "TikTok / 24 Horas Chile",
+    "url": "https://www.tiktok.com/discover/noticias-chistosas-chile",
+    "por_que_humor": "El profesionalismo televisivo rindiéndose ante un nombre que suena a chiste involuntario es el bloopers más chileno del año. Da para imaginar cuántos ensayos hicieron antes de salir al aire y cuántos fallaron igual.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "57d167db-d843-4aa5-a458-7275d243dced",
+    "fecha_encontrada": "2026-10-03",
+    "titular": "BTS no puede usar el Estadio Nacional de Chile para sus shows de octubre: autoridades no autorizan el recinto",
+    "resumen": "La banda de K-pop más grande del mundo quería presentarse en el Estadio Nacional de Santiago en octubre de 2026, pero las autoridades locales no autorizaron el uso del recinto, dejando a miles de fans chilenas sin respuesta.",
+    "fuente": "CNN Chile",
+    "url": "https://cnnespanol.cnn.com/latinoamerica/chile",
+    "por_que_humor": "El país que recibió a todos los artistas del mundo de repente no puede habilitar su propio estadio para la banda más popular del planeta. Da para preguntar qué está pasando en ese estadio que no puede recibir a siete coreanos y 60.000 personas.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3a225261-f3b1-4d0f-bc98-f0ed221689ce",
+    "fecha_encontrada": "2026-10-03",
+    "titular": "Norbert, el cerdo de 68 kilos que patina en skate, bate el récord Guinness 2026 como el porcino más rápido sobre ruedas",
+    "resumen": "El cerdo estadounidense Norbert recorrió 10 metros sobre un skate en solo 11,32 segundos y quedó oficialmente en el Libro Guinness 2026. Su dueño lo celebró en redes como si fuera una medalla olímpica.",
+    "fuente": "Diário do Centro do Mundo / Guinness World Records",
+    "url": "https://www.diariodocentrodomundo.com.br/essencial/do-maior-burro-ao-porco-mais-veloz-os-recordes-mais-impressionantes-do-guiness-2026/",
+    "por_que_humor": "Un cerdo de casi 70 kilos encima de un skate compitiendo contra el cronómetro es el atleta olímpico más inesperado del año. Da para preguntar si entrena en ayunas, si tiene sponsors y qué dieta le permite mantener el peso en categoría de skater.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9b235ae9-ab91-4d6f-89ad-65603e5aba99",
+    "fecha_encontrada": "2026-10-03",
+    "titular": "La enfermedad más rara del mundo solo la tienen dos gemelas de Gales: sin cura, sin causa conocida, y un caso por cada 4.000 millones de personas",
+    "resumen": "Las gemelas Catherine y Kirstie Fields padecen desde los cuatro años una enfermedad neuromuscular tan exclusiva que fue bautizada con su apellido. Son las únicas dos personas afectadas en el planeta.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/10/01/la-enfermedad-mas-rara-del-mundo-no-tiene-cura-y-solo-se-sabe-que-afecta-a-dos-gemelas-de-gales.shtml",
+    "por_que_humor": "Tener la enfermedad más rara del mundo con estadística de 1 en 4.000 millones es ganar la lotería al revés, y encima tener que compartirla con tu gemela. Da para reflexionar sobre qué tan exclusivo puede ser algo que literalmente te inventaste tú.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "18f71b47-f026-4677-827d-857fb2ef2480",
+    "fecha_encontrada": "2026-10-03",
+    "titular": "Derrick, el burro más alto del mundo, y Bambou, la burra con las orejas más largas: ambos del mismo santuario en Lincolnshire entran al Guinness 2026",
+    "resumen": "El santuario de burros de Huttoft, Inglaterra, produce dos récords mundiales a la vez: Derrick mide 1,67 metros de alto y su hermana Bambou tiene orejas de 35 centímetros cada una. Ambos están en el Libro Guinness 2026.",
+    "fuente": "Guinness World Records / Metropoles",
+    "url": "https://www.metropoles.com/ciencia/recordes-inusitados-guinness-2026",
+    "por_que_humor": "Un santuario de burros con dos récords Guinness al mismo tiempo es el establecimiento más sobrecalificado del Reino Unido. Da para preguntar qué piensan los otros burros del santuario que no clasificaron para nada.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
   }
 ]
