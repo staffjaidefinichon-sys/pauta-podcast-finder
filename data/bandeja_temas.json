@@ -3969,5 +3969,27 @@
     "basado_en": "Récords Guinness 2026 protagonizados por animales: cerdo skater Norbert, burro Derrick y burra Bambou del santuario de Lincolnshire",
     "semana": "2026-10-07",
     "estado": "en_pauta"
+  },
+  {
+    "id": "2cba0dcd-8c14-419b-8183-2df86eef2cf8",
+    "fecha_encontrada": "2026-10-04",
+    "titulo": "Comprar algo por $30 y descubrir que vale $1.350.000.000 de pesos: ¿el chileno tiene ojo para el tesoro oculto o siempre compramos la versión sin valor?",
+    "gancho": "Un tipo pagó $30 por un cuadro en una venta de garage y lo vendió en $1,35 millones de dólares. ¿Cuántos chilenos tienen algo así colgado en el living de la abuela sin saberlo?",
+    "por_que_conversar": "Da para hablar del arte chileno de 'guardar cosas porque sí', de la feria americana como ecosistema de tesoros sin descubrir, y de si el chileno promedio tendría el ojo para reconocer una obra de arte o si lo hubiera usado de posavasos. También da para la pregunta filosófica: ¿a qué precio dejás ir algo que no entiendes?",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral esta semana: cuadro comprado en $30 subastado en $1,35 millones de dólares en Nueva York, récord absoluto para la pintora Gertrude Abercrombie.",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "fb92f90a-d85b-49e0-aa94-9dce7b9756b4",
+    "fecha_encontrada": "2026-10-04",
+    "titulo": "El Mundial de Excel existe y Chile manda representante: ¿somos un país que compite en todo lo que puede o simplemente nadie nos avisó antes?",
+    "gancho": "Un joven de Cerro Navia va al Campeonato Mundial de Microsoft Office a representar a Chile. Hay un campeón del mundo de PowerPoint y nadie te había contado.",
+    "por_que_conversar": "Da para explorar el universo paralelo de los campeonatos mundiales que existen sin que nadie los mencione: Excel, Office, ortografía, cálculo mental. ¿Tiene más mérito ser campeón del mundo de VLOOKUP o de fútbol? ¿El DT técnico de la selección de Office tiene más datos que Berizzo? ¿Y cómo se festeja ese gol?",
+    "categoria": "absurdo",
+    "basado_en": "Noticia chilena de la semana: estudiante de Cerro Navia clasificó al Mundial de Microsoft Office. Fenómeno de competencias internacionales insólitas.",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
   }
 ]
