@@ -4035,5 +4035,49 @@
     "basado_en": "Noticia de UPI Odd News, 5 de octubre 2026: hombre de Carolina del Sur compra 50 tickets y gana 50 veces",
     "semana": "2026-10-07",
     "estado": "en_pauta"
+  },
+  {
+    "id": "d5f38664-886d-4c91-8e55-e759f575250e",
+    "fecha_encontrada": "2026-10-06",
+    "titulo": "El contrabando más absurdo: si alguien metió 14 iPhones en la ropa y otro trajo cabezas de serpiente en maleta, ¿qué escondería el chileno promedio en Aduanas?",
+    "gancho": "La aduana chilena está viendo cosas que ningún formulario contempló jamás.",
+    "por_que_conversar": "Da para armar el ranking de los contrabandos más creativos y ridículos de la historia chilena, e imaginar qué declararía cada tipo de persona: el que viene de Miami, el que viene de Bolivia, el que viene de China. Humor observacional puro sobre la picardía nacional y la cara del aduanero.",
+    "categoria": "observacional",
+    "basado_en": "Los dos hallazgos simultáneos de Aduanas Chile esta semana: 14 iPhones escondidos en ropa y una maleta con cabezas de serpiente desde EE.UU.",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "fc5eeb86-c1de-4208-b698-c8f3660b074c",
+    "fecha_encontrada": "2026-10-06",
+    "titulo": "Los animales ya entraron a todos los lugares donde no deberían estar: iglesias, restaurantes, tiendas de antigüedades, campos de golf. ¿Cuándo llegan a Chile?",
+    "gancho": "El raccoon fue a misa, el oso fue a cenar y el ciervo fue de shopping. Los animales están colonizando la civilización humana y nadie los detuvo.",
+    "por_que_conversar": "Da para hacer el recorrido absurdo de la semana animal mundial e imaginar el equivalente chileno: ¿qué animal chileno entraría a qué lugar insólito? ¿Un queltehue en el Jumbo? ¿Una bandada de torcazas en el Metro? ¿Un zorro culpeo en una notaría de Providencia? Humor de absurdo puro con identidad local al final.",
+    "categoria": "absurdo",
+    "basado_en": "Semana cargada de noticias de animales irrumpiendo en lugares humanos: raccoon en iglesia NYC, oso en restaurante Pennsylvania, ciervo en tienda antigüedades Alabama, oso robando palos de golf en BC.",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "cd7e5d50-b164-4e5e-9b8e-14cbb77aed59",
+    "fecha_encontrada": "2026-10-06",
+    "titulo": "Rifar tu casa como si fuera una rifa del colegio: ¿es el nuevo modelo de negocio chileno o simplemente la señal de que el mercado inmobiliario nos rompió el cerebro?",
+    "gancho": "Cuando el precio de las propiedades en Chile llega a niveles imposibles, la solución creativa es: boleto a mil pesos y a ver quién gana la casa.",
+    "por_que_conversar": "El modelo de rifa de propiedades está explotando en Chile y da para hablar de si es un negocio genial, una trampa legal, o simplemente el síntoma más chileno posible de que comprar casa hoy es literalmente una lotería. Da para imaginar qué rifar y quién compraría.",
+    "categoria": "observacional",
+    "basado_en": "Naya Fácil anunció la rifa de su propiedad de $600 millones esta semana, fenómeno que se repite cada vez más en Chile.",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "48ce5a72-81e8-4829-8385-c1d52915b691",
+    "fecha_encontrada": "2026-10-06",
+    "titulo": "El salón de rascado como negocio: si China ya cobra por rascarte donde no llegas, ¿qué servicio ridículo pero necesario falta inventar en Chile?",
+    "gancho": "Hay un negocio que resuelve un problema que todos tienen y que nadie admite públicamente: un picor en la espalda que no alcanzas.",
+    "por_que_conversar": "Da para el segmento más absurdo y más honesto: todos han tenido ese picor imposible de alcanzar. De ahí se abre la conversación de qué otros 'servicios vergonzosos pero necesarios' existen o deberían existir en Chile, y qué negocio ridículo pero brillante falta montar en el país. Humor observacional con posibilidad de improvisación total.",
+    "categoria": "absurdo",
+    "basado_en": "El viral de los 'scratching salons' chinos que se están expandiendo como tratamiento de bienestar, publicado esta semana.",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
   }
 ]

@@ -5054,5 +5054,83 @@
     "region": "mundo",
     "semana": "2026-10-07",
     "estado": "en_pauta"
+  },
+  {
+    "id": "6ffcdf7c-dc0a-4ceb-a802-7fdafffae664",
+    "fecha_encontrada": "2026-10-06",
+    "titular": "Naya Fácil rifó su casa de $600 millones con 5 baños en La Reina para mudarse a un penthouse",
+    "resumen": "La influencer chilena Naya Fácil anunció la rifa de su propiedad avaluada en $600 millones, que tiene 5 baños, para financiar su mudanza a un penthouse. La noticia generó revuelo en redes.",
+    "fuente": "Chilevisión Noticias",
+    "url": "https://www.chilevision.cl/noticias/show/avaluada-en-600-millones-y-con-5-banos-naya-facil-rifa-su-casa-en-la-reina-tras-mudarse-a-penthouse",
+    "por_que_humor": "Rifar una casa de 600 millones como si fuera una rifa del colegio es el nivel de entrepreneurship que Chile no tenía en el catálogo. Da para hablar de si eso es un negocio genial, una grieta legal o simplemente el movimiento más chileno del año.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b2f125fe-df5a-4d94-81e0-84b466e66806",
+    "fecha_encontrada": "2026-10-06",
+    "titular": "Raccoon devoto entra caminando a una iglesia católica de Nueva York durante un servicio de velas nocturno",
+    "resumen": "Un mapache fue captado en video entrando tranquilamente a una iglesia católica de Nueva York en medio de un servicio de velas nocturno, paseándose entre los feligreses como si tuviera reserva en el banco de adelante.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/05/raccoon-visits-catholic-church-New-York-City-candlelight-service/",
+    "por_que_humor": "Un mapache que decide asistir a misa es el animal más espiritual del año. Da para preguntar si estaba buscando refugio, si fue a confesar algo o simplemente tiene más fe que la mitad de los feligreses regulares.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "fd83909f-3929-4f6f-8822-66161ea7490d",
+    "fecha_encontrada": "2026-10-06",
+    "titular": "Oso irrumpe en restaurante de Pennsylvania, inspecciona el podio de entrada y luego saquea el contenedor de basura",
+    "resumen": "Un gran oso negro fue captado en cámara entrando a un restaurante de Pennsylvania, investigando el podio de bienvenida como si fuera a pedir mesa, y luego yéndose directo al contenedor de basura.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/05/bear-wanders-Pennsylvania-restaurant-raids-dumpster/",
+    "por_que_humor": "El oso que llega al restaurante, revisa si hay mesa disponible en el podio de entrada y decide que prefiere el contenedor de basura es la crítica gastronómica más honesta del año. Da para preguntar si dejó reseña en Google.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9939d0db-bea4-492e-bf56-79c3534ec3f6",
+    "fecha_encontrada": "2026-10-06",
+    "titular": "Un ñu escapó de su recinto en un zoológico de Indiana y fue encontrado en el hábitat de al lado como si nada",
+    "resumen": "Un zoológico en Indiana tuvo que evacuar el área cuando un ñu escapó de su recinto y apareció tranquilamente instalado en el hábitat vecino. El animal no mostró ninguna prisa por regresar.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/04/wildebeest-escapes-Indiana-zoo-exhibit-found-neighboring-habitat/",
+    "por_que_humor": "El ñu que escapa de su recinto y aparece en la casa del vecino como si fuera a pedirle sal es el roomie no invitado del año. Da para preguntar si el zoológico le cobró arriendo al vecino o simplemente lo dejó quedarse.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "bcc0947f-9661-401a-a65e-206f2ed37ff2",
+    "fecha_encontrada": "2026-10-06",
+    "titular": "Ciervo destroza la vitrina frontal de una tienda de antigüedades de Alabama y causa caos en el interior",
+    "resumen": "Un ciervo irrumpió a través de la ventana de vidrio de una tienda de antigüedades en Alabama, causando destrozos entre los objetos de colección. Los empleados tuvieron que lidiar con el animal suelto entre vitrinas y muebles antiguos.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/06/deer-crashes-front-window-Alabama-antique-store/",
+    "por_que_humor": "Un ciervo que entra por la vitrina a una tienda de antigüedades es el peor cliente del año: llega sin avisar, rompe todo y no compra nada. Da para preguntar si el seguro cubre 'daños por ciervo' y si se llevó algo de valor.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "713074f0-f056-451f-b62f-c1e214eba954",
+    "fecha_encontrada": "2026-10-06",
+    "titular": "Salones de 'rascado': el nuevo negocio chino donde te pagan para que alguien te rasque donde no llegas",
+    "resumen": "Un emprendedor chino abrió 'salones de rascado' donde los clientes pagan para que un empleado les rasque partes del cuerpo a las que no llegan solos. El negocio se está expandiendo como tratamiento de salud y bienestar.",
+    "fuente": "Oddee",
+    "url": "https://www.oddee.com/scratching-salons-hit-health-treatment-relieves-stress-through-gentle-scratching/",
+    "por_que_humor": "Convertir el acto de rascarse en un negocio de bienestar con empleados especializados es el WTF de emprendimiento del año. Da para preguntar si en Chile alcanzaría con un familiar o si el quiltro de la casa ya presta ese servicio gratis.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
   }
 ]
