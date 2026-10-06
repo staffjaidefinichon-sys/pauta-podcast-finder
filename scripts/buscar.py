@@ -515,6 +515,19 @@ def main() -> int:
     bandeja = leer_json(ARCHIVO_BANDEJA, [])
     bandeja_temas = leer_json(ARCHIVO_BANDEJA_TEMAS, [])
 
+    # --- Caducidad automática: lo pendiente con más de 2 semanas se descarta ---
+    # Una noticia vieja ya no sirve para la pauta; así la bandeja no se acumula.
+    PENDIENTES_CADUCIDAD = {"pendiente", "en_pauta"}
+    limite = (date.fromisoformat(semana_de(fecha)) - timedelta(days=7)).isoformat()
+    caducadas = 0
+    for arr in (bandeja, bandeja_temas):
+        for it in arr:
+            if it.get("estado") in PENDIENTES_CADUCIDAD and it.get("semana", "") < limite:
+                it["estado"] = "descartada"
+                caducadas += 1
+    if caducadas:
+        print(f"  Caducadas {caducadas} pendientes antiguas (anteriores a {limite}).")
+
     cliente = anthropic.Anthropic(api_key=api_key)
     titulos_noticias = [it.get("titular", "") for it in bandeja]
     titulos_temas = [it.get("titulo", "") for it in bandeja_temas]
