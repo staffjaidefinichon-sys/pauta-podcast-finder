@@ -3991,5 +3991,49 @@
     "basado_en": "Noticia chilena de la semana: estudiante de Cerro Navia clasificó al Mundial de Microsoft Office. Fenómeno de competencias internacionales insólitas.",
     "semana": "2026-10-07",
     "estado": "en_pauta"
+  },
+  {
+    "id": "9fa220ba-c10e-4f09-bfd1-296f2d0a60e4",
+    "fecha_encontrada": "2026-10-06",
+    "titulo": "El animal más devoto: mapaches en iglesias, caracoles bendecidos y tiburones en Rapa Nui. ¿Los animales están teniendo una crisis espiritual o simplemente aprendieron que en octubre pasan cosas raras?",
+    "gancho": "Esta semana un mapache entró a una iglesia de Nueva York, en Chile bendijeron caracoles con agua bendita y un tiburón bloqueó la bahía de Isla de Pascua: la naturaleza decidió participar activamente en la semana religiosa sin que nadie la invitara.",
+    "por_que_conversar": "El paralelo de los tres eventos animales de esta semana (mapache en iglesia, tiburón en Rapa Nui, caracol bendecido) da para un segmento de humor absurdo puro: ¿los animales se están organizando? ¿el mapache buscaba perdón o solo un lugar donde no llueva? ¿el tiburón en Isla de Pascua es un moai marino? Y de fondo: ¿bendecir un caracol tiene más o menos sentido que bendecir una casa recién comprada?",
+    "categoria": "absurdo",
+    "basado_en": "Tres noticias simultáneas de esta semana: tiburón en Hanga Roa (5 oct), bendición masiva de mascotas incluyendo caracoles en Chile y el mundo (4-5 oct), y mapache en iglesia de Nueva York (5 oct)",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a83ff515-bd0c-4774-b14a-ffbd18019af0",
+    "fecha_encontrada": "2026-10-06",
+    "titulo": "El sofá como vehículo, el oso como crítico gastronómico y el ciervo con un poste en la cabeza: ¿hay algún límite para lo que el mundo anglosajón normaliza en la vía pública?",
+    "gancho": "Esta semana en EE.UU. hubo dos tipos manejando un sofá por la carretera, un oso inspeccionando un restaurante y un ciervo que llevó una semana entera con un poste clavado en los cuernos sin que nadie hiciera nada.",
+    "por_que_conversar": "La acumulación de WTFs estadounidenses de esta semana da para un segmento donde se pregunta qué tendría que pasar en Chile para que nadie reaccionara durante una semana (¿un cóndor con una micro enganchada en las plumas?), si manejar un sofá es más o menos peligroso que manejar con sueño, y qué reseña le dejaría el oso al restaurante de Pensilvania.",
+    "categoria": "absurdo",
+    "basado_en": "Noticias de UPI Odd News del 1 al 5 de octubre 2026: sofá en carretera (NC), oso en restaurante (PA), ciervo con poste en antlers (NJ)",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "03896ed1-7a46-4b29-90dc-e28dfff13373",
+    "fecha_encontrada": "2026-10-06",
+    "titulo": "El chileno y la eternidad: ¿somos el único país del mundo donde la gente de 99 años pide monedas en el Metro y los de 113 años se mandan tarjetas de cumpleaños desde Brasil?",
+    "gancho": "Esta semana el hombre más viejo del mundo (114) y el segundo más viejo (113) se mandaron tarjetas de felicitación porque tienen el mismo cumpleaños, mientras en Chile 'La Nona' de 99 años pedía monedas en el Metro y Sara Montecinos ganaba el mundial de los 200 metros a los 72.",
+    "por_que_conversar": "El contraste entre cómo el mundo anglosajón celebra la vejez (récords Guinness, tarjetas entre centenarios, titulares de orgullo) y cómo la trata Chile da para una conversación larga con humor observacional: ¿cuándo el chileno decidió que cumplir 70 era 'estar viejo' si el resto del mundo recién empieza a hacer cosas interesantes? Da para hablar de la abuela que patina, el centenario que le escribe al otro centenario y preguntarse qué hace el chileno promedio a los 80 que valga la pena contarle a alguien.",
+    "categoria": "observacional",
+    "basado_en": "Noticias de la semana: hombre más viejo del mundo y segundo más viejo se mandan tarjetas (UPI, oct 5), más el contexto previo de Sara Montecinos (72 años, campeona mundial) y 'La Nona' de 99 años en el Metro",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e1c1c56d-29a4-4f4e-9a28-9530bd8b22b9",
+    "fecha_encontrada": "2026-10-06",
+    "titulo": "Comprar 50 veces el mismo ticket de lotería y ganar 50 veces: ¿el chileno tiene el nivel de convicción (o de desesperación) para intentar esto en el Kino?",
+    "gancho": "Un tipo de Carolina del Sur compró 50 boletos idénticos para el mismo sorteo y ganó 50 veces seguidas: no buscó el número mágico, no siguió ningún método, simplemente multiplicó su fe por 50.",
+    "por_que_conversar": "La noticia dispara la conversación más honesta sobre la relación del chileno con la suerte: ¿alguien haría esto en Chile? ¿Cuánto saldría comprar 50 Kinos? ¿Es esto inteligencia financiera o simplemente el nivel de fe en sí mismo que al chileno le falta? Da para inventar el 'método del volumen' versus el método del número de la abuela, y para preguntar cuántos chilenos llevan años con el mismo número sin ganar nada y qué evidencia necesitarían para cambiar.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de UPI Odd News, 5 de octubre 2026: hombre de Carolina del Sur compra 50 tickets y gana 50 veces",
+    "semana": "2026-10-07",
+    "estado": "en_pauta"
   }
 ]
