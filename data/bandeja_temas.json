@@ -4211,5 +4211,27 @@
     "basado_en": "Noticia de la semana: trío disfrazado de superhéroes persigue ladrón en Norwich, Inglaterra (Shepherd Express, octubre 2026)",
     "semana": "2026-10-14",
     "estado": "en_pauta"
+  },
+  {
+    "id": "5884162a-a04d-49fa-93fa-83c8badeef3e",
+    "fecha_encontrada": "2026-10-10",
+    "titulo": "El aluvión como espejo: ¿Chile construye casas en lugares imposibles o simplemente el país entero es un lugar imposible para vivir?",
+    "gancho": "Cuando llueve en octubre y se inunda Las Condes, la pregunta no es '¿por qué pasó?' sino '¿cómo no pasó antes?'",
+    "por_que_conversar": "El aluvión de San Carlos de Apoquindo en Las Condes (octubre 2026) generó un debate nacional absurdo: uno de los sectores más caros del país resultó ser también uno de los más vulnerables a la lluvia. Da para hablar con humor observacional de la paradoja chilena de pagar fortunas por vivir en un lugar que se inunda con la primera lluvia fuerte de primavera, y de si el chileno promedio revisa el mapa de riesgos antes de firmar la escritura.",
+    "categoria": "observacional",
+    "basado_en": "Aluvión en Las Condes / San Carlos de Apoquindo, octubre 2026, que dominó la agenda nacional y generó debate en redes sobre construcción en zonas de riesgo.",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5adea145-eb2d-45f1-90b7-a854d5ebaa6a",
+    "fecha_encontrada": "2026-10-10",
+    "titulo": "El feriado del 12 de octubre: el único día del año en que el chileno se pelea por saber exactamente qué está celebrando",
+    "gancho": "Feriado sí, pero ¿de qué? Aquí empieza la discusión más larga del año con menos respuesta útil.",
+    "por_que_conversar": "El 12 de octubre, Día del Encuentro de Dos Mundos (antes Día de la Raza), es el feriado más confuso del calendario chileno: nadie sabe bien qué celebra, todos aprovechan igual, y la mitad del país tiene una opinión fuerte al respecto. Da para hablar con humor de los feriados que el chileno aprovecha sin saber exactamente por qué existen, de la especialidad nacional de pedir que 'hagan puente' con cualquier cosa y de si el 12 de octubre el chileno está descansando, reflexionando o simplemente mirando el techo.",
+    "categoria": "observacional",
+    "basado_en": "El lunes 12 de octubre 2026 es feriado en Chile (confirmado por BioBioChile esta semana) y es tendencia la pregunta '¿cómo funcionan el comercio y los supermercados?', lo que revela que el chileno lo primero que pregunta ante un feriado es si puede ir al súper.",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
   }
 ]
