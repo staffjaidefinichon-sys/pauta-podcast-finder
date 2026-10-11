@@ -4233,5 +4233,27 @@
     "basado_en": "El lunes 12 de octubre 2026 es feriado en Chile (confirmado por BioBioChile esta semana) y es tendencia la pregunta '¿cómo funcionan el comercio y los supermercados?', lo que revela que el chileno lo primero que pregunta ante un feriado es si puede ir al súper.",
     "semana": "2026-10-14",
     "estado": "en_pauta"
+  },
+  {
+    "id": "5a23e468-09ca-4ba0-91bb-a92043693838",
+    "fecha_encontrada": "2026-10-11",
+    "titulo": "Vivir 7 años olvidado dentro de un barco varado: ¿el chileno tiene un umbral de tolerancia a la burocracia ilimitado o simplemente nadie lleva la cuenta?",
+    "gancho": "Un barco lleva 7 años encallado en Talcahuano, con gente adentro, comiendo pan de limosna, y recién ahora el país se enteró.",
+    "por_que_conversar": "El caso del buque El Manantial dispara una conversación sobre el absurdo chileno de los trámites que no tienen fin: barcos que quedan 'retenidos' judicialmente 7 años, personas declaradas muertas por el Estado, socavones con nombre propio. Da para preguntarse cuál es la cosa más olvidada que Chile tiene funcionando igual hace décadas sin que nadie la resuelva, y si el chileno promedio lleva en su propia vida algo igualmente encallado desde el 2019.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral de la semana sobre el buque ecuatoriano El Manantial varado en Talcahuano desde 2019, con tripulantes viviendo a bordo en condiciones precarias.",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ca7160c7-9597-4d24-b6c5-1c1dc02c13a4",
+    "fecha_encontrada": "2026-10-11",
+    "titulo": "El disfraz como escudo legal: si Batman puede perseguir ladrones en la calle y es un héroe, ¿qué disfraces habilitan al chileno promedio para hacer lo que quiera impunemente?",
+    "gancho": "Un Batman real detuvo un robo en Norwich esta semana junto a Poison Ivy y Mister Fantástico, y todos los celebran.",
+    "por_que_conversar": "El episodio del Batman de Norwich abre la pregunta de si en Chile el disfraz funciona como permiso social temporal: si vas vestido de algo, ¿las reglas cambian? Da para explorar cuál es el disfraz más poderoso para el chileno —el de carabinero falso, el de técnico del cable, el de inspector municipal— y en qué situaciones cotidianas chilenas el disfraz correcto podría resolverlo todo: la fila del banco, el taco, la reunión de apoderados.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral de la semana: hombre disfrazado de Batman persigue ladrón en Norwich junto a amigos disfrazados de Poison Ivy y Mister Fantástico.",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
   }
 ]

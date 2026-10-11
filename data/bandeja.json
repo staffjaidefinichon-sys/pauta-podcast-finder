@@ -5467,5 +5467,31 @@
     "region": "mundo",
     "semana": "2026-10-14",
     "estado": "en_pauta"
+  },
+  {
+    "id": "0a672be6-cfed-4be1-84f8-660fe8e72e5b",
+    "fecha_encontrada": "2026-10-11",
+    "titular": "Buque ecuatoriano lleva 7 años encallado en Talcahuano y su tripulación sobrevive con pan donado por vecinos",
+    "resumen": "El navío 'El Manantial' permanece varado frente a la playa Isla de Los Reyes desde 2019, con tripulantes viviendo a bordo en condiciones precarias y alimentándose gracias a donaciones de pescadores y residentes del sector. El caso volvió a la luz pública tras el accidente de dos tripulantes en un bote zodiac.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/10/06/condiciones-precarias-preocupacion-por-tripulacion-de-buque-atrapado-hace-7-anos-en-talcahuano.shtml",
+    "por_que_humor": "Un barco olvidado desde 2019 con gente adentro que sobrevive de la caridad del barrio es la novela kafkiana más chilena posible: 7 años esperando que alguien resuelva el papeleo y mientras tanto los vecinos les llevan pan. Da para imaginar qué hace uno en un barco encallado desde hace 7 años: ¿le ponen Wifi, ¿tienen Netflix? ¿en qué momento dejó de ser una emergencia y pasó a ser simplemente 'el vecino del bote'?",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6742fe5a-b00a-413e-a2a7-b999cbcc3fd1",
+    "fecha_encontrada": "2026-10-11",
+    "titular": "Cientos de fans de Spider-Man se visten de superhéroes en el New York Comic Con para intentar romper el récord Guinness del mayor cosplay simultáneo",
+    "resumen": "Cientos de asistentes al New York Comic Con se disfrazaron de Spider-Man al mismo tiempo para intentar batir el récord Guinness de la mayor reunión de personas disfrazadas del mismo personaje.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/09/spider-man-guinness-world-record-nycc/",
+    "por_que_humor": "La ciudad de Nueva York detenida porque cientos de Spider-Man literalmente no pueden diferenciarse entre sí es la imagen más absurda del año. Da para preguntar qué pasa si uno de ellos comete un crimen: ¿los detienen a todos?",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
   }
 ]
