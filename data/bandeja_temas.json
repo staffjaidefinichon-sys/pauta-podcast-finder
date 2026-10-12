@@ -4255,5 +4255,38 @@
     "basado_en": "Noticia viral de la semana: hombre disfrazado de Batman persigue ladrón en Norwich junto a amigos disfrazados de Poison Ivy y Mister Fantástico.",
     "semana": "2026-10-14",
     "estado": "en_pauta"
+  },
+  {
+    "id": "20a9bf34-32e5-4558-b731-aa0061bf23f7",
+    "fecha_encontrada": "2026-10-12",
+    "titulo": "Pagar por dormir: si Japón te da 13 millones por ser el mejor durmiendo, ¿qué campeonato absurdo organizaría Chile donde el premio fuera plata?",
+    "gancho": "El país más trabajólico del mundo ahora paga por dormir, mientras el chileno lleva décadas haciéndolo gratis en el bus, en el trabajo y en misa.",
+    "por_que_conversar": "El concurso japonés de dormir es el disparador perfecto para un juego de conversación: ¿en qué actividad cotidiana chilena —que nadie considera talento— se podría montar un campeonato oficial con premio en efectivo? ¿Campeonato de aguantar el taco sin quejarse? ¿De describir el dolor con más detalle que el médico? ¿De comer más rápido antes de que se enfríe la once? Humor observacional sobre las habilidades invisibles del chileno promedio.",
+    "categoria": "absurdo",
+    "basado_en": "Concurso japonés que paga más de 13 millones de pesos por dormir mejor (BioBioChile, octubre 2026)",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6ef98555-7687-448d-9791-dd89373bd725",
+    "fecha_encontrada": "2026-10-12",
+    "titulo": "El estafador como emprendedor: ¿Chile es el único país donde el que la debe grande vuelve con un nuevo negocio y la gente igual le da una segunda oportunidad?",
+    "gancho": "El Estafador de Tinder acaba de lanzar una app de citas 'seguras' y hay gente que ya se la descargó.",
+    "por_que_conversar": "El regreso triunfal del Estafador de Tinder con su propia plataforma es el pretexto ideal para hablar del fenómeno universal —pero muy chileno también— de perdonar o ignorar el historial de alguien cuando el negocio suena bien. Da para repasar los casos más audaces de 'segunda oportunidad' en Chile, debatir hasta qué punto el descaro puede pasar por carisma y preguntarse qué emprendimiento absurdo podría montar en Chile alguien que fue pillado en algún escándalo.",
+    "categoria": "observacional",
+    "basado_en": "Simon Leviev lanza plataforma de citas propia (La Nación, octubre 2026) y fenómeno de emprendedores chilenos con historial cuestionable",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3375c120-80d6-48fe-b13d-1a7780a52415",
+    "fecha_encontrada": "2026-10-12",
+    "titulo": "GTA en la sala de clases: si los profesores chilenos usaran videojuegos para enseñar, ¿el sistema educativo mejoraría o simplemente habría más chaos en el recreo?",
+    "gancho": "Un profe en Chile usó GTA San Andreas en 8° básico y nadie reprobó música ese semestre.",
+    "por_que_conversar": "El profesor que usó GTA para enseñar es el punto de partida para la conversación más honesta sobre educación en Chile: ¿qué pasaría si los colegios adoptaran los videojuegos que el Mineduc lleva años culpando de todos los males? Da para hacer el juego de qué asignatura se puede enseñar con qué juego (historia con Age of Empires, matemáticas con Among Us, filosofía con The Last of Us) y para hablar de la brecha entre lo que los profes hacen funcionar con ingenio y lo que el sistema les da.",
+    "categoria": "observacional",
+    "basado_en": "Profesor viral que enseñó música con canción de GTA San Andreas a 8° básico en Chile (Meganoticias, octubre 2026)",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
   }
 ]
