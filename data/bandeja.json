@@ -5623,5 +5623,20 @@
     "region": "mundo",
     "semana": "2026-10-14",
     "estado": "en_pauta"
+  },
+  {
+    "id": "2f8ece29-759f-46ec-af60-aaba0d5b3a68",
+    "fecha_encontrada": "2026-10-13",
+    "titular": "La abuela streamer de Fortnite de 78 años que conquistó un Récord Guinness Mundial de la Mujer mas vieja del mundo",
+    "resumen": "Cath Bowie de 78 Año, conocida en la plataforma Twitch por más de 24,000 seguidores bajo el seudónimo de \"grumpygran48\", Cath descubrió el título en 2017 tras observar a su nieto jugar. Un año después abrió su propia cuenta y canal de transmisión impulsada por una peculiar provocación familiar: cuando su nieto dudó que alguien quisiera ver a su abuela jugar videojuegos, la jugadora escocesa lo tomó como un reto personal.",
+    "fuente": "latam.ign.com",
+    "url": "https://latam.ign.com/guinness-world-records-the-videogame/114764/la-abuela-streamer-de-fortnite-de-78-anos-que-conquisto-un-record-guinness-mundial",
+    "urls_extra": [],
+    "por_que_humor": "",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-10-14",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
