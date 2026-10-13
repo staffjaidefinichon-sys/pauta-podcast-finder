@@ -5584,5 +5584,44 @@
     "region": "mundo",
     "semana": "2026-10-14",
     "estado": "en_pauta"
+  },
+  {
+    "id": "e0c6c07d-12ce-4930-89ff-620c5bc69bba",
+    "fecha_encontrada": "2026-10-13",
+    "titular": "Avistamientos masivos de ballenas jorobadas, orcas y delfines sorprenden en costas de Chile esta semana",
+    "resumen": "En los últimos días se registraron ballenas jorobadas en Punta de Choros, orcas en Los Molles y delfines nariz de botella en el Biobío, generando videos virales y sorpresa en las comunidades costeras del país.",
+    "fuente": "Meganoticias",
+    "url": "https://www.meganoticias.cl/shorts/",
+    "por_que_humor": "El océano chileno decidió hacer la versión marina del 'desfile de Fiestas Patrias': ballenas, orcas y delfines, todos juntos al mismo tiempo y nadie los invitó. Da para preguntar si esto es señal buena o si los animales saben algo que nosotros no.",
+    "categoria": "curioso",
+    "region": "chile",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "8a95c3ec-5384-4356-a4b8-08a8b19cc61d",
+    "fecha_encontrada": "2026-10-13",
+    "titular": "Ciberataque en Francia manipuló congeladores de supermercados a distancia y provocó pérdidas millonarias",
+    "resumen": "Un ciberataque sofisticado en Francia logró acceder de forma remota a los sistemas de refrigeración de cadenas de supermercados, alterando las temperaturas de los congeladores y causando la pérdida masiva de alimentos.",
+    "fuente": "Sabes.cl",
+    "url": "https://www.sabes.cl/",
+    "por_que_humor": "El hacker del futuro no roba bancos: congela (literalmente) el salmón de la sección de congelados de un supermercado francés. Da para imaginar al criminal sentado en su cuarto subiendo la temperatura del pollo a 30 grados como acto de terrorismo gastronómico.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "86886745-590d-4279-a85b-8f5a4cac456a",
+    "fecha_encontrada": "2026-10-13",
+    "titular": "La tortuga más vieja del mundo tiene 194 años y su ADN escondía un secreto que nadie esperaba",
+    "resumen": "Jonathan, la tortuga más longeva del planeta con 194 años, fue sometida a un análisis genético que reveló información sorprendente sobre su biología y longevidad. Una fotografía datada entre 1882 y 1886 lo muestra ya completamente adulto.",
+    "fuente": "Naked Capitalism / fuente original científica",
+    "url": "https://nakedcapitalism.com/2026/10/links-10-11-2026.html",
+    "por_que_humor": "Una tortuga de 194 años con secretos en el ADN: el animal más viejo del mundo y encima misterioso. Da para imaginar qué cosas ha visto Jonathan en casi dos siglos de vida y si tiene algún récord Guinness de 'ser el más aburrido de la fiesta por culpa de sus anécdotas del siglo XIX'.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
   }
 ]

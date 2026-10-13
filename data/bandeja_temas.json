@@ -4288,5 +4288,49 @@
     "basado_en": "Profesor viral que enseñó música con canción de GTA San Andreas a 8° básico en Chile (Meganoticias, octubre 2026)",
     "semana": "2026-10-14",
     "estado": "en_pauta"
+  },
+  {
+    "id": "81c99df7-54b9-4ee2-a37a-bf56af721d7b",
+    "fecha_encontrada": "2026-10-13",
+    "titulo": "El 'arañita' chileno: ¿somos el único país del mundo donde los ladrones tienen apodos de superhéroes y nadie lo encuentra raro?",
+    "gancho": "En Chile los criminales tienen más branding que la mayoría de las startups: el 'arañita', el 'topo', el 'fantasma'. ¿Cuándo fue que decidimos que el hampa merece un nombre memorable?",
+    "por_que_conversar": "Chile tiene una tradición rarísima y muy local de ponerle apodos épicos a delincuentes, como si el crimen organizado contratara un equipo de marketing. Da para repasar los mejores apodos del hampa nacional, inventar apodos para criminales imaginarios y debatir si el 'arañita' trepando balcones en Providencia merece ser fichado por Marvel antes que por la PDI.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral del 'arañita' detenido en Providencia trepando balcones para robar, semana del 13 de octubre 2026",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "aeeeec79-abcb-4202-80a7-223df983f0b2",
+    "fecha_encontrada": "2026-10-13",
+    "titulo": "Ozempic te adelgaza pero te deja sin pelo y sin uñas: ¿hasta dónde está dispuesto a llegar el chileno promedio para bajar de peso?",
+    "gancho": "La pastilla mágica para bajar de peso resulta que viene con letra chica: perdes kilos pero ganás un look de personaje de película de terror. ¿Cuál es el límite del sacrificio estético chileno?",
+    "por_que_conversar": "El boom de Ozempic llegó a Chile con toda la fuerza, y ahora los efectos secundarios raros (uñas que caen, pelo que desaparece) dan para una conversación hilarante sobre la lógica del 'si me adelgaza, acepto todo'. Da para comparar con dietas absurdas de los 90, con el ayuno de tres días antes del matrimonio y con la eterna discusión de si en Chile la gente prefiere sufrir bonito o sufrir cómodo.",
+    "categoria": "observacional",
+    "basado_en": "Estudios recientes vinculando GLP-1 (Ozempic/Wegovy) con pérdida de uñas y caída del cabello, semana del 12 de octubre 2026",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "eebef0cd-8ab1-45cd-9d2f-9dc91000de03",
+    "fecha_encontrada": "2026-10-13",
+    "titulo": "Congelar a tu mascota muerta y ponerla en el velador: ¿el duelo animal en Chile tiene un límite o somos capaces de todo por nuestros bichos?",
+    "gancho": "Dos millones de pesos para tener un gato criogenizado mirándote mientras dormís: ¿cuánto vale el amor por una mascota y en qué momento cruzamos la línea de lo razonable?",
+    "por_que_conversar": "El vínculo entre chilenos y mascotas es cada vez más intenso —algunos dirían que demasiado—, y esta historia de la gata criogenizada en el velador es el disparador perfecto para hablar de los rituales de duelo animal más extremos, de cuánto gastarías tú (y qué diría tu familia), y de si en Chile existe algún servicio así o si hay alguien pensando en montarlo ahora mismo.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral de mujer que pagó $2 millones para criogenizar a su gata muerta y conservarla en el velador",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2fe82a31-9591-4eac-b34d-e45564d2ae0d",
+    "fecha_encontrada": "2026-10-13",
+    "titulo": "El hackeo del supermercado: si ya pueden atacar tus congelados a distancia, ¿qué más en tu vida cotidiana podría ser saboteado por un hacker aburrido?",
+    "gancho": "Un ciberataque subió la temperatura de los congeladores de supermercados franceses y se perdió todo el pollo. El apocalipsis del siglo XXI no es una bomba: es que alguien te descongele los nuggets desde el sótano de su casa.",
+    "por_que_conversar": "El ciberterrorismo ya no es solo bancos y datos: ahora es tu salmón congelado. Da para imaginar el equivalente chileno —hackear el sistema de apagado automático de las luces del Líder, subir la temperatura de todos los heladeros de la Feria Libre, o bloquear el pago con tarjeta en el día del asado—, y para debatir qué tan vulnerable es la vida cotidiana del chileno promedio a un ataque tecnológico de alguien que simplemente tuvo un mal día.",
+    "categoria": "absurdo",
+    "basado_en": "",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
   }
 ]
