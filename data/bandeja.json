@@ -5414,7 +5414,8 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-10-14",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 2
   },
   {
     "id": "90d21562-1c5e-4994-8f9d-599325ebd807",
@@ -5479,7 +5480,8 @@
     "categoria": "absurdo",
     "region": "chile",
     "semana": "2026-10-14",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 2
   },
   {
     "id": "6742fe5a-b00a-413e-a2a7-b999cbcc3fd1",
@@ -5505,7 +5507,8 @@
     "categoria": "absurdo",
     "region": "chile",
     "semana": "2026-10-14",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 1
   },
   {
     "id": "9cf7cf26-5a46-4f60-bee7-e9c70577f8ec",
@@ -5637,7 +5640,8 @@
     "region": "mundo",
     "semana": "2026-10-14",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 3
   },
   {
     "id": "02596faf-0cba-4880-a055-d38b58831e70",
@@ -5652,7 +5656,8 @@
     "region": "mundo",
     "semana": "2026-10-14",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 1
   },
   {
     "id": "4205015a-e913-4e7d-8ba9-46036768e96f",
@@ -5667,6 +5672,7 @@
     "region": "mundo",
     "semana": "2026-10-14",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 4
   }
 ]
