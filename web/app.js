@@ -827,15 +827,25 @@ async function pasarEjemploAPauta(i) {
     const arch = await obtenerArchivo("data/bandeja.json");
     const bandeja = arch ? JSON.parse(arch.contenido) : [];
 
-    // Evitar duplicar si ya está por URL o por título.
+    // Si ya existe (por URL o título), no duplicar: ofrecer traerla a ESTA semana.
     const nurl = (ej.url || "").trim().toLowerCase().replace(/[?#].*$/, "").replace(/\/+$/, "");
     const ntit = (ej.titular || "").trim().toLowerCase();
-    const yaEsta = bandeja.some((x) => {
+    const existente = bandeja.find((x) => {
       const xu = (x.url || "").trim().toLowerCase().replace(/[?#].*$/, "").replace(/\/+$/, "");
       return (nurl && xu === nurl) || (x.titular || "").trim().toLowerCase() === ntit;
     });
-    if (yaEsta) {
-      mostrarToast("Esa noticia ya está en la pauta.");
+    if (existente) {
+      const ok = confirm(
+        `Esta noticia ya estaba en la bandeja (semana ${existente.semana || "?"}, estado: ${existente.estado}).\n\n` +
+        `¿Traerla a la pauta de ESTA semana (✅ Van)?`
+      );
+      if (!ok) return;
+      existente.semana = semanaActual();
+      existente.estado = "aprobada";
+      await guardarArchivo("data/bandeja.json", bandeja, arch ? arch.sha : null, "Traer noticia existente a la pauta actual (panel)");
+      mostrarToast("✅ Traída a “✅ Van” de esta semana.");
+      estado.semana = semanaActual();
+      await cargarContenido();
       return;
     }
 
@@ -1028,15 +1038,40 @@ async function agregarNoticiaManual() {
     const arch = await obtenerArchivo("data/bandeja.json");
     const bandeja = arch ? JSON.parse(arch.contenido) : [];
 
-    // Evitar duplicados por URL o por título.
+    // Si ya existe (por URL o título), no duplicar: ofrecer traerla a ESTA semana.
     const nurl = url.toLowerCase().replace(/[?#].*$/, "").replace(/\/+$/, "");
     const ntit = titular.toLowerCase();
-    const yaEsta = bandeja.some((x) => {
+    const existente = bandeja.find((x) => {
       const xu = (x.url || "").trim().toLowerCase().replace(/[?#].*$/, "").replace(/\/+$/, "");
       return (nurl && xu === nurl) || (x.titular || "").trim().toLowerCase() === ntit;
     });
-    if (yaEsta) {
-      mostrarToast("Esa noticia ya está en la bandeja (quizás en otra semana).");
+    if (existente) {
+      const ok = confirm(
+        `Esta noticia ya estaba en la bandeja (semana ${existente.semana || "?"}, estado: ${existente.estado}).\n\n` +
+        `¿Traerla a la pauta de ESTA semana (✅ Van)?`
+      );
+      if (!ok) return;
+      existente.semana = semanaActual();
+      existente.estado = "aprobada";
+      // Actualizar con lo que llenaste en el formulario (si lo llenaste).
+      if (resumen) existente.resumen = resumen;
+      if (porque) existente.por_que_humor = porque;
+      if (links.length) {
+        existente.url = links[0];
+        existente.urls_extra = links.slice(1);
+        existente.fuente = dominio(links[0]) || existente.fuente;
+      }
+      existente.region = region;
+      existente.categoria = categoria;
+      await guardarArchivo("data/bandeja.json", bandeja, arch ? arch.sha : null, "Traer noticia existente a la pauta actual (panel)");
+      ["man-titular", "man-resumen", "man-porque"].forEach((i) => {
+        document.getElementById(i).value = "";
+      });
+      document.getElementById("man-links").innerHTML =
+        '<input type="text" class="man-url" placeholder="Link (opcional)" />';
+      mostrarToast("✅ Traída a “✅ Van” de esta semana.");
+      estado.semana = semanaActual();
+      await cargarContenido();
       return;
     }
 
