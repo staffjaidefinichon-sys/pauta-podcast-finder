@@ -5662,5 +5662,23 @@
     "estado": "aprobada",
     "origen": "manual",
     "orden": 4
+  },
+  {
+    "id": "f079be20-0495-4048-8e79-d87ae5142f71",
+    "fecha_encontrada": "2026-10-14",
+    "titular": "Entidad Reptiliana fue captada en Camara durante discurso en la Casa Blanca...",
+    "resumen": "Susan Dell, esposa del multimillonario empresario tecnológico Michael Dell, en una de las protagonistas de internet durante las últimas horas. la discusión sobre la imagen de la empresaria, pero también generó críticas hacia quienes centraron sus comentarios en su físico, consignó The Economic Times.  De hecho, el portal estadounidense Just Jared publicó una recopilación de fotografías de Susan Dell a lo largo de dos décadas, desde sus apariciones en eventos de moda hasta sus visitas recientes a la Casa Blanca. Las imágenes intensificaron las comparaciones entre su aspecto actual y el que mostraba años atrás.",
+    "fuente": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=Ox3iLHWxD2E",
+    "urls_extra": [
+      "https://www.instagram.com/p/DeS_MgHE3iC/?img_index=2",
+      "https://youtu.be/mv_YkdcbV4I"
+    ],
+    "por_que_humor": "",
+    "categoria": "observacional",
+    "region": "mundo",
+    "semana": "2026-10-14",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
