@@ -835,18 +835,26 @@ async function pasarEjemploAPauta(i) {
       return (nurl && xu === nurl) || (x.titular || "").trim().toLowerCase() === ntit;
     });
     if (existente) {
-      const ok = confirm(
-        `Esta noticia ya estaba en la bandeja (semana ${existente.semana || "?"}, estado: ${existente.estado}).\n\n` +
-        `¿Traerla a la pauta de ESTA semana (✅ Van)?`
+      const esLaMisma = confirm(
+        `Encontré una noticia parecida ya guardada:\n\n` +
+        `"${existente.titular}"\n(semana ${existente.semana || "?"}, estado: ${existente.estado})\n\n` +
+        `¿Es la MISMA noticia?\n\n` +
+        `• Aceptar = sí, traer ESA a la pauta de esta semana\n` +
+        `• Cancelar = no, es otra noticia distinta`
       );
-      if (!ok) return;
-      existente.semana = semanaActual();
-      existente.estado = "aprobada";
-      await guardarArchivo("data/bandeja.json", bandeja, arch ? arch.sha : null, "Traer noticia existente a la pauta actual (panel)");
-      mostrarToast("✅ Traída a “✅ Van” de esta semana.");
-      estado.semana = semanaActual();
-      await cargarContenido();
-      return;
+      if (!esLaMisma) {
+        const agregarIgual = confirm("¿Agregar la tuya de todas formas como una noticia NUEVA?");
+        if (!agregarIgual) return;
+        // Sigue el flujo normal de abajo y se agrega como nueva.
+      } else {
+        existente.semana = semanaActual();
+        existente.estado = "aprobada";
+        await guardarArchivo("data/bandeja.json", bandeja, arch ? arch.sha : null, "Traer noticia existente a la pauta actual (panel)");
+        mostrarToast("✅ Traída a “✅ Van” de esta semana.");
+        estado.semana = semanaActual();
+        await cargarContenido();
+        return;
+      }
     }
 
     bandeja.push({
@@ -1046,11 +1054,18 @@ async function agregarNoticiaManual() {
       return (nurl && xu === nurl) || (x.titular || "").trim().toLowerCase() === ntit;
     });
     if (existente) {
-      const ok = confirm(
-        `Esta noticia ya estaba en la bandeja (semana ${existente.semana || "?"}, estado: ${existente.estado}).\n\n` +
-        `¿Traerla a la pauta de ESTA semana (✅ Van)?`
+      const esLaMisma = confirm(
+        `Encontré una noticia parecida ya guardada:\n\n` +
+        `"${existente.titular}"\n(semana ${existente.semana || "?"}, estado: ${existente.estado})\n\n` +
+        `¿Es la MISMA noticia?\n\n` +
+        `• Aceptar = sí, traer ESA a la pauta de esta semana\n` +
+        `• Cancelar = no, es otra noticia distinta`
       );
-      if (!ok) return;
+      if (!esLaMisma) {
+        const agregarIgual = confirm("¿Agregar la tuya de todas formas como una noticia NUEVA?");
+        if (!agregarIgual) return;
+        // Sigue el flujo normal de abajo y se agrega como nueva.
+      } else {
       existente.semana = semanaActual();
       existente.estado = "aprobada";
       // Actualizar con lo que llenaste en el formulario (si lo llenaste).
@@ -1073,6 +1088,7 @@ async function agregarNoticiaManual() {
       estado.semana = semanaActual();
       await cargarContenido();
       return;
+      }
     }
 
     bandeja.push({
