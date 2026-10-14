@@ -5402,7 +5402,7 @@
     "region": "mundo",
     "semana": "2026-10-14",
     "estado": "aprobada",
-    "orden": 2,
+    "orden": 3,
     "urls_extra": []
   },
   {
@@ -5629,7 +5629,7 @@
     "semana": "2026-10-14",
     "estado": "aprobada",
     "origen": "manual",
-    "orden": 3
+    "orden": 4
   },
   {
     "id": "02596faf-0cba-4880-a055-d38b58831e70",
@@ -5645,7 +5645,7 @@
     "semana": "2026-10-14",
     "estado": "aprobada",
     "origen": "manual",
-    "orden": 1
+    "orden": 2
   },
   {
     "id": "4205015a-e913-4e7d-8ba9-46036768e96f",
@@ -5661,7 +5661,7 @@
     "semana": "2026-10-14",
     "estado": "aprobada",
     "origen": "manual",
-    "orden": 4
+    "orden": 5
   },
   {
     "id": "f079be20-0495-4048-8e79-d87ae5142f71",
@@ -5679,6 +5679,7 @@
     "region": "mundo",
     "semana": "2026-10-14",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 1
   }
 ]
