@@ -5681,5 +5681,44 @@
     "estado": "aprobada",
     "origen": "manual",
     "orden": 1
+  },
+  {
+    "id": "062e83aa-4dfe-45b7-835f-f826a73838fe",
+    "fecha_encontrada": "2026-10-14",
+    "titular": "DMC confirma que fenómeno registrado en Estación Central durante la tormenta sería un tornado",
+    "resumen": "La Dirección Meteorológica de Chile confirmó que el violento fenómeno captado en video en plena Estación Central durante las lluvias récord de octubre habría sido un tornado. Santiago, que ya tiene el octubre más lluvioso de su historia registrada, ahora también tiene su propio tornado urbano.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/14/codina-confirma-habilitacion-del-2-de-emergencia-para-comprar-radares-meteorologicos-en-la-rm.shtml",
+    "por_que_humor": "Santiago acumula en una sola semana el récord histórico de lluvia Y un tornado. El chileno que sobrevivió al diluvio de octubre ahora tiene que agregar 'esquivé un tornado en el centro' a su currículum de vida.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "137c7587-6f9a-48ea-9e00-93b14e0b6746",
+    "fecha_encontrada": "2026-10-14",
+    "titular": "Hombre bate el récord Guinness atrapando 20 aviones de papel en la boca en un minuto",
+    "resumen": "Un hombre de Idaho se asoció con su sobrina de 13 años para establecer el récord Guinness de 'más aviones de papel atrapados con la boca en un minuto', con 20 unidades. La niña lanzaba y el tío atrapaba.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/14/paper-airplane-guinness-world-record-mouth/",
+    "por_que_humor": "El récord más específico e innecesario del año: necesitó a su sobrina adolescente para ser el mejor del mundo atrapando papeles con la boca. Da para imaginar la conversación familiar donde le explicó el plan y por qué ella tenía que lanzar.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1fb35a73-977e-4ec8-9942-3e419cca9179",
+    "fecha_encontrada": "2026-10-14",
+    "titular": "Un tráiler cargado con papas fritas se incendió en plena autopista de Utah",
+    "resumen": "Un camión cargado con papas fritas se incendió en una carretera de Utah, obligando a cerrar la vía. Las imágenes del trailer ardiendo con su carga de frituras dentro circularon rápidamente en redes sociales.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/14/french-fries-fire-utah-highway/",
+    "por_que_humor": "Técnicamente es el batch de papas fritas más grande del mundo cocinado en condiciones de campo. Da para preguntar si al final quedaron comestibles y si alguien paró el auto a buscar ketchup.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-14",
+    "estado": "en_pauta"
   }
 ]
