@@ -5798,5 +5798,70 @@
     "region": "mundo",
     "semana": "2026-10-21",
     "estado": "en_pauta"
+  },
+  {
+    "id": "06a4f113-610f-4877-ac11-f42e1def9e16",
+    "fecha_encontrada": "2026-10-16",
+    "titular": "V de BTS dijo 'Chile, mejor país de Chile' en pleno concierto ante 69.000 personas y el país explotó en redes",
+    "resumen": "En el primer concierto de BTS en Chile desde 2017, el integrante V sorprendió al público hablando español, contando que había comido una empanada y usando la famosa frase popular chilena 'Chile, mejor país de Chile', desatando el delirio en el Estadio y en redes sociales. Un momento viral que mezcla chilenismo, fandom global y empanadas.",
+    "fuente": "DSN.pe / BioBioChile",
+    "url": "https://dsn.pe/bts-en-chile-14-de-octubre-asi-fue-su-primer-concierto-el-setlist-completo-y-los-momentos-que-emocionaron-a-army/",
+    "por_que_humor": "Un artista coreano de fama mundial usando el meme más chileno del universo, ante 69.000 personas que literalmente se pusieron a llorar de emoción. El cruce cultural es tan absurdo y tan tierno que el podcast se escribe solo: ¿cuándo aprendió V esa frase y quién en el equipo le dijo que eso era lo más chileno posible?",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a7c39ca7-8cb3-4bc6-93f8-ce1b45707523",
+    "fecha_encontrada": "2026-10-16",
+    "titular": "Un municipio de Providencia inundó su propio edificio por dentro: el temporal generó una 'cascada' en las escaleras de la municipalidad",
+    "resumen": "Durante el temporal del 14 de octubre en Santiago, las intensas lluvias con granizo provocaron la inundación del edificio de la Municipalidad de Providencia, donde el agua formó una cascada bajando por las escaleras interiores. Las imágenes se viralizaron en redes.",
+    "fuente": "BioBioChile / Urgente24",
+    "url": "https://urgente24.com/termoscopio/chile-fenomenos-extremos-tormenta-tornado-granizo-e-inundaciones-n634640",
+    "por_que_humor": "El municipio que se inunda a sí mismo es el nivel de ironía institucional que solo Chile puede producir. La cascada dentro del edificio público es el chiste que ningún guionista habría aprobado por inverosímil, pero que la realidad entregó gratis.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e78c6875-fe72-4fa2-aaa5-78d1b1d866e6",
+    "fecha_encontrada": "2026-10-16",
+    "titular": "Familia de búhos de granero se instaló en una torre de agua en Manhattan y los neoyorquinos dejaron de trabajar para ir a verlos",
+    "resumen": "Una familia de búhos de granero anidó en lo alto de un edificio cerca de Central Park en Manhattan y los vecinos del Upper West Side quedaron completamente hipnotizados: la gente sigue el drama en tiempo real como si fuera un reality show.",
+    "fuente": "NPR",
+    "url": "https://www.npr.org/sections/news/",
+    "por_que_humor": "Nueva York, la ciudad que nunca duerme y que tiene los peores departamentos del mundo más caros del planeta, paralizada mirando búhos en una torre de agua como si fuera el Super Bowl. Da para imaginar el equivalente chileno: una lechuza en una antena de Providencia y el barrio entero con binoculares.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ebb9b122-02a8-4908-8541-f484a99b9d3d",
+    "fecha_encontrada": "2026-10-16",
+    "titular": "Niña china de 6 años bate el récord femenino mundial resolviendo el cubo Rubik más rápido",
+    "resumen": "Una niña de seis años de China estableció el nuevo récord mundial femenino de velocidad para resolver el cubo Rubik, dejando atrás a adultos de todo el planeta. La hazaña se viralizó esta semana en todo el mundo.",
+    "fuente": "La Calle / Mundo Insólito",
+    "url": "https://lacalle.com.ve/cierran-6-lagos-artificiales-en-mexico-tras-muerte-por-ameba-comecerebros/",
+    "por_que_humor": "Una nena de 6 años humillando a matemáticos adultos con un cubo que a los 30 años seguís sin poder pasar de la primera cara. Da para el debate de qué estaban haciendo los chilenos a los 6 años (respuesta: ver caricaturas) versus lo que están haciendo los niños chinos a los 6 años.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "0aa83097-56c0-4122-a41c-df62b28b2098",
+    "fecha_encontrada": "2026-10-16",
+    "titular": "Descubren una nueva especie de nenúfar gigante de hasta 2 metros de diámetro en Colombia gracias a una foto de Instagram",
+    "resumen": "Investigadores identificaron una nueva especie de nenúfar gigante en la cuenca del Orinoco en Colombia, bautizada 'Victoria colombiana', que puede alcanzar dos metros de diámetro. El hallazgo empezó cuando alguien publicó una fotografía en Instagram y un botánico la vio.",
+    "fuente": "Vanguardia",
+    "url": "https://www.vanguardia.com/colombia/2026/10/16/victoria-colombiana-la-nueva-especie-de-nenufar-gigante-que-descubrieron-en-guainia-gracias-a-instagram/",
+    "por_que_humor": "La ciencia llegó al punto en que Instagram es ahora una herramienta de descubrimiento de especies. El paper académico empezó con un like. Da para debatir si el influencer que publicó la foto merece co-autoría del descubrimiento o al menos un porcentaje de las citas científicas.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
   }
 ]
