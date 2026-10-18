@@ -4475,5 +4475,49 @@
     "basado_en": "Noticia real de la semana: mujer impersona a profesora en Milwaukee durante tres períodos porque 'estaba aburrida' (octubre 2026)",
     "semana": "2026-10-21",
     "estado": "en_pauta"
+  },
+  {
+    "id": "e0e045e3-644c-45d5-be57-81084da85533",
+    "fecha_encontrada": "2026-10-18",
+    "titulo": "Chile tiene túneles del siglo XVIII enterrados bajo sus calles: ¿qué más lleva 250 años escondido bajo el país sin que nadie lo sepa?",
+    "gancho": "Un socavón abre la tierra en San Felipe y abajo hay un canal colonial del 1700 que abastecía una fábrica de cerveza. El municipio tuvo que buscar un mapa de 1895 para entender qué era.",
+    "por_que_conversar": "Es el punto de partida perfecto para una conversación sobre lo que Chile tiene enterrado bajo sus ciudades sin saberlo: ¿qué más aparecería si llueve un poco más fuerte? ¿Qué ciudad chilena tiene el subsuelo más misterioso? Da para reírse de la burocracia del descubrimiento (llamar a un ingeniero, buscar un plano de 1895, organizar una reunión) y para preguntar si el canal colonial debería reconvertirse en atracción turística o simplemente taparlo de nuevo y rezar.",
+    "categoria": "curioso",
+    "basado_en": "Socavón en San Felipe (octubre 2026) que dejó al descubierto el antiguo canal Pasturel, una infraestructura hidráulica de 250 años de antigüedad que nadie recordaba.",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "7a51044f-8692-435f-892c-982315d99cdd",
+    "fecha_encontrada": "2026-10-18",
+    "titulo": "El octubre más lluvioso de la historia chilena llegó justo en primavera: ¿las estaciones del año en Chile son un mito o simplemente una sugerencia?",
+    "gancho": "Santiago batió el récord histórico de lluvia de octubre con 74 mm en una semana, aluviones, socavones y un túnel colonial de regalo. Todo en plena primavera.",
+    "por_que_conversar": "El chiste de que en Chile 'nunca sabes qué clima va a hacer' alcanzó su nivel definitivo: el mes más lluvioso de la historia ocurrió justo cuando se supone que empieza el calor. Da para el debate de si el chileno debería dejar de tener expectativas climáticas para siempre, para hablar de la obsesión nacional con el pronóstico del tiempo y para preguntarse si las estaciones del año en Chile son solo una recomendación que el clima ignora sistemáticamente.",
+    "categoria": "observacional",
+    "basado_en": "Octubre 2026 como el mes más lluvioso en la historia de Santiago, con aluvión en Las Condes, socavones y estado de catástrofe decretado en plena temporada de supuesta primavera.",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "439da9c4-0771-40fa-9d27-203da8f37f98",
+    "fecha_encontrada": "2026-10-18",
+    "titulo": "Hacerse pasar por profesional en el trabajo ajeno: si una mujer de 23 años enseñó tres períodos y nadie la pescó, ¿qué tan fácil es colarse en una profesión en Chile?",
+    "gancho": "Una mujer entró a un colegio de Wisconsin, dijo que era profesora sustituta, enseñó tres horas y cuando la atraparon explicó que lo hizo 'porque odiaba a los niños y estaba aburrida'.",
+    "por_que_conversar": "La honestidad criminal de la impostora es el punto de partida para preguntar en cuál profesión chilena sería más fácil colarse sin que nadie note nada. ¿En qué trabajo chileno podrías aparecer un lunes sin título y aguantar más tiempo sin ser descubierto? Da para hablar de los filtros (o la falta de ellos) en distintos rubros y para imaginar qué haría el chileno promedio si por accidente terminara enseñando una clase, atendiendo pacientes o conduciendo un tren.",
+    "categoria": "absurdo",
+    "basado_en": "Caso viral de Milwaukee (octubre 2026) donde una joven se hizo pasar por profesora sustituta, enseñó tres períodos y fue detenida tras admitir que lo hizo por aburrimiento.",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6650aa85-24f0-4fae-8c97-25dd2edcc659",
+    "fecha_encontrada": "2026-10-18",
+    "titulo": "El animal urbano como nuevo vecino de barrio: búhos en torres de agua de Manhattan, emus en autopistas de California y gatos ladrones de Londres. ¿Cuándo llega la invasión a Chile?",
+    "gancho": "Nueva York paralizada por búhos en un tanque de agua, California cortando autopistas por un emu fugado y Vietnam con una banda organizada de ladrones de gatos nocturnos en moto. Todo en la misma semana.",
+    "por_que_conversar": "Los animales llevan meses tomando los espacios más absurdos del mundo urbano y Chile todavía no tiene su gran historia de la semana. Da para preguntar qué animal chileno ya está infiltrado en la ciudad sin que nadie lo reconozca como amenaza, para imaginar la reacción del chileno promedio ante un emu en la Alameda o un búho en el edificio del banco, y para el debate eterno sobre si el quiltro es el único animal que ya conquistó el espacio urbano chileno y merece un monumento oficial.",
+    "categoria": "absurdo",
+    "basado_en": "Múltiples noticias de animales en espacios urbanos insólitos: búhos en Manhattan (NPR, oct 2026), emu en carretera de California (UPI, oct 2026), banda de ladrones de gatos en Vietnam (NPR, oct 2026).",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
   }
 ]

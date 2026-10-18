@@ -5967,5 +5967,57 @@
     "region": "mundo",
     "semana": "2026-10-21",
     "estado": "en_pauta"
+  },
+  {
+    "id": "e43ec28b-06c7-406e-acde-2ca8cbe62e9e",
+    "fecha_encontrada": "2026-10-18",
+    "titular": "Socavón en San Felipe abre la tierra y aparece un túnel secreto de 250 años que nadie sabía que existía",
+    "resumen": "Las lluvias históricas de octubre derrumbaron el pavimento en la avenida Las Heras de San Felipe (Valparaíso) y debajo apareció un túnel abovedado de 1,20 metros de alto. Para saber qué era, el municipio tuvo que desempolvar un plano de la ciudad del año 1895: era el canal Pasturel, una obra hidráulica colonial que abastecía a una fábrica de cerveza, un molino y la estación ferroviaria.",
+    "fuente": "Meganoticias",
+    "url": "https://www.meganoticias.cl/nacional/533986-tunel-descubierto-san-felipe-origen-canal-pasturel-15-10-2026.html",
+    "por_que_humor": "Chile tiene tantos socavones que el último no solo es un hoyo: es un portal al siglo XVIII. La imagen del funcionario buscando respuestas en un mapa de 1895 mientras el tráfico espera es el resumen perfecto de la infraestructura chilena. Da para preguntar qué más hay enterrado bajo las calles del país y si el municipio cobrará entrada al túnel como atracción turística.",
+    "categoria": "curioso",
+    "region": "chile",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f42737a8-f324-49c1-b5b1-f30273fc4c36",
+    "fecha_encontrada": "2026-10-18",
+    "titular": "Emu escapa y provoca persecución policial por una carretera de California mientras el tráfico lo esquiva",
+    "resumen": "La Patrulla de Carreteras de California tuvo que cortar una ruta en Santa Cruz para capturar a un emu suelto que corría entre los autos. El ave escapada protagonizó una persecución de varios minutos antes de ser rodeada.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/16/emu-loose-california-highway-patrol/",
+    "por_que_humor": "Después del emu que le ganó a la policía japonesa durante dos horas, ahora hay otro que interrumpe el tráfico de California. Los emus se están convirtiendo en los fugitivos más consistentes del planeta: da para preguntar si existe una red internacional de emus rebeldes y cuál es su siguiente objetivo.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "341d1f28-7b1a-4fd5-b8f5-b9e9fb64d3bb",
+    "fecha_encontrada": "2026-10-18",
+    "titular": "Ballena jorobada muerta de casi nueve metros varió en playa de Zapallar y Sernapesca investiga cómo sacarla",
+    "resumen": "Una cría de ballena jorobada fue hallada muerta en una zona rocosa de la playa de Zapallar (Región de Valparaíso) con un avanzado estado de descomposición. Sernapesca evalúa cómo retirar el ejemplar de casi nueve metros.",
+    "fuente": "24horas.cl",
+    "url": "https://www.24horas.cl/regiones/zona-centro/valparaiso/socavon-tunel-oculto-san-felipe",
+    "por_que_humor": "Chile ya tiene ballenas en la costa, orcas en Mejillones y ahora una de nueve metros varada en Zapallar esperando que alguien decida cómo sacarla. El plan logístico de mover una ballena de nueve metros de una playa rocosa es el tipo de reunión de emergencia que termina sin solución después de tres horas.",
+    "categoria": "curioso",
+    "region": "chile",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ce968551-a35d-4be1-8d87-91c1b75bb0b9",
+    "fecha_encontrada": "2026-10-18",
+    "titular": "Octubre de 2026 ya es el mes más lluvioso de Santiago en toda la historia registrada y aún quedan días",
+    "resumen": "Con 74 milímetros acumulados en solo siete días, octubre de 2026 superó el récord histórico de octubre de 1987 (65 mm) y fue declarado el más lluvioso de la serie histórica. El 6 de octubre cayeron 52 mm en un solo día, el mayor registro diario de ese mes en más de un siglo.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/america/america-latina/2026/10/08/un-aluvion-arrastro-vehiculos-y-un-autobus-en-santiago-de-chile-tras-dias-de-lluvias-intensas/",
+    "por_que_humor": "Chile pasó de tener el octubre más lluvioso de su historia justo en el mes donde se supone que empieza la primavera. El contraste entre el cliché de 'se viene el calor' y la realidad de récord histórico de lluvia es el chiste que el clima le hace al santiaguino cada año pero ahora al cuadrado.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
   }
 ]
