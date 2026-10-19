@@ -4519,5 +4519,49 @@
     "basado_en": "Múltiples noticias de animales en espacios urbanos insólitos: búhos en Manhattan (NPR, oct 2026), emu en carretera de California (UPI, oct 2026), banda de ladrones de gatos en Vietnam (NPR, oct 2026).",
     "semana": "2026-10-21",
     "estado": "en_pauta"
+  },
+  {
+    "id": "1b63a49a-95d3-419f-aeac-a2744ad0b71c",
+    "fecha_encontrada": "2026-10-19",
+    "titulo": "La cancha como víctima: ¿el Estadio Nacional sobrevivió a BTS o los K-pop fans son el fenómeno climático más destructivo que ha pisado el país?",
+    "gancho": "69.000 personas bailando durante tres noches convirtieron el césped del coloso en un desierto amarillo, y el IND tuvo que salir a decir que 'estaba dentro de lo previsto'.",
+    "por_que_conversar": "Da para comparar qué destruye más el Estadio Nacional: un partido de la selección, un concierto de rock, o una fanaticada de K-pop con coreografía sincronizada. También para preguntarse qué hubiera dicho el comunicado si la cancha hubiera desaparecido completamente.",
+    "categoria": "observacional",
+    "basado_en": "La revelación del IND sobre el estado del Estadio Nacional tras los tres conciertos de BTS, que generó debate en redes el 19 de octubre de 2026.",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ba4ad2ff-7d68-4d14-9506-1730d875c52d",
+    "fecha_encontrada": "2026-10-19",
+    "titulo": "El sofá como vehículo, el alce en el skatepark y el honey badger que usa a su pareja de escalera: ¿los animales y los humanos absurdos del mundo se están poniendo de acuerdo?",
+    "gancho": "Esta semana alguien manejó un sofá sobre dos scooters por una autopista, un alce cayó en un bowl de skate y un tejón de miel usó a su novia como trampolín de fuga: ¿hay un complot global del absurdo?",
+    "por_que_conversar": "Es el tema que permite encadenar las noticias más WTF de la semana en una sola pregunta: ¿el mundo se está volviendo más raro o simplemente tenemos más cámaras para registrarlo? Da para inventar el equivalente chileno de cada historia.",
+    "categoria": "absurdo",
+    "basado_en": "Tres noticias virales internacionales de la semana del 15-19 de octubre de 2026 sobre el sofá en scooters, el alce en skatepark y el honey badger escapista.",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "86541919-25e9-4661-bdb4-92b951eae33d",
+    "fecha_encontrada": "2026-10-19",
+    "titulo": "Chile compró 1.539 calefactores, los guardó en una bodega y ya gastó más en almacenarlos que en usarlos: ¿el Estado chileno tiene una habilidad innata para resolver los problemas después de que ya no importan?",
+    "gancho": "El invierno terminó, los calefactores siguen en caja y la bodega ya cobró $530 millones: el resumen perfecto de la gestión pública chilena en una sola noticia.",
+    "por_que_conversar": "Permite hablar con humor del absurdo burocrático chileno sin ponerse político: el problema no es quién lo hizo, sino que el país tiene una tradición casi artística de resolver las emergencias con un trimestre de retraso. Da para imaginar otros ejemplos de la vida cotidiana donde el chileno llega siempre tarde con la solución perfecta.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de BioBioChile del 19 de octubre de 2026 sobre los calefactores sin instalar del Ministerio de Medio Ambiente.",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b722dc9c-1a36-46f2-8f31-da0a5d00ca36",
+    "fecha_encontrada": "2026-10-19",
+    "titulo": "La abuela de 99 años parada sobre el ala de un avión vs. el millenial con la rodilla mala: ¿por qué las viejas del mundo nos están ganando en todo?",
+    "gancho": "Mientras tú no puedes subir cuatro pisos sin ascensor, una señora de 99 años se paró sobre el ala de un biplano en vuelo y batió un récord Guinness.",
+    "por_que_conversar": "Es el tema recurrente que nunca pierde vigencia: la abuela como ser superior. Esta semana tiene versión extrema con la wing walker de 99 años. Da para hacer el ranking de las cosas que las abuelas hacen mejor que cualquier persona de 30 y para preguntar qué están comiendo ellas que nosotros no sabemos.",
+    "categoria": "absurdo",
+    "basado_en": "Récord Guinness de la wing walker de 99 años confirmado esta semana por UPI Odd News, en la misma temporada en que otras abuelas baten récords en Fortnite, skate y plancha.",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
   }
 ]
