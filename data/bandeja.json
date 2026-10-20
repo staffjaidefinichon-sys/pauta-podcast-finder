@@ -6058,5 +6058,57 @@
     "region": "mundo",
     "semana": "2026-10-21",
     "estado": "en_pauta"
+  },
+  {
+    "id": "ae4b8304-e1b5-4ac4-9161-8780805f54e0",
+    "fecha_encontrada": "2026-10-20",
+    "titular": "Camión intentó ingresar 2,4 toneladas de fuegos artificiales Y 100 mil cajetillas de cigarros de contrabando a Chile por Los Andes",
+    "resumen": "Aduanas detectó en el paso fronterizo Los Andes un camión que ocultaba 2,4 toneladas de fuegos artificiales y cien mil cajetillas de cigarrillos, con documentación falsificada. El conductor quedó detenido con arraigo nacional y arresto domiciliario.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/20/camion-intento-ingresar-24-toneladas-de-fuegos-artificiales-y-100-mil-cajetillas-de-cigarros-a-chile.shtml",
+    "por_que_humor": "La imagen de alguien intentando meter 2,4 toneladas de fuegos artificiales en un camión 'disimuladamente' es un nivel de audacia que mezcla lo absurdo con lo cinematográfico. Da para preguntar qué pensaba hacer exactamente con 100 mil cajetillas y si tenía un plan B.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "0d1518d8-0ccd-4ffe-a393-d3546c970ae1",
+    "fecha_encontrada": "2026-10-20",
+    "titular": "Robot de estudiantes neozelandeses resuelve un cubo Rubik 4x4x4 en 9,8 segundos y bate el récord mundial",
+    "resumen": "Un cuarteto de estudiantes de ingeniería de Nueva Zelanda construyó un robot que resolvió un cubo Rubik de cuatro capas en apenas 9,8 segundos, estableciendo un nuevo récord mundial. El video del intento fue ampliamente compartido.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/19/New-Zealand-students-robot-Rubik-cube-record/",
+    "por_que_humor": "Un robot que resuelve en 9,8 segundos lo que el chileno promedio tiene empezado en un cajón desde 2011. Da para preguntar si vale la pena intentar aprenderlo o simplemente aceptar que las máquinas ganaron este round.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "0cfe233d-093b-4447-a7f3-a9510d995780",
+    "fecha_encontrada": "2026-10-20",
+    "titular": "Hornbill herido en zoológico de Países Bajos se convierte en el primer pájaro del mundo con prótesis 3D en ambos picos —superior e inferior—",
+    "resumen": "Un cálao (hornbill) del zoológico de los Países Bajos recibió prótesis impresas en 3D tanto en el pico superior como en el inferior, convirtiéndose en el primer ave del mundo en recibir esa intervención bilateral. La cirugía fue filmada y difundida mundialmente.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/16/injured-hornbill-prosthetic-beak-netherlands-zoo/",
+    "por_que_humor": "Un pájaro que estrena pico nuevo, impreso en plástico, y sigue tan campante como si nada: el nivel de resiliencia que ningún humano alcanza después de una operación dental. Da para preguntar qué garantía tiene el pico y si viene con manual de instrucciones.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f2702e7f-8400-4ac0-aa97-17fc171eeaf2",
+    "fecha_encontrada": "2026-10-20",
+    "titular": "Equipo de Olimpiadas de Oliva de Finlandia gana el Campeonato Mundial de Recolección de Aceitunas en Croacia",
+    "resumen": "Un equipo finlandés se coronó campeón del mundo en la disciplina de recolección manual de aceitunas, celebrada este año en Croacia. Finlandia —país sin un solo olivo en su territorio— ganó el trofeo ante equipos de países mediterráneos.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/20/Finland-wins-World-Olive-Picking-Championship-Croatia/",
+    "por_que_humor": "Finlandia, el país de la sauna y el reno, ganándole al Mediterráneo en recolección de aceitunas es el crossover cultural más absurdo del año. Da para imaginar qué otro campeonato mundial insólito existe y qué ganaría Chile si compitiera en algo que nadie esperaría.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
   }
 ]
