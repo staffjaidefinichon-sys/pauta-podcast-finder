@@ -5797,7 +5797,7 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-10-21",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "06a4f113-610f-4877-ac11-f42e1def9e16",
@@ -5979,7 +5979,7 @@
     "categoria": "curioso",
     "region": "chile",
     "semana": "2026-10-21",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "f42737a8-f324-49c1-b5b1-f30273fc4c36",
@@ -6018,7 +6018,7 @@
     "categoria": "observacional",
     "region": "chile",
     "semana": "2026-10-21",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "14ec16f0-6c57-4db2-93b9-54fec10e92ca",
