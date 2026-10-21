@@ -4596,5 +4596,49 @@
     "basado_en": "Concurso nacional para elegir nuevo personaje compañero de Coné, reportado en Red Biobío, octubre 2026.",
     "semana": "2026-10-21",
     "estado": "en_pauta"
+  },
+  {
+    "id": "bfe8d3f7-79dd-4825-befc-bc0d47eccb74",
+    "fecha_encontrada": "2026-10-21",
+    "titulo": "El animal que se mete a pelear en el aeropuerto: ¿los animales ya perdieron el respeto por los espacios humanos o simplemente están mejor organizados que nosotros?",
+    "gancho": "Un pájaro exótico se metió al aeropuerto más transitado de EE.UU. y se puso a pelear con los pasajeros. El aeropuerto no lo pudo sacar.",
+    "por_que_conversar": "La invasión animal de espacios humanos ya no es una rareza: emus en autopistas, osos en restaurantes, pájaros en aeropuertos y mapaches en iglesias. Da para preguntar cuál es el lugar más chileno que un animal podría invadir esta semana —la Vega Central, el Metro en hora punta, la fila del banco— y qué haría el chileno promedio: ¿filmar o ayudar?",
+    "categoria": "absurdo",
+    "basado_en": "Tendencia global de animales invadiendo espacios públicos inesperados, con varios casos virales en la misma semana de octubre 2026.",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3b601a02-b8f6-47cb-9913-e935d3971dad",
+    "fecha_encontrada": "2026-10-21",
+    "titulo": "El 'gustnado': Chile inventó una nueva palabra meteorológica y nadie sabe cómo pronunciarla",
+    "gancho": "El país creyó que tenía un tornado. Las autoridades dijeron que era un 'gustnado'. Nadie sabe qué es eso pero suena peor.",
+    "por_que_conversar": "El mes más lluvioso de la historia de Chile ya produjo aluviones, tornados, granizos y ahora una palabra nueva que nadie puede pronunciar. Da para debatir si Chile necesita un diccionario meteorológico propio, si el 'gustnado' califica como excusa para no ir al trabajo y cuántos fenómenos climáticos más va a inventar este octubre antes de que llegue noviembre.",
+    "categoria": "observacional",
+    "basado_en": "El fenómeno del 'gustnado' en Estación Central que se viralizó en redes chilenas y fue aclarado por la DGAC esta semana.",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ca14ed02-092c-4226-97c8-6c1491ba157a",
+    "fecha_encontrada": "2026-10-21",
+    "titulo": "Devolver un libro con 43 años de atraso: ¿el chileno tiene el nivel de desfachatez necesario para esto o todavía le falta entrenamiento?",
+    "gancho": "Alguien devolvió un libro a una biblioteca canadiense con 43 años de retraso. Sin disculpas. Sin explicación. Solo lo dejó ahí.",
+    "por_que_conversar": "La persona que devolvió ese libro polvoriento con cuatro décadas de atraso como si fuera un martes normal es el ídolo que nadie pidió. Da para medir el nivel de descaro chileno: ¿somos capaces de devolver algo con 43 años de atraso sin pestañear? ¿Qué deudas impagables tiene el chileno promedio con el Estado, la biblioteca, el vecino o la ex que llevan décadas pendientes?",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral del libro devuelto con 43 años de atraso en Columbia Británica, Canadá, semana del 19 de octubre 2026.",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5bd457e2-0d3b-49aa-8c6c-a255808e651a",
+    "fecha_encontrada": "2026-10-21",
+    "titulo": "El mercado negro de comida: si los gringos hacen contrabando de hamburguesas, ¿qué alimento chileno justificaría una red clandestina internacional de delivery?",
+    "gancho": "En California hay un mercado negro organizado para conseguir hamburguesas de In-N-Out en estados donde no hay locales. La gente paga fortunas.",
+    "por_que_conversar": "El contrabando de comida como acto de amor cultural es el tema más absurdo y más real del año. Da para que cada conductor proponga qué comida chilena valdría el riesgo legal: ¿sopaipillas? ¿el completo con todo? ¿el pan amasado de la abuela? ¿el mote con huesillos en pleno verano australiano? Y de paso, ¿qué chileno en el exterior ya tiene a alguien de confianza que le pase mercadería por la frontera?",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del mercado negro de delivery de In-N-Out Burger en California, Oddee, octubre 2026.",
+    "semana": "2026-10-21",
+    "estado": "en_pauta"
   }
 ]
