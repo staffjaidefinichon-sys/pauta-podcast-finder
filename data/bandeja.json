@@ -6180,5 +6180,20 @@
     "estado": "aprobada",
     "origen": "manual",
     "orden": 1
+  },
+  {
+    "id": "01b2d0a6-fb9d-4e68-bcc6-90f6257b6e46",
+    "fecha_encontrada": "2026-10-21",
+    "titular": "SORPRESA EN ANTOFAGASTA: APARECE UN PEZ REMO EN PLAYA CHACAYA",
+    "resumen": "El hallazgo llamó la atención por las características de esta especie marina, conocida por su cuerpo alargado y su particular apariencia.",
+    "fuente": "instagram.com",
+    "url": "https://www.instagram.com/reels/DevTyqGxC8a/",
+    "urls_extra": [],
+    "por_que_humor": "",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-10-21",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
