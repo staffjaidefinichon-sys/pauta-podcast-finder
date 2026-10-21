@@ -5982,7 +5982,7 @@
     "region": "chile",
     "semana": "2026-10-21",
     "estado": "aprobada",
-    "orden": 2
+    "orden": 3
   },
   {
     "id": "f42737a8-f324-49c1-b5b1-f30273fc4c36",
@@ -6194,6 +6194,7 @@
     "region": "chile",
     "semana": "2026-10-21",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 2
   }
 ]
