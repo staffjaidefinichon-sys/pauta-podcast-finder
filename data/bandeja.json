@@ -6145,5 +6145,22 @@
     "semana": "2026-10-21",
     "estado": "aprobada",
     "origen": "manual"
+  },
+  {
+    "id": "b02688c5-3750-4670-be3c-d217a8afe25a",
+    "fecha_encontrada": "2026-10-21",
+    "titular": "Cruz cae encima de sacerdote durante una misa que estaba transmitiendo en vivo...",
+    "resumen": "Sánchez Molinari, 53 años, se encontraba en el altar dirigiendo la misa cuando inesperadamente el gran crucifijo de madera se desprendió de su lugar y cayó directamente sobre el párroco, que nunca se dio cuenta de lo ocurrido.  El sacerdote de inmediato cayó al suelo, ante la incredulidad de los asistentes a la misa y de quienes seguían una transmisión en directo por redes sociales.",
+    "fuente": "bbc.com",
+    "url": "https://www.bbc.com/mundo/articles/c6ev3zgnrxz9o",
+    "urls_extra": [
+      "https://x.com/MrElDiablo8/status/2111871803262107792"
+    ],
+    "por_que_humor": "",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-10-21",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
