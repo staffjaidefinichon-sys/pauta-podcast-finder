@@ -5798,7 +5798,8 @@
     "region": "mundo",
     "semana": "2026-10-21",
     "estado": "aprobada",
-    "urls_extra": []
+    "urls_extra": [],
+    "orden": 2
   },
   {
     "id": "06a4f113-610f-4877-ac11-f42e1def9e16",
@@ -6127,6 +6128,7 @@
     "region": "mundo",
     "semana": "2026-10-21",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 1
   }
 ]
