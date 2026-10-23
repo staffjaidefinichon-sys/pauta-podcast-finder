@@ -4673,5 +4673,49 @@
     "basado_en": "Tres noticias científicas de ScienceDaily de la semana del 16-22 de octubre 2026: mini-cerebros en la ISS, estudio sobre aves y género, magma oculto bajo volcán Masaya.",
     "semana": "2026-10-28",
     "estado": "en_pauta"
+  },
+  {
+    "id": "2cc87235-26fc-443b-8e3b-1f4c3e8842c6",
+    "fecha_encontrada": "2026-10-23",
+    "titulo": "El iPhone se dobla y la gente hace fila igual: ¿el chileno compra tecnología que no necesita o simplemente no puede resistirse a la novedad?",
+    "gancho": "Apple lanza su primer celular plegable y se agota en minutos aunque la lista de espera es de tres meses: ¿cuándo fue la última vez que el chileno esperó tres meses por algo que no era una cita en el Fonasa?",
+    "por_que_conversar": "Da para hablar de la adicción chilena a 'el último modelo', del debate de si doblar el celular es avance o solo un accidente esperando ocurrir, y para confesar colectivamente la compra tecnológica más inútil que alguien haya hecho impulsivamente.",
+    "categoria": "observacional",
+    "basado_en": "Lanzamiento mundial del iPhone Duo plegable de Apple este 23 de octubre de 2026, con agotamiento inmediato de stock y lista de espera hasta enero 2027.",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b0ca09fb-4f56-4ccf-ad23-456554ae3ef1",
+    "fecha_encontrada": "2026-10-23",
+    "titulo": "Chile compra hospitales, calefactores y soluciones que guarda en bodegas: ¿el Estado chileno es el mejor comprador del mundo o el peor instalador?",
+    "gancho": "Un hospital modular lleva cuatro años en caja sin atender a nadie, 1.539 calefactores nunca llegaron a una casa: ¿en qué otro rubro cotidiano el chileno es campeón comprando y último lugar usándolo?",
+    "por_que_conversar": "El paralelo con la vida cotidiana es perfecto: el chileno que compra la estera de yoga, la máquina de hacer pasta o el libro de cocina que vive en el anaquel. Da para confesar colectivamente las compras más inútiles que siguen empaquetadas en casa y para preguntar si la solución al sistema de salud estaba en una bodega desde 2022.",
+    "categoria": "observacional",
+    "basado_en": "Contraloría detectó hospital modular del Barros Luco guardado 4 años con perjuicio de $859 millones, sumado al caso previo de 1.539 calefactores sin instalar.",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2b30cf59-a018-42d8-bc29-8617f0100410",
+    "fecha_encontrada": "2026-10-23",
+    "titulo": "La primavera chilena como pesadilla climática: ¿en qué momento Chile dejó de tener estaciones y pasó a tener solo 'sorpresas'?",
+    "gancho": "Octubre histórico de lluvia, tornado en Maule, aluvión en Las Condes, vientos tornádicos en el Biobío y clases suspendidas en seis comunas: ¿alguien le avisó al almanaque?",
+    "por_que_conversar": "Da para el humor negro más chileno posible: el país que vende turismo de playa y montaña pero vive en modo alerta roja permanente en primavera. Permite hablar de cómo el chileno normaliza el caos climático con una estoicidad que no tiene paralelo en el mundo, y si vale la pena seguir llamando 'primavera' a lo que claramente es otra cosa.",
+    "categoria": "observacional",
+    "basado_en": "Sistema frontal de octubre 2026 con suspensión de clases en Biobío, tornado EF0 en Maule, aluvión en Las Condes y récord histórico de lluvia en Santiago.",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "7acdb7a2-4539-469c-b02c-952586808c7f",
+    "fecha_encontrada": "2026-10-23",
+    "titulo": "La ciencia descubrió que los pájaros le tienen más miedo a las mujeres que a los hombres: ¿qué saben los animales que los científicos todavía no?",
+    "gancho": "37 especies en cinco países huyen sistemáticamente más rápido de las mujeres que de los hombres, y los científicos no tienen explicación: los pájaros saben algo.",
+    "por_que_conversar": "Es el disparador de conversación más absurdo y divertido de la semana: da para teorías ridículas, para preguntarse si el queltehue chileno también participa del fenómeno, para hablar de si los animales perciben cosas que los humanos ignoramos, y para el inevitable chiste de que tal vez los pájaros simplemente tienen mejor criterio que nosotros.",
+    "categoria": "absurdo",
+    "basado_en": "Estudio científico publicado en ScienceDaily el 22 de octubre de 2026 sobre comportamiento de huida de aves urbanas según el género del humano que se aproxima.",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
   }
 ]
