@@ -6495,5 +6495,70 @@
     "region": "mundo",
     "semana": "2026-10-28",
     "estado": "en_pauta"
+  },
+  {
+    "id": "9ec3d904-c98f-4c62-b375-8c19008dfcc8",
+    "fecha_encontrada": "2026-10-24",
+    "titular": "Buzo de apnea de Iquique se hizo 'amigo' de un pulpo al que bautizó 'Pol' y se viste igual cada vez que lo visita para que lo reconozca",
+    "resumen": "Eduardo Mondaca, buzo de 34 años de Iquique, lleva meses construyendo una 'amistad' con un pulpo de la caleta San Marcos. El primer encuentro fue con tinta en la cara; hoy Eduardo se viste siempre con el mismo short azul y polera negra para que Pol lo reconozca.",
+    "fuente": "Meganoticias",
+    "url": "https://www.meganoticias.cl/nacional/534706-buzo-eduardo-mondaca-cautiva-redes-sociales-historia-amistad-pulpo-pol-iquique-24-0-2026.html",
+    "por_que_humor": "Un humano coordinando su ropa con un cefalópodo para no confundirlo es el nivel de relación sentimental que ningún psicólogo de pareja ha visto jamás. Da para preguntar si Pol también elige atuendo antes de recibirlo.",
+    "categoria": "curioso",
+    "region": "chile",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "01a2be14-cb2d-423b-b085-f8daa4d04bec",
+    "fecha_encontrada": "2026-10-24",
+    "titular": "Hospital modular con capacidad para 100 pacientes lleva cinco años guardado en una bodega de San Miguel: la Contraloría cifra el perjuicio en $859 millones",
+    "resumen": "El Hospital Modular de Campaña N°2 del Barros Luco, comprado en más de $2.857 millones para la pandemia, cerró en octubre de 2021 y desde entonces sus 565 componentes acumulan polvo en una bodega sin que nadie defina qué hacer con ellos. La inspección de Contraloría además encontró un socavón dentro de la misma bodega donde está guardado.",
+    "fuente": "Meganoticias / El Dínamo",
+    "url": "https://www.meganoticias.cl/nacional/534551-hospital-modular-barros-luco-guardado-contraloria-mega-investiga-22-10-2026.html",
+    "por_que_humor": "El Estado chileno compró un hospital completo, lo metió en una caja y lo olvidó durante cinco años —y encima el piso de la bodega tiene un socavón—. Es el equivalente de comprar un extintor y guardarlo en el sótano que está en llamas.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9aaf2dbe-839d-4113-989b-9d2a3c8c9c07",
+    "fecha_encontrada": "2026-10-24",
+    "titular": "Dos pelícanos con alas recortadas escapan del zoo de Pittsburgh usando el viento a favor, obligan a activar una 'línea directa de pelícano' y movilizan al Ejército de EE.UU.",
+    "resumen": "Joey y Felicity, los pelícanos del Pittsburgh Zoo & Aquarium, escaparon de su recinto un sábado de octubre pese a tener las alas recortadas. El zoo lanzó una línea telefónica de emergencia para avistamientos ciudadanos y movilizó al Army Corps of Engineers, botes fluviales y la Aviara Nacional para atraparlos.",
+    "fuente": "UPI / CBS Pittsburgh",
+    "url": "https://www.upi.com/Odd_News/2026/10/22/pittsburgh-zoo-aquarium-escaped-pelicans/1351792683529/",
+    "por_que_humor": "Dos pájaros con las alas cortadas que igual se fugan usando el viento, obligan a crear una línea de atención telefónica exclusiva para avistamientos y convocaron al Ejército. Da para preguntar qué entrenamiento secreto recibieron Joey y Felicity que los bomberos aún no tienen.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6b84e462-9139-43b9-8731-44253268f90a",
+    "fecha_encontrada": "2026-10-24",
+    "titular": "Una vaca escapa en Maryland, le gana la carrera a la policía por el barrio, huye al bosque y termina bloqueando una autopista concurrida",
+    "resumen": "Una vaca escapada protagonizó una persecución policial por un barrio de Maryland antes de adentrarse en el bosque y reaparecer en plena autopista, deteniendo el tráfico.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/23/escaped-cow-runs-onto-maryland-highway/",
+    "por_que_humor": "La secuencia completa —vecindario, bosque, autopista— es el arco narrativo de una película de acción protagonizada por una rumiante. La policía claramente necesita mejor equipo para este tipo de casos.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "55736af9-d294-41f2-9f8e-f5341360e644",
+    "fecha_encontrada": "2026-10-24",
+    "titular": "Un camaleón subió a un árbol en Georgia y los bomberos tuvieron que ir a rescatarlo como si fuera un gato",
+    "resumen": "Los bomberos de Georgia fueron convocados para una misión de alto riesgo: bajar a un camaleón que había trepado a una rama alta y no encontraba cómo descender.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/22/georgia-firefighters-chameleon-tree-rescue/",
+    "por_que_humor": "Un camaleón —el animal diseñado para camuflarse en cualquier entorno— sube a un árbol y no puede bajar. El animal que debería ser el más adaptable del planeta tuvo que ser rescatado por los bomberos. Da para preguntar si al menos se camuflaba mientras esperaba.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
   }
 ]

@@ -4717,5 +4717,49 @@
     "basado_en": "Estudio científico publicado en ScienceDaily el 22 de octubre de 2026 sobre comportamiento de huida de aves urbanas según el género del humano que se aproxima.",
     "semana": "2026-10-28",
     "estado": "en_pauta"
+  },
+  {
+    "id": "2d221bae-9f1d-4516-90b2-8eb4242631b8",
+    "fecha_encontrada": "2026-10-24",
+    "titulo": "El chileno y su mascota rara: ¿hasta dónde llega el amor antes de que sea un problema clínico?",
+    "gancho": "Si un buzo de Iquique coordina su ropa con un pulpo para no confundirlo, ¿qué tiene el chileno promedio en su casa que tampoco debería tener?",
+    "por_que_conversar": "La historia del buzo y el pulpo 'Pol' abre la puerta perfecta para hablar del vínculo irracional del chileno con sus animales —o con animales que no son suyos—, de las mascotas más inverosímiles que alguien del equipo haya tenido, y de cuándo el cariño por un bicho pasa la línea de lo razonable. Da para anécdotas personales, humor observacional y preguntar si el pulpo también elige atuendo.",
+    "categoria": "observacional",
+    "basado_en": "Viral del buzo Eduardo Mondaca y su amistad con el pulpo Pol en Iquique, noticia del 24 de octubre de 2026 en Meganoticias",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "8338e761-9bac-4a2e-bf93-98131c8d1946",
+    "fecha_encontrada": "2026-10-24",
+    "titulo": "Chile como campeón mundial de comprar cosas y guardarlas para nunca usarlas: ¿el Estado chileno es el mayor coleccionista de cosas inútiles del planeta?",
+    "gancho": "Un hospital completo para 100 pacientes, guardado en una bodega cinco años, y encima el piso de la bodega tiene un socavón: ¿esto es gestión pública o arte conceptual?",
+    "por_que_conversar": "El hospital modular olvidado del Barros Luco se suma a los calefactores sin instalar y los contratos sin ejecutar. El patrón es tan consistente que merece nombre propio. Da para repasar el historial de compras públicas chilenas que terminaron en bodega, imaginar qué más está guardado que nadie sabe, y preguntar si el Estado chileno tiene un trastorno acumulador certificado por la OPS.",
+    "categoria": "observacional",
+    "basado_en": "Noticia del hospital modular del Barros Luco llevando cinco años guardado, publicada por Meganoticias y El Dínamo el 22 de octubre de 2026",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "27f176f2-1a20-4047-b50e-dd706eeea0e3",
+    "fecha_encontrada": "2026-10-24",
+    "titulo": "Los animales ya no respetan ningún recinto: ¿cuándo exactamente los bichos decidieron que las paredes y las alas cortadas eran una sugerencia y no una regla?",
+    "gancho": "Dos pelícanos con alas recortadas escapan usando el viento. Un caimán libre por meses. Un canguro suelto en Tennessee. Un camaleón que no puede bajar de un árbol. ¿Los animales están organizados o simplemente tienen mejor semana que nosotros?",
+    "por_que_conversar": "La semana del 22 de octubre trajo una avalancha de animales escapados, rescatados y en lugares donde no deberían estar. El patrón global es tan absurdo que da para preguntar si existe una red clandestina animal, cuál sería el equivalente chileno de estos escapes y cuál es el animal más insólito que alguien del equipo haya visto en un lugar que no correspondía.",
+    "categoria": "absurdo",
+    "basado_en": "Pelícanos escapados de Pittsburgh, caimán suelto en Oklahoma, vaca en autopista de Maryland y canguro en Tennessee, semana del 22 al 24 de octubre de 2026",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9d079d57-d989-4814-9eb4-d0d1181d75b4",
+    "fecha_encontrada": "2026-10-24",
+    "titulo": "La ciencia gastando plata en preguntas que nadie necesitaba responder: ¿hay algún límite para lo que los investigadores están dispuestos a medir?",
+    "gancho": "Cinco países europeos, 37 especies de pájaros y el resultado es que los bichos le tienen más miedo a las mujeres que a los hombres. Y nadie sabe por qué.",
+    "por_que_conversar": "El estudio del miedo aviar a las mujeres es solo la punta del iceberg de la ciencia absurda de 2026: mini-cerebros en el espacio, caracoles ciegos en cuevas, calamar jurásico gordo. Da para armar un ranking de los estudios más caros y menos útiles del año, y para preguntar qué financiaría el chileno promedio si le dieran plata para investigar cualquier cosa.",
+    "categoria": "absurdo",
+    "basado_en": "Estudios científicos de ScienceDaily de octubre 2026: pájaros con miedo a mujeres, mini-cerebros en ISS, caracol sin ojos en cueva china",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
   }
 ]
