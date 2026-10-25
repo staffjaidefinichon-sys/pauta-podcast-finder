@@ -4761,5 +4761,49 @@
     "basado_en": "Estudios científicos de ScienceDaily de octubre 2026: pájaros con miedo a mujeres, mini-cerebros en ISS, caracol sin ojos en cueva china",
     "semana": "2026-10-28",
     "estado": "en_pauta"
+  },
+  {
+    "id": "a02b936e-644e-4e55-85d3-6f84d469f24d",
+    "fecha_encontrada": "2026-10-25",
+    "titulo": "Chile bajo diluvio, con tromba marina, con tornado y con foto falsa de IA: ¿el chileno ya no sabe distinguir entre el clima real y el que se inventa?",
+    "gancho": "En la misma semana, Chile tuvo tornado real en Retiro, tromba marina en Curanipe y una foto de IA de un tornado falso que se viralizó igual que si fuera verdad.",
+    "por_que_conversar": "El fenómeno de que el clima chileno ya sea tan extremo que la gente fabrica desastres adicionales con IA porque 'los reales no alcanzan' es el mejor indicador de dónde estamos. Da para hablar de si el chileno ya normalizó cualquier catástrofe meteorológica, si el grupo de WhatsApp del barrio es más confiable que la DMC, y para qué sirve la alerta del Senapred si nadie la lee antes de compartir el tornado de Photoshop.",
+    "categoria": "observacional",
+    "basado_en": "Temporal histórico de octubre 2026 en Chile: tromba marina en Curanipe, tornados en Retiro y Maule, y foto viral falsa de tornado en Padre Hurtado desmentida por PDI y ONG de emergencias",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "8a93395a-dd54-4c08-b4f3-7574270b01f6",
+    "fecha_encontrada": "2026-10-25",
+    "titulo": "Escaparse de la justicia y esconderse en un circo: ¿Chile tiene los escondites más creativos del mundo o simplemente los más accidentales?",
+    "gancho": "Un imputado de Renaico eligió un circo como refugio. No una bodega, no un monte: un circo, con payasos, animales y luces de neón.",
+    "por_que_conversar": "El escondite en el circo abre la pregunta de cuál es el lugar más absurdo donde alguien intentaría desaparecer en Chile. Da para inventar el ranking de los peores escondites nacionales, hablar de si en Chile la gente confía demasiado en que 'nadie va a mirar ahí', y si el circo le cobró entrada al imputado mientras esperaba.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia real de PDI capturando a imputado de femicidio escondido en un circo en Renaico, Biobío, octubre 2026",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5cbc5f3e-0ab5-4581-a9eb-cc9b763af1fb",
+    "fecha_encontrada": "2026-10-25",
+    "titulo": "La sarna noruega en Chillán y el virus Shamonda en humanos: ¿por qué las enfermedades raras tienen los nombres más épicos?",
+    "gancho": "Esta semana apareció la 'sarna noruega' en Chillán y el virus 'Shamonda' en su primer humano. Ninguno tiene nombre que dé miedo: ambos suenan a personaje de videojuego.",
+    "por_que_conversar": "Las enfermedades raras con nombres insólitos son la cantera de humor más subestimada de la medicina. Da para preguntar quién pone los nombres, si existe un comité de nomenclatura que trabaja con dados, y qué enfermedades chilenas merecerían un rebautizo más honesto: ¿la resaca del 18 debería tener nombre oficial? ¿el 'turista' tiene denominación de origen?",
+    "categoria": "absurdo",
+    "basado_en": "Brote de sarna noruega en Chillán (13 casos, octubre 2026) y primer caso humano del virus Shamonda reportado mundialmente en la misma semana",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "fa7f5c23-9a3e-4e53-aa7e-4b07d3d922c4",
+    "fecha_encontrada": "2026-10-25",
+    "titulo": "Mini-cerebros en el espacio, serpientes que ruedan y ovejas en el supermercado: ¿la ciencia y la naturaleza de 2026 están compitiendo por quién es más absurda?",
+    "gancho": "SpaceX mandó mini-cerebros a la ISS, una serpiente decidió rodar en vez de reptar y 50 ovejas saquearon un supermercado alemán, todo en la misma semana.",
+    "por_que_conversar": "El catálogo de noticias científicas y animales de octubre 2026 es tan denso en absurdo que parece un sketch escrito por alguien que odia la coherencia. Da para elegir cuál de los tres es el fenómeno más incomprensible, debatir si los animales están evolucionando más rápido que nosotros, y preguntar qué estarán pensando esos mini-cerebros flotando en órbita mientras la humanidad sigue con sus problemas de siempre.",
+    "categoria": "absurdo",
+    "basado_en": "Tres noticias reales de la semana del 20-25 de octubre 2026: carga de SpaceX a la ISS con mini-cerebros humanos, serpientes enanas del Sudeste Asiático que ruedan para escapar (ScienceDaily), y ovejas invadiendo supermercado en Alemania",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
   }
 ]

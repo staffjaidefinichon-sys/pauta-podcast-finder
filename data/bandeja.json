@@ -6560,5 +6560,44 @@
     "region": "mundo",
     "semana": "2026-10-28",
     "estado": "en_pauta"
+  },
+  {
+    "id": "ec997216-fb5d-48f2-913b-bbf85e7d97db",
+    "fecha_encontrada": "2026-10-25",
+    "titular": "Tromba marina en Curanipe: el mar se 'retorció' mientras pasajeros quedaban atrapados en un bus en Concepción",
+    "resumen": "Un potente sistema frontal dejó como saldo una tromba marina en Curanipe, región del Maule, además de pasajeros atrapados en un autobús en Concepción y clases suspendidas en varias comunas. El fenómeno abarcó desde Antofagasta hasta Los Lagos.",
+    "fuente": "Megatiempo.cl",
+    "url": "https://www.megatiempo.cl/hemeroteca/2026/10/23",
+    "por_que_humor": "Una tromba marina en Curanipe suena a lo que un argentino inventaría para describir el clima chileno: 'no solo llueve, sino que el mar también se pone de pie'. Chile está viviendo fenómenos meteorológicos que no tienen nombre oficial y que claramente nadie pidió.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "60701a03-7f91-427b-ac28-3ca04166ccd1",
+    "fecha_encontrada": "2026-10-25",
+    "titular": "PDI sale a desmentir foto viral de 'tornado' en Padre Hurtado que resultó ser creada con IA",
+    "resumen": "Durante el temporal, se viralizó una imagen de una columna de aire tipo tornado avanzando sobre la comuna de Padre Hurtado. La Red de Emergencia ONG la descartó como falsa: 'Esta imagen es FALSA, creada con IA'. La usuaria que la publicó tuvo que pedir disculpas públicas.",
+    "fuente": "La Cuarta",
+    "url": "https://www.lacuarta.com/chile/noticia/alo-pdi-repudio-por-difusion-de-falsa-foto-que-se-difundio-en-medio-de-temporal-y-que-buscaba-alarmar-a-capitalinos/",
+    "por_que_humor": "En vez de esperar el tornado real (que también llegó), alguien decidió fabricarlo con IA para adelantarse. La ironía de que Chile tenga fenómenos climáticos tan extremos que la gente empiece a inventarlos antes de que ocurran es el nivel de ansiedad colectiva más chileno posible.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d3f254f9-1b2e-4f5a-897d-ef5ed124214d",
+    "fecha_encontrada": "2026-10-25",
+    "titular": "Furgón cae en zanja 'anti-delincuentes' durante persecución policial en Chile",
+    "resumen": "Durante una persecución policial, un furgón terminó cayendo en una zanja diseñada específicamente para frenar a delincuentes. El dispositivo hizo exactamente lo que se supone que debe hacer, solo que la víctima fue el vehículo en fuga.",
+    "fuente": "Meganoticias",
+    "url": "https://www.meganoticias.cl/lo-ultimo/",
+    "por_que_humor": "Las zanjas anti-delincuentes son uno de los inventos más chilenos del siglo XXI y este es el primer caso documentado de que funcionaron en vivo. Da para preguntar si el municipio que la instaló ya le mandó un diploma de logro y si la zanja tiene nombre propio.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
   }
 ]
