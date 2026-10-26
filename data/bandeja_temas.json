@@ -4805,5 +4805,49 @@
     "basado_en": "Tres noticias reales de la semana del 20-25 de octubre 2026: carga de SpaceX a la ISS con mini-cerebros humanos, serpientes enanas del Sudeste Asiático que ruedan para escapar (ScienceDaily), y ovejas invadiendo supermercado en Alemania",
     "semana": "2026-10-28",
     "estado": "en_pauta"
+  },
+  {
+    "id": "7cf582aa-4d09-4e0f-affd-b180f1465eb3",
+    "fecha_encontrada": "2026-10-26",
+    "titulo": "El europeo que llega a Chile y no entiende nada: ¿somos el país más confuso del mundo para un extranjero o simplemente el más honesto?",
+    "gancho": "Una española se ofende con los 'gestos inesperados de los chilenos' y se viraliza: ¿qué hace exactamente el chileno que deja boquiabierto al mundo?",
+    "por_que_conversar": "Da para hacer en vivo el listado de las cosas más chilenas que hacemos y que para cualquier extranjero son código alien: el 'ya po', el 'cachái', saludar de beso aunque no conozcas a nadie, el 'no es por nada pero...', o simplemente el volumen de voz en el metro. Humor observacional puro con identidad nacional.",
+    "categoria": "observacional",
+    "basado_en": "Video viral de española que se escandaliza con gestos cotidianos chilenos, tendencia en redes sociales chilenas esta semana (26 oct 2026)",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "4cb3ffe3-1f01-4327-a42b-0822e2dc0798",
+    "fecha_encontrada": "2026-10-26",
+    "titulo": "El hongo que te muestra una ciudad de humanos en miniatura: si la ciencia ya confirmó que existen alucinaciones con personitas de colores, ¿qué droga legal chilena tiene el mismo efecto sin que lo sepamos?",
+    "gancho": "Un estudio científico documenta casi 100 años de personas viendo cientos de humanos diminutos de colores después de comer ciertos hongos: es real, es un paper, y es absolutamente perturbador.",
+    "por_que_conversar": "Arranca con el WTF científico del hongo-Pixar y deriva hacia lo más divertido: ¿qué cosa común que comemos o tomamos en Chile tiene efectos raros que nunca nadie explicó? El terremoto, el mote con huesillo, el sopaipilla pasada con pebre a las 3 AM. Da para comparar alucinaciones culturales con alucinaciones reales y terminar en un debate sobre qué tan confiable es la ciencia cuando le pone nombre serio a algo completamente descabellado.",
+    "categoria": "absurdo",
+    "basado_en": "Estudio científico publicado el 24-25 de octubre de 2026 sobre hongos que producen visiones de humanos diminutos, reportado en ScienceDaily",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "1c56795d-d83b-431a-ac13-d47c50201219",
+    "fecha_encontrada": "2026-10-26",
+    "titulo": "El oso como cliente modelo: entra al mall, toma lo que necesita, deja su 'opinión' en el piso y se va. ¿Por qué no podemos aprender algo de esa honestidad?",
+    "gancho": "Un oso abrió las puertas automáticas de un mall en Alaska, robó un durazno, defecó en el suelo y se fue: el cliente más eficiente de la semana.",
+    "por_que_conversar": "El oso como espejo del consumidor sin filtros da para una conversación larguísima: ¿cuántas veces el chileno promedio ha querido hacer exactamente lo mismo en un Falabella un sábado a las 12? Da para comparar con el retail chileno, los centros comerciales que te persiguen con perfume y el guardia de seguridad que te mira como si fueras el oso. Termina en el debate de si los animales son más honestos que los humanos en sus interacciones comerciales.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia de oso negro que entró a mall de Alaska en octubre 2026, reportada en Funny Times News of the Weird",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "cbe12a37-adb5-43e2-a57c-f5f57de941cd",
+    "fecha_encontrada": "2026-10-26",
+    "titulo": "28 años caminando desde Chile hasta Inglaterra: ¿existe algo en el mundo que el chileno haría durante 28 años seguidos sin rendirse?",
+    "gancho": "Un británico partió caminando desde Chile en 1998 y llegó a su ciudad natal en Inglaterra recién en octubre de 2026: 28 años, a pie, cruzando el mundo.",
+    "por_que_conversar": "La pregunta central es deliciosa: ¿hay algo que el chileno haría con esa constancia y esa locura? Da para el contraste brutal entre la perseverancia épica del tipo y el chileno que abandona el gimnasio en febrero. Se puede derivar hacia la lista de cosas que el chileno SÍ hace durante décadas sin rendirse: quejarse del tráfico de Santiago, esperar que el Estado arregle el hoyo de la calle, defender la marca de mayonesa correcta. Humor observacional con alma.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de Karl Bushby completando caminata de 28 años desde Chile hasta Inglaterra, reportada en The Independent / Shepherd Express, octubre 2026",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
   }
 ]
