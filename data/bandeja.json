@@ -6599,5 +6599,20 @@
     "region": "chile",
     "semana": "2026-10-28",
     "estado": "aprobada"
+  },
+  {
+    "id": "fd538250-2bd4-4ca1-9a6e-3e856a89af00",
+    "fecha_encontrada": "2026-10-25",
+    "titular": "Adolescente despierta en su propio ataúd después de creerla muerta en Guatemala",
+    "resumen": "Yuleidy Ixcotoyac perdió el conocimiento mientras su padre la trasladaba hacia un centro asistencial en Guatemala. Su familia ya la velaba cuando los gritos llenaron la sala. De acuerdo con los datos conocidos, la menor habría sufrido un desmayo que llevó a su padre a creer que había fallecido, debido a que no percibía señales de respiración ni lograba detectar su pulso.",
+    "fuente": "semana.com",
+    "url": "https://www.semana.com/mundo/articulo/habia-una-luz-larga-hablo-la-joven-que-desperto-en-medio-de-su-propio-velorio-el-video-se-volvio-viral/202633/",
+    "urls_extra": [],
+    "por_que_humor": "",
+    "categoria": "otro",
+    "region": "chile",
+    "semana": "2026-10-28",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
