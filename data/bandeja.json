@@ -6351,7 +6351,8 @@
     "categoria": "observacional",
     "region": "chile",
     "semana": "2026-10-28",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 4
   },
   {
     "id": "bda217e7-d6bc-41bc-8148-2a22339ee524",
@@ -6598,7 +6599,8 @@
     "categoria": "absurdo",
     "region": "chile",
     "semana": "2026-10-28",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 5
   },
   {
     "id": "fd538250-2bd4-4ca1-9a6e-3e856a89af00",
@@ -6613,7 +6615,8 @@
     "region": "chile",
     "semana": "2026-10-28",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 2
   },
   {
     "id": "1fb93259-203d-4d04-b46e-8fe388b2b9d6",
@@ -6628,7 +6631,8 @@
     "region": "chile",
     "semana": "2026-10-28",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 3
   },
   {
     "id": "7ccf6588-92ad-45ab-9d06-0265a7ab5683",
@@ -6643,6 +6647,7 @@
     "region": "chile",
     "semana": "2026-10-28",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 1
   }
 ]
