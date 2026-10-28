@@ -4882,5 +4882,49 @@
     "basado_en": "Detención en Texas de mujer con 72 animales exóticos hacinados en su vehículo, 25 de octubre de 2026.",
     "semana": "2026-10-28",
     "estado": "en_pauta"
+  },
+  {
+    "id": "6bbf6aeb-1b7d-4dc8-b67b-6cbefe2e2aaa",
+    "fecha_encontrada": "2026-10-28",
+    "titulo": "El condón sin certificado y el volcán que 'suena de prueba': ¿Chile es el único país donde el Estado te avisa las emergencias DESPUÉS de que ya pasaron?",
+    "gancho": "Esta semana el ISP salió a decir qué condones son de fiar y Puerto Montt recibió la alarma de volcán como simulacro sin previo aviso: dos instituciones avisando cosas importantes en el peor momento posible.",
+    "por_que_conversar": "El patrón chileno de la advertencia tardía —el preservativo sin registro que ya estaba en la farmacia, la alarma del volcán que sonó sin que nadie dijera 'va a sonar'— da para reírse de cómo el Estado chileno comunica las cosas y preguntarse si existe un país donde el aviso llega antes del problema.",
+    "categoria": "observacional",
+    "basado_en": "Alerta ISP sobre condones sin registro sanitario y simulacro SAE por volcán Calbuco en Puerto Montt, ambas noticias de esta semana",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d453d3ae-3800-465c-be71-2d49c785fb42",
+    "fecha_encontrada": "2026-10-28",
+    "titulo": "El hongo que te hace ver hombrecitos, la serpiente que rueda y la ardilla karateca: ¿la naturaleza de 2026 ya perdió completamente la cordura?",
+    "gancho": "Esta semana la ciencia publicó que existe un hongo que te hace ver cientos de personitas de colores, una serpiente que rueda más rápido de lo que se arrastra, y una ardilla que ataca búhos en vuelo. Todo real. Todo documentado.",
+    "por_que_conversar": "Cuando los hallazgos científicos de la semana suenan más absurdos que cualquier historia inventada, es momento de preguntarse si la naturaleza está compitiendo con los guionistas de Netflix. Da para enumerar qué animal o fenómeno de la naturaleza chilena estaría a la altura de este nivel de rareza.",
+    "categoria": "absurdo",
+    "basado_en": "Tres hallazgos científicos reales publicados esta semana: hongo alucinógeno con hombrecitos, serpientes rodantes de Asia y ardilla atacando búho en California (Comedy Wildlife Awards)",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "19b32c3e-a5ae-4d16-ada1-753b7f4c160d",
+    "fecha_encontrada": "2026-10-28",
+    "titulo": "Halloween en Chile: ¿somos el país que más se disfrazó de algo que no entendía o simplemente el que más se disfrazó de chileno sin saberlo?",
+    "gancho": "Halloween llega a Chile cada año más grande, más caro y más tomado en serio, pero nadie sabe muy bien qué se supone que significa ni por qué el 31 de octubre todos necesitan ser esqueletos, brujas o algún personaje de Netflix.",
+    "por_que_conversar": "La adopción chilena de Halloween —con toda su intensidad, sus disfraces comprados a última hora, sus condominios que compiten por decoración y sus grupos de WhatsApp coordinando la salida de los niños— es un fenómeno observacional riquísimo. Da para debatir si hay algo más chileno que apropiarse de una tradición gringa con el doble de intensidad que los propios gringos, y para preguntarse qué disfraz representa mejor al chileno de 2026.",
+    "categoria": "observacional",
+    "basado_en": "Semana de Halloween 2026 y tendencia en redes sociales chilenas; Chilevisión transmitió apertura de Halloween con 'Thriller' en su programación del 27 de octubre",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "06cb3e95-3bf4-4cd7-9fb7-5983b1cc12ed",
+    "fecha_encontrada": "2026-10-28",
+    "titulo": "El avisaje del fin del mundo: ¿Chile es el único país donde la alerta de emergencia en el celular te da más susto que la emergencia misma?",
+    "gancho": "Ese pitido del SAE que congela el tiempo, para el corazón y hace que todos en el bus se miren con cara de 'nos llegó la hora'.",
+    "por_que_conversar": "La alerta SAE es uno de los fenómenos sociales más chilenos del siglo XXI: ese sonido que todos temen pero que a veces es un simulacro de volcán, a veces un tsunami en Rapa Nui y a veces un terremoto grado 4 que el chileno ya habría ignorado de todas formas. Da para compartir anécdotas de dónde estaban cuando sonó el SAE por primera vez, qué pensaron, y si realmente saben qué hacer después del pitido o simplemente miran el teléfono esperando instrucciones.",
+    "categoria": "observacional",
+    "basado_en": "Simulacro de erupción del volcán Calbuco que activó la alerta SAE esta semana en Puerto Montt y Puerto Varas, sumado al historial de alertas SAE del mes más catastrófico de la historia chilena reciente",
+    "semana": "2026-10-28",
+    "estado": "en_pauta"
   }
 ]
