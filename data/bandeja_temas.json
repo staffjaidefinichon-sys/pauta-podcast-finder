@@ -5058,5 +5058,38 @@
     "basado_en": "Noticias del 28 al 31 de octubre 2026: zoo de Londres con Halloween, oveja fugitiva en Virginia y ganso con anillo en Pensilvania (UPI Odd News)",
     "semana": "2026-11-04",
     "estado": "en_pauta"
+  },
+  {
+    "id": "b26162d8-ae70-41f5-b4ad-d42ba31f9de0",
+    "fecha_encontrada": "2026-11-01",
+    "titulo": "La serpiente que se llama Slash, el ciervo que lava ropa y el cuervo que piensa más rápido que tú: ¿los animales ya ganaron?",
+    "gancho": "La ciencia nombra reptiles en honor a rockeros, los ciervos entran a lavanderías y los cuervos nos duplican en velocidad mental, todo en la misma semana.",
+    "por_que_conversar": "Cada semana la fauna mundial demuestra que tiene más personalidad, más récords y más descaro que cualquier humano promedio. Da para el debate definitivo: ¿en qué área específica el animal chileno (quique, coipo, chilla) todavía no nos ha superado? Y si le pones nombre de rockero chileno a una especie nueva, ¿cuál artista merece un bicho y cuál animal le correspondería?",
+    "categoria": "absurdo",
+    "basado_en": "Noticias de octubre-noviembre 2026: serpiente bautizada 'Slash', ciervo en lavandería de Carolina del Norte, estudio de cuervos tomando decisiones el doble de rápido que humanos.",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9a08c381-dfac-4f58-94e1-24e1a19698ff",
+    "fecha_encontrada": "2026-11-01",
+    "titulo": "El meme que hizo colapsar a una cancillería: si un profesor con Photoshop generó una crisis diplomática, ¿qué meme chileno podría cambiar la historia?",
+    "gancho": "Un profesor aburrido con Photoshop puso a temblar a la diplomacia de dos países. ¿Y Chile?",
+    "por_que_conversar": "El poder del meme ya superó al de cualquier tratado internacional. Da para preguntar qué imagen chilena tiene el potencial de generar un incidente geopolítico real, repasar los memes nacionales más históricos (el 'Chile, mejor país de Chile', el GC de Chilevisión, el pasillo con bandera) y debatir si el chileno promedio subestima el impacto de su humor en redes. Humor observacional con ángulo de orgullo patrio absurdo.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral de octubre 2026: profesor revela que creó con Photoshop el meme de Mbappé con Mao Zedong que desencadenó tensión diplomática China-Francia.",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e82bcd43-70fb-47f0-9668-2a9444a71f84",
+    "fecha_encontrada": "2026-11-01",
+    "titulo": "Disfrazarse de diablo, tener feriado protestante y rezar por los muertos: ¿Chile es el único país que celebra tres cosas incompatibles en 48 horas?",
+    "gancho": "Halloween, Día Evangélico y Día de Todos los Santos: Chile los metió todos juntos en un fin de semana sin que nadie pidiera permiso.",
+    "por_que_conversar": "El fin de semana más espiritualmente confuso del año en Chile da para hablar del chileno que no sabe bien qué está festejando pero festeja igual. ¿Le rezas a los santos, te disfrazas de zombi o simplemente agradeces el feriado y no te preguntas nada más? Da para explorar la relación del chileno con sus propias tradiciones: adoptamos Halloween sin soltar el velorio, tenemos feriado evangélico sin saber exactamente qué se conmemora, y el Día de Todos los Santos lo pasamos en el mall.",
+    "categoria": "observacional",
+    "basado_en": "Doble feriado chileno del 31 de octubre y 1 de noviembre 2026, donde Halloween, el Día de las Iglesias Evangélicas y el Día de Todos los Santos coincidieron en 48 horas.",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
   }
 ]

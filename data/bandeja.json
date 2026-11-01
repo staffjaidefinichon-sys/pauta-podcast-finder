@@ -7013,5 +7013,44 @@
     "region": "mundo",
     "semana": "2026-11-04",
     "estado": "en_pauta"
+  },
+  {
+    "id": "24c6f32e-acf9-415d-bbc7-f7aad6ef80ce",
+    "fecha_encontrada": "2026-11-01",
+    "titular": "Harry Styles regresó al escenario del X Factor 16 años después para recrear su audición original en Madison Square Garden",
+    "resumen": "El artista británico subió al mismo tipo de escenario donde todo empezó, recreando su audición de adolescente ante miles de personas en el Madison Square Garden.",
+    "fuente": "Meganoticias",
+    "url": "https://www.meganoticias.cl/noticieros/535279-meganoticias-prime-sabado-31-de-noviembre-2026.html",
+    "por_que_humor": "Un hombre de más de 30 años fingiendo ser el adolescente tembloroso que audicionó en el X Factor ante 20.000 personas pagando entrada es el nivel de nostalgia performática que da para preguntarse si el chileno promedio también volvería a recrear algo de su adolescencia... y qué exactamente.",
+    "categoria": "observacional",
+    "region": "mundo",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f31594ec-5d8c-4a54-a8f2-6473e290f9a0",
+    "fecha_encontrada": "2026-11-01",
+    "titular": "Chefs guatemaltecos prepararon la fiambre más grande del mundo: 4.325 kilos de ensalada en un solo evento",
+    "resumen": "Un grupo de chefs en Ciudad de Guatemala cocinó una fiambre gigante que rompió el récord mundial de peso para ese plato típico, justo en vísperas del Día de Todos los Santos.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/29/Guatemala-chefs-prepare-worlds-largest-fiambre-salad/",
+    "por_que_humor": "Guatemala rompiendo el récord Guinness de ensalada justo el día antes del Día de los Muertos es el nivel de patriotismo culinario que Chile debería estudiar. Da para debatir si la cazuela chilena podría competir en tamaño o si el problema es que nadie aguantaría revolverla.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f46d8b3f-5939-4445-a7e1-bda4fecfb056",
+    "fecha_encontrada": "2026-11-01",
+    "titular": "El hombre con más récords Guinness simultáneos del mundo usó su boca para mover más de 1 kilo de hielos entre dos bandejas",
+    "resumen": "El idahoano que acumula más títulos Guinness activos que cualquier persona en el planeta estableció su nuevo logro trasladando hielos con la boca de una bandeja a otra, sin manos.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/10/29/Idaho-man-most-concurrent-Guinness-World-Records-ice-cubes-mouth/",
+    "por_que_humor": "Un hombre cuyo trabajo de vida es batir récords tan específicos como 'hielos en la boca' es la carrera profesional que ningún orientador vocacional chileno mencionó nunca. Da para preguntar qué pone en el currículum y si paga AFP.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
   }
 ]
