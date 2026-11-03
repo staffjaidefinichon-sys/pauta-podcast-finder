@@ -7143,5 +7143,44 @@
     "region": "mundo",
     "semana": "2026-11-04",
     "estado": "en_pauta"
+  },
+  {
+    "id": "b89d305d-2945-41e8-95f5-f98055ee92b8",
+    "fecha_encontrada": "2026-11-03",
+    "titular": "Ponen a la venta un pedazo de la Patagonia chilena por US$7,5 millones: incluye lago entero y parte de un volcán",
+    "resumen": "Un terreno de casi 25.500 hectáreas en Cochamó y Hualaihué, Región de Los Lagos, fue puesto en venta por 7,5 millones de dólares. El paquete incluye la totalidad del lago Cabrera y parte del volcán Yates, aunque hay un pequeño detalle: los cuerpos de agua no pueden venderse legalmente en Chile.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/03/ponen-a-la-venta-un-pedazo-de-la-patagonia-chilena-por-us75-millones-incluye-lago-y-volcan.shtml",
+    "por_que_humor": "Venden un lago que legalmente no puede venderse, un volcán de regalo y 25.000 hectáreas: es el anuncio de Marketplace más épico e ilegal al mismo tiempo. Da para preguntar si en Yapo.cl también sale el volcán en 'precio a convenir' y si el comprador puede 'hacer una oferta'.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "56155228-c9bb-4f91-a9b2-5bc45fd2d388",
+    "fecha_encontrada": "2026-11-03",
+    "titular": "Dos militares bolivianos detenidos dentro de Chile en el Salar de Coipasa: investigan si venían a buscar un camión robado o a hacer espionaje",
+    "resumen": "Un teniente y un subteniente del Ejército de Bolivia fueron arrestados por personal chileno en las inmediaciones del Salar de Coipasa, Colchane, Región de Tarapacá. Se investiga si cruzaron la frontera para recuperar un camión con orden de robo vigente o si la misión era de espionaje.",
+    "fuente": "La Cuarta",
+    "url": "https://www.lacuarta.com/chile/noticia/dos-militares-bolivianos-fueron-arrestados-en-territorio-chileno-investigan-vinculo-con-contrabando-de-vehiculos-o-espionaje/",
+    "por_que_humor": "Dos militares que cruzan la frontera en misión secreta y cuyo objetivo podría ser... recuperar un camión chocado con deuda pendiente. La distancia entre 'operación de inteligencia' y 'gestión de taller mecánico' nunca había sido tan corta. Da para imaginar el briefing de la misión.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "aedcf50d-9769-482b-a0d8-4921bcfc2c03",
+    "fecha_encontrada": "2026-11-03",
+    "titular": "Chile prepara un noviembre más lluvioso que nunca: hasta seis días seguidos de tormenta sobre Santiago y alertas por crecidas en el norte chico",
+    "resumen": "Tras el octubre más lluvioso de la historia, Chile entra a noviembre con pronóstico de hasta seis días consecutivos de lluvia en la Región Metropolitana. En Coquimbo, una granizada desbordó el río Hurtado y activó quebradas en zonas habitualmente áridas.",
+    "fuente": "Tiempo de San Juan",
+    "url": "http://www.tiempodesanjuan.com/chile/chile-se-prepara-para-un-inedito-noviembre-lluvioso-alertas-por-crecidas-y-hasta-seis-dias-de-precipitaciones-consecutivas_1793373033",
+    "por_que_humor": "El país que sobrevivió el octubre más lluvioso de su historia como si fuera solo el calentamiento: ahora llega noviembre con seis días de tormenta sobre una ciudad donde la gente ya puso el paraguas al fondo del clóset porque 'se viene la primavera'. El clima de Chile tiene guion propio.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
   }
 ]

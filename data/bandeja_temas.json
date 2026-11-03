@@ -5124,5 +5124,38 @@
     "basado_en": "Halloween 2026 en Chile: lluvias históricas, fiscalizaciones masivas de motos, feriado evangélico simultáneo y alerta de calor de Senapred para el verano, todo en el mismo fin de semana.",
     "semana": "2026-11-04",
     "estado": "en_pauta"
+  },
+  {
+    "id": "b73e73be-5a8c-4aab-89cb-59a2e037d9ab",
+    "fecha_encontrada": "2026-11-03",
+    "titulo": "Vender un lago que no se puede vender: ¿Chile es el único país donde puedes poner un cuerpo de agua en Marketplace sin que nadie te detenga hasta el tercer párrafo?",
+    "gancho": "Alguien puso en venta 25.000 hectáreas de Patagonia por 7,5 millones de dólares, lago y volcán incluidos, y recién en el párrafo cuatro alguien avisó que el lago no se puede vender legalmente.",
+    "por_que_conversar": "El anuncio inmobiliario más épico de la semana incluye un lago entero y un volcán como extras, pero la letra chica aclara que los cuerpos de agua son patrimonio público y no pueden venderse. Da para preguntar cuántas cosas en Chile se ofrecen a la venta con un detalle legal enterrado al final, y para imaginar cómo sería la visita a la propiedad: '¿y ese lago?' 'Ah, ese es de todos, pero mírelo nomás'.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de venta de terreno de 25.468 hectáreas en Cochamó y Hualaihué que incluye el lago Cabrera, cuerpo de agua de uso público no enajenable según la ley chilena.",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c6e8bcd8-755d-4033-b295-1b228e7e980e",
+    "fecha_encontrada": "2026-11-03",
+    "titulo": "El chileno y la lluvia de primavera: ¿somos el único país del mundo que salió a comprar bloqueador solar y termina usando capa de agua el mismo día?",
+    "gancho": "Chile tuvo el octubre más lluvioso de su historia y ahora noviembre amenaza con seis días seguidos de tormenta sobre una ciudad que ya guardó el paraguas porque 'terminó el invierno'.",
+    "por_que_conversar": "El patrón es siempre el mismo: el santiaguino saca la ropa de verano apenas sale el sol en septiembre, y el clima lo castiga con un nuevo récord histórico de lluvia al mes siguiente. Da para hablar de la relación del chileno con el pronóstico del tiempo —que nadie mira hasta que ya está empapado—, de por qué el país entero sigue usando el calendario estacional como si el clima respetara fechas, y para preguntar si ya es momento de declarar que Chile tiene solo dos estaciones: 'llueve' y 'tembló'.",
+    "categoria": "observacional",
+    "basado_en": "Chile cerró octubre con el mes más lluvioso de su historia y entra a noviembre con pronóstico de hasta seis días consecutivos de lluvia sobre Santiago, con alertas de crecidas incluso en regiones del norte chico como Coquimbo.",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5d854e10-3a03-422a-b13a-224a3a671175",
+    "fecha_encontrada": "2026-11-03",
+    "titulo": "El halcón gordo que no puede volar, el cerdo skater y el ladrón de hormigas: ¿los animales del mundo están compitiendo por ver quién protagoniza la noticia más absurda de la semana?",
+    "gancho": "Esta semana: un halcón diagnosticado clínicamente con sobrepeso, un cerdo con récord Guinness en patineta y alguien que robó hasta 5.000 hormigas de una reserva natural de Inglaterra.",
+    "por_que_conversar": "Los animales llevan meses ganando el ciclo de noticias con historias más absurdas que cualquier humano podría inventar. Da para el debate de si los animales en 2026 tienen más personalidad, más récords y más cobertura mediática que la mayoría de los chilenos, y para preguntar cuál sería el animal chileno que podría competir con el halcón obeso o el cerdo skater: ¿el guanaco que detiene el tráfico? ¿El pingüino que llegó a Valparaíso? ¿La vizcacha de Cochamó que se bañaba en tierra?",
+    "categoria": "absurdo",
+    "basado_en": "Confluencia de noticias animales absurdas de la semana: halcón demasiado gordo para volar en Virginia, cerdo con Guinness de skateboard en Illinois y robo de nido de hormigas en Devon, Inglaterra.",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
   }
 ]
