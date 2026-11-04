@@ -7284,5 +7284,20 @@
     "estado": "aprobada",
     "origen": "manual",
     "orden": 1
+  },
+  {
+    "id": "f8d097ba-d454-407e-b17b-e6cbe3ffc977",
+    "fecha_encontrada": "2026-11-04",
+    "titular": "MURIÓ UN JUGADOR ESPAÑOL DE 30 AÑOS TRAS UN FUERTE CHOQUE CON EL ARQUERO RIVAL",
+    "resumen": "Jesús de Miguel, delantero del Tenerife de 30 años, falleció este martes después de sufrir un fuerte rodillazo en el pecho durante un partido ante el Andorra, en España. El futbolista sufrió un paro cardiorrespiratorio, fue reanimado y trasladado de urgencia a un hospital, donde murió horas después. El encuentro tuvo que ser suspendido.",
+    "fuente": "instagram.com",
+    "url": "https://www.instagram.com/reels/DfR2KbVD4Iz/",
+    "urls_extra": [],
+    "por_que_humor": "",
+    "categoria": "otro",
+    "region": "mundo",
+    "semana": "2026-11-04",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
