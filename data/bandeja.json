@@ -7299,5 +7299,20 @@
     "semana": "2026-11-04",
     "estado": "aprobada",
     "origen": "manual"
+  },
+  {
+    "id": "75a03e47-0d14-43a9-8b77-73e4bad44b74",
+    "fecha_encontrada": "2026-11-04",
+    "titular": "Partió desde Chile en 1998 y da la vuelta al mundo a pie tras 28 años",
+    "resumen": "El aventurero completó un recorrido de 50 mil kilómetros a través de cuatro continentes, que estuvo marcado por varias interrupciones, entre ellas la pandemia de COVID-19.",
+    "fuente": "adnradio.cl",
+    "url": "https://www.adnradio.cl/2026/11/02/partio-desde-chile-en-1998-el-britanico-karl-bushby-concluye-su-vuelta-al-mundo-a-pie-tras-28-anos/",
+    "urls_extra": [],
+    "por_que_humor": "",
+    "categoria": "otro",
+    "region": "mundo",
+    "semana": "2026-11-04",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
