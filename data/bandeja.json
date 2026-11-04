@@ -7054,7 +7054,7 @@
     "region": "mundo",
     "semana": "2026-11-04",
     "estado": "aprobada",
-    "orden": 4
+    "orden": 5
   },
   {
     "id": "22ac90b4-c8b6-4c42-88f5-3f12f3ac9303",
@@ -7146,7 +7146,7 @@
     "region": "mundo",
     "semana": "2026-11-04",
     "estado": "aprobada",
-    "orden": 5
+    "orden": 6
   },
   {
     "id": "b89d305d-2945-41e8-95f5-f98055ee92b8",
@@ -7235,7 +7235,7 @@
     "semana": "2026-11-04",
     "estado": "aprobada",
     "origen": "manual",
-    "orden": 6
+    "orden": 4
   },
   {
     "id": "08a774cc-fa93-4f68-b685-fdf795e01734",
