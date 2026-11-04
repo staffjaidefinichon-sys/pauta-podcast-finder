@@ -5157,5 +5157,38 @@
     "basado_en": "Confluencia de noticias animales absurdas de la semana: halcón demasiado gordo para volar en Virginia, cerdo con Guinness de skateboard en Illinois y robo de nido de hormigas en Devon, Inglaterra.",
     "semana": "2026-11-04",
     "estado": "en_pauta"
+  },
+  {
+    "id": "78e20f80-6c0f-4063-8b6d-d81a2ab834d5",
+    "fecha_encontrada": "2026-11-04",
+    "titulo": "El chofer de micro disfrazado como fenómeno nacional: ¿el transporte público chileno es el mejor escenario sin querer del país?",
+    "gancho": "Mientras el pasajero va dormido o con cara de funeral, el chofer lleva un disfraz y es viral en TikTok: ¿quién tiene mejor vida?",
+    "por_que_conversar": "El bus RED ya tiene su propio personaje de culto con disfraz y apodo. Da para hablar de los personajes involuntarios que crea el transporte público chileno —el inspector que canta, el cobrador que filosofa— y para preguntarse si el Transantiago, con todo lo que se ha criticado, es en realidad el mayor productor de contenido cómico del país.",
+    "categoria": "observacional",
+    "basado_en": "Viral del chofer de bus RED disfrazado de Rupertina en TikTok Chile, noviembre 2026",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2fa874a1-cc44-41f2-a424-dd096dd119ef",
+    "fecha_encontrada": "2026-11-04",
+    "titulo": "Chile en noviembre: marejadas, abejas que suspenden clases y perejil que puede matarte. ¿El país tiene algún plan para la primavera o simplemente improvisa?",
+    "gancho": "La primavera llegó con marejadas en la costa, abejas que toman colegios y cicuta que parece perejil en los caminos: ¿esto es un país o un videojuego en modo difícil?",
+    "por_que_conversar": "Mientras el resto del hemisferio sur celebra la primavera con flores, Chile la abre con alertas de marejadas en 15 regiones, colegios evacuados por abejas y una planta letal que se mimetiza como condimento de cocina. Da para el humor negro sobre si el chileno promedio está preparado para su propio entorno natural o si simplemente normaliza que todo sea una trampa.",
+    "categoria": "observacional",
+    "basado_en": "Marejadas en gran parte de Chile (nov. 2026), colegio del Biobío suspendido por abejas, alerta de cicuta proliferando en carreteras chilenas",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9324e353-759a-48d8-a1a5-def25097bc35",
+    "fecha_encontrada": "2026-11-04",
+    "titulo": "Animales metiéndose donde no deben: ¿en qué momento los bichos del mundo decidieron que los espacios humanos son de ellos?",
+    "gancho": "Esta semana: un caimán entró a una panadería, tres alpacas salieron a pasear solas y un mono misterioso recorre Tennessee sin dueño. Los animales ya no piden permiso.",
+    "por_que_conversar": "La semana trajo una avalancha de animales invadiendo espacios humanos con una tranquilidad absoluta. Da para el debate de si esto siempre pasó y ahora hay más cámaras, o si los animales están efectivamente coordinando algo. Y para preguntarse qué animal chileno —el guanaco, el chuncho, la vizcacha— sería el primero en entrar a un Líder o a una sucursal del BancoEstado si se lo propone.",
+    "categoria": "absurdo",
+    "basado_en": "Alligator en panadería de NC, alpacas sueltas en Maine, mono misterioso en Tennessee, todas noticias de UPI nov. 3-4 2026",
+    "semana": "2026-11-04",
+    "estado": "en_pauta"
   }
 ]
