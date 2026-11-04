@@ -7202,5 +7202,20 @@
     "semana": "2026-11-04",
     "estado": "aprobada",
     "origen": "manual"
+  },
+  {
+    "id": "475b36ee-4c98-44fa-8725-3301c8a1b40d",
+    "fecha_encontrada": "2026-11-03",
+    "titular": "Nuevo cine quiere borrar los recuerdos de los espectadores para que vean su película favorita como si fuera la primera vez",
+    "resumen": "Se trata de Pathé Rewind, un experimento impulsado por la compañía Pathé que se realizará el próximo 9 de noviembre en el cine Pathé Buitenhof, ubicado en La Haya, Países Bajos. Para llevar adelante la iniciativa, la compañía contará con el hipnotizador Victor Kraemer, quien tiene más de 30 años de experiencia en esta práctica. El procedimiento considera dos etapas: primero, cada participante tendrá una sesión individual. Posteriormente, recibirá una nueva sesión justo antes de ingresar a la sala de cine.  Las películas disponibles para el experimento son The Matrix, Se7en, La La Land e Interstellar. Los participantes debían escoger una cinta que hubieran visto al menos una vez, mientras que la producción seleccionará aquella que reúna más preferencias. Por otro lado, aunque la propuesta busca recuperar la emoción de ver una película por primera vez, su efectividad no está garantizada.",
+    "fuente": "adnradio.cl",
+    "url": "https://www.adnradio.cl/2026/11/03/nuevo-cine-quiere-borrar-los-recuerdos-de-los-espectadores-para-que-vean-su-pelicula-favorita-como-si-fuera-la-primera-vez/",
+    "urls_extra": [],
+    "por_que_humor": "",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-11-04",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
