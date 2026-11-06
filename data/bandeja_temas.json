@@ -5234,5 +5234,49 @@
     "basado_en": "Fallo de la Corte Suprema de Chile sobre custodia del gato 'Perseo' en caso de divorcio, reportado el 5 de noviembre de 2026.",
     "semana": "2026-11-11",
     "estado": "en_pauta"
+  },
+  {
+    "id": "22d5f9f6-61d1-4fee-a830-483ce1386efb",
+    "fecha_encontrada": "2026-11-06",
+    "titulo": "El trabajo del fracaso como trampolín al éxito absurdo: si un perro rechazado como guía gana un récord Guinness, ¿qué pasa con los rechazados en Chile?",
+    "gancho": "Java fue despedida de su programa de perro de asistencia y terminó siendo campeona mundial en colgar ropa con la boca. ¿Cuántos chilenos tienen una historia parecida?",
+    "por_que_conversar": "El arco narrativo del 'no sirves para esto, pero resultaste ser el mejor del mundo en aquello' es una mina de humor observacional. Da para hablar de los trabajos ridículos en los que el chileno termina siendo experto sin haberlo planeado, y para preguntar qué récord absurdo podría batir alguien que fue echado de su empleo.",
+    "categoria": "observacional",
+    "basado_en": "El récord Guinness de Java, la labrador rechazada como perro guía que terminó batiendo récord colgando broches, más el fenómeno general de las reconversiones laborales absurdas que llenan las redes esta semana.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d0d2a928-3d34-4af2-b125-9f20a1547193",
+    "fecha_encontrada": "2026-11-06",
+    "titulo": "El contrabando como espejo del alma nacional: si por las aduanas de Chile entran fósiles de Madagascar, gomitas con droga en maletas y 2 toneladas de fuegos artificiales, ¿qué dice eso de nosotros?",
+    "gancho": "En la misma semana un trabajador del aeropuerto repartió gomitas con THC 'encontradas en una maleta' y Aduanas decomisó 200 fósiles prehistóricos. Chile parece el paso más interesante del Pacífico.",
+    "por_que_conversar": "El patrón de los decomisos absurdos en Chile da para un segmento de humor observacional sobre qué es lo más insólito que alguien intentaría colar y por qué. Da para preguntar si el que se tragó los fósiles de Madagascar pensó que nadie iba a notar, y para imaginar la cara del aduanero cuando le aparece un dinosaurio en el escáner.",
+    "categoria": "absurdo",
+    "basado_en": "El decomiso de fósiles de Madagascar en Aduanas (CNN Español, nov 2026) más el caso del trabajador del aeropuerto con gomitas de THC en la misma semana.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d8228227-fec4-41ed-ae2c-229381214b01",
+    "fecha_encontrada": "2026-11-06",
+    "titulo": "La primavera chilena como género cinematográfico de terror: tornados, trombas marinas, lluvia histórica y ahora nubes embudo en el sur. ¿Chile tiene primavera o tiene guion?",
+    "gancho": "El mismo jueves aparecieron una nube embudo en Osorno Y una tromba marina en La Araucanía. No es un disaster movie: es el martes 5 de noviembre en Chile.",
+    "por_que_conversar": "La acumulación de fenómenos meteorológicos extremos en la temporada que se supone es 'la del calor y los picnics' es el material de humor observacional más chileno posible. Da para hablar de la brecha entre el chileno que compra bloqueador solar en octubre y la realidad del hombre que termina viendo una tromba marina desde la ventana del bus.",
+    "categoria": "observacional",
+    "basado_en": "Nube embudo en Osorno y tromba marina en Toltén el 5 de noviembre (Megatiempo), sumado al récord histórico de lluvia en octubre y los tornados previos de la temporada.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2818ed51-7972-42fd-b673-029573f51452",
+    "fecha_encontrada": "2026-11-06",
+    "titulo": "El récord Guinness más inútil del planeta: si alguien pasó 10 años haciendo una pelota de gomitas de 5 toneladas, ¿qué haría el chileno con 10 años y una idea fija?",
+    "gancho": "Un hombre de Detroit le dedicó más de una década de su vida a una pelota de elásticos que necesitó una grúa para ser pesada. Y ganó. ¿Qué obsesión chilena merece el mismo esfuerzo?",
+    "por_que_conversar": "La idea de consagrar una década de vida a algo completamente inútil pero récord mundial es el disparador perfecto para preguntar qué actividades absurdas el chileno ya practica con ese nivel de dedicación sin darse cuenta. Da para nombrar las obsesiones nacionales más ridículas —la marraqueta perfecta, el asado de domingo, el partido de fútbol del sábado— y preguntar cuál merece certificación Guinness.",
+    "categoria": "absurdo",
+    "basado_en": "El récord Guinness de la pelota de bandas elásticas de 5.251 kg de Detroit (UPI, nov 2026) y el fenómeno general de los récords absurdos que están dominando las noticias esta semana.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
   }
 ]
