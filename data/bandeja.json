@@ -7550,5 +7550,57 @@
     "region": "mundo",
     "semana": "2026-11-11",
     "estado": "en_pauta"
+  },
+  {
+    "id": "1b98470a-4d22-493c-aa52-affdebb80d64",
+    "fecha_encontrada": "2026-11-07",
+    "titular": "Un oso quedó atrapado dentro de un Subaru en Alaska y tocó la bocina durante varios minutos hasta que la policía fue a rescatarlo",
+    "resumen": "Un oso en Juneau, Alaska, revisó tres autos en un barrio, eligió un Subaru desbloqueado, quedó encerrado adentro y empezó a tocar la bocina. Cuando llegó la policía, el oso ya había destruido el interior y arrancado el cableado, así que tuvieron que abrir la puerta con una cuerda.",
+    "fuente": "City Weekly / News of the Weird",
+    "url": "https://www.cityweekly.net/news/news-of-the-weirdnovember-4-2026-78eeb96f",
+    "por_que_humor": "Un oso que elige un auto, queda atrapado y toca la bocina pidiendo auxilio es el villano más simpático del mes. Da para preguntar si el oso eligió el Subaru porque era el más cómodo o simplemente el más descuidado, y si el seguro cubre 'daños por oso descontento'.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c462d0ff-9c74-4b79-a6f3-0d909eaa25cb",
+    "fecha_encontrada": "2026-11-07",
+    "titular": "Robots trabajaron un turno de 24 horas en una tienda de conveniencia y dos fueron 'despedidos' de inmediato",
+    "resumen": "Una empresa de IA instaló robots trabajadores en una tienda de conveniencia para un turno completo de 24 horas. Dos de los robots fueron retirados de sus funciones inmediatamente por fallas, con sus operadores humanos teniendo que cargarlos físicamente cuando colapsaban.",
+    "fuente": "Oddee",
+    "url": "https://www.oddee.com/",
+    "por_que_humor": "La revolución de las máquinas llegó y el primer día ya despidieron a dos robots. Da para preguntar si los robots cobran finiquito, si pueden pedir seguro de desempleo y si el que los cargó de vuelta también cobra horas extra.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a02af13b-763d-4091-aad1-a20f54e89311",
+    "fecha_encontrada": "2026-11-07",
+    "titular": "Noruega respondió a que Trump la llamó 'país de baños públicos' publicando fotos de sus espectaculares WC con paisajes",
+    "resumen": "Luego de que Trump llamara a Noruega un 'país de letrinas' en un mitin, la junta de turismo noruega respondió publicando fotos de sus lujosos baños públicos con vistas a los fiordos, con el eslogan 'Noruega hace los baños grandes de nuevo'.",
+    "fuente": "France 24 / AFP",
+    "url": "https://www.france24.com/en/live-news/20261106-funny-old-world-the-week-s-offbeat-news",
+    "por_que_humor": "El país que convierte un insulto sobre sus baños públicos en campaña turística de alto nivel es la respuesta diplomática más elegante del año. Da para preguntar si en Chile una campaña de 'visita nuestros baños públicos' generaría el mismo entusiasmo o más bien vergüenza.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9c0e3e79-5674-4c86-8a77-b3ad979b325a",
+    "fecha_encontrada": "2026-11-07",
+    "titular": "Ryanair publicó una versión ridículamente delgada de su avión para sumarse al meme de que Chile es un pasillo",
+    "resumen": "La aerolínea europea Ryanair se unió al viral internacional que se burla de la forma geográfica de Chile publicando una imagen de un avión extremadamente estrecho con la leyenda de cómo serían sus aeronaves 'si volaran a Chile', uniéndose oficialmente al bullying geográfico.",
+    "fuente": "Now Mag",
+    "url": "https://now-mag.com/mag/chile-se-convierte-en-meme-mundial-internet-acaba-de-descubrir-que-somos-ridiculamente-largos",
+    "por_que_humor": "Una aerolínea internacional tuvo que rediseñar virtualmente su flota para adaptarla a la geografía chilena y eso es el nivel de humillación cariñosa que solo el país más angosto del planeta puede recibir. Da para imaginar cómo sería el avión de LATAM si lo hicieran proporcional al ancho de Chile.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
   }
 ]

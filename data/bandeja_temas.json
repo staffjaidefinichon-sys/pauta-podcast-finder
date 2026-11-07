@@ -5278,5 +5278,49 @@
     "basado_en": "El récord Guinness de la pelota de bandas elásticas de 5.251 kg de Detroit (UPI, nov 2026) y el fenómeno general de los récords absurdos que están dominando las noticias esta semana.",
     "semana": "2026-11-11",
     "estado": "en_pauta"
+  },
+  {
+    "id": "5ce58239-5e27-4730-aa46-f8fe667b1599",
+    "fecha_encontrada": "2026-11-07",
+    "titulo": "El trabajador que 'compartió' gomitas encontradas en una maleta del aeropuerto: ¿el chileno tiene un límite entre ser generoso y ser imprudente?",
+    "gancho": "En Chile, el que encuentra algo y no pregunta qué es antes de repartirlo se llama 'solidario'. En el aeropuerto, se llama imputado.",
+    "por_que_conversar": "El caso de las gomitas con THC en el aeropuerto abre el debate sobre la cultura chilena de 'lo que se encuentra se comparte' sin hacer preguntas. Da para reflexionar en clave de humor sobre cuántas cosas el chileno promedio ha aceptado de un desconocido sin preguntar qué era, y cuál es la diferencia entre ser buena onda y ser imprudente.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral de la semana: trabajador del Aeropuerto de Santiago imputado por repartir gomitas con THC encontradas en maleta extraviada.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "fc25f5f6-df49-4f1b-b37b-0054b7058654",
+    "fecha_encontrada": "2026-11-07",
+    "titulo": "El oso que elige el Subaru, el ciervo que inspecciona la lavandería y el guanaco del asado clandestino en Tierra del Fuego: ¿los animales del mundo ya tienen más criterio que nosotros?",
+    "gancho": "Un oso eligió el mejor auto del vecindario. Un ciervo fue a lavar ropa. Seis chilenos eligieron el peor lugar para hacer un asado. ¿Quién tiene más sentido común?",
+    "por_que_conversar": "La semana trajo tres noticias de animales tomando decisiones cuestionables —pero con lógica propia— mientras los humanos hacen cosas igual de absurdas. Da para el clásico debate de si los animales están evolucionando más rápido que nosotros, con el guanaco de Tierra del Fuego como caso local de honor.",
+    "categoria": "absurdo",
+    "basado_en": "Tres noticias simultáneas de la semana: oso en Subaru de Alaska, ciervo en lavandería de Carolina del Norte y guanaco faenado ilegalmente en parque de Tierra del Fuego.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3cbd2505-77e6-415e-9d8e-85f63bdd84f7",
+    "fecha_encontrada": "2026-11-07",
+    "titulo": "Noruega convierte el insulto en campaña turística: si a Chile lo llamaran 'el país más angosto del mundo', ¿lo haríamos camiseta o lo negaríamos?",
+    "gancho": "Noruega hizo marketing de lujo con sus baños públicos porque Trump la insultó. Chile ya tiene el meme del pasillo. ¿Somos capaces de monetizar nuestra geografía ridícula?",
+    "por_que_conversar": "El movimiento de Noruega de transformar un insulto presidencial en campaña de turismo viral es exactamente lo opuesto a cómo reacciona Chile ante las burlas internacionales. Con Ryanair ya rediseñando aviones para 'nuestro ancho' y el mundo riéndose del pasillo, da para preguntar si el chileno tiene el humor suficiente para hacer lo mismo o si prefiere ofenderse en Twitter.",
+    "categoria": "observacional",
+    "basado_en": "Respuesta viral de Noruega al insulto de Trump + meme internacional del avión de Ryanair adaptado a la geografía de Chile.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "91e643d9-64c9-4824-8db3-0760d782f678",
+    "fecha_encontrada": "2026-11-07",
+    "titulo": "Chile tiene 5G en el Metro pero igual el tren llega tarde: ¿somos el país que soluciona los problemas equivocados con la mejor tecnología del mundo?",
+    "gancho": "Santiago tiene mejor señal de celular bajo tierra que varios países sobre la tierra. El tren igual se atrasa.",
+    "por_que_conversar": "El Metro de Santiago es ahora la red subterránea con mejor conectividad de Sudamérica, justo cuando sigue siendo famoso por las puertas que no abren, el apretujón y los retrasos. Da para el debate humorístico de si en Chile priorizamos la tecnología correcta, y para preguntar qué prefiere el santiaguino: 5G en el andén o que la línea 1 llegue a tiempo.",
+    "categoria": "observacional",
+    "basado_en": "Anuncio oficial del Metro de Santiago como primera red subterránea de Sudamérica con 5G en el 100% de sus estaciones, noviembre 2026.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
   }
 ]
