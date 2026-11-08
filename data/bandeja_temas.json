@@ -5322,5 +5322,49 @@
     "basado_en": "Anuncio oficial del Metro de Santiago como primera red subterránea de Sudamérica con 5G en el 100% de sus estaciones, noviembre 2026.",
     "semana": "2026-11-11",
     "estado": "en_pauta"
+  },
+  {
+    "id": "67bdb7c2-2a75-4882-bca6-6be2ec6d48d8",
+    "fecha_encontrada": "2026-11-08",
+    "titulo": "La Teletón como el único evento de Chile donde el país llora, ríe, trolea a la U y predice el futuro con IA, todo en 24 horas",
+    "gancho": "El evento más emotivo del año abrió con un chiste de fútbol hecho con inteligencia artificial y cerró con Chile campeón del mundo... de robots.",
+    "por_que_conversar": "La Teletón 2026 es un espejo perfecto de la chilenidad: lloramos por los niños, nos reímos de la U, discutimos si el niño embajador era venezolano (no lo era), y el único campeonato del mundo que podemos proyectar en el futuro es de robots. Da para un segmento largo sobre por qué Chile necesita mezclar solidaridad con humor negro para funcionar como país.",
+    "categoria": "observacional",
+    "basado_en": "Apertura viral de la Teletón 2026 con el chiste del estadio de la U y el campeonato mundial de robots, tendencia en redes sociales chilenas los días 7 y 8 de noviembre de 2026.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "79eae57e-899d-4e31-9300-fb9026824c5a",
+    "fecha_encontrada": "2026-11-08",
+    "titulo": "El disfraz de la Muerte que nadie pidió: si en Chile alguien se subiera al techo de un hospital vestido de Parca, ¿sería detenido, aplaudido o contratado por algún canal?",
+    "gancho": "Un galés se puso la túnica negra, trepó un hospital y se quedó mirando a los enfermos por la ventana. En Chile eso no sería noticia, sería un reality.",
+    "por_que_conversar": "El absurdo del hombre-Muerte espía de pacientes abre el debate perfecto sobre los disfraces como carta blanca para hacer lo que quieras sin consecuencias. En un país que ya discutió si Batman puede perseguir ladrones en la calle, la pregunta es obvia: ¿qué disfraz habilitaría al chileno promedio para subirse a un techo sin que nadie lo detenga?",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del joven galés disfrazado de Parca espiando un hospital, publicada en The Independent y recogida en Funny Times noviembre 2026.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a6a82104-c75d-49df-a5dc-b16d3c4ab567",
+    "fecha_encontrada": "2026-11-08",
+    "titulo": "El supermercado como zona de guerra natural: si 50 ovejas alemanas arrasaron con los pasillos, ¿qué animal devastaría el Líder de tu barrio?",
+    "gancho": "50 ovejas entraron a un supermercado en Alemania, tumbaron todo y se fueron sin pagar. En Chile eso sería el Black Friday más honesto de la historia.",
+    "por_que_conversar": "El caos de las ovejas en el supermercado es el disparador perfecto para hablar del supermercado chileno como campo de batalla: el carrito que bloquea el pasillo, el que saca cinco unidades del límite de dos, el que paga con cheque en la caja rápida. Da para preguntar qué animal chileno —humano o no— causaría el mayor daño en un pasillo de ofertas.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia de las 50 ovejas que invadieron un supermercado Penny en Alemania en 2026, listada en Oddee entre los eventos más insólitos del año.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c641bd02-8c68-4e03-9e51-ce8c52fd2d8e",
+    "fecha_encontrada": "2026-11-08",
+    "titulo": "Usar disquetes en 2026 para controlar aviones: ¿Chile es realmente el país más atrasado en tecnología crítica o hay alguien peor?",
+    "gancho": "EE.UU. controla aviones comerciales con disquetes de los años 80. Chile controla hospitales con bodegas llenas de calefactores sin instalar. ¿Quién lo hace peor?",
+    "por_que_conversar": "El dato de que las torres de control de EE.UU. usan disquetes abre el debate sobre qué tan obsoleta es la tecnología que usamos sin saberlo en Chile: cajeros que fallan, sistemas de salud que se caen, trámites que se hacen en papel en 2026. Da para el clásico chiste del 'país desarrollado vs. país en vías de' pero al revés, con EE.UU. usando tecnología que en Chile ya no tiene ni nostalgia.",
+    "categoria": "observacional",
+    "basado_en": "Revelación viral sobre el uso de disquetes en torres de control de EE.UU., recogida como tendencia en BioBioChile el 8 de noviembre de 2026.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
   }
 ]

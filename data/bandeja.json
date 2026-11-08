@@ -7602,5 +7602,44 @@
     "region": "chile",
     "semana": "2026-11-11",
     "estado": "en_pauta"
+  },
+  {
+    "id": "6d38e4d5-6073-4314-836b-e0fdae1db778",
+    "fecha_encontrada": "2026-11-08",
+    "titular": "La obertura de la Teletón 2026 incluyó una burla a la U de Chile con IA: 'Hasta que por fin le hicieron un estadio a la U'",
+    "resumen": "El video de apertura de la Teletón 2026 mostró un Chile futurista del año 2078 donde, entre otras 'noticias del futuro', aparecía que finalmente le habían construido un estadio propio a Universidad de Chile. La frase, dicha por el niño embajador, se volvió el momento más viral de la noche.",
+    "fuente": "RadioActiva / Bolavip Chile",
+    "url": "https://www.radioactiva.cl/2026/11/hasta-que-por-fin-le-hicieron-estadio-a-la-u-el-chiste-que-se-hizo-viral-en-la-obertura-de-la-teleton-2026",
+    "por_que_humor": "La Teletón —el evento más emotivo y serio del año en Chile— abrió con una talla de fútbol que el país entero estaba esperando desde hace décadas. El hecho de que el chiste lo dijera un niño enfermo en un video de IA del futuro lo hace doblemente absurdo y doblemente chileno.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6a4392f9-182c-4b4c-bd12-ba4e7e2d26c9",
+    "fecha_encontrada": "2026-11-08",
+    "titular": "Un caimán de tres pies entró caminando tranquilamente por la puerta trasera de una panadería de Carolina del Norte",
+    "resumen": "Las cámaras de seguridad de una panadería en Carolina del Norte registraron el momento en que un caimán de casi un metro entró por la puerta trasera y recorrió el local. El reptil fue capturado por control de fauna silvestre.",
+    "fuente": "UPI Odd News",
+    "url": "https://www.upi.com/Odd_News/2026/11/03/alligator-north-carolina-bagel-shop/",
+    "por_que_humor": "Un caimán que entra a una panadería —no a atacar, sino a pasear— es el cliente más relajado del año. Da para imaginar qué pidió en la barra y si se fue sin pagar.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f40921bc-126e-41ab-8beb-fffaf6fb2549",
+    "fecha_encontrada": "2026-11-08",
+    "titular": "Un corredor británico completó una milla en 5 minutos mientras resolvía cuatro cubos Rubik... y lo certificó el Guinness",
+    "resumen": "Un entusiasta del cubo Rubik del Reino Unido combinó sus habilidades atléticas y de puzzle para resolver cuatro cubos Rubik mientras corría una milla en poco más de 5 minutos, obteniendo el Récord Guinness.",
+    "fuente": "UPI Odd News",
+    "url": "https://www.upi.com/Odd_News/2026/11/06/rubiks-cube-runner-guinness-world-record/8061793901714",
+    "por_que_humor": "El hombre que resuelve cubos Rubik corrando a toda velocidad es la prueba definitiva de que el Guinness ya no premia el talento, premia la combinación más absurda de dos habilidades. Da para preguntar qué hubiera pasado si se equivocaba en el último giro.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
   }
 ]
