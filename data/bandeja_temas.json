@@ -5366,5 +5366,49 @@
     "basado_en": "Revelación viral sobre el uso de disquetes en torres de control de EE.UU., recogida como tendencia en BioBioChile el 8 de noviembre de 2026.",
     "semana": "2026-11-11",
     "estado": "en_pauta"
+  },
+  {
+    "id": "a678af09-0feb-45e7-b1a5-66a1353ac4e2",
+    "fecha_encontrada": "2026-11-09",
+    "titulo": "Rusia quiere prohibir la pizza por 'hostil': ¿qué alimento extranjero debería Chile declarar enemigo del Estado?",
+    "gancho": "Si la pizza es una amenaza a la identidad rusa, ¿el sushi es una amenaza a la identidad chilena o ya es demasiado tarde porque está en todos los malls?",
+    "por_que_conversar": "El absurdo de que un gobierno declare un alimento como amenaza cultural abre la puerta perfecta para el humor chileno: ¿qué comida extranjera 'invadió' Chile sin que nadie lo autorizara? ¿El sushi, el burrito, el açaí? ¿Y cuál es el alimento chileno que merece protección oficial frente a la invasión?",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del día: Rusia debate prohibir la pizza en comedores escolares por considerarla 'cultura hostil', retomada por asesora de Putin el 5 de noviembre.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "07b44584-a2e4-435d-a0c7-a9e2a0cce4a7",
+    "fecha_encontrada": "2026-11-09",
+    "titulo": "El alcalde que viraliza el OVNI antes de preguntar si es real: ¿el funcionario público chileno es el ser más crédulo o el más marketero del planeta?",
+    "gancho": "El alcalde de Paihuano compartió la foto del 'platillo volador' antes de que alguien revisara si era una bolsa plástica, una lenteja o un dron de delivery.",
+    "por_que_conversar": "Chile tiene una relación especial con los OVNIs —el país con más avistamientos per cápita del mundo— y este episodio del Valle del Elqui condensa todo: autoridad local, foto borrosa, teorías conspirativas y redes sociales. Da para debatir si en Chile es más fácil hacerse famoso por un OVNI que por una obra pública, y para preguntar cuántos alcaldes han ganado elecciones gracias a un avistamiento.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia del 9 de noviembre: foto viral de supuesto OVNI en Cochiguaz, Valle del Elqui, compartida por el alcalde de Paihuano antes de que se aclarara nada.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "81e27d4f-5ca2-4890-9bf9-7e7c3d6e58a4",
+    "fecha_encontrada": "2026-11-09",
+    "titulo": "Organizarse masivamente para hacer algo completamente inútil: ¿por qué los humanos del siglo XXI son capaces de movilizarse mejor por una escultura que por cualquier otra causa?",
+    "gancho": "Cientos de personas se coordinaron, viajaron y empujaron una escultura de 110 toneladas que obviamente no iba a moverse. Y lo disfrutaron.",
+    "por_que_conversar": "El evento de 'mover The Bean' en Chicago es el espejo perfecto de cómo funciona la organización colectiva hoy: causa absurda, convocatoria masiva, fracaso garantizado, todo documentado en TikTok. Da para preguntarse qué causa igual de inútil pero igual de divertida movilizaría a los chilenos: ¿empujar el moai del aeropuerto? ¿intentar mover el edificio ENTEL? ¿hacer sonar el silbato del árbitro más odiado del fútbol chileno?",
+    "categoria": "observacional",
+    "basado_en": "Noticia del 9 de noviembre: evento viral en Chicago donde cientos intentaron desplazar la escultura 'Cloud Gate' (The Bean) del Millennium Park.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "da3e105d-76a0-404f-900f-0c4fd838988c",
+    "fecha_encontrada": "2026-11-09",
+    "titulo": "El horno que lleva 150 años prendido en Valparaíso: ¿qué otras cosas en Chile llevan décadas funcionando sin que nadie se atreva a apagarlas?",
+    "gancho": "En Chile hay un horno que no se ha apagado en 150 años. Para comparar: el Metro de Santiago tiene cortes de luz cada tres semanas.",
+    "por_que_conversar": "El contraste entre la infraestructura informal que lleva siglos funcionando (un horno de amasandería familiar) y la infraestructura oficial que falla permanentemente es el chiste más chileno posible. Da para hacer una lista de 'cosas que en Chile funcionan porque nadie las toca' vs. 'cosas que se rompen apenas alguien las mira', y para preguntarse si el secreto del país es simplemente no intervenir nada.",
+    "categoria": "observacional",
+    "basado_en": "Nota de Chile Conectado sobre amasandería más antigua de Chile en la Región de Valparaíso, con horno activo sin interrupción por más de 150 años.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
   }
 ]
