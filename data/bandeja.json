@@ -7693,5 +7693,57 @@
     "region": "mundo",
     "semana": "2026-11-11",
     "estado": "en_pauta"
+  },
+  {
+    "id": "2989b351-9427-4034-aa45-329d1f39bab1",
+    "fecha_encontrada": "2026-11-10",
+    "titular": "Chile eligió al 'Gato de Geoffroy' como Embajador de la Fauna Chilena 2027… con votación online y todo",
+    "resumen": "El gato de Geoffroy, un felino patagónico en peligro de extinción que casi nadie conocía, ganó una elección ciudadana organizada por la Fundación Jane Goodall Institute Chile con el 29,59% de los votos. Ahora es el 'embajador oficial' del país por todo un año.",
+    "fuente": "Pauta.cl",
+    "url": "https://www.pauta.cl/tendencias/2026/11/10/gato-de-geoffroy-es-elegido-embajador-de-la-fauna-chilena-2027-donde-habita-y-cuales-son-sus-principales-amenazas.html",
+    "por_que_humor": "Chile tiene un sistema de elecciones para animales con más participación que algunos municipios. El cargo de 'Embajador de la Fauna' no tiene sueldo, no tiene dieta y el elegido ni siquiera sabe que ganó. Da para preguntar qué promesas hizo en campaña.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6cafc2e3-eb08-4e03-8d68-6de5ba186f77",
+    "fecha_encontrada": "2026-11-10",
+    "titular": "El 'gato fantasma' reaparece en la cordillera de Santiago tras 15 años de ausencia total",
+    "resumen": "Una cámara trampa registró un gato andino en la cuenca alta de Quebrada de Ramón, Santiago. Es el primer registro del felino más amenazado de Sudamérica en esa zona en 15 años, y apareció entre imágenes de zorros y chinchillas como si nada.",
+    "fuente": "Meganoticias",
+    "url": "https://www.meganoticias.cl/amp/nacional/535681-gato-andino-cordillera-santiago-captado-camaras-trampa-15-anos-05-11-2026.html",
+    "por_que_humor": "Un gato que lleva 15 años viviendo literalmente encima de Santiago sin que nadie lo viera es el resumen del chileno que vive al lado de algo increíble y nunca lo nota. Da para imaginar qué más está escondido en la cordillera mirando hacia abajo.",
+    "categoria": "curioso",
+    "region": "chile",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "260ab489-57f4-4e4b-895e-6b8093396d2a",
+    "fecha_encontrada": "2026-11-10",
+    "titular": "Mujer compra auto nuevo por $24 millones y un peritaje revela que era un Frankenstein de piezas de varios autos",
+    "resumen": "Una auditora de La Serena pagó $24 millones por un auto 'nuevo' en la automotora Callegari, pero un peritaje detectó piezas de otros vehículos, daños previos, kilometraje irregular y posibles alteraciones en el motor. Ahora paga $600 mil mensuales por un auto que no puede usar.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/biobiotv/programas/expreso-bio-bio/2026/11/10/como-franskenstein-o-un-lego-mujer-acusa-que-auto-que-compro-como-nuevo-estaba-adulterado.shtml",
+    "por_que_humor": "El auto 'nuevo' que resulta ser un collage de chatarra es el peor unboxing de la historia chilena. La descripción 'como Frankenstein o un lego' es ya el mejor titular automotriz del año. Da para imaginar qué modelo era originalmente y cuántas partes de cuántos autos iban adentro.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a51dc21b-1294-429b-92f4-c69c59a48540",
+    "fecha_encontrada": "2026-11-10",
+    "titular": "Miles de personas disfrazadas del Dr. Simi batieron un récord Guinness en Chile por Halloween",
+    "resumen": "Más de 200 personas en Santiago participaron de una convocatoria global que reunió a 4.112 personas disfrazadas del icónico personaje de Farmacias Similares, logrando el récord Guinness de mayor concentración de personas vestidas de Dr. Simi simultáneamente.",
+    "fuente": "Telemundo",
+    "url": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/video/miles-de-personas-disfrazadas-del-dr-simi-rompieron-un-record-guinness-en-chile-tmvo13240522",
+    "por_que_humor": "Chile celebra Halloween disfrazándose en masa del personaje de una farmacia mexicana y lo convierte en récord mundial. Es el único país donde la mascota de los remedios genéricos se transforma en motivo de orgullo nacional certificado por Guinness.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
   }
 ]

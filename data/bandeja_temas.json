@@ -5410,5 +5410,38 @@
     "basado_en": "Nota de Chile Conectado sobre amasandería más antigua de Chile en la Región de Valparaíso, con horno activo sin interrupción por más de 150 años.",
     "semana": "2026-11-11",
     "estado": "en_pauta"
+  },
+  {
+    "id": "d876d5c9-d2b8-4d31-b2d9-59873c182553",
+    "fecha_encontrada": "2026-11-10",
+    "titulo": "Chile tiene elecciones para animales con más participación que algunos municipios: ¿el voto animal debería ser obligatorio?",
+    "gancho": "El Gato de Geoffroy ganó una elección con el 30% de casi 10.000 votos y no sabe que es el Embajador de la Fauna 2027.",
+    "por_que_conversar": "El absurdo de tener un sistema electoral para designar al animal del año —con candidatos, plataforma online y ceremonia— abre el debate perfecto: ¿qué animal chileno haría el peor embajador? ¿El puma que nadie ve nunca, la vizcacha que sólo se rasca, o la gaviota que te roba el completo? Da para inventar las promesas de campaña de cada especie.",
+    "categoria": "absurdo",
+    "basado_en": "Elección del Embajador de la Fauna Chilena 2027 por votación ciudadana, 10 de noviembre de 2026",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "bc217e86-126e-4cd5-a61e-91544b1d1d28",
+    "fecha_encontrada": "2026-11-10",
+    "titulo": "El auto Frankenstein de La Serena: ¿Chile es el único país donde puedes comprar algo 'nuevo' y resulta ser un collage de desechos?",
+    "gancho": "Una mujer pagó $24 millones por un auto 'nuevo' que era literalmente un rompecabezas de varios autos chatarreados cosidos entre sí.",
+    "por_que_conversar": "El 'auto Frankenstein' abre el tema del chileno que siempre tiene miedo de que lo engañen pero igual firma sin leer. Da para contar historias de compras que resultaron ser otra cosa, debatir si existe alguna compra en Chile donde puedas confiar al 100% en lo que te están vendiendo, y preguntarse qué otro objeto cotidiano podría ser secretamente un Frankenstein.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral del 10 de noviembre 2026 sobre vehículo adulterado vendido como nuevo en La Serena",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "94890872-4675-4a8c-8710-2c99a78a1c51",
+    "fecha_encontrada": "2026-11-10",
+    "titulo": "Devolver algo que encontraste: ¿el chileno tiene la fibra moral de caminar 1.600 km o se queda con lo que halla?",
+    "gancho": "Unos italianos caminaron 1.600 km vestidos de hobbits para devolver un anillo. El chileno promedio no devuelve ni el vuelto de más.",
+    "por_que_conversar": "El contraste entre la épica italiana de devolver algo a costa de un viaje de meses y lo que haría el chileno promedio al encontrar algo de valor es el debate moral más honesto del podcast. Da para contar qué cosas se han encontrado, si alguien las devolvió, y qué tan lejos está dispuesto a llegar el chileno para 'hacer lo correcto' antes de que el 'lo necesito más que ellos' se imponga.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral internacional de italianos que devuelven anillo encontrado en río caminando 1.600 km, noviembre 2026",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
   }
 ]
