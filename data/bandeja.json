@@ -7404,10 +7404,11 @@
     "url": "https://www.latercera.com/videos/noticia/insolita-situacion-captan-a-una-mujer-transportando-un-mono-en-antofagasta/",
     "por_que_humor": "El primate anónimo viajando en micro como cualquier pasajero nortino es el WTF más puro de la semana: da para imaginar si pagó pasaje, si fue fichado por el inspector y si el SAG va a ir a buscarlo a la parada.",
     "categoria": "absurdo",
-    "region": "chile",
+    "region": "mundo",
     "semana": "2026-11-11",
     "estado": "aprobada",
-    "orden": 3
+    "orden": 3,
+    "urls_extra": []
   },
   {
     "id": "2087dde1-a333-4db2-a267-a99a509e9906",
