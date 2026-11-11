@@ -7805,5 +7805,20 @@
     "estado": "aprobada",
     "origen": "manual",
     "orden": 2
+  },
+  {
+    "id": "55a6f458-8b54-4581-9a7d-14ca7c2f8c9d",
+    "fecha_encontrada": "2026-11-11",
+    "titular": "17 de noviembre: Lo que se sabe del supuesto apagón mundial...",
+    "resumen": "ircula en redes que el 17 de noviembre de 2026 el mundo quedará tres días sin luz, internet ni comunicaciones. El rumor nace de una prueba nacional del sistema de alertas de emergencia que FEMA y la FCC harán ese día a las 14:20 (hora del este de EE.UU.). La prueba solo interrumpe por un momento la radio y la televisión. La alarma creció por una escena de Los Simpson (2023) en la que aparece esa fecha y un apagón, y por las recomendaciones de la UE y FEMA de tener provisiones para 72 horas. Hay apagones masivos reales, como el de EE.UU. en 2003, el de Argentina en 2019 y el de España en 2025, pero ninguno fue mundial. Conclusión: no hay pruebas de un apagón global, aunque el miedo muestra cuánto dependemos de la electricidad.",
+    "fuente": "fayerwayer.com",
+    "url": "https://www.fayerwayer.com/entretenimiento/2026/11/11/apagon-el-17-de-noviembre-por-una-ia-descontrolada-la-verdad-detras-del-rumor-viral-y-la-famosa-teoria-de-los-simpson/",
+    "urls_extra": [],
+    "por_que_humor": "",
+    "categoria": "otro",
+    "region": "chile",
+    "semana": "2026-11-11",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
