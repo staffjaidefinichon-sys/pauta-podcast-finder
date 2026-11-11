@@ -7431,10 +7431,11 @@
     "url": "https://www.latercera.com/",
     "por_que_humor": "La Corte Suprema, que tiene causas de décadas esperando, encontró el tiempo para definir quién duerme con el gato. Da para imaginar los alegatos, el abogado defensor del felino y si Perseo declaró como testigo.",
     "categoria": "absurdo",
-    "region": "chile",
+    "region": "mundo",
     "semana": "2026-11-11",
     "estado": "aprobada",
-    "orden": 4
+    "orden": 4,
+    "urls_extra": []
   },
   {
     "id": "9785d7a9-3237-4326-bbc0-fddb66ec81b3",
