@@ -5443,5 +5443,49 @@
     "basado_en": "Noticia viral internacional de italianos que devuelven anillo encontrado en río caminando 1.600 km, noviembre 2026",
     "semana": "2026-11-11",
     "estado": "en_pauta"
+  },
+  {
+    "id": "1ee06661-050f-42c9-92f2-4d2cfaf5d51c",
+    "fecha_encontrada": "2026-11-11",
+    "titulo": "El chileno como guardián involuntario del patrimonio mundial: si una familia de Viña del Mar tuvo 90 años un trozo de templo griego en el comedor, ¿qué más hay en las casas del país esperando ser devuelto?",
+    "gancho": "El adorno del estante resultó ser parte de un templo del siglo VI a.C., y nadie en la familia lo supo durante tres generaciones.",
+    "por_que_conversar": "Es el punto de partida perfecto para hablar de la costumbre chilena de guardar todo 'por si acaso', de las cosas inexplicables que hay en las casas de los abuelos, y del contraste entre el chileno que devolvió el mármol con honor versus el que lo habría puesto en Marketplace. Da también para imaginar qué otros países tienen piezas chilenas en el estante sin saberlo.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral de la semana: familia de Viña del Mar devuelve fragmento de templo griego de 2.500 años que usaban como decoración de comedor.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e6d3e489-efef-4b2b-b54c-2163ad5878fa",
+    "fecha_encontrada": "2026-11-11",
+    "titulo": "Organizarse masivamente para hacer algo completamente inútil en grupo: si cientos de gringos se juntan a empujar una escultura de 110 toneladas, ¿qué hazaña colectiva absurda haría el chileno?",
+    "gancho": "Cientos de personas coordinadas, movilizadas, llenas de energía… para empujar algo que obviamente no se iba a mover.",
+    "por_que_conversar": "Es el disparador perfecto para hablar del potencial organizativo chileno cuando la causa es completamente absurda versus cuando es urgente. Da para imaginar: ¿Cuántos chilenos irían a empujar el Moai de la Plaza de Armas? ¿A hacer temblar el Costanera Center? ¿A despeinar la estatua de O'Higgins? La pregunta de fondo es si el chileno tiene más convocatoria para lo inútil que para lo importante.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral internacional: cientos de personas se reunieron en Chicago para intentar mover la escultura The Bean empujando en grupo.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a7318a75-79a9-4e4e-b904-be707e6efef6",
+    "fecha_encontrada": "2026-11-11",
+    "titulo": "El paro de camioneros como set de comedia en vivo: ¿el chileno aprovecha cualquier micrófono para hacer humor o simplemente no puede evitarlo?",
+    "gancho": "Un camionero en paro toma el micrófono de la tele nacional y en vez de hablar de sus demandas lanza un chiste de nombre.",
+    "por_que_conversar": "El momento en que el entrevistado ignora el contexto del paro para hacer un juego de palabras con 'Neme' en cadena nacional es un fenómeno muy chileno: el humor como primera respuesta ante cualquier situación, incluidas las serias. Da para hablar de si el humor es una forma de resistencia, de rebeldía o simplemente de que el chileno no puede estar frente a una cámara sin intentar ser gracioso.",
+    "categoria": "observacional",
+    "basado_en": "Video viral del día: entrevistado en cobertura del paro de camioneros en Mucho Gusto le hace chiste de nombre a Neme en vivo.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3bb678b3-a42b-4e12-908f-5a32af8a2f55",
+    "fecha_encontrada": "2026-11-11",
+    "titulo": "La IA como nuevo fabricante de pánico ciudadano: si un zoo de Ohio tuvo que desmentir leones sueltos por una foto falsa, ¿qué fake de IA haría colapsar a Chile?",
+    "gancho": "Un zoológico emitió comunicado oficial para aclarar que sus leones SIGUEN adentro, gracias a una imagen inventada por inteligencia artificial.",
+    "por_que_conversar": "Es la excusa perfecta para hablar del nivel de credulidad del chileno promedio frente a las imágenes que circulan en WhatsApp y redes. ¿Qué fake de IA haría entrar en pánico a Chile? ¿Un tornado sobre el Costanera? ¿Un tsunami en Viña? ¿El estadio de la U finalmente construido? Da para debatir si ya no sabemos distinguir nada de nada, y si el próximo OVNI del Valle del Elqui va a ser también una basurita en el lente o directamente una IA.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia internacional: zoo de Akron debió desmentir oficialmente una foto viral de IA que mostraba leones escapados en la ciudad.",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
   }
 ]

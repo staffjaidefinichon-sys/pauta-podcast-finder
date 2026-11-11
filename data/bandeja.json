@@ -7820,5 +7820,70 @@
     "semana": "2026-11-11",
     "estado": "aprobada",
     "origen": "manual"
+  },
+  {
+    "id": "39b9b49e-a46f-476d-ae9d-e01c85fd6fc0",
+    "fecha_encontrada": "2026-11-11",
+    "titular": "Familia de Viña del Mar usó como adorno de comedor durante 90 años un trozo del templo más antiguo de la Acrópolis de Atenas",
+    "resumen": "Un ingeniero de Viña del Mar devolvió a Grecia un fragmento de mármol de 1,2 kilos que su familia usaba como decoración de comedor desde los años 30. Lo curioso: creían que era del Partenón, pero resultó ser de un templo aún más antiguo, el Hekatompedon, construido en el siglo VI a.C.",
+    "fuente": "La República / foro3d.com",
+    "url": "https://larepublica.pe/mundo/2026/11/01/una-familia-en-chile-guardo-durante-90-anos-un-pedazo-de-marmol-de-atenas-expertos-rastrearon-su-origen-hasta-un-templo-mas-antiguo-que-el-partenon-22322",
+    "por_que_humor": "Noventa años con un pedazo de templo griego de 2.500 años en el estante del comedor, entre el salero y la servilletero, y encima al devolverlo te dicen que es incluso MÁS viejo de lo que creías. El chileno no solo guardó un tesoro sin saberlo: guardó el tesoro equivocado. Da para imaginar qué más hay en las casas de Viña del Mar disfrazado de cachureo.",
+    "categoria": "curioso",
+    "region": "chile",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "8fee0fab-ee51-4550-9243-a8158acd26bd",
+    "fecha_encontrada": "2026-11-11",
+    "titular": "Hombre en vivo durante cobertura del paro de camioneros le hace juego de palabras con el apellido 'Neme' al reportero de Mega, y el panel no pudo aguantar",
+    "resumen": "Durante la cobertura en terreno del paro de camioneros en la Ruta 68 para Mucho Gusto, un entrevistado tomó el micrófono y en vez de hablar del paro lanzó un chiste sobre el nombre del conductor José Antonio Neme que descolocó a todo el panel.",
+    "fuente": "Publimetro",
+    "url": "https://www.publimetro.cl/entretenimiento/2026/11/11/deberia-llamarse-nepe-el-insolito-momento-en-vivo-durante-la-cobertura-del-paro-de-camioneros-que-descoloco-a-jose-antonio-neme/",
+    "por_que_humor": "El chileno aprovechó la cámara nacional no para hablar de sus reclamos gremiales sino para hacer un chiste de nombre. Es el resumen más perfecto del humor popular chileno en vivo y en directo: el momento más serio se convierte en comedia en 10 segundos.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "bc6aedce-a5b2-47b4-bbdd-236c2876778a",
+    "fecha_encontrada": "2026-11-11",
+    "titular": "Un gatito perdido en Nueva York fue rescatado de una alcantarilla en una operación de más de 5 horas gracias a… un nugget de pollo",
+    "resumen": "Un gatito callejero cayó a una alcantarilla de Nueva York y resistió más de cinco horas de intentos de rescate. La única cosa que logró sacarlo fue acercarle un nugget de pollo a la salida de la rejilla. El gatito fue bautizado 'Chicken Nugget' en su honor.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/11/09/kitten-chicken-nugget-new-york-storm-drain-rescue/",
+    "por_que_humor": "Cinco horas de operativo de rescate fallido y la solución fue un nugget de pollo. El gato que no obedece a los bomberos pero sí a la comida chatarra es la metáfora más honesta de cualquier ser vivo en 2026. Da para preguntar si en Chile el SAG debería tener un protocolo de nugget de emergencia.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "23c61992-5154-4eb8-91cf-4e3bd6ab77d0",
+    "fecha_encontrada": "2026-11-11",
+    "titular": "Zoo de Ohio tuvo que salir a desmentir que había leones africanos sueltos en la ciudad… la causa: una foto falsa generada con IA",
+    "resumen": "El zoológico de Akron, Ohio, debió emitir un comunicado oficial aclarando que no había leones sueltos en la ciudad luego de que una imagen generada con inteligencia artificial se viralizara como si fuera real y causara pánico.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/11/10/akron-zoo-escaped-lions-false-ai-image/",
+    "por_que_humor": "Un zoo teniendo que decirle al mundo que sus leones SIGUEN adentro —gracias a una foto de IA— es el comunicado más surrealista de la semana. Da para preguntar cuántas instituciones chilenas tendrán que hacer lo mismo en el futuro próximo: '¡El estadio de la U sigue sin construirse, la foto es falsa!'",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ab5322e0-9d82-4f69-83d0-3c2cc1d97c19",
+    "fecha_encontrada": "2026-11-11",
+    "titular": "Italianitos 'hobbits' caminaron 1.000 millas para devolver un anillo de bodas perdido que encontraron en un río",
+    "resumen": "Un grupo de italianos encontró un anillo de matrimonio enterrado en un río y, en vez de quedárselo o mandarlo por correo, decidieron emprender un viaje a pie de más de 1.600 kilómetros para devolverlo a su dueño original. El medio los comparó con los hobbits de El Señor de los Anillos.",
+    "fuente": "Oddee",
+    "url": "https://www.oddee.com/italians-hobbits-journey-1000-miles-to-return-lost-wedding-ring/",
+    "por_que_humor": "El anillo que podría haberse enviado por correo certificado en dos días generó en cambio una expedición épica de semanas. Es la decisión más innecesaria y más gloriosa de noviembre. Da para preguntar qué haría el chileno promedio al encontrar un anillo en el río: ¿caminaba 1.600 km o lo ponía en Marketplace?",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-11-11",
+    "estado": "en_pauta"
   }
 ]
