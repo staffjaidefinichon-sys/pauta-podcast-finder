@@ -7748,5 +7748,22 @@
     "region": "chile",
     "semana": "2026-11-11",
     "estado": "en_pauta"
+  },
+  {
+    "id": "d90e0d07-7561-49cb-bcdf-6d878740079f",
+    "fecha_encontrada": "2026-11-10",
+    "titular": "Hombre nacio con una Malformacion en el dedo Medio.",
+    "resumen": "",
+    "fuente": "",
+    "url": "La foto ya le está dando la vuelta a las redes porque ese dedo tiene más músculo que el bíceps de muchos.",
+    "urls_extra": [
+      "https://www.instagram.com/p/DfhqZzMRxaJ/?vrfl=MmdvZXBrbm05cmdx"
+    ],
+    "por_que_humor": "",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-11",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
