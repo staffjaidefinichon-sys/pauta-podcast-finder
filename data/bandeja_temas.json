@@ -5520,5 +5520,49 @@
     "basado_en": "Alerta de temperaturas extremas en el sur (BioBioChile, 12 nov), rumor del apagón del 17 de noviembre (10 nov) y contexto climático de noviembre 2026 en Chile.",
     "semana": "2026-11-18",
     "estado": "en_pauta"
+  },
+  {
+    "id": "5a7bc115-dd01-4742-8360-c1d29f767847",
+    "fecha_encontrada": "2026-11-13",
+    "titulo": "El fin del mundo llegó puntualmente hoy viernes 13 y nadie lo notó: ¿el chileno cancela todo preventivamente o improvisa hasta el final?",
+    "gancho": "Hoy era oficialmente el día del apocalipsis según una fórmula matemática de 1960, cayó en viernes 13, y el país amaneció igual de caótico que siempre.",
+    "por_que_conversar": "Es el disparador más absurdo posible: una fecha del fin del mundo que llega, no pasa nada, y ahora hay que decidir qué hacer con la tarde libre. Da para explorar cómo reacciona el chileno ante el catastrofismo colectivo, si es más del tipo 'cancelo todo por si acaso' o del tipo 'ya, si total igual no iba a ir al gimnasio'. También abre el debate de qué haría el chileno promedio con dos semanas de plazo si el apocalipsis fuera real y certificado.",
+    "categoria": "absurdo",
+    "basado_en": "El viral global del paper científico de 1960 que fijó el 13 de noviembre de 2026 como fecha del colapso de la civilización, que trending esta semana en redes de todo el mundo incluyendo Chile.",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5d72504d-bdb8-41f1-be4a-cd7b847611d6",
+    "fecha_encontrada": "2026-11-13",
+    "titulo": "Hundir el problema al fondo del mar: si Chile pudiera resolver sus líos más crónicos tirándolos al océano como el SS United States, ¿qué iría primero?",
+    "gancho": "EE.UU. se preguntó qué hacer con un barco gigante que nadie quería y la respuesta fue hundirlo, cobrar turismo de buceo y llamarlo solución ecológica.",
+    "por_que_conversar": "Es un disparador de conversación perfecto con humor observacional: la idea de que hundir algo a propósito puede ser un plan de negocios legítimo y hasta premiado. Abre la puerta a imaginar qué problemas chilenos podrían 'resolverse' con la misma lógica: el hospital modular en la bodega, los calefactores sin instalar, los barcos varados en Talcahuano. Da para reírse de la brecha entre soluciones creativas del primer mundo y soluciones creativas del Chile profundo.",
+    "categoria": "observacional",
+    "basado_en": "El hundimiento intencional del SS United States frente a Florida el 11 de noviembre, convertido en noticia mundial y meme inmediato sobre qué hacer con cosas viejas que nadie quiere.",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "0f94fb21-c1c2-4dd3-ab95-2706c14397c5",
+    "fecha_encontrada": "2026-11-13",
+    "titulo": "El clóset de la tía como caja fuerte accidental: ¿el chileno promedio tiene un tesoro guardado que no sabe que existe?",
+    "gancho": "Una mujer encontró un cuadro de 3 millones de dólares debajo de los abrigos de piel de su tía. La tía lo usaba de fondo de clóset.",
+    "por_que_conversar": "Es el tema perfecto para el humor observacional chileno: la cultura del 'guárdalo por si acaso' de las abuelas y tías, que en este caso resultó ser una estrategia de inversión de arte involuntaria. Da para contar anécdotas de cosas raras encontradas en casas de familiares, y para explorar si en Chile la cultura del cachureo podría estar sentada sobre fortunas sin saber. El gancho emocional es universal: todos tienen una tía que guarda todo.",
+    "categoria": "curioso",
+    "basado_en": "El hallazgo de un cuadro desconocido de Georgia O'Keeffe valuado en USD 3 millones debajo de abrigos en un clóset familiar, reportado esta semana en EE.UU.",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "4d62c4a0-5c83-4602-9ab4-0d763e6e9a6b",
+    "fecha_encontrada": "2026-11-13",
+    "titulo": "Robar hormigas, robar dulces de niños y manejar ebrio a la comisaría: ¿el ser humano promedio toma peores decisiones que cualquier animal del planeta?",
+    "gancho": "Esta semana alguien robó el único nido de hormigas raras de Inglaterra, otra persona saqueó los dulces de Halloween de unos niños con el uniforme del trabajo puesto, y un tipo fue a la policía en auto borracho.",
+    "por_que_conversar": "Es un bloque temático de humor puro: los tres casos de esta semana son el podio perfecto de las peores decisiones humanas documentadas. Da para preguntar si en Chile existe un récord nacional de malas decisiones que supere esto, y para el clásico debate de si los animales —que esta semana no hicieron ninguna de estas cosas— ya nos ganaron en inteligencia operativa. Formato ideal para un segmento de 'ranking de vergüenzas ajenas'.",
+    "categoria": "absurdo",
+    "basado_en": "Tres noticias internacionales absurdas de la semana del 10-13 de noviembre, reportadas en News of the Weird: robo de hormigas en Devon, robo de dulces Halloween en Alabama y el hombre que fue a la policía ebrio en Canadá.",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
   }
 ]
