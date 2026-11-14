@@ -5564,5 +5564,49 @@
     "basado_en": "Tres noticias internacionales absurdas de la semana del 10-13 de noviembre, reportadas en News of the Weird: robo de hormigas en Devon, robo de dulces Halloween en Alabama y el hombre que fue a la policía ebrio en Canadá.",
     "semana": "2026-11-18",
     "estado": "en_pauta"
+  },
+  {
+    "id": "dd81b603-5186-459b-8a16-e6f3976df9f7",
+    "fecha_encontrada": "2026-11-14",
+    "titulo": "Mejillones como el nuevo acuario del apocalipsis: ¿el norte de Chile se está convirtiendo en el zoológico marino más caótico del Pacífico?",
+    "gancho": "En menos de dos meses, Mejillones tuvo ballenas azules, orcas cazando en manada, tiburones martillo y ahora el primer tiburón ballena de la historia continental chilena. ¿Qué están echando al agua allá arriba?",
+    "por_que_conversar": "Es un tema que combina el orgullo regional nortino ('Mejillones tiene más fauna que el acuario de Valparaíso') con el absurdo de que una ciudad conocida por el puerto industrial se convirtió en destino de turismo de vida salvaje sin haberlo pedido. Da para imaginar la oficina de turismo de Mejillones, para debatir qué animal tendría que aparecer para que finalmente todo el mundo en Santiago sepa dónde queda, y para hacer el chiste de que al ritmo que van, el próximo avistamiento es un calamar gigante en el molo.",
+    "categoria": "observacional",
+    "basado_en": "Avistamientos masivos de fauna marina en Mejillones durante octubre y noviembre de 2026, coronados con el primer tiburón ballena de aguas continentales chilenas registrado hoy 14 de noviembre.",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ce35c541-3d77-4cdb-9930-5cb4fefc0f3a",
+    "fecha_encontrada": "2026-11-14",
+    "titulo": "El fin del mundo llegó, cayó una bola de fuego del cielo... y era viernes 13: ¿el universo tiene sentido del humor o Chile simplemente vive en modo guion?",
+    "gancho": "El día que la ciencia había calculado como 'el fin del mundo' desde 1960, Chile amaneció con un meteorito misterioso iluminando el cielo nocturno. El universo cumplió a medias y nadie sabe si reírse o mirar para arriba.",
+    "por_que_conversar": "Es la convergencia perfecta de absurdo y oportunidad: la predicción científica del fin del mundo para el 13 de noviembre de 2026 que ya es tema del podcast, más un destello real en el cielo chileno esa misma noche, más el detalle de que era viernes 13. Da para hablar de por qué los chilenos siempre están en el epicentro de las cosas raras del planeta, para hacer el chiste de que el meteorito era 'chatarra espacial de SpaceX' o 'basura del universo que cayó en el pasillo más angosto del mundo', y para preguntar qué haría el chileno promedio si mañana hubiera una alerta real de impacto.",
+    "categoria": "absurdo",
+    "basado_en": "Avistamiento masivo de destello luminoso en el cielo de Chile la noche del viernes 13 de noviembre de 2026, mismo día en que se cumplía la famosa predicción científica del 'Doomsday' calculada en 1960.",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2414bc35-9c7b-4bb5-9964-b24ec2611868",
+    "fecha_encontrada": "2026-11-14",
+    "titulo": "Cuando tu mayor logro es que un animal haga algo que tú no puedes: ¿los bichos del mundo se están burlando activamente de los humanos?",
+    "gancho": "Esta semana: dos caballos usaron el transporte público de Detroit con más calma que cualquier pasajero en hora punta, un mapache borracho recaudó más plata que una campaña solidaria humana, y un burro lleva semanas burlando a un pueblo entero. ¿Cuándo exactamente los animales nos pasaron el trapo?",
+    "por_que_conversar": "Es el tema que nunca falla: la comparación entre la torpeza humana y la eficiencia animal accidental. Los caballos del bus de Detroit son el ícono de la semana porque lo hicieron con total dignidad, sin apurarse, sin pagar. Da para imaginar a los pasajeros del bus que no dijeron nada porque en Detroit ya están acostumbrados a todo, para debatir qué animal chileno haría lo mismo en el Transantiago y para preguntarse si a los caballos les descontaron el pasaje o si tienen BIP.",
+    "categoria": "absurdo",
+    "basado_en": "Tres noticias animales de la semana del 11-14 de noviembre: caballos en bus de Detroit, mapache borracho que recaudó $290K y burro fugado de Iowa que elude a todo un pueblo.",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5656dc74-817b-4a0b-b1e1-11e6817e5455",
+    "fecha_encontrada": "2026-11-14",
+    "titulo": "Divorciarse para tener una mascota: ¿el chileno estaría dispuesto a terminar una relación de diez años por un animal y cuál sería el animal?",
+    "gancho": "Una mujer dejó diez años de matrimonio para poder tener su cerdita soñada. 'Cambié un cerdo por otro', dijo ella misma. La pregunta para Chile es: ¿qué mascota justificaría ese sacrificio?",
+    "por_que_conversar": "Es un disparador de conversación que combina el humor del chiste que la propia protagonista ya hizo, con una pregunta universal: ¿cuánto vale tener el animal que querís? Da para armar la lista de mascotas por las que el chileno podría o no podría disolver un matrimonio (spoiler: probablemente no un cerdo, pero quizás sí un perro específico), para debatir si esto es libertad personal o locura de mascota, y para preguntar qué dijo el ex cuando se enteró de que lo reemplazaron literalmente por una cerdita llamada Daisy que usa arenero.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral del 14 de noviembre sobre Gayla Thompson, quien se divorció tras diez años para adoptar una cerdita mascota, publicada en BioBioChile.",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
   }
 ]
