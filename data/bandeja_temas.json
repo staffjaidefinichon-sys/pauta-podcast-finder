@@ -5641,5 +5641,49 @@
     "basado_en": "Hombre canadiense detenido por ebriedad al ir a denunciar robo de celular (noviembre 2026) + fenómeno chileno de desconfianza/relación irónica con instituciones.",
     "semana": "2026-11-18",
     "estado": "en_pauta"
+  },
+  {
+    "id": "f818892c-ddb0-4206-8784-9ca82390fc1a",
+    "fecha_encontrada": "2026-11-16",
+    "titulo": "El cianuro que era sal: ¿el chileno promedio sabe distinguir lo que tiene en la cocina de un arma química?",
+    "gancho": "Un hospital cerrado por tres horas por una bolsita de sal es el resumen perfecto de lo que pasa cuando no leemos las etiquetas.",
+    "por_que_conversar": "El episodio del Hospital de Temuco da para un viaje de humor observacional por todos los productos del hogar que el chileno tiene sin leer, mal rotulados o en frascos que 'parecen' otra cosa. ¿Cuántos chilenos tienen en su despensa algo que podría provocar una evacuación Hazmat si lo llevan al lugar equivocado? Da para hablar de la relación del chileno con las etiquetas, los frascos reutilizados y el clásico 'yo sé lo que es esto' que nunca termina bien.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia viral del 15 de noviembre: alerta Hazmat en hospital de Temuco que resultó ser sal común de cocina",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "184611ef-8804-4878-89f4-ad66b1750cbd",
+    "fecha_encontrada": "2026-11-16",
+    "titulo": "El tesoro de la tía: ¿qué hay en el clóset de tu familia que podría valer una fortuna y nadie lo sabe?",
+    "gancho": "Una pintura de 3 millones de dólares aplastada bajo los abrigos de la tía —y un trozo del Partenón en el comedor de una familia de Viña del Mar— sugieren que Chile entero tiene tesoros guardados sin saberlo.",
+    "por_que_conversar": "Dos noticias de la misma semana apuntan al mismo fenómeno: las familias chilenas acumulan cosas durante décadas sin saber lo que tienen. Da para el clásico debate de '¿qué guarda tu abuela que nadie ha revisado?' y para imaginar qué podría aparecer en el sótano de una casa chilena promedio: ¿otro pedazo de templo griego? ¿un meteorito de tope de puerta? ¿un cheque sin cobrar de 1987?",
+    "categoria": "observacional",
+    "basado_en": "Cuadro de Georgia O'Keeffe encontrado bajo abrigos de tía + familia de Viña del Mar con mármol de la Acrópolis en el comedor (ya en el buzón)",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3afb8cfb-4cc1-4dc7-938c-0afd8f622c35",
+    "fecha_encontrada": "2026-11-16",
+    "titulo": "El bote de hongo, la foca escalada y los pingüinos del vecino que colapsan: ¿la naturaleza y el arte de 2026 decidieron no tomarse nada en serio?",
+    "gancho": "Un artista cruza el océano en un champiñón, unos escaladores suben una foca bebé por un acantilado y dos colonias de pingüinos tienen destinos opuestos sin que nadie lo explique: la semana tuvo más WTF por metro cuadrado que cualquier película.",
+    "por_que_conversar": "Es el formato 'galería de absurdos de la semana' convertido en conversación: cada historia da para un micro-debate. ¿El bote de hongo es arte o locura? ¿La foca agradeció que la subieran o se tiró de vuelta? ¿Los pingüinos prósperos tienen algún secreto? Da para reírse con todo sin necesidad de un hilo conductor rígido.",
+    "categoria": "absurdo",
+    "basado_en": "Tres noticias internacionales de la semana del 14-16 de noviembre: bote de micelio, rescate de foca en acantilado y paradoja de pingüinos en Nueva Zelanda",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "004083f3-d054-4ea8-93d5-dfb759732ebf",
+    "fecha_encontrada": "2026-11-16",
+    "titulo": "Chile tiene lancha que zarpa sin permiso, hospital que evacúa por sal y un barco rumbo a las Malvinas que ya es polémico en el puerto: ¿la primavera chilena viene con guion de serie B?",
+    "gancho": "En tres días, Chile tuvo un naufragio de paseo turístico, una alerta de veneno que era aliño y un buque que ya genera drama antes de salir. ¿El país vive en modo telenovela permanente o esto es solo noviembre siendo noviembre?",
+    "por_que_conversar": "El patrón semanal de noticias absurdamente chilenas da para un segmento de humor observacional sobre cómo el país tiene una capacidad única de convertir lo cotidiano en un episodio de serie. No es una noticia sola, es el fenómeno de la 'chilenidad del caos ordenado': todo termina más o menos bien, pero el camino siempre tiene un giro inesperado.",
+    "categoria": "observacional",
+    "basado_en": "Tres noticias chilenas del 14-16 de noviembre: lancha sin permiso que se hunde, cianuro que era sal en Temuco y buque polémico en Punta Arenas",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
   }
 ]

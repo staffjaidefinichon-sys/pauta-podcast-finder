@@ -8158,5 +8158,44 @@
     "region": "mundo",
     "semana": "2026-11-18",
     "estado": "en_pauta"
+  },
+  {
+    "id": "61bbb280-dbd0-46fb-b76e-6042702ed687",
+    "fecha_encontrada": "2026-11-16",
+    "titular": "Activaron protocolo Hazmat por 'cianuro' en hospital de Temuco durante tres horas: era sal de cocina",
+    "resumen": "El Servicio de Urgencia de Adultos del Hospital Regional de Temuco estuvo cerrado casi tres horas, con evacuación de funcionarios y despliegue de la unidad Hazmat de Bomberos, luego de que una paciente llegara asegurando que traía cianuro. Tras los análisis especializados, confirmaron que el recipiente contenía cloruro de sodio: sal común de uso doméstico.",
+    "fuente": "24horas.cl / Clave9.cl",
+    "url": "https://www.24horas.cl/regiones/zona-sur/araucania/activaron-protocolo-paciente-cianuro-hospital-resulto-ser-sal",
+    "por_que_humor": "El operativo de película de acción —Hazmat, evacuación, perímetro sellado— desembocando en 'es sal, señor, de uso hogareño' es el WTF institucional más perfecto del año. Da para preguntar si en Temuco ahora van a pedirle análisis de laboratorio al shaker antes de hacer un pisco sour.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9c11b004-5a76-4fa0-a34a-388cdee549b9",
+    "fecha_encontrada": "2026-11-16",
+    "titular": "Drones de Nueva Zelanda revelaron un paradoja brutal entre pingüinos: una colonia estable por décadas y otra que colapsó un 40%... viviendo al lado",
+    "resumen": "Una encuesta con drones sobre los pingüinos de cresta erecta en Nueva Zelanda reveló que dos poblaciones vecinas tienen destinos completamente opuestos: una se mantuvo estable por décadas mientras la otra perdió más del 40% sin causa completamente explicada.",
+    "fuente": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/news/plants_animals/new_species/",
+    "por_que_humor": "Dos colonias de pingüinos viviendo literalmente una al lado de la otra, una prosperando y la otra desapareciendo, y los científicos sin explicación. Es el drama de condominio más puro de la naturaleza. Da para preguntar si los pingüinos prósperos están haciendo algo que los científicos todavía no descubrieron o simplemente tienen mejor actitud.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "92987823-1c14-41e7-8f17-ce49ce9b2d02",
+    "fecha_encontrada": "2026-11-16",
+    "titular": "Climbers lograron rescatar a un cachorro de foca huérfana subiéndola por un acantilado en brazos",
+    "resumen": "Un equipo de escaladores tuvo que cargar y subir manualmente por un acantilado a una cría de foca en peligro que quedó varada al pie de los riscos, en un rescate que requirió técnica de escalada y el animal en brazos.",
+    "fuente": "Good News Network",
+    "url": "https://www.goodnewsnetwork.org/category/news/animals/",
+    "por_que_humor": "Que el rescate de una foca bebé requiera equipo de escalada de alta montaña es el nivel de operativo desmedido más tierno del año. Da para preguntar si la foca agradeció el esfuerzo o simplemente se tiró de nuevo al mar al llegar arriba.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
   }
 ]
