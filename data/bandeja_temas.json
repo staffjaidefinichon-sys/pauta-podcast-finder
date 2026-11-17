@@ -5685,5 +5685,49 @@
     "basado_en": "Tres noticias chilenas del 14-16 de noviembre: lancha sin permiso que se hunde, cianuro que era sal en Temuco y buque polémico en Punta Arenas",
     "semana": "2026-11-18",
     "estado": "en_pauta"
+  },
+  {
+    "id": "6eefadf8-4ac9-4dec-86f9-2b3db4452082",
+    "fecha_encontrada": "2026-11-17",
+    "titulo": "Chile esperó el apocalipsis a las 16:20 con la tele prendida: ¿somos el único país donde Los Simpson tienen más autoridad científica que la NASA?",
+    "gancho": "Un capítulo de caricatura generó más pánico nacional que cualquier alerta oficial: el chileno confía más en Homero que en los expertos.",
+    "por_que_conversar": "Es una radiografía perfecta del chileno moderno: mezcla de credulidad, humor negro y necesidad de apocalipsis menor. Da para hablar de qué otros episodios de Los Simpson Chile debería tomar en serio de inmediato, y para debatir si la televisión matinal es parte del problema o solo el termómetro.",
+    "categoria": "observacional",
+    "basado_en": "El rumor viral del apagón mundial del 17 de noviembre que combinaba un simulacro de FEMA con una escena de Los Simpson y paralizó los matinales chilenos por horas.",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9a24e158-505a-4eeb-b835-41672ee51261",
+    "fecha_encontrada": "2026-11-17",
+    "titulo": "Operar el pulmón viendo una peli en 3D: si en Chile la sala de operaciones se convirtiera en cine, ¿qué película elegiría cada paciente y qué haría el anestesista sin trabajo?",
+    "gancho": "Ya existe la técnica. El paciente elige la película. El médico espera que no sea de terror.",
+    "por_que_conversar": "El absurdo de tomar la decisión cinematográfica más importante de tu vida justo antes de que te abran el pecho da para hablar de géneros (¿comedia para relajarse? ¿acción para mantenerse despierto?), para especular sobre qué pasaría si la peli es mala, y para preguntar si en Chile Fonasa cubriría la entrada o si habría que pagar aparte el streaming.",
+    "categoria": "absurdo",
+    "basado_en": "Técnica quirúrgica de cirugía pulmonar con paciente despierto y entretenido con película en 3D, que llega a Chile según Meganoticias del 17 de noviembre 2026.",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f3b708b5-7ca8-4123-b575-bde0857d39dd",
+    "fecha_encontrada": "2026-11-17",
+    "titulo": "El animal con 'Dragon Balls' adentro, el pterodáctilo en México y los 245 bichos en una sola piedra: ¿la naturaleza de noviembre 2026 está compitiendo para ver quién es más ridícula?",
+    "gancho": "Esta semana la ciencia descubrió un molusco con bolas de dragón adentro, México tiene un pterodáctilo suelto y en el Pacífico hay un edificio de 245 pisos dentro de una roca.",
+    "por_que_conversar": "Es el repaso semanal del WTF natural más puro: tres hallazgos que suenan a cuento pero son reales. Da para rankear cuál es más absurdo, para preguntar si el pterodáctilo mexicano tiene algún parentesco con los OVNIs que ya cruzaron Chile, y para debatir si la ciencia en 2026 ya dejó de tener vergüenza.",
+    "categoria": "absurdo",
+    "basado_en": "Tres noticias científicas/virales de la semana del 15-17 de noviembre 2026: el molusco con 'dragon balls' (ZME Science), el pterodáctilo viral de México (WION) y los 245 animales en una roca del Pacífico (ScienceDaily).",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f6f29099-11d0-439b-a5e1-c08f1d59a843",
+    "fecha_encontrada": "2026-11-17",
+    "titulo": "Chile tiene un equipo ganando medallas mundiales en un deporte que nadie vio nunca: ¿somos campeones de deportes que no sabemos que existen?",
+    "gancho": "Tres chilenos están en semifinales de un mundial en Tailandia y el 99% del país recién supo que el Paratenis de Mesa es un deporte.",
+    "por_que_conversar": "Chile tiene una tradición oculta de brillar en disciplinas que nadie transmite y nadie conoce. Da para armar el ranking de deportes en que Chile es potencia mundial sin que nadie lo sepa, para imaginar cómo se celebra en las calles algo que nadie vio en vivo, y para preguntar por qué TVN no transmite el partido pero sí cuatro horas del apagón falso.",
+    "categoria": "observacional",
+    "basado_en": "Team ParaChile asegura tres medallas en el Mundial de Paratenis de Mesa en Tailandia 2026 (BioBioChile, 17 noviembre 2026).",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
   }
 ]

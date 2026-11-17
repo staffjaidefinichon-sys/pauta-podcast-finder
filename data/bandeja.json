@@ -8197,5 +8197,70 @@
     "region": "mundo",
     "semana": "2026-11-18",
     "estado": "en_pauta"
+  },
+  {
+    "id": "8d9bc178-c923-484e-8e8c-a521166d7e4a",
+    "fecha_encontrada": "2026-11-17",
+    "titular": "Científicos descubren 245 animales viviendo dentro de una sola roca del fondo del océano Pacífico",
+    "resumen": "Un equipo de investigadores examinó 244 nódulos metálicos en el fondo del Pacífico y encontró más de 4.100 animales viviendo en grietas y cavidades dentro de las rocas, con comunidades únicas que no existen en el lodo del fondo marino.",
+    "fuente": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/news/plants_animals/extinction/",
+    "por_que_humor": "245 animales viviendo hacinados adentro de una sola piedra en el fondo del mar es básicamente el departamento de Santiago más caro del universo. Da para comparar el precio por metro cuadrado con Vitacura.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6c53c8a0-dd47-49cd-b362-34add6c4a514",
+    "fecha_encontrada": "2026-11-17",
+    "titular": "Científicos descubren un molusco sin intestino que guarda bacterias dentro de estructuras llamadas 'Dragon Balls' en el Mar del Sur de China",
+    "resumen": "El Chaetoderma shenloong, apodado 'gusano dragón divino', perdió casi todo su intestino y en su lugar tiene un enorme órgano digestivo lleno de bacterias encapsuladas en estructuras de más de 20 capas de membrana que los investigadores bautizaron como 'dragon balls'.",
+    "fuente": "ZME Science",
+    "url": "https://zmescience.com/ecology/animals-ecology/scientists-find-a-strange-mollusk-that-keeps-thousands-of-bacteria-inside-tiny-dragon-balls",
+    "por_que_humor": "Un bicho que no tiene estómago, vive enterrado en el barro sin oxígeno y tiene 'dragon balls' adentro del cuerpo es el WTF científico de la semana. Da para preguntar qué nivel de poder acumula cada vez que forma una nueva bola.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "c19ba7dc-b4d7-4629-82bf-cf0299db9bae",
+    "fecha_encontrada": "2026-11-17",
+    "titular": "Fiona, la hipopótamo más famosa del mundo, está en tratamiento después de comerse una chupalla de lana que cayó a su recinto",
+    "resumen": "El zoológico de Cincinnati confirmó que su hipopótamo estrella, Fiona, está bajo cuidado veterinario después de tragarse un gorro de lana que entró accidentalmente a su recinto. La noticia generó reacción inmediata en redes sociales de todo el mundo.",
+    "fuente": "US News / Associated Press",
+    "url": "https://www.usnews.com/topics/subjects/animals",
+    "por_que_humor": "Fiona es un hipopótamo de fama mundial y la crisis más importante de su vida es haberse comido una chupalla de lana. Da para debatir si el dueño de la chupalla exigirá devolución y para imaginar el diagnóstico veterinario: 'tiene lana atorada, nada grave'.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "009500ba-b9f1-461a-8167-ee7dd9c08182",
+    "fecha_encontrada": "2026-11-17",
+    "titular": "Video viral en México: gente afirma haber visto un pterodáctilo vivo volando sobre la ciudad y el video recorre el mundo",
+    "resumen": "Videos que circulan desde México muestran una gran silueta alada que usuarios comparan con un pterodáctilo, el reptil volador extinto hace millones de años. Las imágenes generaron debate global y superaron en tendencia al avistamiento del 'OVNI medusa' de Juárez.",
+    "fuente": "WION News",
+    "url": "https://www.wionews.com/trending/viral-video-pterodactyl-that-died-with-the-dinosaurs-seen-in-mexico-1794803724297",
+    "por_que_humor": "El dinosaurio volador extinto hace 66 millones de años compitiendo en tendencias con OVNIs es el upgrade paleontológico de la semana. Da para debatir si el pterodáctilo tiene RUT y si el SAG chileno ya preparó el protocolo de ingreso.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "5c29bd16-b8ee-42b4-acf0-22b4b3183ad5",
+    "fecha_encontrada": "2026-11-17",
+    "titular": "Team ParaChile asegura tres medallas en el Mundial de Paratenis de Mesa en Tailandia y va por una final 100% chilena",
+    "resumen": "Los atletas chilenos Ignacio Torres, Matías Pino y Vicente Leiva clasificaron todos a semifinales del Mundial de Paratenis de Mesa en Tailandia 2026. Si Torres y Pino ganan sus semis, la final será un duelo entre dos chilenos, algo inédito en la historia del deporte.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/deportes/team-parachile/2026/11/17/team-parachile-hace-historia-en-el-mundial-aseguro-tres-medallas-y-va-por-una-inedita-final-chilena.shtml",
+    "por_que_humor": "Chile está a punto de tener una final mundial donde compiten dos chilenos entre sí, en un deporte que el 99% del país recién conoce que existe, en Tailandia. Da para imaginar cómo se anima eso: ¿uno va con la camiseta roja y el otro con la azul?",
+    "categoria": "curioso",
+    "region": "chile",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
   }
 ]
