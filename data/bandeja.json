@@ -8262,5 +8262,57 @@
     "region": "chile",
     "semana": "2026-11-18",
     "estado": "en_pauta"
+  },
+  {
+    "id": "6bca9901-4e71-44ed-a595-24a9b2f172ae",
+    "fecha_encontrada": "2026-11-18",
+    "titular": "Tensión en el metro de Milán: presuntos lanzas chilenos enfrentan a fotógrafo en video viral",
+    "resumen": "Un video viral muestra a presuntos carteristas de nacionalidad chilena enfrentándose a un fotógrafo en el metro de Milán. El registro recorre las redes y vuelve a poner a Chile en la conversación internacional de la forma más incómoda posible.",
+    "fuente": "Publimetro Chile",
+    "url": "https://www.publimetro.cl/",
+    "por_que_humor": "Chile exportando lanzas al metro de Milán es la embajada cultural más improbable del país: da para imaginar si viajan con pasaporte chileno al pecho, si conocen el Coliseo de paso y si hay algún consulado que los apoye en la gestión.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b5ba9965-e36c-48d7-a01b-0ee3b8f3b26b",
+    "fecha_encontrada": "2026-11-18",
+    "titular": "Científicos secuenciaron el genoma de las ballenas usando moco nasal recolectado con drones: 'snot drones'",
+    "resumen": "Investigadores de la Universidad de St Andrews desarrollaron una técnica para obtener ADN de ballenas usando drones que recolectan el moco que el animal expulsa al respirar, sin necesidad de capturarlas ni tocarlas.",
+    "fuente": "University of St Andrews / Daybreak Notes",
+    "url": "https://news.st-andrews.ac.uk/archive/whole-genome-sequencing-using-whale-snot/",
+    "por_que_humor": "La ciencia llegó al punto en que el trabajo oficial de alguien es volar un dron para atrapar el estornudo de una ballena. Da para imaginar la descripción del cargo en LinkedIn ('Recolector especialista de moco marino') y preguntarse cuántos doctorados se necesitan para esta misión.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9b52ecc6-c551-4d28-809b-b347e8aebabf",
+    "fecha_encontrada": "2026-11-18",
+    "titular": "Científicos confirman que los gatos maúllan hasta 4 veces más cuando hay un humano presente: te están manipulando a conciencia",
+    "resumen": "Un estudio de la Universidad de São Paulo probó con 38 gatos que estos vocalizan 86 veces en presencia humana y solo 20 veces solos, confirmando que el maullido es una estrategia deliberada de manipulación para obtener lo que quieren.",
+    "fuente": "Daybreak Notes / Animal Behaviour journal",
+    "url": "https://daybreaknotesandbeans.substack.com/p/your-cat-has-a-clever-way-of-asking",
+    "por_que_humor": "La ciencia acaba de probar que tu gato sabe perfectamente lo que hace cuando maúlla y que el 80% de esos maullidos son teatro puro. Da para preguntar quién tiene realmente el control de la casa y si el dueño del gato es en realidad el empleado.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "96d92f74-49b1-40c8-9e5a-a3f2f4eae517",
+    "fecha_encontrada": "2026-11-18",
+    "titular": "Avistamiento de 'pterodáctilo' en Ciudad Juárez desata memes y crisis existencial en México: Protección Civil tuvo que salir a desmentirlo",
+    "resumen": "Un video de un segundo y medio captado en Ciudad Juárez mostró una silueta alada enorme que se viralizó como 'pterodáctilo vivo'. El ufólogo Jaime Maussan lo avaló, pero Protección Civil tuvo que salir a decir que probablemente era una garza y que no hay dinosaurios sueltos en Chihuahua.",
+    "fuente": "El Telégrafo / Heraldo de México",
+    "url": "https://www.eltelegrafo.com.ec/noticias/tendencias/213/supuesto-pterodactilo-captado-en-ciudad-juarez-causa-revuelo-en-redes",
+    "por_que_humor": "México tuvo que emitir un comunicado oficial aclarando que no hay pterodáctilos sueltos en la frontera, y el análisis técnico concluyó que era 'probablemente una garza'. Da para preguntar qué nivel de caos existe cuando el Estado debe desmentir a un dinosaurio y para agradecer que al menos en Chile solo hay tormentas y OVNIs.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-18",
+    "estado": "en_pauta"
   }
 ]
