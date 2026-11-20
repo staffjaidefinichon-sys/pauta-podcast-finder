@@ -8353,5 +8353,44 @@
     "region": "mundo",
     "semana": "2026-11-25",
     "estado": "en_pauta"
+  },
+  {
+    "id": "c7f3ac21-b740-4851-a873-fe44182891f8",
+    "fecha_encontrada": "2026-11-20",
+    "titular": "Fiona, la hipopótama más famosa del mundo, muere a los 9 años después de tragarse el sombrero de un visitante que un ventilador de techo catapultó a su recinto",
+    "resumen": "La hipopótama del Zoo de Cincinnati que conquistó internet al nacer prematura en 2017 murió el jueves 19 de noviembre. Un visitante lanzó su gorro al aire, el ventilador del techo lo atrapó y lo disparó directo al hábitat de Fiona, que se lo comió. Once días de intentos veterinarios no fueron suficientes.",
+    "fuente": "CBS News / Cincinnati Zoo",
+    "url": "https://www.cbsnews.com/news/fiona-the-hippo-dies-cincinnati-zoo/",
+    "por_que_humor": "El hipopótamo más querido del planeta asesinado accidentalmente por un ventilador de techo y el descuido de un turista es el WTF más trágico y absurdo de la semana. La causa de muerte oficial es literalmente 'se comió un gorro de lana'. Da para preguntar quién en su sano juicio le tira el sombrero al aire frente al recinto de un hipopótamo, y si el visitante ya se escondió en el Amazonas.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2db1a955-53a1-4a0d-b12e-aee826cf4cd2",
+    "fecha_encontrada": "2026-11-20",
+    "titular": "Un niño italiano generó una cacería de serpientes de varios días con una foto de IA: decía que una pitón había entrado al baño y se escondía en la casa",
+    "resumen": "Un niño en Italia le contó a su familia que una pitón potencialmente peligrosa había entrado a su casa por el inodoro y se había escondido. La foto que mostró como prueba era generada por inteligencia artificial. La familia entró en pánico y armó una búsqueda de varios días antes de descubrir la verdad.",
+    "fuente": "Oddee",
+    "url": "https://oddee.com/category/odd-news/",
+    "por_que_humor": "Un niño desató una operación antiterrorista doméstica con una imagen de IA de una serpiente en el baño. La pregunta es cuántos días duró la familia sin usar el baño con normalidad, y si el niño recibió un castigo o una beca de tecnología.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "e37468f4-dbd1-4d04-b5fd-b33320763e00",
+    "fecha_encontrada": "2026-11-20",
+    "titular": "Chile: expertos descartaron que el destello que iluminó el cielo de Coquimbo a Los Ríos el viernes 13 sea un meteorito… pero tampoco saben qué fue exactamente",
+    "resumen": "El fenómeno luminoso del 13 de noviembre, que generó estruendos y vibró ventanas desde Ñuble hasta Biobío, fue investigado por la Red Geocientífica de Chile. Los expertos descartaron que sea un meteorito, que fue la hipótesis original, pero no entregaron una conclusión definitiva sobre qué fue.",
+    "fuente": "Urgente24",
+    "url": "https://urgente24.com/termoscopio/fenomeno-el-cielo-chile-revelan-que-no-es-lo-que-algunos-creian-n637009",
+    "por_que_humor": "La respuesta oficial ante el destello que hizo temblar ventanas en dos regiones y que todo Chile vio en el cielo es 'sabemos lo que NO es, pero no sabemos lo que ES'. Da para preguntar si en algún momento la ciencia chilena va a cerrar el caso o simplemente lo van a dejar abierto como misterio nacional para el folclore.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
   }
 ]
