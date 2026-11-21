@@ -8392,5 +8392,70 @@
     "region": "chile",
     "semana": "2026-11-25",
     "estado": "en_pauta"
+  },
+  {
+    "id": "f9186fc5-ccb4-44a9-a2a7-a63aa455da02",
+    "fecha_encontrada": "2026-11-21",
+    "titular": "Las conductoras del tiempo de Canal 13 y Chilevisión aparecieron con el mismo look en vivo y las redes gritaron '¡Falló la Matrix!'",
+    "resumen": "Carolina Infante y Vanessa Noé coincidieron en pantalla durante el mismo horario con atuendos prácticamente idénticos, pese a estar en señales distintas. Las redes se llenaron de comentarios: 'Vivimos en una simulación', 'Tenía el 13, puse CHV y pensé que no la había cambiado'.",
+    "fuente": "Fotech / 24horas",
+    "url": "https://www.fotech.cl/conductoras-del-tiempo-de-canal-13-y-chilevision-protagonizan-chascarro/2026/11/20/",
+    "por_que_humor": "El universo de la televisión chilena confirmó que vivimos en una simulación mal programada: dos presentadoras del tiempo, canales distintos, mismo horario, mismo atuendo. Da para preguntar si existe un código de vestimenta secreto de la meteorología chilena y quién lo diseñó.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d9532bea-5d1f-430f-a48d-e58330a31a48",
+    "fecha_encontrada": "2026-11-21",
+    "titular": "Tres playas del Biobío prohibidas para bañarse por invasión de fragatas portuguesas: la medida es indefinida",
+    "resumen": "La Seremi de Salud del Biobío prohibió el baño en Caleta Lenga, Playa Larga y Boca Lebu por la presencia de fragata portuguesa. La medida se mantendrá indefinidamente hasta que los monitoreos descarten nuevos ejemplares.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/decretan-prohibicion-de-bano-en-3-playas-de-la-region-del-bio-bio-por-presencia-de-fragata-portuguesa.shtml",
+    "por_que_humor": "Chile arrancó la temporada de playa con sus playas del Biobío oficialmente clausuradas por medusas venenosas de forma indefinida. Es el resumen perfecto de la primavera chilena: sol, calor y el mar que literalmente te dice que no.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3615567f-451b-4f0d-9fbd-d90839cddb05",
+    "fecha_encontrada": "2026-11-21",
+    "titular": "Un búho quedó atascado en la rejilla delantera de un auto en Carolina del Norte y los bomberos tuvieron que rescatarlo: el pájaro se recuperará",
+    "resumen": "Bomberos de Carolina del Norte acudieron al rescate de un búho que quedó completamente atrapado en la rejilla frontal de un vehículo. El ave fue rescatada con vida y se espera que se recupere completamente.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/11/18/owl-grille-vehicle-rescue-North-Carolina/",
+    "por_que_humor": "Un búho —el animal que supuestamente representa la sabiduría— quedó incrustado en el parachoques de un auto. Es el fail filosófico de la semana: el símbolo de la inteligencia, derrotado por el tráfico. Da para preguntar qué tipo de sabiduría aplica para el cruce de una avenida.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9f2f497b-fbd2-4248-9716-417485416774",
+    "fecha_encontrada": "2026-11-21",
+    "titular": "Una oveja fugada en Connecticut lleva días evadiendo a la policía y a los especialistas en animales: nadie la puede atrapar",
+    "resumen": "Una oveja que escapó poco después de llegar a su nuevo hogar en Connecticut lleva días dándose a la fuga, burlando a policías y controladores de animales. Las autoridades no han podido capturarla.",
+    "fuente": "UPI",
+    "url": "https://www.upi.com/Odd_News/2026/11/17/sheep-on-lam-eluding-police-Connecticut/",
+    "por_que_humor": "Una oveja que acababa de llegar a su nueva casa y ya estaba huyendo es el comportamiento más humano posible. Lleva días burlando a la policía y a los especialistas, lo que convierte a esta oveja en el fugitivo más competente de Connecticut. Da para preguntar si tiene plan o simplemente más instinto que sus captores.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "172754be-6afc-4933-8fd0-753caa3be407",
+    "fecha_encontrada": "2026-11-21",
+    "titular": "Un hombre en Siberia fue al médico por meses de jaquecas insoportables y deterioro de la vista: le encontraron una planta creciendo dentro del ojo",
+    "resumen": "Maxim Sleptsov, de 42 años y oriundo de Siberia, buscó atención médica después de meses con terribles dolores de cabeza y visión en deterioro. Al examinarlo, los médicos descubrieron que una planta había brotado dentro de su ojo a partir de una semilla.",
+    "fuente": "Oddee",
+    "url": "https://www.oddee.com/man-discovers-plant-growing-in-his-eyeball-after-months-of-splitting-headaches/",
+    "por_que_humor": "La planta más tenaz del mundo decidió que un ojo humano era terreno fértil. Es el WTF médico más puro del año: meses de dolores de cabeza y la explicación resulta ser literalmente un jardín interior. Da para hablar de cuáles son las semillas más peligrosas de consumir y si en Chile la cicuta que crece al borde del camino va por el mismo camino.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
   }
 ]

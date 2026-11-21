@@ -5817,5 +5817,27 @@
     "basado_en": "Evento viral del 8 de noviembre en Millennium Park, Chicago, donde 250 personas intentaron mover la escultura The Bean sin éxito",
     "semana": "2026-11-25",
     "estado": "en_pauta"
+  },
+  {
+    "id": "bc621503-dacb-4268-b2ca-15bdc6886ec4",
+    "fecha_encontrada": "2026-11-21",
+    "titulo": "El uniforme como arma de doble filo: si vas a hacer algo cuestionable, al menos no lleves la polera del trabajo",
+    "gancho": "Una mujer vació el balde de dulces de Halloween de unos niños en Alabama... y llevaba puesta la camiseta del restaurante donde trabajaba. La despidieron al día siguiente.",
+    "por_que_conversar": "Es el punto de partida perfecto para hablar de las decisiones más increíblemente mal pensadas de la historia cotidiana: el ladrón que dejó su carnet, el que robó con el auto de la empresa, el que firmó el robo. Da para un segmento de 'confesiones anónimas' de los peores momentos de falta de planificación del panel, y para preguntar si el chileno tiene el mismo nivel de descuido o si acá somos más cuidadosos... o simplemente menos documentados.",
+    "categoria": "observacional",
+    "basado_en": "Noticia viral de la semana de mujer que robó dulces de Halloween con uniforme de trabajo visible en cámara, publicada por Shepherd Express el 12 de noviembre 2026",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "496c6eaa-8126-4b32-8310-66c4c6e905bb",
+    "fecha_encontrada": "2026-11-21",
+    "titulo": "Chile en primavera: ¿por qué cada año el país estrena la temporada con una catástrofe diferente?",
+    "gancho": "Este noviembre: playas cerradas por medusas venenosas de forma indefinida, scroll infinito prohibido por ley y dos conductoras del tiempo vestidas igual en canales distintos la misma noche. Bienvenidos a la primavera chilena.",
+    "por_que_conversar": "Cada primavera chilena viene con su propia colección de caos institucional, climático y absurdo. No es una noticia sola: es un patrón. Da para armar el 'bingo de la primavera chilena', hablar de qué catástrofe faltó este año y qué esperamos para diciembre. El humor es que se supone que la primavera es la temporada de alegría y renovación, pero en Chile siempre viene con una advertencia de Seremi.",
+    "categoria": "observacional",
+    "basado_en": "Conjunto de noticias chilenas de noviembre 2026: playas cerradas por fragata portuguesa en Biobío, proyecto de ley de scroll infinito, conductoras del tiempo con mismo look viral",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
   }
 ]
