@@ -8457,5 +8457,57 @@
     "region": "mundo",
     "semana": "2026-11-25",
     "estado": "en_pauta"
+  },
+  {
+    "id": "609a2e22-4fb3-40ae-9a92-3af878cc853f",
+    "fecha_encontrada": "2026-11-22",
+    "titular": "Rusia multa a mujeres por compartir fotos de IA de osos que hicieron movilizar a la policía a buscar animales que no existían",
+    "resumen": "Las autoridades rusas multaron a dos mujeres por publicar imágenes generadas con IA de osos caminando por calles residenciales. Las fotos se viralizaron en apps de mensajería y causaron tal pánico que la policía y guardabosques tuvieron que salir a buscar animales imaginarios.",
+    "fuente": "DAWN / The Weekly Weird",
+    "url": "https://dawn.com/news/2045645/the-weekly-weird",
+    "por_que_humor": "El estado ruso desplazando recursos reales para cazar osos de Photoshop es el resumen perfecto de cómo la IA está redefiniendo el absurdo. Da para preguntar cuánto costó la operación versus los 178 dólares de multa.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "9b9f16fa-7bf3-476c-8c55-dbc87fe3c7f1",
+    "fecha_encontrada": "2026-11-22",
+    "titular": "Un ciervo de Estonia fue captado en cámara trampa con un cuerno que le creció en el medio de la frente: las redes lo bautizan 'el unicornio báltico'",
+    "resumen": "Una cámara de vida silvestre instalada en la isla de Saaremaa, Estonia, registró a un corzo con una formación inusual: un único cuerno creciendo justo en el centro de la frente. Las imágenes se viralizaron de inmediato y la gente lo compara con un unicornio.",
+    "fuente": "3News / Odd But True",
+    "url": "https://3news.com/news/odd-but-true/odd-but-true-friday-20-november-2026",
+    "por_que_humor": "La naturaleza acaba de fabricar un unicornio de verdad y nadie sabe qué hacer con esa información. Da para debatir si esto invalida o confirma miles de años de mitología europea.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f6bcf74f-9254-4009-bdf3-bd97a1abf44d",
+    "fecha_encontrada": "2026-11-22",
+    "titular": "Brasil estableció un nuevo récord mundial: más expulsiones en un solo partido de fútbol en toda la historia",
+    "resumen": "Un partido de fútbol en Brasil batió el récord histórico de tarjetas rojas mostradas en un solo encuentro, según reseñas internacionales. El país que inventó el 'juego hermoso' ahora tiene la marca del partido más violento.",
+    "fuente": "France24 / Funny Old World",
+    "url": "https://www.france24.com/en/live-news/20261120-funny-old-world-the-week-s-offbeat-news",
+    "por_que_humor": "El país de cinco Mundiales y el juego bonito bate el récord de la patada más fea: da para analizar si el fútbol latinoamericano tiene una relación especial con los árbitros o si simplemente nadie acepta un penal en contra.",
+    "categoria": "observacional",
+    "region": "mundo",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6bc1c4ba-6595-471f-af98-77ccc45fe15d",
+    "fecha_encontrada": "2026-11-22",
+    "titular": "Chile emite alerta por calor extremo de hasta 35°C en el Biobío para la próxima semana... dos semanas después de las alertas por lluvia y frío histórico",
+    "resumen": "La Dirección Meteorológica de Chile emitió esta semana alertas por altas temperaturas que podrían superar los 32°C en el Biobío y otras seis regiones entre el 24 y 26 de noviembre, apenas días después de semanas con alertas por lluvias históricas y frío extremo en las mismas zonas.",
+    "fuente": "Sabes.cl",
+    "url": "https://sabes.cl/2026/11/22/anuncian-altas-temperaturas-en-el-biobio-termometros-podrian-llegar-a-los-32c-la-proxima-semana",
+    "por_que_humor": "Chile pasó de 'alerta por lluvia histórica' a 'alerta por calor extremo' en el mismo mes. Da para preguntar si el SHOA también emite alertas por indecisión climática y si la gente del Biobío ya guarda el paraguas y el bloqueador en la misma bolsa.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
   }
 ]

@@ -5839,5 +5839,27 @@
     "basado_en": "Conjunto de noticias chilenas de noviembre 2026: playas cerradas por fragata portuguesa en Biobío, proyecto de ley de scroll infinito, conductoras del tiempo con mismo look viral",
     "semana": "2026-11-25",
     "estado": "en_pauta"
+  },
+  {
+    "id": "7cb9b68b-aeec-4563-b31e-c3e93bc88593",
+    "fecha_encontrada": "2026-11-22",
+    "titulo": "El colegio que sobornaría a sus alumnos para que no faltaran el día de GTA VI: ¿cuál es la estrategia más desesperada que un chileno usaría para competir contra lo imposible?",
+    "gancho": "Un colegio de Belfast ofreció premios para que los alumnos no faltaran el día de lanzamiento de GTA VI, admitiendo que no podían ganarle.",
+    "por_que_conversar": "La institución más seria del sistema educativo rindiendo ante un videojuego y decidiendo sobornarte para que vayas igual es universalmente gracioso. Da para preguntar si en Chile el colegio de alguno ofreció algo parecido alguna vez, qué premio ofrecerías tú, y si los profesores también faltaron ese día para jugar en casa.",
+    "categoria": "observacional",
+    "basado_en": "Noticia internacional de la semana: escuela de Belfast vs. GTA VI",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "d450816e-8276-4c3b-9e1d-1f2d34493c99",
+    "fecha_encontrada": "2026-11-22",
+    "titulo": "El ladrón que arriesga más de lo que gana: ¿existe un punto mínimo de retorno donde el crimen deja de tener sentido incluso para el criminal?",
+    "gancho": "Un ladrón en Wisconsin rompió la ventana de un bar para robar 5 dólares. El costo del vidrio: algunos cientos.",
+    "por_que_conversar": "El análisis costo-beneficio del crimen más ineficiente de la historia da para una conversación delirante sobre la lógica del delincuente promedio. Da para trasladar el fenómeno a Chile con ejemplos locales: el que roba el estéreo y gasta más en el taxi de la fuga, o el que asalta la panadería a las 7am cuando aún no hay plata en la caja.",
+    "categoria": "absurdo",
+    "basado_en": "Noticia internacional de la semana: robo de 5 dólares en bar de Wisconsin",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
   }
 ]
