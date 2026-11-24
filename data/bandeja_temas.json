@@ -5905,5 +5905,49 @@
     "basado_en": "Noticia de UPI del 18 de noviembre sobre un perro que se integró a una manada de coyotes en Arizona, documentado en cámaras trampa.",
     "semana": "2026-11-25",
     "estado": "en_pauta"
+  },
+  {
+    "id": "be284ee9-1692-40c1-88ea-8436a2353bca",
+    "fecha_encontrada": "2026-11-24",
+    "titulo": "El Papa vino a Chile, se fue, y dijo que vio al diablo: ¿Chile es el único país del mundo que traumatiza a sus visitas famosas?",
+    "gancho": "Si el representante de Dios en la Tierra volvió a Roma con pesadillas de ojos del demonio, ¿qué le estamos haciendo a la gente que nos visita?",
+    "por_que_conversar": "Es la excusa perfecta para hacer un repaso irónico de todas las visitas famosas que vinieron a Chile y se fueron con algún trauma: el Papa vio al diablo, otros artistas se quejan del vuelo de doce horas, y los turistas no entienden por qué la marraqueta es sagrada. Da para el clásico 'Chile: destino incomprendido' con humor absurdo.",
+    "categoria": "absurdo",
+    "basado_en": "Publicación de los escritos del Papa Francisco sobre su experiencia post-visita a Chile en 2018, trending hoy en BioBioChile.",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "b0472e11-8b6b-4e1d-9604-a2ae59f14492",
+    "fecha_encontrada": "2026-11-24",
+    "titulo": "El chileno que se mete al mar antes de que abra la temporada: ¿somos el único país donde la gente ignora activamente todas las señales de peligro?",
+    "gancho": "La temporada de playas no había empezado y ya había alguien siendo rescatado en cadena humana en Viña del Mar.",
+    "por_que_conversar": "Es un fenómeno observacional puro y chileno: el aviso dice 'no se bañe', la bandera está roja, la temporada no abrió, y el chileno igual se mete. Da para un recorrido cómico de todas las señales que el chileno promedio ignora por sistema: el semáforo en amarillo, el 'no tocar', el 'este calefactor tiene falla'. El chileno y las advertencias tienen una relación complicada.",
+    "categoria": "observacional",
+    "basado_en": "Rescate con cadena humana en Viña del Mar antes del inicio oficial de la temporada de playas, semana del 22 de noviembre 2026.",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "a50c780d-8497-4767-8693-9e3b6b04a3c8",
+    "fecha_encontrada": "2026-11-24",
+    "titulo": "250 personas se organizaron masivamente para hacer algo imposible y fueron igual: ¿los humanos modernos son la especie más optimista o la más ilusa del planeta?",
+    "gancho": "Doscientas cincuenta personas se coordinaron, viajaron al parque y empujaron una escultura de cientos de toneladas que obviamente no se iba a mover ni un centímetro.",
+    "por_que_conversar": "El evento de Chicago de empujar 'The Bean' es el disparador perfecto para hablar de por qué los humanos del siglo XXI se movilizan mejor por causas completamente inútiles que por cualquier otra cosa. Da para preguntar qué hazaña colectiva absurda haría el chileno si alguien lo organizara bien: ¿mover el monumento a Baquedano? ¿empujar el cerro San Cristóbal cinco metros al norte? ¿convencer a la micro de que pare en la parada?",
+    "categoria": "absurdo",
+    "basado_en": "Evento viral del 8 de noviembre en Chicago donde 250 personas intentaron mover la escultura The Bean sin éxito, reportado en News of the Weird semana del 19 de noviembre 2026.",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "78aadb09-ae13-421d-ba6e-3b95b64a0b1f",
+    "fecha_encontrada": "2026-11-24",
+    "titulo": "El gecko europeo que llegó clandestino a Iquique: ¿Chile es el destino migratorio más improbable del mundo también para los animales?",
+    "gancho": "Un lagarto del Mediterráneo apareció en Iquique con ADN europeo y nadie sabe cómo llegó ni cuánto tiempo lleva ahí.",
+    "por_que_conversar": "Es el punto de partida para un recorrido humorístico de todo lo que llega a Chile sin que nadie lo invite: geckos mediterráneos, barcos ecuatorianos encallados, turistas con sombrero que se lo tiran a los hipopótamos. Da para preguntarse si Chile tiene algún filtro de entrada o si simplemente todo pasa y después lo descubrimos con un análisis de ADN. Termina con la pregunta: ¿qué más está viviendo en Chile sin que lo sepamos?",
+    "categoria": "absurdo",
+    "basado_en": "Estudio publicado esta semana confirmando la primera detección del gecko mediterráneo invasor en Iquique, Chile, con análisis genético.",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
   }
 ]
