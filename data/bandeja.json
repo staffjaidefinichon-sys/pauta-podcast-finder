@@ -8509,5 +8509,44 @@
     "region": "chile",
     "semana": "2026-11-25",
     "estado": "en_pauta"
+  },
+  {
+    "id": "c50c2b35-f93b-4404-a5ac-a8ebd55801da",
+    "fecha_encontrada": "2026-11-23",
+    "titular": "Quilicura se mofa del Gobierno con campaña contra microbasurales: 'No costó $120 millones'",
+    "resumen": "La municipalidad de Quilicura lanzó una campaña viral contra quienes tiran basura en la calle, burlándose explícitamente del alto costo de una campaña gubernamental similar. El video incluyó animación de IA y una ironía directa al gasto público.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/19/video-no-costo-120-millones-quilicura-se-mofa-del-gobierno-con-campana-contra-microbasurales.shtml",
+    "por_que_humor": "Un municipio chico trolea al Estado con su propia campaña casera y la frase 'no costó $120 millones' es el golpe más chileno del mes. Da para preguntar cuánto costó el video del municipio y si lo hizo el sobrino del alcalde en un fin de semana.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "7c16831c-3fa6-416c-9347-2a781c64c4a6",
+    "fecha_encontrada": "2026-11-23",
+    "titular": "Hincha viral de Rosario Central festejó el título que nunca llegó: 'Llegó mal la información'",
+    "resumen": "Un hincha de Rosario Central que se hizo viral en redes por su eufórico festejo reapareció para explicar su celebración: había recibido información incorrecta sobre el campeonato que supuestamente habían ganado.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/23/camisetas-de-futbol-borago-y-los-prisioneros-los-dias-de-ed-sheeran-en-chile.shtml",
+    "por_que_humor": "El hombre festejó con toda el alma un título que no existía y su justificación —'llegó mal la información'— es la excusa más digna y más triste del fútbol sudamericano. Da para preguntar si en Chile hemos festejado alguna vez algo que después resultó ser mentira.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "65bf0957-687b-4ddc-ad80-717de8266108",
+    "fecha_encontrada": "2026-11-23",
+    "titular": "Vecinos de Roma salen a la calle con paraguas para protegerse de los excrementos de cientos de miles de estorninos que tomaron el barrio",
+    "resumen": "Un barrio del noreste de Roma lleva semanas invadido por cientos de miles de aves migratorias que cubren las calles de excrementos. Las autoridades probaron durante tres días gritos de socorro grabados, láseres y un halcón para ahuyentarlas, sin éxito.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/sociedad/animales/2026/11/23/paraguas-contra-excrementos-la-insolita-escena-que-viven-vecinos-de-roma-por-invasion-de-aves.shtml",
+    "por_que_humor": "La ciudad más glamorosa del mundo está siendo bombardeada por pájaros y la solución oficial fue poner un parlante gritando al árbol durante una hora. Da para imaginar a los turistas llegando a la Fontana di Trevi con capa impermeable y googles.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
   }
 ]

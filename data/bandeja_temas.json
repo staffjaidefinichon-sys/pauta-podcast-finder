@@ -5861,5 +5861,49 @@
     "basado_en": "Noticia internacional de la semana: robo de 5 dólares en bar de Wisconsin",
     "semana": "2026-11-25",
     "estado": "en_pauta"
+  },
+  {
+    "id": "74e0f9c3-3ac2-4d67-850f-78731ecdc748",
+    "fecha_encontrada": "2026-11-23",
+    "titulo": "El Estado chileno como el peor vecino del edificio: compra cosas, las deja en el pasillo y nunca las instala",
+    "gancho": "Quilicura gasó cero pesos en trolear al Gobierno con un video casero que hizo lo que una campaña de $120 millones no pudo.",
+    "por_que_conversar": "Es el patrón más consistente de Chile en los últimos años: el Estado compra calefactores, hospitales, semáforos inteligentes y campañas millonarias que nunca llegan a funcionar. Mientras tanto, un municipio chico lo resuelve con IA y un sobrino con computador. Da para listar en vivo los proyectos más caros y más inútiles de la historia reciente y preguntar si hay algún umbral de ridículo donde el Estado finalmente aprende.",
+    "categoria": "observacional",
+    "basado_en": "La campaña viral de Quilicura burlándose del gasto de $120 millones del Gobierno en una campaña similar, más el patrón de calefactores sin instalar y hospitales sin operar.",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "25ff2fe1-8045-4aaa-961c-1bdaa56a8911",
+    "fecha_encontrada": "2026-11-23",
+    "titulo": "Roma invadida por pájaros cagadores vs. el chileno que convive con plagas desde siempre: ¿quién tiene más tolerancia?",
+    "gancho": "Los romanos llevan semanas con paraguas dentro de su propio barrio porque los pájaros no paran de bombardearlos desde los árboles.",
+    "por_que_conversar": "Roma, la ciudad más importante de la historia occidental, está siendo derrotada por los estorninos y la solución oficial fue poner un parlante gritando al árbol. El contraste con Chile —donde convivimos estoicamente con ratones en el metro, palomas en el mercado y perros en la carretera— da para preguntar cuál es el animal o la plaga que el chileno simplemente decidió aceptar como parte del paisaje sin que nadie lo pidiera.",
+    "categoria": "observacional",
+    "basado_en": "La invasión de estorninos en Roma cuyos vecinos salen con paraguas a la calle para protegerse de los excrementos, publicada en BioBioChile el 23 de noviembre.",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "3472733d-0c60-45db-9a26-6f2be8d5d589",
+    "fecha_encontrada": "2026-11-23",
+    "titulo": "El caballo que fue al McDonald's, el cerdo que se metió al garaje y las cabras que le ganaron a la policía: ¿los animales ya aprendieron a moverse en ciudad mejor que nosotros?",
+    "gancho": "Esta semana, en distintos estados de EE.UU., un caballo eligió McDonald's para almorzar, un cerdo terroríficamente aterrador resultó ser un chancho y tres cabras llevan días burlando a toda la policía de Rhode Island.",
+    "por_que_conversar": "Es el fenómeno de la semana: animales que se mueven por la ciudad con más criterio, más confianza y mejores decisiones que el promedio de los humanos que los rodean. Da para preguntar qué animal chileno tiene el mayor potencial de volverse un problema urbano épico (¿el guanaco?, ¿el zorro de la cordillera?, ¿el queltehue que ya tomó todas las plazas?) y si en algún momento los animales van a empezar a pagar patente.",
+    "categoria": "absurdo",
+    "basado_en": "Tres noticias simultáneas de UPI esta semana: caballo en McDonald's de Virginia, cerdo en garaje de Florida y cabras evadiendo a la policía de Rhode Island.",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "2355b845-0afe-415d-aae9-334f033f5224",
+    "fecha_encontrada": "2026-11-23",
+    "titulo": "El perro que renunció a ser doméstico y se fue a vivir con los coyotes: ¿existe algún chileno que haya hecho lo mismo con su vida?",
+    "gancho": "Un perro de Arizona vio a los coyotes, calculó sus opciones y dijo 'esto es mejor' —y los científicos llevan semanas documentando su nueva vida salvaje.",
+    "por_que_conversar": "El perro que rechazó las croquetas y el techo para irse a vivir a la manada es la metáfora más absurda y más honesta del año. Da para preguntar si en Chile existe el equivalente humano —el que dejó todo para irse a vivir a la cordillera, al sur profundo o al campo sin señal— y si eso es locura, valentía o simplemente hartazgo. Puede derivar en el debate de qué tanto de la vida 'doméstica' chilena vale realmente la pena.",
+    "categoria": "observacional",
+    "basado_en": "Noticia de UPI del 18 de noviembre sobre un perro que se integró a una manada de coyotes en Arizona, documentado en cámaras trampa.",
+    "semana": "2026-11-25",
+    "estado": "en_pauta"
   }
 ]
