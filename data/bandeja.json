@@ -8339,7 +8339,7 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-12-02",
-    "estado": "en_pauta",
+    "estado": "aprobada",
     "urls_extra": []
   },
   {
@@ -8457,7 +8457,7 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-12-02",
-    "estado": "en_pauta",
+    "estado": "aprobada",
     "urls_extra": []
   },
   {
@@ -8666,7 +8666,7 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-12-02",
-    "estado": "en_pauta"
+    "estado": "aprobada"
   },
   {
     "id": "c6c24845-c742-4be7-ad71-7b0b239ab449",
