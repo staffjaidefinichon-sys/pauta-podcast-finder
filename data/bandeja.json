@@ -8340,7 +8340,8 @@
     "region": "mundo",
     "semana": "2026-12-02",
     "estado": "aprobada",
-    "urls_extra": []
+    "urls_extra": [],
+    "orden": 5
   },
   {
     "id": "c234644a-0d86-4594-9f01-cfe69c5460ff",
@@ -8458,7 +8459,8 @@
     "region": "mundo",
     "semana": "2026-12-02",
     "estado": "aprobada",
-    "urls_extra": []
+    "urls_extra": [],
+    "orden": 6
   },
   {
     "id": "609a2e22-4fb3-40ae-9a92-3af878cc853f",
@@ -8666,7 +8668,8 @@
     "categoria": "absurdo",
     "region": "mundo",
     "semana": "2026-12-02",
-    "estado": "aprobada"
+    "estado": "aprobada",
+    "orden": 7
   },
   {
     "id": "c6c24845-c742-4be7-ad71-7b0b239ab449",
@@ -8733,7 +8736,8 @@
     "region": "mundo",
     "semana": "2026-12-02",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 1
   },
   {
     "id": "c59f887c-643a-44af-99b9-dbc947c125ed",
@@ -8748,7 +8752,8 @@
     "region": "mundo",
     "semana": "2026-12-02",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 2
   },
   {
     "id": "84ea632f-b93b-4950-b621-996238d747db",
@@ -8763,7 +8768,8 @@
     "region": "mundo",
     "semana": "2026-12-02",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 3
   },
   {
     "id": "c5c82329-083a-408a-8153-9226cb66af91",
@@ -8778,6 +8784,7 @@
     "region": "mundo",
     "semana": "2026-12-02",
     "estado": "aprobada",
-    "origen": "manual"
+    "origen": "manual",
+    "orden": 4
   }
 ]
