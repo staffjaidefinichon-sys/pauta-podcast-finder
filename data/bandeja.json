@@ -8717,5 +8717,20 @@
     "region": "chile",
     "semana": "2026-11-25",
     "estado": "en_pauta"
+  },
+  {
+    "id": "fe9ba8f2-0fcc-4c71-976d-ca7d5b28c087",
+    "fecha_encontrada": "2026-11-25",
+    "titular": "Reportan que carnicerías de Argentina comienzan a vender carne de paloma",
+    "resumen": "En medio del fuerte aumento en el precio de la carne vacuna en Argentina, algunas carnicerías comenzaron a vender carne de pichón (paloma) como alternativa más económica.  La medida surge mientras el consumo de carne de vacuno alcanza uno de sus niveles más bajos en décadas y aparecen nuevas opciones en la mesa de los argentinos.",
+    "fuente": "instagram.com",
+    "url": "https://www.instagram.com/p/DgIOhXnF67Y/?lqvp=MWFyeWZ2d2R6eHhpdw%3D%3D",
+    "urls_extra": [],
+    "por_que_humor": "",
+    "categoria": "otro",
+    "region": "mundo",
+    "semana": "2026-11-25",
+    "estado": "aprobada",
+    "origen": "manual"
   }
 ]
