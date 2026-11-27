@@ -8893,5 +8893,70 @@
     "region": "chile",
     "semana": "2026-12-02",
     "estado": "en_pauta"
+  },
+  {
+    "id": "a88a4ba3-c783-4304-8702-79e6913d759c",
+    "fecha_encontrada": "2026-11-27",
+    "titular": "Turista alemán vive momentos de terror en un puente colgante en Chile y el video recorre el mundo",
+    "resumen": "Un turista alemán quedó atrapado de pánico en un puente colgante en Chile y el video se viralizó internacionalmente, llegando a ser destacado por Telemundo como noticia del día del 26 de noviembre.",
+    "fuente": "Telemundo / 24horas",
+    "url": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/video/esto-es-noticia-en-el-mundo-este-jueves-26-de-noviembre-de-2026-tmvo13248614",
+    "por_que_humor": "Un turista que viene al fin del mundo a cruzar un puente y termina varado en el medio con cara de arrepentimiento es el resumen de lo que Chile le hace a los extranjeros: llegan buscando aventura y salen en las noticias internacionales por razones que nadie anticipó.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-12-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "4d3f3eae-b9e3-461e-b8d0-8aaf6d1705c7",
+    "fecha_encontrada": "2026-11-27",
+    "titular": "Netflix presenta querella criminal en Chile porque alguien vendía cosméticos piratas de 'Las Guerreras K-Pop' en San Antonio",
+    "resumen": "Netflix denunció penalmente a una empresa importadora que vendía 96 sets de maquillaje para niñas con los personajes de su película 'Las Guerreras K-Pop' sin autorización; Aduanas ya había suspendido el despacho.",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/27/netflix-presenta-querella-por-presunta-pirateria-de-productos-de-las-guerreras-k-pop-en-chile.shtml",
+    "por_que_humor": "Netflix, que lleva años haciendo que la gente comparta contraseñas, ahora sale a querellarse criminalmente porque en San Antonio le copiaron los cosméticos animados. Da para imaginar el momento en que el emprendedor importador decidió que 96 sets de maquillaje pirata era un negocio sólido.",
+    "categoria": "absurdo",
+    "region": "chile",
+    "semana": "2026-12-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "730bfd75-3a12-42e7-b3e2-8a7f39f5a83d",
+    "fecha_encontrada": "2026-11-27",
+    "titular": "Istambul movilizó policías, helicópteros y equipos de captura durante 24 horas para atrapar un león… que nunca existió",
+    "resumen": "Un video granulado de una cámara de seguridad en un barrio de Estambul desató una alerta oficial de 'león suelto' con operativos policiales masivos durante toda una noche; al final determinaron que el animal nunca estuvo ahí.",
+    "fuente": "3News (AP)",
+    "url": "https://3news.com/news/odd-but-true/odd-but-true-friday-27-november-2026",
+    "por_que_humor": "Una ciudad entera de millones de personas en modo pánico toda la noche por un animal que resultó ser… nada. Es la secuela turca del zoo de Ohio que tuvo que desmentir leones por IA, solo que esta vez fue una cámara de seguridad mala y la policía real. Da para preguntar qué vio exactamente la gente en ese video.",
+    "categoria": "absurdo",
+    "region": "mundo",
+    "semana": "2026-12-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "ee817235-bfd2-401e-98e2-5d4094c0d705",
+    "fecha_encontrada": "2026-11-27",
+    "titular": "Influencer chileno fue asaltado después de subir a un Uber falso cuyo chofer pasó sus datos a otro delincuente en tiempo real",
+    "resumen": "Un influencer chileno fue víctima de un robo millonario al subirse a un auto que se hacía pasar por Uber: el conductor aceptó el viaje, compartió su ubicación y datos con otro delincuente que lo esperaba, en una operación coordinada.",
+    "fuente": "Meganoticias",
+    "url": "https://www.meganoticias.cl/hemeroteca/2026/11/26/?page=2",
+    "por_que_humor": "El crimen organizado ya tiene mejor logística que algunos servicios de delivery chilenos: en tiempo real, con coordinación y sin fallas de GPS. Da para preguntar si esto es el futuro del delito o simplemente el presente que nadie quería.",
+    "categoria": "observacional",
+    "region": "chile",
+    "semana": "2026-12-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6afc9ffb-8b0b-4c37-be09-e2e38c201a20",
+    "fecha_encontrada": "2026-11-27",
+    "titular": "Estudio 2026: los dinosaurios carnívoros no mordían como dagas sino que serruchaban la carne hacia atrás como tiburones",
+    "resumen": "Nuevas investigaciones publicadas en Palaeontology demuestran que los dinosaurios depredadores arrastraban sus dientes hacia atrás a través de la carne como una sierra, en vez de clavar los colmillos directamente como se creía.",
+    "fuente": "Daily Kos / Palaeontology journal",
+    "url": "https://dailykos.com/stories/2026/11/25/800134153/community/overnight-news-digest-november-25-2026",
+    "por_que_humor": "La ciencia acaba de rediseñar completamente la forma en que el T-Rex comía: resulta que serruchaba como si fuera a cortar un trozo de vacío en un asado. Jurassic Park estuvo mintiendo todo este tiempo y nadie pidió disculpas.",
+    "categoria": "curioso",
+    "region": "mundo",
+    "semana": "2026-12-02",
+    "estado": "en_pauta"
   }
 ]

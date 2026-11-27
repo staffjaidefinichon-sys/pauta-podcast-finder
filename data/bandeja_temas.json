@@ -6037,5 +6037,38 @@
     "basado_en": "Noticia viral internacional del lanzamiento de GTA 6 y los comunicados de policías estadounidenses recordando que robar autos es ilegal en la vida real.",
     "semana": "2026-12-02",
     "estado": "en_pauta"
+  },
+  {
+    "id": "c8f67bb8-c586-41d1-be44-5d590cb69487",
+    "fecha_encontrada": "2026-11-27",
+    "titulo": "El volcán, el calor extremo, la erupción y el turista aterrado en el puente: ¿Chile tiene primavera o tiene guion de película de desastres escrita por alguien que odia a la gente?",
+    "gancho": "En la misma semana Chile tuvo alerta de calor histórico, un volcán en erupción y un turista alemán varado en un puente colgante viral. ¿En qué momento el país dejó de tener estaciones y empezó a tener episodios?",
+    "por_que_conversar": "El patrón ya es inconfundible: Chile estrena cada semana de primavera con una nueva categoría de caos climático o geológico. Da para imaginar qué alerta falta en el bingo de noviembre, para preguntar si los turistas extranjeros reciben un briefing de emergencia al aterrizar, y para debatir si el SHOA debería tener una línea de WhatsApp de respuesta rápida.",
+    "categoria": "observacional",
+    "basado_en": "Erupción del Nevados de Chillán el 27 de noviembre, alertas de calor extremo en el sur y el video viral del turista alemán aterrado en puente colgante chileno, todo en la misma semana.",
+    "semana": "2026-12-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "f6bf8a4f-9732-46dc-a5da-d1631fa556d3",
+    "fecha_encontrada": "2026-11-27",
+    "titulo": "Istambul movilizó a toda su policía por un león que no existía: ¿cuál es la amenaza más absurda que podría paralizar a una ciudad chilena entera?",
+    "gancho": "Una imagen granulada de cámara de seguridad fue suficiente para que Estambul, ciudad de 15 millones, entrara en modo operación especial toda la noche buscando un león inexistente. ¿Qué necesitaría Chile para declarar alerta máxima por algo que tampoco existe?",
+    "por_que_conversar": "Es el tercer caso en pocos meses donde una imagen falsa o ambigua desata operativos masivos: Ohio con leones de IA, Nueva Jersey con el emu, ahora Estambul con el fantasma de la cámara de seguridad. Da para imaginar qué animal o amenaza en Chile podría generar el mismo nivel de pánico colectivo, y para debatir si el chileno reaccionaría antes o después de que el SHOA emita el boletín.",
+    "categoria": "absurdo",
+    "basado_en": "Operativo de 24 horas en Estambul buscando un león que nunca existió, desatado por video granulado de cámara de seguridad (semana del 24-27 noviembre 2026, AP/3News).",
+    "semana": "2026-12-02",
+    "estado": "en_pauta"
+  },
+  {
+    "id": "6bfdec08-294e-41b2-986c-909644b080f0",
+    "fecha_encontrada": "2026-11-27",
+    "titulo": "Subir un volcán para jugar ajedrez, serrear con los dientes como T-Rex y el basural que erupcionó: ¿el ser humano de noviembre 2026 está compitiendo para ver quién hace la cosa más inútil de la historia?",
+    "gancho": "Esta semana alguien escaló 6.000 metros para jugar ajedrez, la ciencia redescubrió cómo comía el T-Rex y un basural en California explotó como géiser. ¿Hay algún límite para lo que los humanos están dispuestos a hacer o a descubrir?",
+    "por_que_conversar": "Es el bloque temático más WTF de la semana: tres historias que por separado son absurdas y juntas forman el resumen perfecto del estado de la humanidad en 2026. Da para el clásico segmento de 'si tuvieras que elegir solo una de estas noticias para explicarle al futuro qué éramos, ¿cuál elegirías?', y para preguntar si el chileno subiría el volcán solo por el ajedrez o le agregaría una parrilla.",
+    "categoria": "absurdo",
+    "basado_en": "Tres noticias de la semana del 25-27 noviembre 2026: escalada al Chimborazo para jugar ajedrez, estudio sobre la mordida del T-Rex y erupción del basural de Castaic, California.",
+    "semana": "2026-12-02",
+    "estado": "en_pauta"
   }
 ]
